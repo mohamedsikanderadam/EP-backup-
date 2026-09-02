@@ -1,0 +1,66 @@
+{
+  "project": "Emirates Paints - Visual Recovery Reference",
+  "client": "Emirates Paints",
+  "base_url": "https://emiratespaints.com/",
+  "allowed_hosts": ["emiratespaints.com", "www.emiratespaints.com"],
+  "output_dir": "visual-recovery-reference",
+  "seeds": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/sitemap.xml",
+    "https://emiratespaints.com/robots.txt"
+  ],
+  "client_url_list": [],
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+  "viewports": {
+    "desktop": {"width": 1440, "height": 900, "device_scale_factor": 1},
+    "tablet":  {"width": 768,  "height": 1024, "device_scale_factor": 1},
+    "mobile":  {"width": 390,  "height": 844, "device_scale_factor": 1}
+  },
+  "crawl": {
+    "concurrency": 1,
+    "delay_seconds": 2.5,
+    "max_requests": 2500,
+    "max_retries": 2,
+    "retry_backoff_seconds": 15,
+    "stop_on_429": true,
+    "stop_after_consecutive_5xx": 3,
+    "page_timeout_ms": 60000,
+    "settle_wait_ms": 2500,
+    "scroll_step_px": 600,
+    "scroll_pause_ms": 250,
+    "max_pages_per_run": null
+  },
+  "exclude_path_patterns": [
+    "^/wp-admin", "^/wp-login\\.php", "^/xmlrpc\\.php", "^/wp-json", "^/wp-cron",
+    "^/my-account", "^/cart", "^/checkout", "^/lost-password", "^/register", "^/login",
+    "/feed/?$", "^/feed", "^/comments/feed", "\\?add-to-cart=", "\\?add_to_wishlist=",
+    "^/\\?s=", "^/search"
+  ],
+  "excluded_reason": "Out of scope per production-safety rules (authenticated, state-changing, non-HTML feed or administrative endpoint)",
+  "document_extensions": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".zip"],
+  "tracking_params": ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid", "mc_cid", "mc_eid", "_ga", "ref"],
+  "cookie_banner": {
+    "capture_initial_state": true,
+    "dismiss_selectors": [
+      "#cookie-law-info-bar #cookie_action_close_header",
+      ".cky-btn-accept",
+      "#cn-accept-cookie",
+      ".cmplz-accept",
+      "button#onetrust-accept-btn-handler"
+    ]
+  },
+  "interactive_states": [
+    {"name": "mobile_menu_open", "viewport": "mobile", "pages": "all",
+     "click_any": [".ts-mobile-icon-toggle", ".elementskit-menu-hamburger", ".hamburger", ".menu-toggle", ".elementor-menu-toggle", "button[aria-label*='menu' i]"]},
+    {"name": "tablet_menu_open", "viewport": "tablet", "pages": ["P0001"],
+     "click_any": [".ts-mobile-icon-toggle", ".menu-toggle", ".elementor-menu-toggle"]},
+    {"name": "desktop_nav_hover", "viewport": "desktop", "pages": ["P0001"],
+     "hover_any": ["nav.pc-menu li.menu-item-has-children > a", "nav.pc-menu li.ts-megamenu > a", "nav .menu-item-has-children > a"]},
+    {"name": "search_open", "viewport": "desktop", "pages": ["P0001", "P0002"],
+     "click_any": [".ts-header .search-button.search-icon", ".elementor-search-form__toggle", "a.search-toggle", "[aria-label*='search' i]"]},
+    {"name": "account_icon_hover", "viewport": "desktop", "pages": ["P0001"],
+     "hover_any": [".ts-header .my-account-wrapper > a", ".ts-header .my-account-wrapper", ".ts-header a[href*='my-account']"]}
+  ],
+  "capture_assets": true,
+  "asset_max_bytes": 25000000
+}

@@ -1,0 +1,2282 @@
+{
+  "https://emiratespaints.com/wp-content/plugins/themesky/css/owl.carousel.css?ver=1.0.3": {
+    "path": "assets/styles/a92219e033_owl.carousel.css",
+    "content_type": "text/css",
+    "bytes": 3632,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/useanyfont/uaf.css?ver=1787263677": {
+    "path": "assets/styles/7a6ace7925_uaf.css",
+    "content_type": "text/css",
+    "bytes": 353,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/unlimited-elementor-inner-sections-by-boomdevs/public/css/euis-public.css?ver=1.0.9": {
+    "path": "assets/styles/323724be02_euis-public.css",
+    "content_type": "text/css",
+    "bytes": 98,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/essential-grid/public/assets/font/fontello/css/fontello.css?ver=3.0.13": {
+    "path": "assets/styles/bdf74b2d20_fontello.css",
+    "content_type": "text/css",
+    "bytes": 12663,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.0.1": {
+    "path": "assets/styles/05772ea978_woocommerce-layout.css",
+    "content_type": "text/css",
+    "bytes": 19780,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/agile-store-locator/public/css/init.css?ver=4.7.31": {
+    "path": "assets/styles/7105acfd92_init.css",
+    "content_type": "text/css",
+    "bytes": 36,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/download-manager/assets/css/front-dark.min.css?ver=3.3.68": {
+    "path": "assets/styles/c90b2774fd_front-dark.min.css",
+    "content_type": "text/css",
+    "bytes": 13806,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/download-manager/assets/modal/wpdm-modal.min.css?ver=3.3.68": {
+    "path": "assets/styles/955753fecb_wpdm-modal.min.css",
+    "content_type": "text/css",
+    "bytes": 16894,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/download-manager/assets/wpdm-iconfont/css/wpdm-icons.css?ver=7.0.4": {
+    "path": "assets/styles/0a3b794f04_wpdm-icons.css",
+    "content_type": "text/css",
+    "bytes": 3092,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.7": {
+    "path": "assets/styles/048b16dbc3_styles.css",
+    "content_type": "text/css",
+    "bytes": 2979,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woo-variation-swatches/assets/css/frontend.min.css?ver=2.4.0": {
+    "path": "assets/styles/348a67e446_frontend.min.css",
+    "content_type": "text/css",
+    "bytes": 35770,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.0.1": {
+    "path": "assets/styles/5e5295a4d3_woocommerce.css",
+    "content_type": "text/css",
+    "bytes": 87430,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/fontawesome.min.css?ver=1.0.7": {
+    "path": "assets/styles/086bc4c22f_fontawesome.min.css",
+    "content_type": "text/css",
+    "bytes": 59452,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/themesky/css/themesky.css?ver=1.0.3": {
+    "path": "assets/styles/8b9f0df9c4_themesky.css",
+    "content_type": "text/css",
+    "bytes": 34502,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/reset.css?ver=1.0.7": {
+    "path": "assets/styles/9b97cf2403_reset.css",
+    "content_type": "text/css",
+    "bytes": 48829,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=3.0.13": {
+    "path": "assets/styles/5c6a03498c_settings.css",
+    "content_type": "text/css",
+    "bytes": 51830,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/download-manager/assets/css/front.min.css?ver=3.3.68": {
+    "path": "assets/styles/b329a103ca_front.min.css",
+    "content_type": "text/css",
+    "bytes": 61665,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=4.2.4": {
+    "path": "assets/styles/ea746f1923_widget-image-box.min.css",
+    "content_type": "text/css",
+    "bytes": 1657,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.2.4": {
+    "path": "assets/styles/8a3da95827_widget-image.min.css",
+    "content_type": "text/css",
+    "bytes": 214,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeIn.min.css?ver=4.2.4": {
+    "path": "assets/styles/510976f42a_fadeIn.min.css",
+    "content_type": "text/css",
+    "bytes": 77,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=4.2.4": {
+    "path": "assets/styles/3711ef8155_e-animation-float.min.css",
+    "content_type": "text/css",
+    "bytes": 244,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.2.4": {
+    "path": "assets/styles/b514a58b1c_fadeInUp.min.css",
+    "content_type": "text/css",
+    "bytes": 130,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.2.4": {
+    "path": "assets/styles/d07fe9da54_widget-spacer.min.css",
+    "content_type": "text/css",
+    "bytes": 1793,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/nav-menu.css?ver=4.0.2": {
+    "path": "assets/styles/cdc91c22ad_nav-menu.css",
+    "content_type": "text/css",
+    "bytes": 21843,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/button.css?ver=4.0.2": {
+    "path": "assets/styles/2727774309_button.css",
+    "content_type": "text/css",
+    "bytes": 1212,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/image-box.css?ver=4.0.2": {
+    "path": "assets/styles/0f4d90751e_image-box.css",
+    "content_type": "text/css",
+    "bytes": 11426,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.2.4": {
+    "path": "assets/styles/167e994b50_widget-icon-list.min.css",
+    "content_type": "text/css",
+    "bytes": 10255,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/header-search.css?ver=4.0.2": {
+    "path": "assets/styles/30147e731b_header-search.css",
+    "content_type": "text/css",
+    "bytes": 3592,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/parallax/assets/css/style.css?ver=3.2.1": {
+    "path": "assets/styles/b7b6555b26_style.css",
+    "content_type": "text/css",
+    "bytes": 3001,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.34.0": {
+    "path": "assets/styles/865b2cc0de_motion-fx.min.css",
+    "content_type": "text/css",
+    "bytes": 778,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-11.0.1": {
+    "path": "assets/styles/ebe316f7d8_wc-blocks.css",
+    "content_type": "text/css",
+    "bytes": 14015,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/common.css?ver=4.0.2": {
+    "path": "assets/styles/25a55e1294_common.css",
+    "content_type": "text/css",
+    "bytes": 157208,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/css/post-7478.css?ver=1788323139": {
+    "path": "assets/styles/597c58f761_post-7478.css",
+    "content_type": "text/css",
+    "bytes": 59557,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInDown.min.css?ver=4.2.4": {
+    "path": "assets/styles/7d9f27c93f_fadeInDown.min.css",
+    "content_type": "text/css",
+    "bytes": 137,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.2.4": {
+    "path": "assets/styles/2bc6e5a49a_frontend.min.css",
+    "content_type": "text/css",
+    "bytes": 54666,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/animations/styles/rotateInUpLeft.min.css?ver=4.2.4": {
+    "path": "assets/styles/32808b2ebb_rotateInUpLeft.min.css",
+    "content_type": "text/css",
+    "bytes": 206,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/css/dflip.min.css?ver=2.4.37": {
+    "path": "assets/styles/1f6f78f7d2_dflip.min.css",
+    "content_type": "text/css",
+    "bytes": 53285,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.2.4": {
+    "path": "assets/styles/af31fb4b3a_widget-heading.min.css",
+    "content_type": "text/css",
+    "bytes": 560,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/css/post-960.css?ver=1788323136": {
+    "path": "assets/styles/91e87cfaf6_post-960.css",
+    "content_type": "text/css",
+    "bytes": 1295,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/assets/css/style.css?ver=1.0.0": {
+    "path": "assets/styles/3ff983b46f_style.css",
+    "content_type": "text/css",
+    "bytes": 4728,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-pulse.min.css?ver=4.2.4": {
+    "path": "assets/styles/5c9d70113e_e-animation-pulse.min.css",
+    "content_type": "text/css",
+    "bytes": 318,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.53.0": {
+    "path": "assets/styles/d5c0a58dff_elementor-icons.min.css",
+    "content_type": "text/css",
+    "bytes": 22258,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/style.css?ver=7.0.4": {
+    "path": "assets/styles/533924f948_style.css",
+    "content_type": "text/css",
+    "bytes": 37974,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/wp-util.min.js?ver=7.0.4": {
+    "path": "assets/scripts/e700e3ceb9_wp-util.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 1431,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:38Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/style.css?ver=1.0.7": {
+    "path": "assets/styles/09349a4769_style.css",
+    "content_type": "text/css",
+    "bytes": 360819,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=4.0.2": {
+    "path": "assets/styles/b5c7cfd4db_ekiticons.css",
+    "content_type": "text/css",
+    "bytes": 83510,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/underscore.min.js?ver=1.13.8": {
+    "path": "assets/scripts/b49d514976_underscore.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 19012,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js?ver=2.13.0": {
+    "path": "assets/scripts/c5f31e7a6e_um-gdpr.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 388,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/EMIRATES-PAINTS-WHITE-LOGO-AR-3-1.png.webp": {
+    "path": "assets/images/4b45cb7d40_EMIRATES-PAINTS-WHITE-LOGO-AR-3-1.png.webp",
+    "content_type": "image/webp",
+    "bytes": 13414,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/revslider/sr6/assets/assets/dummy.png": {
+    "path": "assets/images/c829f7c379_dummy.png",
+    "content_type": "image/png",
+    "bytes": 68,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/download-manager/assets/modal/wpdm-modal.min.js?ver=3.3.68": {
+    "path": "assets/scripts/0b14ecac91_wpdm-modal.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 13517,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.11.0.1": {
+    "path": "assets/scripts/5a6f9a72ef_jquery.blockUI.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 9636,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/custom-css-js/1222.css?v=8624": {
+    "path": "assets/styles/b304c230ca_1222.css",
+    "content_type": "text/css",
+    "bytes": 14575,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1744705851": {
+    "path": "assets/styles/6e77043253_robotoslab.css",
+    "content_type": "text/css",
+    "bytes": 23688,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/google-fonts/css/raleway.css?ver=1744705870": {
+    "path": "assets/styles/24a4c7b8ae_raleway.css",
+    "content_type": "text/css",
+    "bytes": 35082,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1744705845": {
+    "path": "assets/styles/8f3cfbf9f3_roboto.css",
+    "content_type": "text/css",
+    "bytes": 104166,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/particles/assets/css/particles.css?ver=3.2.1": {
+    "path": "assets/styles/3937786d07_particles.css",
+    "content_type": "text/css",
+    "bytes": 148,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-old-default.min.css?ver=2.13.0": {
+    "path": "assets/styles/cfba06f75c_um-old-default.min.css",
+    "content_type": "text/css",
+    "bytes": 5756,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/unlimited-elementor-inner-sections-by-boomdevs/public/js/euis-public.js?ver=1.0.9": {
+    "path": "assets/scripts/6002b131b0_euis-public.js",
+    "content_type": "application/x-javascript",
+    "bytes": 838,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/download-manager/assets/js/wpdm.min.js?ver=7.0.4": {
+    "path": "assets/scripts/6fecb71912_wpdm.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 3670,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/themify-icons.css?ver=1.0.7": {
+    "path": "assets/styles/9b57c90200_themify-icons.css",
+    "content_type": "text/css",
+    "bytes": 16428,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-account.min.css?ver=2.13.0": {
+    "path": "assets/styles/8ca66cb0d1_um-account.min.css",
+    "content_type": "text/css",
+    "bytes": 3735,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-misc.min.css?ver=2.13.0": {
+    "path": "assets/styles/9d3c441616_um-misc.min.css",
+    "content_type": "text/css",
+    "bytes": 1656,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/cropper/cropper.min.css?ver=1.6.1": {
+    "path": "assets/styles/d02cb1f1a8_cropper.min.css",
+    "content_type": "text/css",
+    "bytes": 3768,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-styles.min.css?ver=2.13.0": {
+    "path": "assets/styles/5a1008ef6d_um-styles.min.css",
+    "content_type": "text/css",
+    "bytes": 22292,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-responsive.min.css?ver=2.13.0": {
+    "path": "assets/styles/e63ea32549_um-responsive.min.css",
+    "content_type": "text/css",
+    "bytes": 10083,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/common.min.css?ver=2.13.0": {
+    "path": "assets/styles/41e76eb766_common.min.css",
+    "content_type": "text/css",
+    "bytes": 643,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-profile.min.css?ver=2.13.0": {
+    "path": "assets/styles/d648e7b92d_um-profile.min.css",
+    "content_type": "text/css",
+    "bytes": 7715,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/default.time.min.css?ver=3.6.2": {
+    "path": "assets/styles/58c625e2b4_default.time.min.css",
+    "content_type": "text/css",
+    "bytes": 1452,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/default.date.min.css?ver=3.6.2": {
+    "path": "assets/styles/ce157a2236_default.date.min.css",
+    "content_type": "text/css",
+    "bytes": 3770,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/default.min.css?ver=3.6.2": {
+    "path": "assets/styles/8cbd182b98_default.min.css",
+    "content_type": "text/css",
+    "bytes": 2000,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/um-notice/um-notice.min.css?ver=1.0": {
+    "path": "assets/styles/e1dc801484_um-notice.min.css",
+    "content_type": "text/css",
+    "bytes": 761,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/um-confirm/um-confirm.min.css?ver=1.0": {
+    "path": "assets/styles/ac877ba12b_um-confirm.min.css",
+    "content_type": "text/css",
+    "bytes": 873,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-fileupload.min.css?ver=2.13.0": {
+    "path": "assets/styles/8885937eca_um-fileupload.min.css",
+    "content_type": "text/css",
+    "bytes": 2963,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/select2/select2.min.css?ver=4.0.13": {
+    "path": "assets/styles/f1e052a796_select2.min.css",
+    "content_type": "text/css",
+    "bytes": 14966,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.min.css?ver=2.6.0": {
+    "path": "assets/styles/7e79edb3c7_um-raty.min.css",
+    "content_type": "text/css",
+    "bytes": 876,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.min.css?ver=1.0.0a": {
+    "path": "assets/styles/613c6d480b_tipsy.min.css",
+    "content_type": "text/css",
+    "bytes": 1696,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-modal.min.css?ver=2.13.0": {
+    "path": "assets/styles/680c781409_um-modal.min.css",
+    "content_type": "text/css",
+    "bytes": 2971,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/jquery-ui.min.css?ver=1.13.2": {
+    "path": "assets/styles/9457eb6fb4_jquery-ui.min.css",
+    "content_type": "text/css",
+    "bytes": 32695,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/header-offcanvas.css?ver=4.0.2": {
+    "path": "assets/styles/05e19b73f9_header-offcanvas.css",
+    "content_type": "text/css",
+    "bytes": 3012,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/header-info.css?ver=4.0.2": {
+    "path": "assets/styles/87c09a7b15_header-info.css",
+    "content_type": "text/css",
+    "bytes": 422,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/parallax/assets/js/jarallax.js?ver=3.2.1": {
+    "path": "assets/scripts/140a8764d4_jarallax.js",
+    "content_type": "application/x-javascript",
+    "bytes": 14759,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/download-manager/assets/js/front.min.js?ver=3.3.68": {
+    "path": "assets/scripts/da6305e03f_front.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 28108,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/yobazarchild.css?ver=1695716214": {
+    "path": "assets/styles/939ff1590b_yobazarchild.css",
+    "content_type": "text/css",
+    "bytes": 75623,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1": {
+    "path": "assets/scripts/2d26c20779_jquery-migrate.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 13577,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/responsive.css?ver=1.0.7": {
+    "path": "assets/styles/4255f81d6c_responsive.css",
+    "content_type": "text/css",
+    "bytes": 47097,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/fonticons-fa.min.css?ver=2.13.0": {
+    "path": "assets/styles/d888a49b5b_fonticons-fa.min.css",
+    "content_type": "text/css",
+    "bytes": 24175,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/fonticons-ii.min.css?ver=2.13.0": {
+    "path": "assets/styles/5956a477b8_fonticons-ii.min.css",
+    "content_type": "text/css",
+    "bytes": 34543,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/css/um-fontawesome.min.css?ver=6.5.2": {
+    "path": "assets/styles/b8151d2827_um-fontawesome.min.css",
+    "content_type": "text/css",
+    "bytes": 278002,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1": {
+    "path": "assets/scripts/5566d9acd9_jquery.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 87553,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/css/post-449.css?ver=1788323136": {
+    "path": "assets/styles/c87f57fd28_post-449.css",
+    "content_type": "text/css",
+    "bytes": 26609,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/revslider-paintbrush-addon/sr6/assets/css/revolution.addon.paintbrush.css?ver=6.7.2": {
+    "path": "assets/styles/326482d006_revolution.addon.paintbrush.css",
+    "content_type": "text/css",
+    "bytes": 647,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.2.4": {
+    "path": "assets/styles/d9cb8b6d6f_widget-social-icons.min.css",
+    "content_type": "text/css",
+    "bytes": 5110,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.2.4": {
+    "path": "assets/styles/6f1a53787a_apple-webkit.min.css",
+    "content_type": "text/css",
+    "bytes": 6713,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.34.0": {
+    "path": "assets/styles/800ad39236_widget-nav-menu.min.css",
+    "content_type": "text/css",
+    "bytes": 27364,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=4.2.4": {
+    "path": "assets/styles/dce5acfa56_widget-divider.min.css",
+    "content_type": "text/css",
+    "bytes": 4258,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/pro-form-reset-button/assets/css/elementskit-reset-button.css?ver=3.2.1": {
+    "path": "assets/styles/9f9316f296_elementskit-reset-button.css",
+    "content_type": "text/css",
+    "bytes": 69,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/google-fonts/fonts/raleway-1ptug8zys_skggpnyc0itw.woff2": {
+    "path": "assets/fonts/5f20d044ab_raleway-1ptug8zys_skggpnyc0itw.woff2",
+    "content_type": "font/woff2",
+    "bytes": 48336,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:39Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/fonts/Themify/themify.woff": {
+    "path": "assets/fonts/6a821818fd_themify.woff",
+    "content_type": "application/font-woff",
+    "bytes": 56108,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/fonts/Fontawesome/fa-brands-400.woff2": {
+    "path": "assets/fonts/bd283504c1_fa-brands-400.woff2",
+    "content_type": "font/woff2",
+    "bytes": 76764,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/useanyfont/6514Metropolis.woff2": {
+    "path": "assets/fonts/a8065b2d4f_6514Metropolis.woff2",
+    "content_type": "font/woff2",
+    "bytes": 11296,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3": {
+    "path": "assets/styles/7413c26ce8_fontawesome.min.css",
+    "content_type": "text/css",
+    "bytes": 58071,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?itek3h=": {
+    "path": "assets/fonts/03c93720ff_elementskit.woff",
+    "content_type": "application/font-woff",
+    "bytes": 464672,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3": {
+    "path": "assets/styles/5957b000b0_brands.min.css",
+    "content_type": "text/css",
+    "bytes": 675,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d": {
+    "path": "assets/scripts/0152a9c516_hooks.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 5050,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.7": {
+    "path": "assets/scripts/5194100e79_index.js",
+    "content_type": "application/x-javascript",
+    "bytes": 12512,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec": {
+    "path": "assets/scripts/352e417ef2_i18n.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 5732,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.17": {
+    "path": "assets/styles/b2ea0c5920_rs6.css",
+    "content_type": "text/css",
+    "bytes": 58327,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.7": {
+    "path": "assets/scripts/7d43e760da_index.js",
+    "content_type": "application/x-javascript",
+    "bytes": 13452,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0": {
+    "path": "assets/scripts/8402ff6c8f_jquery.form.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 15977,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:40Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2": {
+    "path": "assets/fonts/17657e85a9_fa-brands-400.woff2",
+    "content_type": "font/woff2",
+    "bytes": 81612,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/themesky/js/themesky.js?ver=1.0.3": {
+    "path": "assets/scripts/599fc4f5d7_themesky.js",
+    "content_type": "application/x-javascript",
+    "bytes": 21190,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/api-request.min.js?ver=7.0.4": {
+    "path": "assets/scripts/74fb11c641_api-request.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 1023,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/dist/url.min.js?ver=bb0f766c3d2efe497871": {
+    "path": "assets/scripts/fdd2f6e303_url.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 10370,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/dist/api-fetch.min.js?ver=d7efe4dc1468d36c39b8": {
+    "path": "assets/scripts/84b82859da_api-fetch.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 6472,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/themesky/js/owl.carousel.min.js?ver=1.0.3": {
+    "path": "assets/scripts/a4cc0b7f23_owl.carousel.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 43517,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0": {
+    "path": "assets/scripts/fcc0bb9b82_wp-polyfill.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 33744,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woo-variation-swatches/assets/js/frontend.min.js?ver=2.4.0": {
+    "path": "assets/scripts/5f279d250b_frontend.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 17358,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/assets/js/script.js?ver=1.0.0": {
+    "path": "assets/scripts/813c19c534_script.js",
+    "content_type": "application/x-javascript",
+    "bytes": 17756,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.2.4": {
+    "path": "assets/scripts/e27a2cc93d_webpack.runtime.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 5819,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/3d-flipbook-dflip-lite/assets/js/dflip.min.js?ver=2.4.37": {
+    "path": "assets/scripts/dba66c3b45_dflip.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 246402,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.2.4": {
+    "path": "assets/scripts/05f34cc0af_frontend-modules.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 50602,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3": {
+    "path": "assets/scripts/74fcf15da4_core.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 21464,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.2.4": {
+    "path": "assets/scripts/867eae5219_frontend.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 32098,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=11.0.1": {
+    "path": "assets/scripts/a1534aef3e_sourcebuster.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 15315,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/parallax/assets/js/anime.js?ver=3.2.1": {
+    "path": "assets/scripts/e3c2adfc16_anime.js",
+    "content_type": "application/x-javascript",
+    "bytes": 17635,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/core.js?ver=4.0.2": {
+    "path": "assets/scripts/26b798dc5f_core.js",
+    "content_type": "application/x-javascript",
+    "bytes": 3052,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=11.0.1": {
+    "path": "assets/scripts/6e70d54e65_order-attribution.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 2439,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/nav-menu.js?ver=4.0.2": {
+    "path": "assets/scripts/9feb87c58a_nav-menu.js",
+    "content_type": "application/x-javascript",
+    "bytes": 3154,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/assets/libs/magnific-popup/jquery.magnific-popup.min.js?ver=4.0.2": {
+    "path": "assets/scripts/6820b2cc32_jquery.magnific-popup.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 20849,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/nav-menu.js?ver=4.0.2": {
+    "path": "assets/scripts/fc1be34665_nav-menu.js",
+    "content_type": "application/x-javascript",
+    "bytes": 1778,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/header-search.js?ver=4.0.2": {
+    "path": "assets/scripts/3e39446710_header-search.js",
+    "content_type": "application/x-javascript",
+    "bytes": 589,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widgets/header-offcanvas.js?ver=4.0.2": {
+    "path": "assets/scripts/4a5be4f9e8_header-offcanvas.js",
+    "content_type": "application/x-javascript",
+    "bytes": 485,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.min.js?ver=1.0.0a": {
+    "path": "assets/scripts/483d518928_tipsy.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 4366,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/um-confirm/um-confirm.min.js?ver=1.0": {
+    "path": "assets/scripts/1787f1085d_um-confirm.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 2670,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/um-notice/um-notice.min.js?ver=1.0": {
+    "path": "assets/scripts/97e08dde9a_um-notice.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 1062,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/picker.min.js?ver=3.6.2": {
+    "path": "assets/scripts/5c26340fa7_picker.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 8308,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:41Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/picker.time.min.js?ver=3.6.2": {
+    "path": "assets/scripts/2c1c98fb59_picker.time.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 8895,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/common.min.js?ver=2.13.0": {
+    "path": "assets/scripts/8b686b6b2f_common.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 2759,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/pickadate/picker.date.min.js?ver=3.6.2": {
+    "path": "assets/scripts/7ab607996d_picker.date.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 12578,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/cropper/cropper.min.js?ver=1.6.1": {
+    "path": "assets/scripts/60e65748c3_cropper.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 37380,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/common-frontend.min.js?ver=2.13.0": {
+    "path": "assets/scripts/18adb619a5_common-frontend.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 2060,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-modal.min.js?ver=2.13.0": {
+    "path": "assets/scripts/469fc96faa_um-modal.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 4891,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/jquery-form/jquery-form.min.js?ver=2.13.0": {
+    "path": "assets/scripts/997f4d5b78_jquery-form.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 14452,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/fileupload/jquery.uploadfile.min.js?ver=3.1.2": {
+    "path": "assets/scripts/da94b78c39_jquery.uploadfile.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 9488,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-functions.min.js?ver=2.13.0": {
+    "path": "assets/scripts/4d640c067b_um-functions.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 12597,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js?ver=2.13.0": {
+    "path": "assets/scripts/a36ed0acd2_um-responsive.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 384,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js?ver=2.13.0": {
+    "path": "assets/scripts/5b23d027f7_um-conditional.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 9731,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/select2/i18n/en.js?ver=4.0.13": {
+    "path": "assets/scripts/55de22c415_en.js",
+    "content_type": "application/x-javascript",
+    "bytes": 844,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/select2/select2.full.min.js?ver=4.0.13": {
+    "path": "assets/scripts/950b19d8a6_select2.full.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 79212,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.min.js?ver=2.6.0": {
+    "path": "assets/scripts/b9f5013316_um-raty.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 9103,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js?ver=2.13.0": {
+    "path": "assets/scripts/65c8bb56c5_um-scripts.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 12373,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-profile.min.js?ver=2.13.0": {
+    "path": "assets/scripts/fa7b142aa5_um-profile.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 3519,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/js/um-account.min.js?ver=2.13.0": {
+    "path": "assets/scripts/27b351e698_um-account.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 2894,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/js/main.js?ver=1.0.7": {
+    "path": "assets/scripts/ff968c7f3b_main.js",
+    "content_type": "application/x-javascript",
+    "bytes": 45767,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/js/jquery.sticky.js?ver=1.0.7": {
+    "path": "assets/scripts/357246e72b_jquery.sticky.js",
+    "content_type": "application/x-javascript",
+    "bytes": 4284,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/particles/assets/js/particles.min.js?ver=3.2.1": {
+    "path": "assets/scripts/293b07a8e1_particles.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 22696,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/particles/assets/js/ekit-particles.js?ver=3.2.1": {
+    "path": "assets/scripts/c21c597ed5_ekit-particles.js",
+    "content_type": "application/x-javascript",
+    "bytes": 973,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1": {
+    "path": "assets/scripts/dce6e3aa5f_jquery.smartmenus.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 24109,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.34.0": {
+    "path": "assets/scripts/0284e4d615_webpack-pro.runtime.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 6248,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elfsight-whatsapp-chat-cc/assets/elfsight-whatsapp-chat.js?ver=1.2.0": {
+    "path": "assets/scripts/e5dd471202_elfsight-whatsapp-chat.js",
+    "content_type": "application/x-javascript",
+    "bytes": 516803,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.34.0": {
+    "path": "assets/scripts/0222251c75_frontend.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 24047,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.34.0": {
+    "path": "assets/scripts/f8388103be_elements-handlers.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 44258,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/pro-form-reset-button/assets/js/elementskit-reset-button.js?ver=3.2.1": {
+    "path": "assets/scripts/75b07df237_elementskit-reset-button.js",
+    "content_type": "application/x-javascript",
+    "bytes": 334,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/custom-css-js/2025.js?v=2187": {
+    "path": "assets/scripts/f25945fd18_2025.js",
+    "content_type": "application/x-javascript",
+    "bytes": 4544,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/custom-css-js/1061.css?v=1996": {
+    "path": "assets/styles/ae16048d59_1061.css",
+    "content_type": "text/css",
+    "bytes": 29133,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=11.0.1": {
+    "path": "assets/scripts/9aa5801aa0_add-to-cart.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 4350,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.11.0.1": {
+    "path": "assets/scripts/5048e87a37_js.cookie.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 1720,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=11.0.1": {
+    "path": "assets/scripts/896f6da3c2_woocommerce.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 4270,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.11.0.1": {
+    "path": "assets/scripts/34abe56752_jquery.flexslider.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 21555,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=11.0.1": {
+    "path": "assets/scripts/83b37332d3_add-to-cart-variation.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 16627,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.11.0.1": {
+    "path": "assets/scripts/24b370d033_jquery.zoom.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 2673,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/banner-red-1.webp": {
+    "path": "assets/images/c6c590cd43_banner-red-1.webp",
+    "content_type": "image/webp",
+    "bytes": 31320,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:42Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/banner-grey-1.webp": {
+    "path": "assets/images/3db79ec6e0_banner-grey-1.webp",
+    "content_type": "image/webp",
+    "bytes": 30186,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/banner-rose-1.webp": {
+    "path": "assets/images/60fc2bfb39_banner-rose-1.webp",
+    "content_type": "image/webp",
+    "bytes": 30062,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/red-m-2.webp": {
+    "path": "assets/images/2cfb7c7ed5_red-m-2.webp",
+    "content_type": "image/webp",
+    "bytes": 8072,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/banner-blue.webp": {
+    "path": "assets/images/b284e453ae_banner-blue.webp",
+    "content_type": "image/webp",
+    "bytes": 29746,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/rose-m-2.webp": {
+    "path": "assets/images/edba025610_rose-m-2.webp",
+    "content_type": "image/webp",
+    "bytes": 8078,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/sticky-content/assets/js/elementskit-sticky-content.js?ver=3.2.1": {
+    "path": "assets/scripts/81fa0b8c0d_elementskit-sticky-content.js",
+    "content_type": "application/x-javascript",
+    "bytes": 7025,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/grey-m-2.webp": {
+    "path": "assets/images/012864acab_grey-m-2.webp",
+    "content_type": "image/webp",
+    "bytes": 7676,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2021/02/Footer-Heading-Line-1.png": {
+    "path": "assets/images/b2e26e0aca_Footer-Heading-Line-1.png",
+    "content_type": "image/png",
+    "bytes": 451,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/phone-icon-1024x1024.png.webp": {
+    "path": "assets/images/6ab2689768_phone-icon-1024x1024.png.webp",
+    "content_type": "image/webp",
+    "bytes": 18562,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/phone-icon.png.webp": {
+    "path": "assets/images/10071bedc3_phone-icon.png.webp",
+    "content_type": "image/webp",
+    "bytes": 588,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2021/02/white-logo.png": {
+    "path": "assets/images/400484f533_white-logo.png",
+    "content_type": "image/png",
+    "bytes": 11067,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/envelop-iocn.png.webp": {
+    "path": "assets/images/f1821622a5_envelop-iocn.png.webp",
+    "content_type": "image/webp",
+    "bytes": 618,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/blue-m-2.webp": {
+    "path": "assets/images/21f6f98df6_blue-m-2.webp",
+    "content_type": "image/webp",
+    "bytes": 7236,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/parallax/assets/js/parallax-frontend-scripts.js?ver=3.2.1": {
+    "path": "assets/scripts/32b1d54a6b_parallax-frontend-scripts.js",
+    "content_type": "application/x-javascript",
+    "bytes": 73966,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/revslider-mousetrap-addon/sr6/assets/js/revolution.addon.mousetrap.min.js?ver=6.7.6": {
+    "path": "assets/scripts/31a81bec9e_revolution.addon.mousetrap.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 13597,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementskit/modules/parallax/assets/js/parallax-admin-scripts.js?ver=3.2.1": {
+    "path": "assets/scripts/664f47f79f_parallax-admin-scripts.js",
+    "content_type": "application/x-javascript",
+    "bytes": 7605,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/revslider-paintbrush-addon/sr6/assets/js/revolution.addon.paintbrush.min.js?ver=6.7.2": {
+    "path": "assets/scripts/0e857084c6_revolution.addon.paintbrush.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 7870,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/02-1.png.webp": {
+    "path": "assets/images/692e5b061c_02-1.png.webp",
+    "content_type": "image/webp",
+    "bytes": 2654,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/next.png": {
+    "path": "assets/images/93f8456055_next.png",
+    "content_type": "image/png",
+    "bytes": 1237,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/location-icon.png.webp": {
+    "path": "assets/images/e93c171058_location-icon.png.webp",
+    "content_type": "image/webp",
+    "bytes": 632,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/02-1-1.png.webp": {
+    "path": "assets/images/07fcb2c7b5_02-1-1.png.webp",
+    "content_type": "image/webp",
+    "bytes": 2630,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/04-1.png.webp": {
+    "path": "assets/images/b4f21df8a1_04-1.png.webp",
+    "content_type": "image/webp",
+    "bytes": 2726,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/03-1.png.webp": {
+    "path": "assets/images/e047c79313_03-1.png.webp",
+    "content_type": "image/webp",
+    "bytes": 2550,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/intierior.webp": {
+    "path": "assets/images/6c5bf16a71_intierior.webp",
+    "content_type": "image/webp",
+    "bytes": 36932,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/Paint-Bucket-Red-1-1-1.png.webp": {
+    "path": "assets/images/dde9f93c07_Paint-Bucket-Red-1-1-1.png.webp",
+    "content_type": "image/webp",
+    "bytes": 3366,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/location-icon-1024x1024.png.webp": {
+    "path": "assets/images/1780d983c7_location-icon-1024x1024.png.webp",
+    "content_type": "image/webp",
+    "bytes": 20806,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/Find-a-store-1-1024x1024.webp": {
+    "path": "assets/images/95ff723dcc_Find-a-store-1-1024x1024.webp",
+    "content_type": "image/webp",
+    "bytes": 33518,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/wish-list-1-1024x1024.webp": {
+    "path": "assets/images/45ea0cab43_wish-list-1-1024x1024.webp",
+    "content_type": "image/webp",
+    "bytes": 22320,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.17": {
+    "path": "assets/scripts/d745bc48c3_rs6.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 415904,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.17": {
+    "path": "assets/scripts/5843361882_rbtools.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 165339,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/Book-a-painter-1-1-1536x1536.webp": {
+    "path": "assets/images/10999c6bde_Book-a-painter-1-1-1536x1536.webp",
+    "content_type": "image/webp",
+    "bytes": 41556,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/Find-a-color-1-1536x1536.webp": {
+    "path": "assets/images/da6a62a5df_Find-a-color-1-1536x1536.webp",
+    "content_type": "image/webp",
+    "bytes": 42616,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/envelop-iocn-1024x1024.png.webp": {
+    "path": "assets/images/2d40c0e0fc_envelop-iocn-1024x1024.png.webp",
+    "content_type": "image/webp",
+    "bytes": 20884,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/brush-booka-painter-1-e1696587676309.webp": {
+    "path": "assets/images/e5f68919c4_brush-booka-painter-1-e1696587676309.webp",
+    "content_type": "image/webp",
+    "bytes": 44810,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/bg-red-1.webp": {
+    "path": "assets/images/09677efc03_bg-red-1.webp",
+    "content_type": "image/webp",
+    "bytes": 62596,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/int-new-1.webp": {
+    "path": "assets/images/f57cabb112_int-new-1.webp",
+    "content_type": "image/webp",
+    "bytes": 59070,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/untitled-1-2-1-6502efa5059fb.webp": {
+    "path": "assets/images/f3cd1459a5_untitled-1-2-1-6502efa5059fb.webp",
+    "content_type": "image/webp",
+    "bytes": 43152,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/ext-new-1.webp": {
+    "path": "assets/images/23790620ed_ext-new-1.webp",
+    "content_type": "image/webp",
+    "bytes": 164648,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/visualizer-1-1024x1024.webp": {
+    "path": "assets/images/ba3b242f66_visualizer-1-1024x1024.webp",
+    "content_type": "image/webp",
+    "bytes": 26594,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.0.1": {
+    "path": "assets/styles/fdc16f0723_woocommerce-smallscreen.css",
+    "content_type": "text/css",
+    "bytes": 8655,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/Pngtree_paint_roller_icon_in_trendy_4846189-removebg-preview.png.webp": {
+    "path": "assets/images/c709efa073_Pngtree_paint_roller_icon_in_trendy_4846189-removebg-preview.png.webp",
+    "content_type": "image/webp",
+    "bytes": 4072,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor-pro/assets/js/nav-menu.8521a0597c50611efdc6.bundle.min.js": {
+    "path": "assets/scripts/630bf29d62_nav-menu.8521a0597c50611efdc6.bundle.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 5240,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js": {
+    "path": "assets/scripts/d06b6747fa_shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 8481,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/section-frontend-handlers.d85ab872da118940910d.bundle.min.js": {
+    "path": "assets/scripts/35f1fe9b8f_section-frontend-handlers.d85ab872da118940910d.bundle.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 449,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/text-editor.45609661e409413f1cef.bundle.min.js": {
+    "path": "assets/scripts/d29ea0fec2_text-editor.45609661e409413f1cef.bundle.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 1348,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/hero-final-size-color-new-copy-bnw-1.webp": {
+    "path": "assets/images/4a7d4824d0_hero-final-size-color-new-copy-bnw-1.webp",
+    "content_type": "image/webp",
+    "bytes": 50384,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-includes/js/wp-emoji-release.min.js?ver=7.0.4": {
+    "path": "assets/scripts/2f85d1b107_wp-emoji-release.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 22752,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/hero-final-size-color-new-copy-1.webp": {
+    "path": "assets/images/5f2a90d306_hero-final-size-color-new-copy-1.webp",
+    "content_type": "image/webp",
+    "bytes": 61032,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:43Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/grey-m-1-1.webp": {
+    "path": "assets/images/00cbf7c9d0_grey-m-1-1.webp",
+    "content_type": "image/webp",
+    "bytes": 7676,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:08:55Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/Find-a-color-1-768x768.webp": {
+    "path": "assets/images/abb9ca0afa_Find-a-color-1-768x768.webp",
+    "content_type": "image/webp",
+    "bytes": 19774,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/visualizer-1-768x768.webp": {
+    "path": "assets/images/8811ef2186_visualizer-1-768x768.webp",
+    "content_type": "image/webp",
+    "bytes": 19572,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/wish-list-1-768x768.webp": {
+    "path": "assets/images/fff0587180_wish-list-1-768x768.webp",
+    "content_type": "image/webp",
+    "bytes": 16168,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/Book-a-painter-1-1-768x768.webp": {
+    "path": "assets/images/9be6c97c69_Book-a-painter-1-1-768x768.webp",
+    "content_type": "image/webp",
+    "bytes": 19186,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/Find-a-store-1-768x768.webp": {
+    "path": "assets/images/afc916fcbb_Find-a-store-1-768x768.webp",
+    "content_type": "image/webp",
+    "bytes": 23958,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/ext-new-1-768x471.webp": {
+    "path": "assets/images/c21bf88c40_ext-new-1-768x471.webp",
+    "content_type": "image/webp",
+    "bytes": 49938,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/int-new-1-768x471.webp": {
+    "path": "assets/images/77cd9cffa8_int-new-1-768x471.webp",
+    "content_type": "image/webp",
+    "bytes": 19070,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/intierior-768x471.webp": {
+    "path": "assets/images/071e69051b_intierior-768x471.webp",
+    "content_type": "image/webp",
+    "bytes": 33772,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:06Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2021/02/white-logo-600x252.png": {
+    "path": "assets/images/8ed723db8b_white-logo-600x252.png",
+    "content_type": "image/png",
+    "bytes": 8745,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:27Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/thumbs/Find-a-color-1-qd28vkqxvui3qfk5xx8rvx595ee9crprvnz0e881ag.webp": {
+    "path": "assets/images/5cd238f687_Find-a-color-1-qd28vkqxvui3qfk5xx8rvx595ee9crprvnz0e881ag.webp",
+    "content_type": "image/webp",
+    "bytes": 12758,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:27Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/thumbs/visualizer-1-qd291faw2avmt3jj16upqojlbq7d88kszzvacezio0.webp": {
+    "path": "assets/images/880728cd34_visualizer-1-qd291faw2avmt3jj16upqojlbq7d88kszzvacezio0.webp",
+    "content_type": "image/webp",
+    "bytes": 20536,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:27Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/elementor/thumbs/wish-list-1-qd290fl0uliqjwzetrew3xk2r33f3qn0732u3wgh8g.webp": {
+    "path": "assets/images/88e016b91a_wish-list-1-qd290fl0uliqjwzetrew3xk2r33f3qn0732u3wgh8g.webp",
+    "content_type": "image/webp",
+    "bytes": 17236,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:27Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/ext-new-1-600x367.webp": {
+    "path": "assets/images/e4bc537eac_ext-new-1-600x367.webp",
+    "content_type": "image/webp",
+    "bytes": 33656,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:27Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/10/int-new-1-600x367.webp": {
+    "path": "assets/images/c17e56c3ed_int-new-1-600x367.webp",
+    "content_type": "image/webp",
+    "bytes": 12948,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:27Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2023/09/intierior-600x367.webp": {
+    "path": "assets/images/a5bc223196_intierior-600x367.webp",
+    "content_type": "image/webp",
+    "bytes": 25488,
+    "status": 200,
+    "first_seen_on": "P0001",
+    "captured_at": "2026-09-02T14:09:27Z"
+  },
+  "https://emiratespaints.com/wp-includes/css/dist/block-library/style.min.css?ver=7.0.4": {
+    "path": "assets/styles/d797f9a424_style.min.css",
+    "content_type": "text/css",
+    "bytes": 131189,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:43Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/images/prod_loading.gif": {
+    "path": "assets/images/b9cd6fbf30_prod_loading.gif",
+    "content_type": "image/gif",
+    "bytes": 23669,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:44Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/fonts/Fontawesome/fa-solid-900.woff2": {
+    "path": "assets/fonts/c40a5866cf_fa-solid-900.woff2",
+    "content_type": "font/woff2",
+    "bytes": 78196,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:44Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/js/shop-load-more.js?ver=1.0.7": {
+    "path": "assets/scripts/67f51805bd_shop-load-more.js",
+    "content_type": "application/x-javascript",
+    "bytes": 4545,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:47Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2024/08/2K-Primer-1-390x520.png": {
+    "path": "assets/images/ae3502be5b_2K-Primer-1-390x520.png",
+    "content_type": "image/png",
+    "bytes": 204183,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:48Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/2K-Clear-gloss-390x520.webp": {
+    "path": "assets/images/c70d336bf4_2K-Clear-gloss-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 16574,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/2K-THINNER-Front-390x520.webp": {
+    "path": "assets/images/3f3140904e_2K-THINNER-Front-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 11162,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/2K-Primer-390x520.webp": {
+    "path": "assets/images/7449f2b6e5_2K-Primer-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 15946,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/2K-Hardener-390x520.webp": {
+    "path": "assets/images/697fdd6e9f_2K-Hardener-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 16376,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/2K-Clear-MATT-390x520.webp": {
+    "path": "assets/images/90a403e02e_2K-Clear-MATT-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 16372,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-TOPCOAT-GLOSS-390x520.webp": {
+    "path": "assets/images/0beed28441_CHROMA-2K-TOPCOAT-GLOSS-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 17614,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/ALKYD-ENAMEL-QD-390x520.webp": {
+    "path": "assets/images/4fd69f8ced_ALKYD-ENAMEL-QD-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 20874,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/ACRYLIC-PRIMER-min-390x520.webp": {
+    "path": "assets/images/5cff51b675_ACRYLIC-PRIMER-min-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 19658,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/AQUA-EMULSION-390x520.webp": {
+    "path": "assets/images/2237a1385f_AQUA-EMULSION-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 20372,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/ALKYD-ENAMEL-ECO-MASTER-GLOSS-390x520.webp": {
+    "path": "assets/images/9a1bcb1ebd_ALKYD-ENAMEL-ECO-MASTER-GLOSS-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 22602,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2024/08/2K-Top-Coat-Gloss-390x520.png": {
+    "path": "assets/images/09ae27017a_2K-Top-Coat-Gloss-390x520.png",
+    "content_type": "image/png",
+    "bytes": 207354,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-EMALUX-PRIMER-390x520.webp": {
+    "path": "assets/images/4fe5e98930_CHROMA-EMALUX-PRIMER-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 21020,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/NC-Primer-1-390x520.webp": {
+    "path": "assets/images/7f0b8e0eaa_NC-Primer-1-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 16128,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/NC-THINNER-FRONT-390x520.webp": {
+    "path": "assets/images/22e700d730_NC-THINNER-FRONT-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 10970,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/NC-Putty-1-390x520.webp": {
+    "path": "assets/images/10d93bdf4e_NC-Putty-1-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 15722,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-EMALUX-BASE-COAT-390x520.webp": {
+    "path": "assets/images/b4daff9c65_CHROMA-EMALUX-BASE-COAT-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 21000,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-TOPCOAT-MATT-390x520.webp": {
+    "path": "assets/images/18550c493f_CHROMA-2K-TOPCOAT-MATT-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 17334,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/NC-Clear-MATT-1-390x520.webp": {
+    "path": "assets/images/75727982f0_NC-Clear-MATT-1-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 16422,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/NC-Clear-Semi-Gloss-1-390x520.webp": {
+    "path": "assets/images/214c6fe215_NC-Clear-Semi-Gloss-1-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 17356,
+    "status": 200,
+    "first_seen_on": "P0002",
+    "captured_at": "2026-09-02T14:09:49Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/AQUA-EMULSION-810x810.webp": {
+    "path": "assets/images/5e2d33a10e_AQUA-EMULSION-810x810.webp",
+    "content_type": "image/webp",
+    "bytes": 35714,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:34Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/assets/img/finish.png.webp": {
+    "path": "assets/images/5470394cda_finish.png.webp",
+    "content_type": "image/webp",
+    "bytes": 848,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:34Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/css/fonts/Fontawesome/fa-regular-400.woff2": {
+    "path": "assets/fonts/8b21a5c859_fa-regular-400.woff2",
+    "content_type": "font/woff2",
+    "bytes": 13276,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:35Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/assets/js/singleProduct.js?ver=1.0.0": {
+    "path": "assets/scripts/b5144f7069_singleProduct.js",
+    "content_type": "application/x-javascript",
+    "bytes": 348,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:38Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar/js/single-product.js?ver=1.0.7": {
+    "path": "assets/scripts/002968a531_single-product.js",
+    "content_type": "application/x-javascript",
+    "bytes": 5111,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/assets/img/dry-time.png.webp": {
+    "path": "assets/images/211af17140_dry-time.png.webp",
+    "content_type": "image/webp",
+    "bytes": 1876,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/assets/img/coats.png.webp": {
+    "path": "assets/images/1ac014fedd_coats.png.webp",
+    "content_type": "image/webp",
+    "bytes": 834,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/themes/yobazar-child/assets/img/spread-rate.png.webp": {
+    "path": "assets/images/f2a26ab4b0_spread-rate.png.webp",
+    "content_type": "image/webp",
+    "bytes": 2618,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=11.0.1": {
+    "path": "assets/scripts/3b8c21db3a_single-product.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 9802,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/conditionals/lightbox.min.css?ver=4.2.4": {
+    "path": "assets/styles/616253823f_lightbox.min.css",
+    "content_type": "text/css",
+    "bytes": 11305,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/lightbox.3f9b3a051b2336dd5372.bundle.min.js": {
+    "path": "assets/scripts/7effdd63ad_lightbox.3f9b3a051b2336dd5372.bundle.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 29496,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/css/conditionals/dialog.min.css?ver=4.2.4": {
+    "path": "assets/styles/4a75567fa1_dialog.min.css",
+    "content_type": "text/css",
+    "bytes": 16528,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=4.2.4": {
+    "path": "assets/scripts/b36cc168c0_share-link.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 2752,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5": {
+    "path": "assets/styles/2f937e9d51_swiper.min.css",
+    "content_type": "text/css",
+    "bytes": 16471,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/js/397f2d183c19202777d6.bundle.min.js": {
+    "path": "assets/scripts/93e927630e_397f2d183c19202777d6.bundle.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 23933,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3": {
+    "path": "assets/scripts/897491b213_dialog.min.js",
+    "content_type": "application/x-javascript",
+    "bytes": 11622,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:39Z"
+  },
+  "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/libs/legacy/fonticons/font/fontawesome-webfont.woff?v=4.2.0": {
+    "path": "assets/fonts/bafa5ef9e6_fontawesome-webfont.woff",
+    "content_type": "application/font-woff",
+    "bytes": 98024,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:40Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/AQUA-EMULSION.webp": {
+    "path": "assets/images/326f169b23_AQUA-EMULSION.webp",
+    "content_type": "image/webp",
+    "bytes": 129528,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:40Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/GLOSS-EMULSION-min-390x520.webp": {
+    "path": "assets/images/8dfcb09392_GLOSS-EMULSION-min-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 19928,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:44Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-WOOD-CLEAR-MATT-390x520.webp": {
+    "path": "assets/images/d7b70cdd6f_EMA-PU-WOOD-CLEAR-MATT-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 21496,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:44Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/EMASHIELD-PU-WOOD-CLEAR-MATT-390x520.webp": {
+    "path": "assets/images/cac85c2dd4_EMASHIELD-PU-WOOD-CLEAR-MATT-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 22432,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:44Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/MAJESTIC-MATT-390x520.webp": {
+    "path": "assets/images/0052dadff6_MAJESTIC-MATT-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 20308,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:44Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2025/02/HAMMER-FINISH-390x520.webp": {
+    "path": "assets/images/471bc162e8_HAMMER-FINISH-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 20556,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:44Z"
+  },
+  "https://emiratespaints.com/wp-content/uploads/2022/08/EMASHIELD-FINE-SILK-390x520.webp": {
+    "path": "assets/images/2d9d28a341_EMASHIELD-FINE-SILK-390x520.webp",
+    "content_type": "image/webp",
+    "bytes": 21000,
+    "status": 200,
+    "first_seen_on": "P0003",
+    "captured_at": "2026-09-02T14:10:44Z"
+  }
+}

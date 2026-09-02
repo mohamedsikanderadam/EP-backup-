@@ -1,0 +1,899 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Visual Recovery Reference – Emirates Paints</title>
+<style>
+body{font:14px/1.4 system-ui,sans-serif;margin:0;background:#f4f4f5;color:#111} .top{background:#111;color:#fff;padding:16px 24px;position:sticky;top:0;z-index:2}
+.top h1{margin:0 0 4px;font-size:18px} .top .sub{color:#bbb;font-size:12px} .top input{margin-left:16px;padding:4px 8px;border-radius:4px;border:1px solid #444}
+.card{background:#fff;margin:16px 24px;padding:12px 16px;border-radius:8px;box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.card header{display:flex;gap:12px;align-items:center} .ref{font-weight:700;font-family:monospace} .title{font-weight:600;flex:1}
+.status{font-size:12px;padding:2px 8px;border-radius:10px;background:#ddd} .s-captured{background:#d1fae5} .s-partial,.s-pending{background:#fef3c7} .s-failed{background:#fecaca}
+.url{font-size:12px;color:#555;margin:4px 0 10px;word-break:break-all} .url .meta{margin-left:8px;color:#888}
+.shots{display:flex;gap:12px;align-items:flex-start} .shot img{width:320px;border:1px solid #ddd;display:block} .shot .cap{font-size:11px;color:#666;margin-top:4px}
+.shot.missing{width:320px;height:120px;border:1px dashed #f87171;color:#b91c1c;display:flex;align-items:center;justify-content:center;text-align:center}
+.flags{margin:8px 0 0;padding-left:18px;font-size:12px} .flags .high{color:#b91c1c} .flags .medium{color:#b45309} .flags .low,.flags .info{color:#555}
+.notes,.inter,.doc{font-size:12px;color:#444;margin-top:6px} .summary{margin:16px 24px;font-size:13px} .summary td{padding:2px 12px 2px 0}
+</style></head><body>
+<div class="top"><h1>Visual Recovery Reference – Emirates Paints (https://emiratespaints.com/)</h1>
+<div class="sub">Generated 2026-09-02T14:26:08Z · capture window 2026-09-02T14:22:16Z → 2026-09-02T14:25:37Z · chromium 151.0.7922.34 · viewports desktop 1440×900, tablet 768×1024, mobile 390×844
+<input id="q" placeholder="filter by ref / title / URL" oninput="for(const c of document.querySelectorAll('.card'))c.style.display=c.textContent.toLowerCase().includes(this.value.toLowerCase())?'':'none'"></div></div>
+<div class="summary"><table>
+<tr><td>URLs discovered</td><td><b>88</b></td><td>HTML pages</td><td><b>86</b></td><td>Documents</td><td><b>0</b></td><td>Excluded</td><td><b>1</b></td></tr>
+<tr><td>Captured (all viewports)</td><td><b>3</b></td><td>Partial</td><td><b>0</b></td><td>Failed/pending</td><td><b>83</b></td><td>QA findings</td><td><b>251</b></td></tr>
+</table><p>This Visual Recovery Reference records the publicly visible state of the website during the stated capture period. It is intended to support visual and public-functionality comparison following recovery. It does not constitute a complete WordPress source-code, database or application backup, and it does not independently prove that the underlying website was secure or fully functional at the time of capture.</p></div>
+
+<section class="card" id="P0001" data-status="captured">
+  <header><span class="ref">P0001</span> <span class="title">Emirates Paints - Premium Paints in UAE - Emirates Paints</span>
+   <span class="status s-captured">captured</span></header>
+  <div class="url"><a href="https://emiratespaints.com/" target="_blank" rel="noopener">https://emiratespaints.com/</a>
+   <span class="meta">lang=en-US · type=html · http=200 · source=client_url_list, link:P0001</span></div>
+  <div class="shots"><div class="shot"><a href="../../screenshots/desktop/full-page/P0001_home_en_desktop_full.png" target="_blank"><img loading="lazy" src="thumbs/P0001_home_en_desktop_full.jpg" alt="desktop"></a><div class="cap">desktop · 4494px · HTTP 200</div></div><div class="shot"><a href="../../screenshots/tablet/full-page/P0001_home_en_tablet_full.png" target="_blank"><img loading="lazy" src="thumbs/P0001_home_en_tablet_full.jpg" alt="tablet"></a><div class="cap">tablet · 4828px · HTTP 200</div></div><div class="shot"><a href="../../screenshots/mobile/full-page/P0001_home_en_mobile_full.png" target="_blank"><img loading="lazy" src="thumbs/P0001_home_en_mobile_full.jpg" alt="mobile"></a><div class="cap">mobile · 5109px · HTTP 200</div></div></div>
+  <div class="inter">Interactive states: <a href="../../screenshots/interactive-states/P0001_home_en_desktop_search_open.png" target="_blank">search_open</a> <a href="../../screenshots/interactive-states/P0001_home_en_mobile_mobile_menu_open.png" target="_blank">mobile_menu_open</a> </div>
+  <div class="notes">Notes: interactive state account_icon_hover failed: Locator.hover: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(&quot;.ts-header .my-account-wrapper&quot;).nth(1)
+    -; interactive state mobile_menu_open via .ts-mobile-icon-toggle; interactive state search_open via .ts-header .search-button.search-icon; response HTML identical to desktop capture (sha256 match); not stored twice</div>
+  <ul class="flags"><li class="low">[low] CAPTURE_NOTE: desktop: interactive state account_icon_hover failed: Locator.hover: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator(&quot;.ts-header .my-account-wrapper&quot;).nth(1)
+    -</li></ul>
+</section>
+<section class="card" id="P0002" data-status="captured">
+  <header><span class="ref">P0002</span> <span class="title">Products - Emirates Paints</span>
+   <span class="status s-captured">captured</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/" target="_blank" rel="noopener">https://emiratespaints.com/products/</a>
+   <span class="meta">lang=en-US · type=html · http=200 · source=client_url_list, link:P0001</span></div>
+  <div class="shots"><div class="shot"><a href="../../screenshots/desktop/full-page/P0002_products_en_desktop_full.png" target="_blank"><img loading="lazy" src="thumbs/P0002_products_en_desktop_full.jpg" alt="desktop"></a><div class="cap">desktop · 2480px · HTTP 200</div></div><div class="shot"><a href="../../screenshots/tablet/full-page/P0002_products_en_tablet_full.png" target="_blank"><img loading="lazy" src="thumbs/P0002_products_en_tablet_full.jpg" alt="tablet"></a><div class="cap">tablet · 3016px · HTTP 200</div></div><div class="shot"><a href="../../screenshots/mobile/full-page/P0002_products_en_mobile_full.png" target="_blank"><img loading="lazy" src="thumbs/P0002_products_en_mobile_full.jpg" alt="mobile"></a><div class="cap">mobile · 878px · HTTP 200</div></div></div>
+  <div class="inter">Interactive states: <a href="../../screenshots/interactive-states/P0002_products_en_desktop_search_open.png" target="_blank">search_open</a> <a href="../../screenshots/interactive-states/P0002_products_en_mobile_mobile_menu_open.png" target="_blank">mobile_menu_open</a> </div>
+  <div class="notes">Notes: interactive state mobile_menu_open via .ts-mobile-icon-toggle; interactive state search_open via .ts-header .search-button.search-icon; response HTML identical to desktop capture (sha256 match); not stored twice</div>
+  <ul class="flags"><li class="medium">[medium] LAYOUT_COLLAPSE: mobile page height 878px is far shorter than desktop 2480px - content may be missing at the mobile viewport</li></ul>
+</section>
+<section class="card" id="P0003" data-status="captured">
+  <header><span class="ref">P0003</span> <span class="title">AQUA EMULSION - Emirates Paints</span>
+   <span class="status s-captured">captured</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/aqua-emulsion/" target="_blank" rel="noopener">https://emiratespaints.com/product/aqua-emulsion/</a>
+   <span class="meta">lang=en-US · type=html · http=200 · source=client_url_list, link:P0002</span></div>
+  <div class="shots"><div class="shot"><a href="../../screenshots/desktop/full-page/P0003_product_aqua-emulsion_en_desktop_full.png" target="_blank"><img loading="lazy" src="thumbs/P0003_product_aqua-emulsion_en_desktop_full.jpg" alt="desktop"></a><div class="cap">desktop · 2665px · HTTP 200</div></div><div class="shot"><a href="../../screenshots/tablet/full-page/P0003_product_aqua-emulsion_en_tablet_full.png" target="_blank"><img loading="lazy" src="thumbs/P0003_product_aqua-emulsion_en_tablet_full.jpg" alt="tablet"></a><div class="cap">tablet · 2819px · HTTP 200</div></div><div class="shot"><a href="../../screenshots/mobile/full-page/P0003_product_aqua-emulsion_en_mobile_full.png" target="_blank"><img loading="lazy" src="thumbs/P0003_product_aqua-emulsion_en_mobile_full.jpg" alt="mobile"></a><div class="cap">mobile · 3775px · HTTP 200</div></div></div>
+  <div class="inter">Interactive states: <a href="../../screenshots/interactive-states/P0003_product_aqua-emulsion_en_mobile_mobile_menu_open.png" target="_blank">mobile_mobile_menu_open</a> </div>
+  <div class="notes">Notes: interactive state mobile_menu_open via .ts-mobile-icon-toggle; response HTML identical to desktop capture (sha256 match); not stored twice</div>
+  
+</section>
+<section class="card" id="P0004" data-status="pending">
+  <header><span class="ref">P0004</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product-category/red/" target="_blank" rel="noopener">https://emiratespaints.com/product-category/red/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0005" data-status="pending">
+  <header><span class="ref">P0005</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/inspirations/" target="_blank" rel="noopener">https://emiratespaints.com/inspirations/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0006" data-status="pending">
+  <header><span class="ref">P0006</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/find-a-store/" target="_blank" rel="noopener">https://emiratespaints.com/find-a-store/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0007" data-status="pending">
+  <header><span class="ref">P0007</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/book-a-painter/" target="_blank" rel="noopener">https://emiratespaints.com/book-a-painter/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0008" data-status="pending">
+  <header><span class="ref">P0008</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/about-emirates-paints/" target="_blank" rel="noopener">https://emiratespaints.com/about-emirates-paints/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0009" data-status="pending">
+  <header><span class="ref">P0009</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/technical-data-sheets/" target="_blank" rel="noopener">https://emiratespaints.com/technical-data-sheets/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0010" data-status="pending">
+  <header><span class="ref">P0010</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/brochures/" target="_blank" rel="noopener">https://emiratespaints.com/brochures/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0011" data-status="pending">
+  <header><span class="ref">P0011</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/contact/" target="_blank" rel="noopener">https://emiratespaints.com/contact/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0012" data-status="pending">
+  <header><span class="ref">P0012</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/privacy-policy-2/" target="_blank" rel="noopener">https://emiratespaints.com/privacy-policy-2/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0013" data-status="pending">
+  <header><span class="ref">P0013</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/terms-and-conditions/" target="_blank" rel="noopener">https://emiratespaints.com/terms-and-conditions/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0015" data-status="pending">
+  <header><span class="ref">P0015</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/wishlist" target="_blank" rel="noopener">https://emiratespaints.com/wishlist</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0016" data-status="pending">
+  <header><span class="ref">P0016</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/visulizer" target="_blank" rel="noopener">https://emiratespaints.com/visulizer</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0017" data-status="pending">
+  <header><span class="ref">P0017</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/find-store/" target="_blank" rel="noopener">https://emiratespaints.com/find-store/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0018" data-status="pending">
+  <header><span class="ref">P0018</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_product-type=interior" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_product-type=interior</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0019" data-status="pending">
+  <header><span class="ref">P0019</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_product-type=exterior" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_product-type=exterior</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0020" data-status="pending">
+  <header><span class="ref">P0020</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_product-type=industrial" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_product-type=industrial</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0021" data-status="pending">
+  <header><span class="ref">P0021</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL" target="_blank" rel="noopener">https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0022" data-status="pending">
+  <header><span class="ref">P0022</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/book-a-painter/?service=COMMERCIAL" target="_blank" rel="noopener">https://emiratespaints.com/book-a-painter/?service=COMMERCIAL</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0023" data-status="pending">
+  <header><span class="ref">P0023</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL" target="_blank" rel="noopener">https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0024" data-status="pending">
+  <header><span class="ref">P0024</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/home" target="_blank" rel="noopener">https://emiratespaints.com/home</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0025" data-status="pending">
+  <header><span class="ref">P0025</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/about-us" target="_blank" rel="noopener">https://emiratespaints.com/about-us</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0026" data-status="pending">
+  <header><span class="ref">P0026</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/contact" target="_blank" rel="noopener">https://emiratespaints.com/contact</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0027" data-status="pending">
+  <header><span class="ref">P0027</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/privacy-policy/" target="_blank" rel="noopener">https://emiratespaints.com/privacy-policy/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0028" data-status="pending">
+  <header><span class="ref">P0028</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/emirates-paints-blog/" target="_blank" rel="noopener">https://emiratespaints.com/emirates-paints-blog/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0029" data-status="pending">
+  <header><span class="ref">P0029</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/book-a-painter" target="_blank" rel="noopener">https://emiratespaints.com/book-a-painter</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0030" data-status="pending">
+  <header><span class="ref">P0030</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/company-profile" target="_blank" rel="noopener">https://emiratespaints.com/company-profile</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0001, link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0031" data-status="pending">
+  <header><span class="ref">P0031</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/page/2/" target="_blank" rel="noopener">https://emiratespaints.com/products/page/2/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0032" data-status="pending">
+  <header><span class="ref">P0032</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_product-type=automotive" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_product-type=automotive</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0033" data-status="pending">
+  <header><span class="ref">P0033</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_product-type=decorative" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_product-type=decorative</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0034" data-status="pending">
+  <header><span class="ref">P0034</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=bathroom" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=bathroom</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0035" data-status="pending">
+  <header><span class="ref">P0035</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=bedroom" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=bedroom</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0036" data-status="pending">
+  <header><span class="ref">P0036</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=ceiling" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=ceiling</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0037" data-status="pending">
+  <header><span class="ref">P0037</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=childrens-room" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=childrens-room</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0038" data-status="pending">
+  <header><span class="ref">P0038</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=dining-room" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=dining-room</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0039" data-status="pending">
+  <header><span class="ref">P0039</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=kitchen" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=kitchen</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0040" data-status="pending">
+  <header><span class="ref">P0040</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=living-room" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=living-room</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0041" data-status="pending">
+  <header><span class="ref">P0041</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=moving-out" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=moving-out</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0042" data-status="pending">
+  <header><span class="ref">P0042</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_location=office" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_location=office</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0043" data-status="pending">
+  <header><span class="ref">P0043</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=concrete" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=concrete</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0044" data-status="pending">
+  <header><span class="ref">P0044</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=grc-board" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=grc-board</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0045" data-status="pending">
+  <header><span class="ref">P0045</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=gypsum" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=gypsum</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0046" data-status="pending">
+  <header><span class="ref">P0046</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=mansory" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=mansory</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0047" data-status="pending">
+  <header><span class="ref">P0047</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=metal" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=metal</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0048" data-status="pending">
+  <header><span class="ref">P0048</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=plaster" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=plaster</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0049" data-status="pending">
+  <header><span class="ref">P0049</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=wood" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=wood</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0050" data-status="pending">
+  <header><span class="ref">P0050</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=glass" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=glass</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0051" data-status="pending">
+  <header><span class="ref">P0051</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_surface=steel" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_surface=steel</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0052" data-status="pending">
+  <header><span class="ref">P0052</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=clear" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=clear</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0053" data-status="pending">
+  <header><span class="ref">P0053</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=gloss" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=gloss</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0054" data-status="pending">
+  <header><span class="ref">P0054</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=matt" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=matt</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0055" data-status="pending">
+  <header><span class="ref">P0055</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=semi-gloss" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=semi-gloss</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0056" data-status="pending">
+  <header><span class="ref">P0056</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=textured" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=textured</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0057" data-status="pending">
+  <header><span class="ref">P0057</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=free-flowing-liquid" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=free-flowing-liquid</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0058" data-status="pending">
+  <header><span class="ref">P0058</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=transparent-clear" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=transparent-clear</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0059" data-status="pending">
+  <header><span class="ref">P0059</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise" target="_blank" rel="noopener">https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0060" data-status="pending">
+  <header><span class="ref">P0060</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/2k-primer/" target="_blank" rel="noopener">https://emiratespaints.com/product/2k-primer/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0061" data-status="pending">
+  <header><span class="ref">P0061</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/2k-top-coat-gloss/" target="_blank" rel="noopener">https://emiratespaints.com/product/2k-top-coat-gloss/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0062" data-status="pending">
+  <header><span class="ref">P0062</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/acrylic-primer/" target="_blank" rel="noopener">https://emiratespaints.com/product/acrylic-primer/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002, link:P0003</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0063" data-status="pending">
+  <header><span class="ref">P0063</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/alkyd-enamel-eco-master-gloss/" target="_blank" rel="noopener">https://emiratespaints.com/product/alkyd-enamel-eco-master-gloss/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0064" data-status="pending">
+  <header><span class="ref">P0064</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/alkyd-enamel-qd/" target="_blank" rel="noopener">https://emiratespaints.com/product/alkyd-enamel-qd/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0065" data-status="pending">
+  <header><span class="ref">P0065</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-2k-clear-gloss/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-2k-clear-gloss/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0066" data-status="pending">
+  <header><span class="ref">P0066</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-2k-clear-matt/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-2k-clear-matt/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0067" data-status="pending">
+  <header><span class="ref">P0067</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-2k-hardener/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-2k-hardener/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0068" data-status="pending">
+  <header><span class="ref">P0068</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-2k-primer/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-2k-primer/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0069" data-status="pending">
+  <header><span class="ref">P0069</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-2k-thinner/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-2k-thinner/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0070" data-status="pending">
+  <header><span class="ref">P0070</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-2k-topcoat-gloss/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-2k-topcoat-gloss/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0071" data-status="pending">
+  <header><span class="ref">P0071</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-2k-topcoat-matt/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-2k-topcoat-matt/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0072" data-status="pending">
+  <header><span class="ref">P0072</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-emalux-base-coat/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-emalux-base-coat/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0073" data-status="pending">
+  <header><span class="ref">P0073</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-emalux-primer/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-emalux-primer/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0074" data-status="pending">
+  <header><span class="ref">P0074</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-nc-clear-matt/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-nc-clear-matt/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0075" data-status="pending">
+  <header><span class="ref">P0075</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-nc-clear-semi-gloss/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-nc-clear-semi-gloss/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0076" data-status="pending">
+  <header><span class="ref">P0076</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-nc-primer/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-nc-primer/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0077" data-status="pending">
+  <header><span class="ref">P0077</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-nc-putty/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-nc-putty/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0078" data-status="pending">
+  <header><span class="ref">P0078</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/chroma-nc-thinner/" target="_blank" rel="noopener">https://emiratespaints.com/product/chroma-nc-thinner/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0079" data-status="pending">
+  <header><span class="ref">P0079</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/page/3/" target="_blank" rel="noopener">https://emiratespaints.com/products/page/3/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0080" data-status="pending">
+  <header><span class="ref">P0080</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/page/4/" target="_blank" rel="noopener">https://emiratespaints.com/products/page/4/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0081" data-status="pending">
+  <header><span class="ref">P0081</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/products/page/5/" target="_blank" rel="noopener">https://emiratespaints.com/products/page/5/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0082" data-status="pending">
+  <header><span class="ref">P0082</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product-category/women/" target="_blank" rel="noopener">https://emiratespaints.com/product-category/women/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0002</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0083" data-status="pending">
+  <header><span class="ref">P0083</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/wp-content/uploads/2022/08/AQUA-EMULSION.webp" target="_blank" rel="noopener">https://emiratespaints.com/wp-content/uploads/2022/08/AQUA-EMULSION.webp</a>
+   <span class="meta">lang=und · type=image · http=None · source=link:P0003</span></div>
+  
+  
+  
+  
+</section>
+<section class="card" id="P0084" data-status="pending">
+  <header><span class="ref">P0084</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/shield-tex-silk/" target="_blank" rel="noopener">https://emiratespaints.com/product/shield-tex-silk/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0003</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0085" data-status="pending">
+  <header><span class="ref">P0085</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/ema-pu-wood-topcoat-matt-21/" target="_blank" rel="noopener">https://emiratespaints.com/product/ema-pu-wood-topcoat-matt-21/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0003</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0086" data-status="pending">
+  <header><span class="ref">P0086</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/emashield-pu-wood-clear-gloss-41/" target="_blank" rel="noopener">https://emiratespaints.com/product/emashield-pu-wood-clear-gloss-41/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0003</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0087" data-status="pending">
+  <header><span class="ref">P0087</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/hammer-finish/" target="_blank" rel="noopener">https://emiratespaints.com/product/hammer-finish/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0003</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<section class="card" id="P0088" data-status="pending">
+  <header><span class="ref">P0088</span> <span class="title">(no title)</span>
+   <span class="status s-pending">pending</span></header>
+  <div class="url"><a href="https://emiratespaints.com/product/polydex/" target="_blank" rel="noopener">https://emiratespaints.com/product/polydex/</a>
+   <span class="meta">lang=und · type=html · http=None · source=link:P0003</span></div>
+  <div class="shots"><div class="shot missing">desktop<br>not captured</div><div class="shot missing">tablet<br>not captured</div><div class="shot missing">mobile<br>not captured</div></div>
+  
+  
+  <ul class="flags"><li class="high">[high] MISSING_VIEWPORT: no successful desktop capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful tablet capture (status=none)</li><li class="high">[high] MISSING_VIEWPORT: no successful mobile capture (status=none)</li></ul>
+</section>
+<div class="summary">Excluded URLs (recorded, not captured): <ul><li>P0014 https://emiratespaints.com/my-account/ – Out of scope per production-safety rules (authenticated, state-changing, non-HTML feed or administrative endpoint)</li></ul></div>
+</body></html>

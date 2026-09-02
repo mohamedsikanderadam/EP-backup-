@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'metropolis';
+					src: url('/wp-content/uploads/useanyfont/6514Metropolis.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/6514Metropolis.woff') format('woff');
+					font-weight: 400; font-style: normal;  font-display: auto;
+				}
+
+				.metropolis{font-family: 'metropolis' !important;}
+
+		

@@ -1,0 +1,83 @@
+2026-09-02T14:08:15Z [INFO] discover P0001 https://emiratespaints.com/ -> 200 html cache=hit
+2026-09-02T14:08:20Z [INFO] discover P0002 https://emiratespaints.com/products/ -> 200 html cache=hit
+2026-09-02T14:08:27Z [INFO] discover P0003 https://emiratespaints.com/product/aqua-emulsion/ -> 200 html cache=miss
+2026-09-02T14:08:29Z [WARN] discovery limit 3 reached; queue has 126 more URLs
+2026-09-02T14:08:29Z [INFO] discovery complete: 88 URLs, 3 requests
+2026-09-02T14:08:37Z [INFO] capture run start: 3 manifest rows, viewports=['desktop', 'tablet', 'mobile']
+2026-09-02T14:08:37Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T14:08:55Z [INFO] P0001 desktop https://emiratespaints.com/ -> captured http=200 h=4494 notes=0
+2026-09-02T14:09:18Z [INFO] P0001 tablet https://emiratespaints.com/ -> captured http=200 h=4828 notes=0
+2026-09-02T14:09:39Z [INFO] P0001 mobile https://emiratespaints.com/ -> captured http=200 h=5109 notes=0
+2026-09-02T14:09:57Z [INFO] P0002 desktop https://emiratespaints.com/products/ -> captured http=200 h=2480 notes=0
+2026-09-02T14:10:16Z [INFO] P0002 tablet https://emiratespaints.com/products/ -> captured http=200 h=3016 notes=0
+2026-09-02T14:10:30Z [INFO] P0002 mobile https://emiratespaints.com/products/ -> captured http=200 h=878 notes=0
+2026-09-02T14:10:49Z [INFO] P0003 desktop https://emiratespaints.com/product/aqua-emulsion/ -> captured http=200 h=2665 notes=0
+2026-09-02T14:11:08Z [INFO] P0003 tablet https://emiratespaints.com/product/aqua-emulsion/ -> captured http=200 h=2759 notes=0
+2026-09-02T14:11:28Z [INFO] P0003 mobile https://emiratespaints.com/product/aqua-emulsion/ -> captured http=200 h=3775 notes=0
+2026-09-02T14:11:31Z [INFO] capture run end: requests=9 halted=False
+2026-09-02T14:13:22Z [INFO] capture run start: 1 manifest rows, viewports=['desktop', 'tablet', 'mobile']
+2026-09-02T14:13:22Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T14:13:39Z [INFO] P0001 desktop https://emiratespaints.com/ -> captured http=200 h=4494 notes=1
+2026-09-02T14:13:58Z [INFO] P0001 tablet https://emiratespaints.com/ -> captured http=200 h=4828 notes=0
+2026-09-02T14:14:17Z [INFO] P0001 mobile https://emiratespaints.com/ -> captured http=200 h=5109 notes=0
+2026-09-02T14:14:19Z [INFO] capture run end: requests=3 halted=False
+2026-09-02T14:14:46Z [INFO] capture run start: 1 manifest rows, viewports=['tablet', 'mobile']
+2026-09-02T14:14:46Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T14:15:02Z [INFO] P0001 tablet https://emiratespaints.com/ -> captured http=200 h=4828 notes=0
+2026-09-02T14:15:23Z [INFO] P0001 mobile https://emiratespaints.com/ -> captured http=200 h=5109 notes=1
+2026-09-02T14:15:26Z [INFO] capture run end: requests=2 halted=False
+2026-09-02T14:19:53Z [INFO] QA complete: 249 findings ({'high': 249, 'medium': 0, 'low': 0, 'info': 0})
+2026-09-02T14:19:53Z [INFO] integrity: 345 files hashed, 345 new, 0 changed, 24.5 MB
+2026-09-02T14:19:54Z [INFO] reports generated: gallery, capture-summary.md, cache-observations.md, exceptions.md, README.md, executive-summary.pdf, crawl-coverage.md
+2026-09-02T14:20:10Z [INFO] QA complete: 250 findings ({'high': 249, 'medium': 1, 'low': 0, 'info': 0})
+2026-09-02T14:20:10Z [INFO] reports generated: gallery, capture-summary.md, cache-observations.md, exceptions.md, README.md, executive-summary.pdf, crawl-coverage.md
+2026-09-02T14:21:27Z [INFO] capture run start: 1 manifest rows, viewports=['desktop']
+2026-09-02T14:21:27Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T14:21:59Z [INFO] P0001 desktop https://emiratespaints.com/ -> captured http=200 h=4494 notes=2
+2026-09-02T14:22:02Z [INFO] capture run end: requests=1 halted=False
+2026-09-02T14:22:16Z [INFO] capture run start: 3 manifest rows, viewports=['desktop', 'tablet', 'mobile']
+2026-09-02T14:22:16Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T14:22:44Z [INFO] P0001 desktop https://emiratespaints.com/ -> captured http=200 h=4494 notes=3
+2026-09-02T14:23:09Z [INFO] P0001 tablet https://emiratespaints.com/ -> captured http=200 h=4828 notes=1
+2026-09-02T14:23:36Z [INFO] P0001 mobile https://emiratespaints.com/ -> captured http=200 h=5109 notes=2
+2026-09-02T14:23:58Z [INFO] P0002 desktop https://emiratespaints.com/products/ -> captured http=200 h=2480 notes=1
+2026-09-02T14:24:23Z [INFO] P0002 tablet https://emiratespaints.com/products/ -> captured http=200 h=3016 notes=1
+2026-09-02T14:24:46Z [INFO] P0002 mobile https://emiratespaints.com/products/ -> captured http=200 h=878 notes=2
+2026-09-02T14:25:11Z [INFO] P0003 desktop https://emiratespaints.com/product/aqua-emulsion/ -> captured http=200 h=2665 notes=0
+2026-09-02T14:25:35Z [INFO] P0003 tablet https://emiratespaints.com/product/aqua-emulsion/ -> captured http=200 h=2819 notes=1
+2026-09-02T14:26:03Z [INFO] P0003 mobile https://emiratespaints.com/product/aqua-emulsion/ -> captured http=200 h=3775 notes=2
+2026-09-02T14:26:06Z [INFO] capture run end: requests=9 halted=False
+2026-09-02T14:26:07Z [INFO] QA complete: 251 findings ({'high': 249, 'medium': 1, 'low': 1, 'info': 0})
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0001_home_en_desktop.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0001_home_en_mobile.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0001_home_en_tablet.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0002_products_en_desktop.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0002_products_en_mobile.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0002_products_en_tablet.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0003_product_aqua-emulsion_en_desktop.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0003_product_aqua-emulsion_en_mobile.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: html/rendered/P0003_product_aqua-emulsion_en_tablet.html (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0001_home_en_desktop.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0001_home_en_mobile.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0001_home_en_tablet.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0002_products_en_desktop.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0002_products_en_mobile.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0002_products_en_tablet.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0003_product_aqua-emulsion_en_desktop.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0003_product_aqua-emulsion_en_mobile.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/headers/P0003_product_aqua-emulsion_en_tablet.headers.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0001_home_en_desktop.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0001_home_en_mobile.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0001_home_en_tablet.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0002_products_en_desktop.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0002_products_en_mobile.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0002_products_en_tablet.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0003_product_aqua-emulsion_en_desktop.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0003_product_aqua-emulsion_en_mobile.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: metadata/page-data/P0003_product_aqua-emulsion_en_tablet.json (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: screenshots/desktop/full-page/P0001_home_en_desktop_full.png (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: screenshots/desktop/full-page/P0002_products_en_desktop_full.png (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: screenshots/desktop/full-page/P0003_product_aqua-emulsion_en_desktop_full.png (old kept in capture log)
+2026-09-02T14:26:07Z [WARN] hash changed since last register: screenshots/tablet/full-page/P0001_home_en_tablet_full.png (old kept in capture log)
+2026-09-02T14:26:07Z [INFO] integrity: 348 files hashed, 3 new, 31 changed, 25.5 MB
+2026-09-02T14:26:08Z [INFO] reports generated: gallery, capture-summary.md, cache-observations.md, exceptions.md, README.md, executive-summary.pdf, crawl-coverage.md

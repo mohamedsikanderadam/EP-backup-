@@ -1,0 +1,128 @@
+{
+  "screenshots/desktop/above-fold/P0001_home_en_desktop_fold.png": {
+    "width": 1440,
+    "height": 900,
+    "stddev": 41.04,
+    "mean": 137.32,
+    "phash": "ab445976715eb348"
+  },
+  "screenshots/desktop/full-page/P0001_home_en_desktop_full.png": {
+    "width": 1440,
+    "height": 4494,
+    "stddev": 88.87,
+    "mean": 151.7,
+    "phash": "9af521a969de14d4"
+  },
+  "screenshots/tablet/above-fold/P0001_home_en_tablet_fold.png": {
+    "width": 768,
+    "height": 1024,
+    "stddev": 36.43,
+    "mean": 140.44,
+    "phash": "b4615c713c7b3469"
+  },
+  "screenshots/tablet/full-page/P0001_home_en_tablet_full.png": {
+    "width": 768,
+    "height": 4828,
+    "stddev": 83.3,
+    "mean": 159.03,
+    "phash": "9abc55026ad905fe"
+  },
+  "screenshots/mobile/above-fold/P0001_home_en_mobile_fold.png": {
+    "width": 390,
+    "height": 844,
+    "stddev": 40.28,
+    "mean": 145.22,
+    "phash": "8d5b8f617d0b5c21"
+  },
+  "screenshots/mobile/full-page/P0001_home_en_mobile_full.png": {
+    "width": 390,
+    "height": 5109,
+    "stddev": 91.94,
+    "mean": 154.65,
+    "phash": "aaa9119766de1179"
+  },
+  "screenshots/desktop/above-fold/P0002_products_en_desktop_fold.png": {
+    "width": 1440,
+    "height": 900,
+    "stddev": 81.79,
+    "mean": 204.79,
+    "phash": "ea34344d4d956a6d"
+  },
+  "screenshots/desktop/full-page/P0002_products_en_desktop_full.png": {
+    "width": 1440,
+    "height": 2480,
+    "stddev": 109.52,
+    "mean": 172.37,
+    "phash": "fafa05b53216e449"
+  },
+  "screenshots/tablet/above-fold/P0002_products_en_tablet_fold.png": {
+    "width": 768,
+    "height": 1024,
+    "stddev": 74.13,
+    "mean": 212.09,
+    "phash": "e33d701c5e581d63"
+  },
+  "screenshots/tablet/full-page/P0002_products_en_tablet_full.png": {
+    "width": 768,
+    "height": 3016,
+    "stddev": 99.67,
+    "mean": 193.08,
+    "phash": "e3eb1ca552bd6058"
+  },
+  "screenshots/mobile/above-fold/P0002_products_en_mobile_fold.png": {
+    "width": 390,
+    "height": 844,
+    "stddev": 117.15,
+    "mean": 117.37,
+    "phash": "e798981c143d576b"
+  },
+  "screenshots/mobile/full-page/P0002_products_en_mobile_full.png": {
+    "width": 390,
+    "height": 878,
+    "stddev": 117.35,
+    "mean": 116.68,
+    "phash": "e7989898142d5f6b"
+  },
+  "screenshots/desktop/above-fold/P0003_product_aqua-emulsion_en_desktop_fold.png": {
+    "width": 1440,
+    "height": 900,
+    "stddev": 71.04,
+    "mean": 217.77,
+    "phash": "bc67433c43433c3d"
+  },
+  "screenshots/desktop/full-page/P0003_product_aqua-emulsion_en_desktop_full.png": {
+    "width": 1440,
+    "height": 2665,
+    "stddev": 104.57,
+    "mean": 183.11,
+    "phash": "bebc1ce34343c741"
+  },
+  "screenshots/tablet/above-fold/P0003_product_aqua-emulsion_en_tablet_fold.png": {
+    "width": 768,
+    "height": 1024,
+    "stddev": 70.11,
+    "mean": 219.44,
+    "phash": "bc7c4343583c3ce3"
+  },
+  "screenshots/tablet/full-page/P0003_product_aqua-emulsion_en_tablet_full.png": {
+    "width": 768,
+    "height": 2819,
+    "stddev": 99.2,
+    "mean": 188.78,
+    "phash": "bebc58be60e34341"
+  },
+  "screenshots/mobile/above-fold/P0003_product_aqua-emulsion_en_mobile_fold.png": {
+    "width": 390,
+    "height": 844,
+    "stddev": 72.68,
+    "mean": 214.38,
+    "phash": "b1654e1f6c640f53"
+  },
+  "screenshots/mobile/full-page/P0003_product_aqua-emulsion_en_mobile_full.png": {
+    "width": 390,
+    "height": 3775,
+    "stddev": 101.93,
+    "mean": 186.7,
+    "phash": "bfa560a8674cbc13"
+  }
+}

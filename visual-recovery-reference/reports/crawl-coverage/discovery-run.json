@@ -1,0 +1,12 @@
+{
+  "start": "2026-09-02T14:08:13Z",
+  "requests": 3,
+  "sitemaps": [],
+  "errors": [],
+  "end": "2026-09-02T14:08:29Z",
+  "urls_total": 88,
+  "by_status": {
+    "pending": 87,
+    "excluded": 1
+  }
+}

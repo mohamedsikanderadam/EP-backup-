@@ -1,0 +1,2384 @@
+[
+  {
+    "ref_id": "P0001",
+    "discovered_url": "https://emiratespaints.com/",
+    "normalized_url": "https://emiratespaints.com/",
+    "final_url": "https://emiratespaints.com/",
+    "discovery_source": [
+      "client_url_list",
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "Emirates Paints - Premium Paints in UAE - Emirates Paints",
+    "language": "en-US",
+    "content_type": "html",
+    "http_status": 200,
+    "redirect_chain": [],
+    "capture_status": "captured",
+    "screenshots": [
+      "screenshots/desktop/above-fold/P0001_home_en_desktop_fold.png",
+      "screenshots/desktop/full-page/P0001_home_en_desktop_full.png",
+      "screenshots/interactive-states/P0001_home_en_desktop_search_open.png",
+      "screenshots/interactive-states/P0001_home_en_mobile_mobile_menu_open.png",
+      "screenshots/mobile/above-fold/P0001_home_en_mobile_fold.png",
+      "screenshots/mobile/full-page/P0001_home_en_mobile_full.png",
+      "screenshots/tablet/above-fold/P0001_home_en_tablet_fold.png",
+      "screenshots/tablet/full-page/P0001_home_en_tablet_full.png"
+    ],
+    "notes": "",
+    "slug": "home",
+    "discovered_at": "2026-09-02T14:08:13Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002",
+      "P0003"
+    ],
+    "captures": {
+      "desktop": {
+        "viewport": "desktop",
+        "started_at": "2026-09-02T14:22:16Z",
+        "status": "captured",
+        "files": [
+          "screenshots/desktop/above-fold/P0001_home_en_desktop_fold.png",
+          "screenshots/desktop/full-page/P0001_home_en_desktop_full.png",
+          "html/rendered/P0001_home_en_desktop.html",
+          "screenshots/interactive-states/P0001_home_en_desktop_search_open.png"
+        ],
+        "notes": [
+          "response HTML identical to desktop capture (sha256 match); not stored twice",
+          "interactive state search_open via .ts-header .search-button.search-icon",
+          "interactive state account_icon_hover failed: Locator.hover: Timeout 5000ms exceeded.\nCall log:\n  - waiting for locator(\".ts-header .my-account-wrapper\").nth(1)\n    -"
+        ],
+        "title": "Emirates Paints - Premium Paints in UAE - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/",
+        "http_status": 200,
+        "page_height": 4494,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:22:44Z",
+        "attempt": 1
+      },
+      "tablet": {
+        "viewport": "tablet",
+        "started_at": "2026-09-02T14:22:46Z",
+        "status": "captured",
+        "files": [
+          "screenshots/tablet/above-fold/P0001_home_en_tablet_fold.png",
+          "screenshots/tablet/full-page/P0001_home_en_tablet_full.png",
+          "html/rendered/P0001_home_en_tablet.html"
+        ],
+        "notes": [
+          "response HTML identical to desktop capture (sha256 match); not stored twice"
+        ],
+        "title": "Emirates Paints - Premium Paints in UAE - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/",
+        "http_status": 200,
+        "page_height": 4828,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:23:09Z",
+        "attempt": 1
+      },
+      "mobile": {
+        "viewport": "mobile",
+        "started_at": "2026-09-02T14:23:11Z",
+        "status": "captured",
+        "files": [
+          "screenshots/mobile/above-fold/P0001_home_en_mobile_fold.png",
+          "screenshots/mobile/full-page/P0001_home_en_mobile_full.png",
+          "html/rendered/P0001_home_en_mobile.html",
+          "screenshots/interactive-states/P0001_home_en_mobile_mobile_menu_open.png"
+        ],
+        "notes": [
+          "response HTML identical to desktop capture (sha256 match); not stored twice",
+          "interactive state mobile_menu_open via .ts-mobile-icon-toggle"
+        ],
+        "title": "Emirates Paints - Premium Paints in UAE - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/",
+        "http_status": 200,
+        "page_height": 5109,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:23:36Z",
+        "attempt": 1
+      }
+    },
+    "_response_body_hashes": {
+      "desktop": "beacd8e9cc0505c4978072737735078307c57c10fb311195086acee9b05b533b",
+      "tablet": "beacd8e9cc0505c4978072737735078307c57c10fb311195086acee9b05b533b",
+      "mobile": "beacd8e9cc0505c4978072737735078307c57c10fb311195086acee9b05b533b"
+    }
+  },
+  {
+    "ref_id": "P0002",
+    "discovered_url": "https://emiratespaints.com/products/",
+    "normalized_url": "https://emiratespaints.com/products/",
+    "final_url": "https://emiratespaints.com/products/",
+    "discovery_source": [
+      "client_url_list",
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "Products - Emirates Paints",
+    "language": "en-US",
+    "content_type": "html",
+    "http_status": 200,
+    "redirect_chain": [],
+    "capture_status": "captured",
+    "screenshots": [
+      "screenshots/desktop/above-fold/P0002_products_en_desktop_fold.png",
+      "screenshots/desktop/full-page/P0002_products_en_desktop_full.png",
+      "screenshots/interactive-states/P0002_products_en_desktop_search_open.png",
+      "screenshots/interactive-states/P0002_products_en_mobile_mobile_menu_open.png",
+      "screenshots/mobile/above-fold/P0002_products_en_mobile_fold.png",
+      "screenshots/mobile/full-page/P0002_products_en_mobile_full.png",
+      "screenshots/tablet/above-fold/P0002_products_en_tablet_fold.png",
+      "screenshots/tablet/full-page/P0002_products_en_tablet_full.png"
+    ],
+    "notes": "",
+    "slug": "products",
+    "discovered_at": "2026-09-02T14:08:13Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0003"
+    ],
+    "captures": {
+      "desktop": {
+        "viewport": "desktop",
+        "started_at": "2026-09-02T14:23:38Z",
+        "status": "captured",
+        "files": [
+          "html/response/P0002_products_en_desktop.html",
+          "screenshots/desktop/above-fold/P0002_products_en_desktop_fold.png",
+          "screenshots/desktop/full-page/P0002_products_en_desktop_full.png",
+          "html/rendered/P0002_products_en_desktop.html",
+          "screenshots/interactive-states/P0002_products_en_desktop_search_open.png"
+        ],
+        "notes": [
+          "interactive state search_open via .ts-header .search-button.search-icon"
+        ],
+        "title": "Products - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/products/",
+        "http_status": 200,
+        "page_height": 2480,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:23:58Z",
+        "attempt": 1
+      },
+      "tablet": {
+        "viewport": "tablet",
+        "started_at": "2026-09-02T14:24:01Z",
+        "status": "captured",
+        "files": [
+          "screenshots/tablet/above-fold/P0002_products_en_tablet_fold.png",
+          "screenshots/tablet/full-page/P0002_products_en_tablet_full.png",
+          "html/rendered/P0002_products_en_tablet.html"
+        ],
+        "notes": [
+          "response HTML identical to desktop capture (sha256 match); not stored twice"
+        ],
+        "title": "Products - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/products/",
+        "http_status": 200,
+        "page_height": 3016,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:24:23Z",
+        "attempt": 1
+      },
+      "mobile": {
+        "viewport": "mobile",
+        "started_at": "2026-09-02T14:24:26Z",
+        "status": "captured",
+        "files": [
+          "screenshots/mobile/above-fold/P0002_products_en_mobile_fold.png",
+          "screenshots/mobile/full-page/P0002_products_en_mobile_full.png",
+          "html/rendered/P0002_products_en_mobile.html",
+          "screenshots/interactive-states/P0002_products_en_mobile_mobile_menu_open.png"
+        ],
+        "notes": [
+          "response HTML identical to desktop capture (sha256 match); not stored twice",
+          "interactive state mobile_menu_open via .ts-mobile-icon-toggle"
+        ],
+        "title": "Products - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/products/",
+        "http_status": 200,
+        "page_height": 878,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:24:46Z",
+        "attempt": 1
+      }
+    },
+    "_response_body_hashes": {
+      "desktop": "1bc7a331ea0b51a4cea51dd5dc3038472955bc289e5468a7b06874da3a950f42",
+      "tablet": "1bc7a331ea0b51a4cea51dd5dc3038472955bc289e5468a7b06874da3a950f42",
+      "mobile": "1bc7a331ea0b51a4cea51dd5dc3038472955bc289e5468a7b06874da3a950f42"
+    }
+  },
+  {
+    "ref_id": "P0003",
+    "discovered_url": "https://emiratespaints.com/product/aqua-emulsion/",
+    "normalized_url": "https://emiratespaints.com/product/aqua-emulsion/",
+    "final_url": "https://emiratespaints.com/product/aqua-emulsion/",
+    "discovery_source": [
+      "client_url_list",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "AQUA EMULSION - Emirates Paints",
+    "language": "en-US",
+    "content_type": "html",
+    "http_status": 200,
+    "redirect_chain": [],
+    "capture_status": "captured",
+    "screenshots": [
+      "screenshots/desktop/above-fold/P0003_product_aqua-emulsion_en_desktop_fold.png",
+      "screenshots/desktop/full-page/P0003_product_aqua-emulsion_en_desktop_full.png",
+      "screenshots/interactive-states/P0003_product_aqua-emulsion_en_mobile_mobile_menu_open.png",
+      "screenshots/mobile/above-fold/P0003_product_aqua-emulsion_en_mobile_fold.png",
+      "screenshots/mobile/full-page/P0003_product_aqua-emulsion_en_mobile_full.png",
+      "screenshots/tablet/above-fold/P0003_product_aqua-emulsion_en_tablet_fold.png",
+      "screenshots/tablet/full-page/P0003_product_aqua-emulsion_en_tablet_full.png"
+    ],
+    "notes": "",
+    "slug": "product_aqua-emulsion",
+    "discovered_at": "2026-09-02T14:08:13Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ],
+    "captures": {
+      "desktop": {
+        "viewport": "desktop",
+        "started_at": "2026-09-02T14:24:49Z",
+        "status": "captured",
+        "files": [
+          "html/response/P0003_product_aqua-emulsion_en_desktop.html",
+          "screenshots/desktop/above-fold/P0003_product_aqua-emulsion_en_desktop_fold.png",
+          "screenshots/desktop/full-page/P0003_product_aqua-emulsion_en_desktop_full.png",
+          "html/rendered/P0003_product_aqua-emulsion_en_desktop.html"
+        ],
+        "notes": [],
+        "title": "AQUA EMULSION - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/product/aqua-emulsion/",
+        "http_status": 200,
+        "page_height": 2665,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:25:11Z",
+        "attempt": 1
+      },
+      "tablet": {
+        "viewport": "tablet",
+        "started_at": "2026-09-02T14:25:14Z",
+        "status": "captured",
+        "files": [
+          "screenshots/tablet/above-fold/P0003_product_aqua-emulsion_en_tablet_fold.png",
+          "screenshots/tablet/full-page/P0003_product_aqua-emulsion_en_tablet_full.png",
+          "html/rendered/P0003_product_aqua-emulsion_en_tablet.html"
+        ],
+        "notes": [
+          "response HTML identical to desktop capture (sha256 match); not stored twice"
+        ],
+        "title": "AQUA EMULSION - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/product/aqua-emulsion/",
+        "http_status": 200,
+        "page_height": 2819,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:25:35Z",
+        "attempt": 1
+      },
+      "mobile": {
+        "viewport": "mobile",
+        "started_at": "2026-09-02T14:25:37Z",
+        "status": "captured",
+        "files": [
+          "screenshots/mobile/above-fold/P0003_product_aqua-emulsion_en_mobile_fold.png",
+          "screenshots/mobile/full-page/P0003_product_aqua-emulsion_en_mobile_full.png",
+          "html/rendered/P0003_product_aqua-emulsion_en_mobile.html",
+          "screenshots/interactive-states/P0003_product_aqua-emulsion_en_mobile_mobile_menu_open.png"
+        ],
+        "notes": [
+          "response HTML identical to desktop capture (sha256 match); not stored twice",
+          "interactive state mobile_menu_open via .ts-mobile-icon-toggle"
+        ],
+        "title": "AQUA EMULSION - Emirates Paints",
+        "lang": "en-US",
+        "final_url": "https://emiratespaints.com/product/aqua-emulsion/",
+        "http_status": 200,
+        "page_height": 3775,
+        "broken_images": 0,
+        "visible_error_text": false,
+        "horizontal_overflow": false,
+        "finished_at": "2026-09-02T14:26:03Z",
+        "attempt": 1
+      }
+    },
+    "_response_body_hashes": {
+      "desktop": "d78067ae43dda1bed8bffce104f51b485fe0a1fc63289b6c6d59e84dfec787b0",
+      "tablet": "d78067ae43dda1bed8bffce104f51b485fe0a1fc63289b6c6d59e84dfec787b0",
+      "mobile": "d78067ae43dda1bed8bffce104f51b485fe0a1fc63289b6c6d59e84dfec787b0"
+    }
+  },
+  {
+    "ref_id": "P0004",
+    "discovered_url": "https://emiratespaints.com/product-category/red/",
+    "normalized_url": "https://emiratespaints.com/product-category/red/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product-category_red",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0005",
+    "discovered_url": "https://emiratespaints.com/inspirations/",
+    "normalized_url": "https://emiratespaints.com/inspirations/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "inspirations",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0006",
+    "discovered_url": "https://emiratespaints.com/find-a-store/",
+    "normalized_url": "https://emiratespaints.com/find-a-store/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "find-a-store",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0007",
+    "discovered_url": "https://emiratespaints.com/book-a-painter/",
+    "normalized_url": "https://emiratespaints.com/book-a-painter/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "book-a-painter",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0008",
+    "discovered_url": "https://emiratespaints.com/about-emirates-paints/",
+    "normalized_url": "https://emiratespaints.com/about-emirates-paints/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "about-emirates-paints",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0009",
+    "discovered_url": "https://emiratespaints.com/technical-data-sheets/",
+    "normalized_url": "https://emiratespaints.com/technical-data-sheets/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "technical-data-sheets",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0010",
+    "discovered_url": "https://emiratespaints.com/brochures/",
+    "normalized_url": "https://emiratespaints.com/brochures/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "brochures",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0011",
+    "discovered_url": "https://emiratespaints.com/contact/",
+    "normalized_url": "https://emiratespaints.com/contact/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "contact",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0012",
+    "discovered_url": "https://emiratespaints.com/privacy-policy-2/",
+    "normalized_url": "https://emiratespaints.com/privacy-policy-2/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "privacy-policy-2",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0013",
+    "discovered_url": "https://emiratespaints.com/terms-and-conditions/",
+    "normalized_url": "https://emiratespaints.com/terms-and-conditions/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "terms-and-conditions",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0014",
+    "discovered_url": "https://emiratespaints.com/my-account/",
+    "normalized_url": "https://emiratespaints.com/my-account/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "excluded",
+    "screenshots": [],
+    "notes": "Out of scope per production-safety rules (authenticated, state-changing, non-HTML feed or administrative endpoint)",
+    "slug": "my-account",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0015",
+    "discovered_url": "https://emiratespaints.com/wishlist",
+    "normalized_url": "https://emiratespaints.com/wishlist",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "wishlist",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0016",
+    "discovered_url": "https://emiratespaints.com/visulizer",
+    "normalized_url": "https://emiratespaints.com/visulizer",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "visulizer",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001"
+    ]
+  },
+  {
+    "ref_id": "P0017",
+    "discovered_url": "https://emiratespaints.com/find-store/",
+    "normalized_url": "https://emiratespaints.com/find-store/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "find-store",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001"
+    ]
+  },
+  {
+    "ref_id": "P0018",
+    "discovered_url": "https://emiratespaints.com/products/?filter_product-type=interior",
+    "normalized_url": "https://emiratespaints.com/products/?filter_product-type=interior",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_product-type_interior",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0019",
+    "discovered_url": "https://emiratespaints.com/products/?filter_product-type=exterior",
+    "normalized_url": "https://emiratespaints.com/products/?filter_product-type=exterior",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_product-type_exterior",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0020",
+    "discovered_url": "https://emiratespaints.com/products/?filter_product-type=industrial",
+    "normalized_url": "https://emiratespaints.com/products/?filter_product-type=industrial",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_product-type_industrial",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0021",
+    "discovered_url": "https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL",
+    "normalized_url": "https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "book-a-painter_service_residential",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001"
+    ]
+  },
+  {
+    "ref_id": "P0022",
+    "discovered_url": "https://emiratespaints.com/book-a-painter/?service=COMMERCIAL",
+    "normalized_url": "https://emiratespaints.com/book-a-painter/?service=COMMERCIAL",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "book-a-painter_service_commercial",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001"
+    ]
+  },
+  {
+    "ref_id": "P0023",
+    "discovered_url": "https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL",
+    "normalized_url": "https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "book-a-painter_service_industrial",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001"
+    ]
+  },
+  {
+    "ref_id": "P0024",
+    "discovered_url": "https://emiratespaints.com/home",
+    "normalized_url": "https://emiratespaints.com/home",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "home",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0025",
+    "discovered_url": "https://emiratespaints.com/about-us",
+    "normalized_url": "https://emiratespaints.com/about-us",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "about-us",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0026",
+    "discovered_url": "https://emiratespaints.com/contact",
+    "normalized_url": "https://emiratespaints.com/contact",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "contact",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0027",
+    "discovered_url": "https://emiratespaints.com/privacy-policy/",
+    "normalized_url": "https://emiratespaints.com/privacy-policy/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "privacy-policy",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0028",
+    "discovered_url": "https://emiratespaints.com/emirates-paints-blog/",
+    "normalized_url": "https://emiratespaints.com/emirates-paints-blog/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "emirates-paints-blog",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0029",
+    "discovered_url": "https://emiratespaints.com/book-a-painter",
+    "normalized_url": "https://emiratespaints.com/book-a-painter",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "book-a-painter",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0030",
+    "discovered_url": "https://emiratespaints.com/company-profile",
+    "normalized_url": "https://emiratespaints.com/company-profile",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0001",
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "company-profile",
+    "discovered_at": "2026-09-02T14:08:15Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0001",
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0031",
+    "discovered_url": "https://emiratespaints.com/products/page/2/",
+    "normalized_url": "https://emiratespaints.com/products/page/2/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_page_2",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0032",
+    "discovered_url": "https://emiratespaints.com/products/?filter_product-type=automotive",
+    "normalized_url": "https://emiratespaints.com/products/?filter_product-type=automotive",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_product-type_automotive",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0033",
+    "discovered_url": "https://emiratespaints.com/products/?filter_product-type=decorative",
+    "normalized_url": "https://emiratespaints.com/products/?filter_product-type=decorative",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_product-type_decorative",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0034",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=bathroom",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=bathroom",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_bathroom",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0035",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=bedroom",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=bedroom",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_bedroom",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0036",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=ceiling",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=ceiling",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_ceiling",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0037",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=childrens-room",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=childrens-room",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_childrens-room",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0038",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=dining-room",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=dining-room",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_dining-room",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0039",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=kitchen",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=kitchen",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_kitchen",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0040",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=living-room",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=living-room",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_living-room",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0041",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=moving-out",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=moving-out",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_moving-out",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0042",
+    "discovered_url": "https://emiratespaints.com/products/?filter_location=office",
+    "normalized_url": "https://emiratespaints.com/products/?filter_location=office",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_location_office",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0043",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=concrete",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=concrete",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_concrete",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0044",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=grc-board",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=grc-board",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_grc-board",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0045",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=gypsum",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=gypsum",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_gypsum",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0046",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=mansory",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=mansory",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_mansory",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0047",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=metal",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=metal",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_metal",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0048",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=plaster",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=plaster",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_plaster",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0049",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=wood",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=wood",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_wood",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0050",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=glass",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=glass",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_glass",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0051",
+    "discovered_url": "https://emiratespaints.com/products/?filter_surface=steel",
+    "normalized_url": "https://emiratespaints.com/products/?filter_surface=steel",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_surface_steel",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0052",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=clear",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=clear",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_clear",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0053",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=gloss",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=gloss",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_gloss",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0054",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=matt",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=matt",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_matt",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0055",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=semi-gloss",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=semi-gloss",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_semi-gloss",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0056",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=textured",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=textured",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_textured",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0057",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=free-flowing-liquid",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=free-flowing-liquid",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_free-flowing-liquid",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0058",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=transparent-clear",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=transparent-clear",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_transparent-clear",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0059",
+    "discovered_url": "https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise",
+    "normalized_url": "https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_filter_finish_viscous-10-12-poise",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0060",
+    "discovered_url": "https://emiratespaints.com/product/2k-primer/",
+    "normalized_url": "https://emiratespaints.com/product/2k-primer/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_2k-primer",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0061",
+    "discovered_url": "https://emiratespaints.com/product/2k-top-coat-gloss/",
+    "normalized_url": "https://emiratespaints.com/product/2k-top-coat-gloss/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_2k-top-coat-gloss",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0062",
+    "discovered_url": "https://emiratespaints.com/product/acrylic-primer/",
+    "normalized_url": "https://emiratespaints.com/product/acrylic-primer/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002",
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_acrylic-primer",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002",
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0063",
+    "discovered_url": "https://emiratespaints.com/product/alkyd-enamel-eco-master-gloss/",
+    "normalized_url": "https://emiratespaints.com/product/alkyd-enamel-eco-master-gloss/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_alkyd-enamel-eco-master-gloss",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0064",
+    "discovered_url": "https://emiratespaints.com/product/alkyd-enamel-qd/",
+    "normalized_url": "https://emiratespaints.com/product/alkyd-enamel-qd/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_alkyd-enamel-qd",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0065",
+    "discovered_url": "https://emiratespaints.com/product/chroma-2k-clear-gloss/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-2k-clear-gloss/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-2k-clear-gloss",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0066",
+    "discovered_url": "https://emiratespaints.com/product/chroma-2k-clear-matt/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-2k-clear-matt/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-2k-clear-matt",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0067",
+    "discovered_url": "https://emiratespaints.com/product/chroma-2k-hardener/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-2k-hardener/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-2k-hardener",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0068",
+    "discovered_url": "https://emiratespaints.com/product/chroma-2k-primer/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-2k-primer/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-2k-primer",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0069",
+    "discovered_url": "https://emiratespaints.com/product/chroma-2k-thinner/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-2k-thinner/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-2k-thinner",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0070",
+    "discovered_url": "https://emiratespaints.com/product/chroma-2k-topcoat-gloss/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-2k-topcoat-gloss/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-2k-topcoat-gloss",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0071",
+    "discovered_url": "https://emiratespaints.com/product/chroma-2k-topcoat-matt/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-2k-topcoat-matt/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-2k-topcoat-matt",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0072",
+    "discovered_url": "https://emiratespaints.com/product/chroma-emalux-base-coat/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-emalux-base-coat/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-emalux-base-coat",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0073",
+    "discovered_url": "https://emiratespaints.com/product/chroma-emalux-primer/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-emalux-primer/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-emalux-primer",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0074",
+    "discovered_url": "https://emiratespaints.com/product/chroma-nc-clear-matt/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-nc-clear-matt/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-nc-clear-matt",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0075",
+    "discovered_url": "https://emiratespaints.com/product/chroma-nc-clear-semi-gloss/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-nc-clear-semi-gloss/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-nc-clear-semi-gloss",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0076",
+    "discovered_url": "https://emiratespaints.com/product/chroma-nc-primer/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-nc-primer/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-nc-primer",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0077",
+    "discovered_url": "https://emiratespaints.com/product/chroma-nc-putty/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-nc-putty/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-nc-putty",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0078",
+    "discovered_url": "https://emiratespaints.com/product/chroma-nc-thinner/",
+    "normalized_url": "https://emiratespaints.com/product/chroma-nc-thinner/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_chroma-nc-thinner",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0079",
+    "discovered_url": "https://emiratespaints.com/products/page/3/",
+    "normalized_url": "https://emiratespaints.com/products/page/3/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_page_3",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0080",
+    "discovered_url": "https://emiratespaints.com/products/page/4/",
+    "normalized_url": "https://emiratespaints.com/products/page/4/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_page_4",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0081",
+    "discovered_url": "https://emiratespaints.com/products/page/5/",
+    "normalized_url": "https://emiratespaints.com/products/page/5/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "products_page_5",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0082",
+    "discovered_url": "https://emiratespaints.com/product-category/women/",
+    "normalized_url": "https://emiratespaints.com/product-category/women/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0002"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product-category_women",
+    "discovered_at": "2026-09-02T14:08:20Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0002"
+    ]
+  },
+  {
+    "ref_id": "P0083",
+    "discovered_url": "https://emiratespaints.com/wp-content/uploads/2022/08/AQUA-EMULSION.webp",
+    "normalized_url": "https://emiratespaints.com/wp-content/uploads/2022/08/AQUA-EMULSION.webp",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "image",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "wp-content_uploads_2022_08_aqua-emulsion_webp",
+    "discovered_at": "2026-09-02T14:08:27Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0084",
+    "discovered_url": "https://emiratespaints.com/product/shield-tex-silk/",
+    "normalized_url": "https://emiratespaints.com/product/shield-tex-silk/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_shield-tex-silk",
+    "discovered_at": "2026-09-02T14:08:27Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0085",
+    "discovered_url": "https://emiratespaints.com/product/ema-pu-wood-topcoat-matt-21/",
+    "normalized_url": "https://emiratespaints.com/product/ema-pu-wood-topcoat-matt-21/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_ema-pu-wood-topcoat-matt-21",
+    "discovered_at": "2026-09-02T14:08:27Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0086",
+    "discovered_url": "https://emiratespaints.com/product/emashield-pu-wood-clear-gloss-41/",
+    "normalized_url": "https://emiratespaints.com/product/emashield-pu-wood-clear-gloss-41/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_emashield-pu-wood-clear-gloss-41",
+    "discovered_at": "2026-09-02T14:08:27Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0087",
+    "discovered_url": "https://emiratespaints.com/product/hammer-finish/",
+    "normalized_url": "https://emiratespaints.com/product/hammer-finish/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_hammer-finish",
+    "discovered_at": "2026-09-02T14:08:27Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0003"
+    ]
+  },
+  {
+    "ref_id": "P0088",
+    "discovered_url": "https://emiratespaints.com/product/polydex/",
+    "normalized_url": "https://emiratespaints.com/product/polydex/",
+    "final_url": "",
+    "discovery_source": [
+      "link:P0003"
+    ],
+    "page_title": "",
+    "language": "",
+    "content_type": "html",
+    "http_status": null,
+    "redirect_chain": [],
+    "capture_status": "pending",
+    "screenshots": [],
+    "notes": "",
+    "slug": "product_polydex",
+    "discovered_at": "2026-09-02T14:08:27Z",
+    "in_sitemap": false,
+    "linked_from": [
+      "P0003"
+    ]
+  }
+]
