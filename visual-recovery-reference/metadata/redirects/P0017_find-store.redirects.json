@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0017",
+  "url": "https://emiratespaints.com/find-store/",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/find-store/",
+      "status": 301,
+      "location": "https://emiratespaints.com/find-a-store/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/find-a-store/"
+}

@@ -1,0 +1,36 @@
+{
+  "ref_id": "P0422",
+  "url": "https://emiratespaints.com/products/?filter_location=bedroom%2Cchildrens-room",
+  "captured_at": "2026-09-02T20:44:42Z",
+  "navigation_started_at": "2026-09-02T20:44:36Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:44:37 GMT",
+    "etag": "\"18-1788364558;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"18-1788364558;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "815bfdc2d0421d801492f27c5365a6a51916b0061baed949d027df3ea5f72eb2",
+  "response_body_bytes": 284681,
+  "response_body_file": "html/response/P0422_products_filter_location_bedroom_2cchildrens-room.html"
+}

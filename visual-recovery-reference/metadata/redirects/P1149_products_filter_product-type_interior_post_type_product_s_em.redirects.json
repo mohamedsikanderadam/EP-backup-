@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1149",
+  "url": "https://emiratespaints.com/products/?filter_product-type=interior&post_type=product&s=emulsion+",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_product-type=interior&post_type=product&s=emulsion+",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/aqua-emulsion/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/product/aqua-emulsion/"
+}

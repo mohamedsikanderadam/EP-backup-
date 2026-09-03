@@ -1,0 +1,40 @@
+{
+  "ref_id": "P1082",
+  "url": "https://emiratespaints.com/painting-contractors-in-dubai-emirates-paints/",
+  "captured_at": "2026-09-02T23:32:45Z",
+  "navigation_started_at": "2026-09-02T23:32:36Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 23:32:38 GMT",
+    "etag": "\"938-1788391958;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9470>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9470>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.086513b972979a4efb76ff9fc2dee4e4,905_Po.9470,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"938-1788391958;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.086513b972979a4efb76ff9fc2dee4e4,905_Po.9470,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "79964e0191e4638606e1b0d0daa11861f41843ef9068fa2b8054a349adff0b41",
+  "response_body_bytes": 276905,
+  "response_body_file": "html/response/P1082_painting-contractors-in-dubai-emirates-paints.html"
+}

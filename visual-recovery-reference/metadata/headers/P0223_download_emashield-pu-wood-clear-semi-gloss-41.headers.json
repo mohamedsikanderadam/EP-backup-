@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0223",
+  "url": "https://emiratespaints.com/download/emashield-pu-wood-clear-semi-gloss-41/",
+  "captured_at": "2026-09-02T18:50:58Z",
+  "navigation_started_at": "2026-09-02T18:50:48Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:50:50 GMT",
+    "etag": "\"435-1788375050;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11566>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.e5f2fcb9ef6adda69d886a79be5ccfb1,905_Po.11566,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"435-1788375050;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.e5f2fcb9ef6adda69d886a79be5ccfb1,905_Po.11566,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "3f2bdff164ff96850687b237f1a9aacb5da300d0d4e6e7e0b1ff61367e2a0a5e",
+  "response_body_bytes": 252199,
+  "response_body_file": "html/response/P0223_download_emashield-pu-wood-clear-semi-gloss-41.html"
+}

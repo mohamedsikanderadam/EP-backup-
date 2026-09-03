@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0679",
+  "url": "https://emiratespaints.com/unveiling-the-charm-of-odorless-paint-a-comprehensive-guide/",
+  "captured_at": "2026-09-02T22:06:53Z",
+  "navigation_started_at": "2026-09-02T22:06:38Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:06:45 GMT",
+    "etag": "\"780-1788386805;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9015>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9015>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.24de96ee1848525899a588153e0e3b77,905_Po.9015,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"780-1788386805;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.24de96ee1848525899a588153e0e3b77,905_Po.9015,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "ed8c5527f3baf7ab9c55cd50ae5844fae582d5e5c30b1a3376e5884b26d5131f",
+  "response_body_bytes": 276248,
+  "response_body_file": "html/response/P0679_unveiling-the-charm-of-odorless-paint-a-comprehensive-guide.html"
+}

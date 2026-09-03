@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0243",
+  "url": "https://emiratespaints.com/bedroom-wall-painting-a-guide-for-uae-homeowners/",
+  "captured_at": "2026-09-02T19:08:54Z",
+  "navigation_started_at": "2026-09-02T19:08:44Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:08:46 GMT",
+    "etag": "\"464-1788376126;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10112>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10112>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.68f98ebf9a310087dd28f9e0e17cdf2f,905_Po.10112,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"464-1788376126;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.68f98ebf9a310087dd28f9e0e17cdf2f,905_Po.10112,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "76413744d907d7d5e86f71059119a82357dbd94b0fda9788d1593d3861141464",
+  "response_body_bytes": 278621,
+  "response_body_file": "html/response/P0243_bedroom-wall-painting-a-guide-for-uae-homeowners.html"
+}

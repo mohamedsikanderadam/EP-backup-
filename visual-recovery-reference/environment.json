@@ -1,5 +1,5 @@
 {
-  "recorded_at": "2026-09-02T14:22:16Z",
+  "recorded_at": "2026-09-02T22:43:36Z",
   "tool": "vrr 1.0.0",
   "browser_name": "chromium",
   "browser_version": "151.0.7922.34",
@@ -42,5 +42,7 @@
   "cache_bypass_headers_sent": false,
   "cache_busting_query_params": false,
   "authenticated": false,
+  "one_navigation_per_url": true,
+  "viewport_method": "single page load; tablet/mobile captured by in-page viewport resize (no reload)",
   "config_file": "/home/ubuntu/repos/EP-backup-/capture.config.json"
 }

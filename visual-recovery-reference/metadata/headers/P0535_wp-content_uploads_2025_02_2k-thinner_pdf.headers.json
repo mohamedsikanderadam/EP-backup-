@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0535",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/2K-THINNER.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Fri, 07 Feb 2025 06:34:22 GMT",
+    "etag": "\"99055-67a5a96e-ed19bda466fec1b;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "626773",
+    "date": "Wed, 02 Sep 2026 21:34:23 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Fri, 07 Feb 2025 06:34:22 GMT",
+    "etag": "\"99055-67a5a96e-ed19bda466fec1b;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T21:34:25Z"
+}

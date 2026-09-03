@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1057",
+  "url": "https://emiratespaints.com/products/?filter_finish=transparent-clear&post_type=product&s=primer",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_finish=transparent-clear&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/chroma-2k-thinner/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/product/chroma-2k-thinner/"
+}

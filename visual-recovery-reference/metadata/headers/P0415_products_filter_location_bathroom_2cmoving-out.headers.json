@@ -1,0 +1,36 @@
+{
+  "ref_id": "P0415",
+  "url": "https://emiratespaints.com/products/?filter_location=bathroom%2Cmoving-out",
+  "captured_at": "2026-09-02T20:40:40Z",
+  "navigation_started_at": "2026-09-02T20:40:30Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:40:31 GMT",
+    "etag": "\"215-1788369215;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"215-1788369215;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "774d8c91d0b5d01698dd28cc92174cf2a941df986a076b9f5e44bdb610bc7acc",
+  "response_body_bytes": 283110,
+  "response_body_file": "html/response/P0415_products_filter_location_bathroom_2cmoving-out.html"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0175",
+  "url": "https://emiratespaints.com/download/emashield-top-coat-silk/",
+  "captured_at": "2026-09-02T18:09:07Z",
+  "navigation_started_at": "2026-09-02T18:08:56Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:08:59 GMT",
+    "etag": "\"341-1788372539;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9948>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.5eb0e9cebdb2653b49a498189650f508,905_Po.9948,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"341-1788372539;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.5eb0e9cebdb2653b49a498189650f508,905_Po.9948,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "aa80c0ede39c934cbbfacd75bff23157e4e6ab781b26eeae5238bc18a4204ae4",
+  "response_body_bytes": 251638,
+  "response_body_file": "html/response/P0175_download_emashield-top-coat-silk.html"
+}

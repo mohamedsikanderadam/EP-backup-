@@ -75,3 +75,22 @@ Discovery so far: 88 URLs seen, ~215 in queue; expect ~150–300 HTML pages afte
 6. Repo `EP-backup-` to be created/shared so the package can be pushed.
 
 **Awaiting: approval to run the full production crawl, and repo access.**
+
+---
+
+## Addendum – full crawl outcome (2026-09-02/03, LiteSpeed single-request model)
+
+The request-volume estimate above assumed three navigations per page. After the LiteSpeed guidance the tool was changed to **one browser navigation per URL** (tablet/mobile by in-page resize). Actual figures:
+
+| Metric | Value |
+|---|---:|
+| Manifest rows | 1,286 |
+| HTML pages captured (3 viewports) | 609 (31 of them HTTP 404 pages, preserved) |
+| Public documents archived | 46 |
+| Excluded (admin/state-changing/feeds + combinatorial faceted-filter URLs) | 567 |
+| Total production requests, all purposes | 741 |
+| Pages with `x-litespeed-cache: hit` / `miss` / none | 45 / 535 / 75 |
+| Wall time | ~9 h at concurrency 1 |
+| Evidence size | 2.1 GB, 10,983 hashed files |
+
+Key observations: most pages were served as MISS (regenerated at request time), yet HIT and MISS responses reference the same `yobazar` / `yobazar-child` theme; `/brochures/` returns HTTP 200 with an empty body; `/products/` filter views collapse to the filter sidebar only on mobile. All per-URL request histories are in `url-manifest.json` → `requests[]`.

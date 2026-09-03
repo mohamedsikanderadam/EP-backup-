@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1286",
+  "url": "https://emiratespaints.com/products/page/1/?Filter_product-kind=indoors",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?Filter_product-kind=indoors",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?Filter_product-kind=indoors"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?Filter_product-kind=indoors"
+}

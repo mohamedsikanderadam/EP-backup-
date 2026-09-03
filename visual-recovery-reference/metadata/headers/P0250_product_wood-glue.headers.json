@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0250",
+  "url": "https://emiratespaints.com/product/wood-glue/",
+  "captured_at": "2026-09-02T19:15:25Z",
+  "navigation_started_at": "2026-09-02T19:15:12Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:15:15 GMT",
+    "etag": "\"477-1788376515;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10522>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10522>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.a4bc04409867b8c8a67267e686cdcbbe,905_Po.10522,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"477-1788376515;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.a4bc04409867b8c8a67267e686cdcbbe,905_Po.10522,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "555329bd9a9f5e935b736b6d0669e95a0c6a134e2c81758439ac8ed741c13c59",
+  "response_body_bytes": 260405,
+  "response_body_file": "html/response/P0250_product_wood-glue.html"
+}

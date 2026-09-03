@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0113",
+  "url": "https://emiratespaints.com/download/emafinetex/",
+  "captured_at": "2026-09-02T17:13:48Z",
+  "navigation_started_at": "2026-09-02T17:13:37Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:13:39 GMT",
+    "etag": "\"216-1788369219;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9828>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.48a2b82d29a44943788f23e3dc9d71d4,905_Po.9828,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"216-1788369219;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.48a2b82d29a44943788f23e3dc9d71d4,905_Po.9828,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "7527c7da232216cf8fced04f616e79cb97c542d5389be8c882230409018cd85f",
+  "response_body_bytes": 251103,
+  "response_body_file": "html/response/P0113_download_emafinetex.html"
+}

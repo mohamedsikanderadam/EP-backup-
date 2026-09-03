@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0214",
+  "url": "https://emiratespaints.com/download/nc-wood-filler/",
+  "captured_at": "2026-09-02T18:43:08Z",
+  "navigation_started_at": "2026-09-02T18:42:57Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:42:59 GMT",
+    "etag": "\"413-1788374579;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11540>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.7db8f5763db4d0ae7a07f3cb64788f6d,905_Po.11540,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"413-1788374579;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.7db8f5763db4d0ae7a07f3cb64788f6d,905_Po.11540,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "f936c101ff3c1b25513f9d80ff8c9081c8e9ab19a28eef3ac6ab6249efefbefd",
+  "response_body_bytes": 251211,
+  "response_body_file": "html/response/P0214_download_nc-wood-filler.html"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0717",
+  "url": "https://emiratespaints.com/what-is-quick-dry-enamel-paint-emirates-paints/",
+  "captured_at": "2026-09-02T22:45:56Z",
+  "navigation_started_at": "2026-09-02T22:45:47Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:45:49 GMT",
+    "etag": "\"852-1788389149;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9012>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9012>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.e937b73b01e4cc1254469b7146c02e29,905_Po.9012,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"852-1788389149;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.e937b73b01e4cc1254469b7146c02e29,905_Po.9012,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "5a470d59d2e263742bed5c92a81aa20822890c18f2f053827f71d115e7eb7d19",
+  "response_body_bytes": 276833,
+  "response_body_file": "html/response/P0717_what-is-quick-dry-enamel-paint-emirates-paints.html"
+}

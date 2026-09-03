@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1135",
+  "url": "https://emiratespaints.com/visualizer/",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/visualizer/",
+      "status": 301,
+      "location": "https://visualizer.emiratespaints.com/"
+    }
+  ],
+  "final_url": "https://visualizer.emiratespaints.com/"
+}

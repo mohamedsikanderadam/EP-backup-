@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0930",
+  "url": "https://emiratespaints.com/products/page/1/?filter_location=dining-room",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_location=dining-room",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_location=dining-room"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?filter_location=dining-room"
+}

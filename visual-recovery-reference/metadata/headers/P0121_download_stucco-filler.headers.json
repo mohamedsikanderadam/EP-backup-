@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0121",
+  "url": "https://emiratespaints.com/download/stucco-filler/",
+  "captured_at": "2026-09-02T17:20:40Z",
+  "navigation_started_at": "2026-09-02T17:20:31Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:20:33 GMT",
+    "etag": "\"226-1788369633;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9839>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.4f07f758b8098da3a295b92d98bd49b1,905_Po.9839,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"226-1788369633;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.4f07f758b8098da3a295b92d98bd49b1,905_Po.9839,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "663d3074c36f008c2f68fc4bd5942d3a294d5b3cfce9c43f0b5be1f282a3ccdb",
+  "response_body_bytes": 251237,
+  "response_body_file": "html/response/P0121_download_stucco-filler.html"
+}

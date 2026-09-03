@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0180",
+  "url": "https://emiratespaints.com/download/majestic-antifungal-silk/",
+  "captured_at": "2026-09-02T18:13:28Z",
+  "navigation_started_at": "2026-09-02T18:13:16Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:13:18 GMT",
+    "etag": "\"347-1788372798;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11413>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.3b781a3cc5e1e88ed4288fce849dc15d,905_Po.11413,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"347-1788372798;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.3b781a3cc5e1e88ed4288fce849dc15d,905_Po.11413,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "c5ff3a1af66696df9d2b25aedd0050e4a20f264d6ec4d4ae4571bbe0863e6bcb",
+  "response_body_bytes": 251654,
+  "response_body_file": "html/response/P0180_download_majestic-antifungal-silk.html"
+}

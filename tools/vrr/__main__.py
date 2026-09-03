@@ -14,12 +14,15 @@ def main() -> None:
     p = sub.add_parser("discover", help="passive URL discovery (sitemaps, robots.txt, internal links)")
     p.add_argument("--limit", type=int, default=None, help="max HTML pages to fetch during discovery")
     p.add_argument("--only", nargs="*", default=None, help="discover only these URLs (pilot mode)")
+    p.add_argument("--fetch-pages", action="store_true",
+                   help="also GET HTML pages during discovery (adds a request per URL; off by default for LiteSpeed sites)")
 
     p = sub.add_parser("capture", help="rate-limited Playwright capture of manifest rows")
     p.add_argument("--refs", nargs="*", default=None, help="restrict to these reference IDs")
     p.add_argument("--viewports", nargs="*", default=None)
     p.add_argument("--max-pages", type=int, default=None)
     p.add_argument("--force", action="store_true", help="re-capture rows already marked captured (overwrites files)")
+    p.add_argument("--no-expand", action="store_true", help="do not queue new URLs found in rendered pages")
 
     sub.add_parser("qa", help="automated quality assurance checks")
     sub.add_parser("integrity", help="SHA-256 hashing and evidence register")
@@ -31,10 +34,11 @@ def main() -> None:
 
     if a.cmd == "discover":
         from .discover import run_discovery
-        run_discovery(cfg, limit=a.limit, only=a.only)
+        run_discovery(cfg, limit=a.limit, only=a.only, fetch_pages=a.fetch_pages)
     elif a.cmd == "capture":
         from .capture import run_capture
-        run_capture(cfg, refs=a.refs, viewports=a.viewports, max_pages=a.max_pages, force=a.force)
+        run_capture(cfg, refs=a.refs, viewports=a.viewports, max_pages=a.max_pages, force=a.force,
+                    expand_links=not a.no_expand)
     elif a.cmd == "qa":
         from .qa import run_qa
         run_qa(cfg)

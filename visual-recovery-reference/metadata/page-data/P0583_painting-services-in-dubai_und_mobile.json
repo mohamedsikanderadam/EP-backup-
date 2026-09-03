@@ -1,0 +1,315 @@
+{
+  "title": "Painting Services in Dubai - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/painting-services-in-dubai/",
+  "meta_description": "Do you think about your home or office a new look with a fresh coat of paint or looking for the best painting services in Dubai? Discover Emirates Paints, a",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Painting Services in Dubai - Emirates Paints",
+    "og:description": "Do you think about your home or office a new look with a fresh coat of paint or looking for the best painting services in Dubai? Discover Emirates Paints, a",
+    "og:url": "https://emiratespaints.com/painting-services-in-dubai/",
+    "og:site_name": "Emirates Paints",
+    "og:updated_time": "2024-09-30T05:56:00+00:00",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2023/06/1681620861211-1024x535.jpeg",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2023/06/1681620861211-1024x535.jpeg",
+    "og:image:width": "1024",
+    "og:image:height": "535",
+    "og:image:alt": "Painting Services in Dubai",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2023/06/1681620861211.jpeg",
+          "url": "https://emiratespaints.com/wp-content/uploads/2023/06/1681620861211.jpeg",
+          "width": "2048",
+          "height": "1070",
+          "caption": "Painting Services in Dubai",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/painting-services-in-dubai/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/painting-services-in-dubai/",
+                "name": "Painting Services in Dubai"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://emiratespaints.com/painting-services-in-dubai/#webpage",
+          "url": "https://emiratespaints.com/painting-services-in-dubai/",
+          "name": "Painting Services in Dubai - Emirates Paints",
+          "datePublished": "2024-03-31T05:43:22+00:00",
+          "dateModified": "2024-09-30T05:56:00+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2023/06/1681620861211.jpeg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/painting-services-in-dubai/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://emiratespaints.com/author/mansoor/",
+          "name": "Sakib Ahmed",
+          "url": "https://emiratespaints.com/author/mansoor/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "url": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "caption": "Sakib Ahmed",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://emiratespaints.com"
+          ],
+          "worksFor": {
+            "@id": "https://emiratespaints.com/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Painting Services in Dubai - Emirates Paints",
+          "keywords": "painting services in Dubai",
+          "datePublished": "2024-03-31T05:43:22+00:00",
+          "dateModified": "2024-09-30T05:56:00+00:00",
+          "author": {
+            "@id": "https://emiratespaints.com/author/mansoor/",
+            "name": "Sakib Ahmed"
+          },
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "description": "Do you think about your home or office a new look with a fresh coat of paint or looking for the best painting services in Dubai? Discover Emirates Paints, a",
+          "name": "Painting Services in Dubai - Emirates Paints",
+          "@id": "https://emiratespaints.com/painting-services-in-dubai/#richSnippet",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/painting-services-in-dubai/#webpage"
+          },
+          "image": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2023/06/1681620861211.jpeg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/painting-services-in-dubai/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 24,
+  "broken_images": [
+    "https://media.licdn.com/dms/image/C4D22AQHZQjGT7FWCFw/feedshare-shrink_1280/0/1666199737297?e=1690416000&v=beta&t=Omv9SntgSWjm-tC14OlHm60rjam3Aw4WmSxSeIyzZhI"
+  ],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-874"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/2024/03/31/",
+    "https://emiratespaints.com/painting-services-in-dubai/#respond",
+    "https://emiratespaints.com/how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by-step-tutorial/",
+    "https://emiratespaints.com/emirates-paints-quality-industrial-paint-manufacturers/",
+    "https://emiratespaints.com/bedroom-wall-painting-a-guide-for-uae-homeowners/",
+    "https://emiratespaints.com/non-toxic-paint-for-babies-emirates-paints/",
+    "https://emiratespaints.com/guide-to-painting-holidays-with-emirates-paints/",
+    "https://emiratespaints.com/shield-top-coat-paint-from-emirates-paints/",
+    "https://emiratespaints.com/blog",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/painting-services-in-dubai/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.thespruce.com/low-voc-paint-and-no-voc-paint-1976533",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 4275,
+  "body_text_excerpt": "Search PAINTING SERVICES IN DUBAI March 31, 2024 No Comments Do you think about your home or office a new look with a fresh coat of paint or looking for the best painting services in Dubai? Discover Emirates Paints, a rising painting company in Dubai, offering exceptional services.. Emirates Paints is quickly establishing itself as a trusted choice for all your painting needs, thanks to it’s devoted team of specialists and devotion to producing outstanding results. In this post, we’ll look at the advantages of their services and emphasize their website’s handy “Book a Painter” function. Emirat",
+  "page_height": 6231,
+  "page_width": 390,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementor-pro",
+    "elementskit-lite",
+    "elementskit",
+    "ultimate-member",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0583",
+  "url": "https://emiratespaints.com/painting-services-in-dubai/",
+  "final_url": "https://emiratespaints.com/painting-services-in-dubai/",
+  "viewport": "mobile",
+  "viewport_size": {
+    "width": 390,
+    "height": 844,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T21:58:44Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"762-1788386268;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.473f6c23c6079e21104ee42447cd9e55,905_Po.7011,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 220,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

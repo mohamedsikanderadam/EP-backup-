@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0568",
+  "url": "https://emiratespaints.com/exterior-paint-from-emirates-paints-will-completely-change-the-look-of-your-home/",
+  "captured_at": "2026-09-02T21:42:40Z",
+  "navigation_started_at": "2026-09-02T21:42:30Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 21:42:32 GMT",
+    "etag": "\"735-1788385352;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9705>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9705>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.d73d04b5da487c0e5389f82b4583d073,905_Po.9705,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"735-1788385352;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.d73d04b5da487c0e5389f82b4583d073,905_Po.9705,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "bbbd1b9029065c63b7ba732f13ab59806cbeec30fdbcbea936d362606a2ab447",
+  "response_body_bytes": 275566,
+  "response_body_file": "html/response/P0568_exterior-paint-from-emirates-paints-will-completely-change-t.html"
+}

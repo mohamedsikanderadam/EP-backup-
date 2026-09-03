@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0955",
+  "url": "https://emiratespaints.com/products/page/1/?filter_location=living-room",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_location=living-room",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_location=living-room"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?filter_location=living-room"
+}

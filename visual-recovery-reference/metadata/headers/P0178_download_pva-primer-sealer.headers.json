@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0178",
+  "url": "https://emiratespaints.com/download/pva-primer-sealer/",
+  "captured_at": "2026-09-02T18:11:43Z",
+  "navigation_started_at": "2026-09-02T18:11:33Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:11:35 GMT",
+    "etag": "\"345-1788372695;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11386>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.b7de94f58ff9471cc2447d8c6bbbd286,905_Po.11386,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"345-1788372695;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.b7de94f58ff9471cc2447d8c6bbbd286,905_Po.11386,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "94eb2f61b328626aab529fb6f619b13246126f196ffd8a150d703d1bcae52a0b",
+  "response_body_bytes": 251346,
+  "response_body_file": "html/response/P0178_download_pva-primer-sealer.html"
+}

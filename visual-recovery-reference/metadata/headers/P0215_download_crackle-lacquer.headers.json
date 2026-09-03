@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0215",
+  "url": "https://emiratespaints.com/download/crackle-lacquer/",
+  "captured_at": "2026-09-02T18:44:00Z",
+  "navigation_started_at": "2026-09-02T18:43:49Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:43:52 GMT",
+    "etag": "\"417-1788374632;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11546>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.5a8cdb172afd927f2ba77cb6a619075b,905_Po.11546,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"417-1788374632;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.5a8cdb172afd927f2ba77cb6a619075b,905_Po.11546,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "d3a22cb1bd752f41913ccc4a59c30804196f1e85aa7f626e2f6a6156b58365fd",
+  "response_body_bytes": 251256,
+  "response_body_file": "html/response/P0215_download_crackle-lacquer.html"
+}

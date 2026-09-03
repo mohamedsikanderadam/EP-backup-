@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0703",
+  "url": "https://emiratespaints.com/discover-the-brilliance-of-acrylic-copolymer-based-paint/",
+  "captured_at": "2026-09-02T22:29:51Z",
+  "navigation_started_at": "2026-09-02T22:29:41Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:29:43 GMT",
+    "etag": "\"820-1788388183;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/7286>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=7286>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.a23008edf2db499063df483b4c93f15d,905_Po.7286,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"820-1788388183;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.a23008edf2db499063df483b4c93f15d,905_Po.7286,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "93c089f41c302f312ca25cf355e75a3e0d068cc9587dd14bac00e88666c5c18a",
+  "response_body_bytes": 275377,
+  "response_body_file": "html/response/P0703_discover-the-brilliance-of-acrylic-copolymer-based-paint.html"
+}

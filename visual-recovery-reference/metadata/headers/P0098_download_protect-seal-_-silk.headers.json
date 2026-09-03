@@ -1,0 +1,37 @@
+{
+  "ref_id": "P0098",
+  "url": "https://emiratespaints.com/download/protect-seal-%C2%B7-silk/",
+  "captured_at": "2026-09-02T17:00:35Z",
+  "navigation_started_at": "2026-09-02T17:00:25Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-length": "43928",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:00:26 GMT",
+    "etag": "\"175-1788368167;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9806>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"175-1788368167;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "58bb01c3568ae749f293ba61394b0c93c28d6bf94bf87bc716ae975d60ddc8f5",
+  "response_body_bytes": 251562,
+  "response_body_file": "html/response/P0098_download_protect-seal-_-silk.html"
+}

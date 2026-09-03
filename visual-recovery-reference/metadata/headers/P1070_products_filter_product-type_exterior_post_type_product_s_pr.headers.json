@@ -1,0 +1,45 @@
+{
+  "ref_id": "P1070",
+  "url": "https://emiratespaints.com/product/emashield-tex-primer/",
+  "captured_at": "2026-09-02T23:23:00Z",
+  "navigation_started_at": "2026-09-02T23:22:50Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 23:22:54 GMT",
+    "etag": "\"915-1788391374;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/4596>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=4596>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.e14db3a85014eaf69b5ac53facdc476a,905_Po.4596,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_product-type=exterior&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/emashield-tex-primer/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"915-1788391374;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.e14db3a85014eaf69b5ac53facdc476a,905_Po.4596,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "7654a9e4dc62775fb3ec7ca50874b4ed7c53c2fd567d8f5822f05fde5e205eb7",
+  "response_body_bytes": 680532,
+  "response_body_file": "html/response/P1070_products_filter_product-type_exterior_post_type_product_s_pr.html"
+}

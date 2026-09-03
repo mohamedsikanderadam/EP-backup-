@@ -1,0 +1,315 @@
+{
+  "title": "The Power of Anti-Fungal Paint: Enhancing Protection and Aesthetics - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/the-power-of-anti-fungal-paint/",
+  "meta_description": "The need for creative solutions has never been greater in the modern world when keeping a healthy and hygienic living environment is of the utmost importance.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "The Power of Anti-Fungal Paint: Enhancing Protection and Aesthetics - Emirates Paints",
+    "og:description": "The need for creative solutions has never been greater in the modern world when keeping a healthy and hygienic living environment is of the utmost importance.",
+    "og:url": "https://emiratespaints.com/the-power-of-anti-fungal-paint/",
+    "og:site_name": "Emirates Paints",
+    "og:updated_time": "2024-09-30T06:24:05+00:00",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2023/07/Untitled-Design-1-1.jpg",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2023/07/Untitled-Design-1-1.jpg",
+    "og:image:width": "1080",
+    "og:image:height": "1080",
+    "og:image:alt": "anti-fungal paint.",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2023/07/Untitled-Design-1-1.jpg",
+          "url": "https://emiratespaints.com/wp-content/uploads/2023/07/Untitled-Design-1-1.jpg",
+          "width": "1080",
+          "height": "1080",
+          "caption": "anti-fungal paint.",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/the-power-of-anti-fungal-paint/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/the-power-of-anti-fungal-paint/",
+                "name": "The Power of Anti-Fungal Paint: Enhancing Protection and Aesthetics"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://emiratespaints.com/the-power-of-anti-fungal-paint/#webpage",
+          "url": "https://emiratespaints.com/the-power-of-anti-fungal-paint/",
+          "name": "The Power of Anti-Fungal Paint: Enhancing Protection and Aesthetics - Emirates Paints",
+          "datePublished": "2024-06-28T12:42:13+00:00",
+          "dateModified": "2024-09-30T06:24:05+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2023/07/Untitled-Design-1-1.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/the-power-of-anti-fungal-paint/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://emiratespaints.com/author/mansoor/",
+          "name": "Sakib Ahmed",
+          "url": "https://emiratespaints.com/author/mansoor/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "url": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "caption": "Sakib Ahmed",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://emiratespaints.com"
+          ],
+          "worksFor": {
+            "@id": "https://emiratespaints.com/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "The Power of Anti-Fungal Paint: Enhancing Protection and Aesthetics - Emirates Paints",
+          "keywords": "Anti-Fungal Paint",
+          "datePublished": "2024-06-28T12:42:13+00:00",
+          "dateModified": "2024-09-30T06:24:05+00:00",
+          "author": {
+            "@id": "https://emiratespaints.com/author/mansoor/",
+            "name": "Sakib Ahmed"
+          },
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "description": "The need for creative solutions has never been greater in the modern world when keeping a healthy and hygienic living environment is of the utmost importance.",
+          "name": "The Power of Anti-Fungal Paint: Enhancing Protection and Aesthetics - Emirates Paints",
+          "@id": "https://emiratespaints.com/the-power-of-anti-fungal-paint/#richSnippet",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/the-power-of-anti-fungal-paint/#webpage"
+          },
+          "image": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2023/07/Untitled-Design-1-1.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/the-power-of-anti-fungal-paint/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 26,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-209"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/2024/06/28/",
+    "https://emiratespaints.com/the-power-of-anti-fungal-paint/#respond",
+    "https://emiratespaints.com/how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by-step-tutorial/",
+    "https://emiratespaints.com/emirates-paints-quality-industrial-paint-manufacturers/",
+    "https://emiratespaints.com/bedroom-wall-painting-a-guide-for-uae-homeowners/",
+    "https://emiratespaints.com/durable-and-stylish-floor-paint-from-emirates-paints/",
+    "https://emiratespaints.com/elevate-your-projects-with-high-performance-coatings-by-emirates-paints/",
+    "https://emiratespaints.com/low-voc-exterior-paint/",
+    "https://emiratespaints.com/blog",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/the-power-of-anti-fungal-paint/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.theguardian.com/science/2022/nov/15/what-is-black-mould-health-problems-cause#:~:text=Common%20ailments%20are%20sneezing%2C%20a,term%20exposure%20exacerbates%20the%20risk.",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 5367,
+  "body_text_excerpt": "Search THE POWER OF ANTI-FUNGAL PAINT: ENHANCING PROTECTION AND AESTHETICS June 28, 2024 No Comments The need for creative solutions has never been greater in the modern world when keeping a healthy and hygienic living environment is of the utmost importance. Anti-fungal paint is one such innovative solution that successfully fuses usefulness and beauty. In this blog post, we will look at the brilliant advantages of anti-fungal paint and introduce you to Emirates Paints, a reputable manufacturer of premium coatings. 1. Understanding Anti-Fungal Paint: An expert coating created to prevent the g",
+  "page_height": 8171,
+  "page_width": 390,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementor-pro",
+    "elementskit-lite",
+    "elementskit",
+    "ultimate-member",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0573",
+  "url": "https://emiratespaints.com/the-power-of-anti-fungal-paint/",
+  "final_url": "https://emiratespaints.com/the-power-of-anti-fungal-paint/",
+  "viewport": "mobile",
+  "viewport_size": {
+    "width": 390,
+    "height": 844,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T21:48:49Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"745-1788385662;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.b0874484e0e566abddbb299bb0aa1ced,905_Po.7258,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 220,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "lh3.googleusercontent.com",
+    "lh4.googleusercontent.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

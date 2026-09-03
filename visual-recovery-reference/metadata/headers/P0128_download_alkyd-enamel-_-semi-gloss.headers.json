@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0128",
+  "url": "https://emiratespaints.com/download/alkyd-enamel-%C2%B7-semi-gloss/",
+  "captured_at": "2026-09-02T17:26:45Z",
+  "navigation_started_at": "2026-09-02T17:26:35Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:26:37 GMT",
+    "etag": "\"238-1788369997;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9853>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.6a87402ac16cd1e6b8ef5704cf5294b5,905_Po.9853,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"238-1788369997;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.6a87402ac16cd1e6b8ef5704cf5294b5,905_Po.9853,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "a21e97f211fcd7ae6a9468449c10d3053a4e84fcd2c61adfdab14826ed746cbe",
+  "response_body_bytes": 251778,
+  "response_body_file": "html/response/P0128_download_alkyd-enamel-_-semi-gloss.html"
+}

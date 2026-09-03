@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0122",
+  "url": "https://emiratespaints.com/download/spray-plaster-fine/",
+  "captured_at": "2026-09-02T17:21:34Z",
+  "navigation_started_at": "2026-09-02T17:21:22Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:21:25 GMT",
+    "etag": "\"227-1788369685;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9840>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.e259187ddf01e354bc226873ba88f853,905_Po.9840,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"227-1788369685;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.e259187ddf01e354bc226873ba88f853,905_Po.9840,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "e5f39d9fd01e93d6288263137adbdd78853a95e0df7cdc7e8d9fed6b708c933b",
+  "response_body_bytes": 251480,
+  "response_body_file": "html/response/P0122_download_spray-plaster-fine.html"
+}

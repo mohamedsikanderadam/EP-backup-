@@ -1,0 +1,1099 @@
+/**
+ * WPDM Authentication Forms - Unified Styles
+ * Split Panel Design for Login, Register, Reset Password, Lost Password
+ *
+ * @package Download Manager
+ * @since 7.0
+ */
+
+/* =============================================
+   CSS VARIABLES
+   ============================================= */
+
+.w3eden .wpdm-auth-split {
+    --auth-primary: var(--color-primary);
+    --auth-primary-dark: var(--color-primary-active);
+    --auth-primary-light: var(--color-primary-hover);
+    --auth-text: #1e293b;
+    --auth-text-muted: #64748b;
+    --auth-border: #e2e8f0;
+    --auth-bg: #ffffff;
+    --auth-input-bg: #f8fafc;
+    --auth-input-focus: #f1f5f9;
+    --auth-radius: 16px;
+    --auth-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* =============================================
+   BASE LAYOUT
+   ============================================= */
+
+/* Full viewport centering */
+.w3eden.wpdm-auth-page {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.w3eden .wpdm-auth-split {
+    font-family: var(--auth-font);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100%;
+    padding: 24px;
+    box-sizing: border-box;
+}
+
+.w3eden .wpdm-auth-split *,
+.w3eden .wpdm-auth-split *::before,
+.w3eden .wpdm-auth-split *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main Container */
+.w3eden .wpdm-auth-panel {
+    display: flex;
+    width: 100%;
+    max-width: 900px;
+    min-height: 520px;
+    background: var(--auth-bg);
+    border-radius: var(--auth-radius);
+    overflow: hidden;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.15);
+}
+
+.w3eden .wpdm-auth-panel--short {
+    min-height: 480px;
+}
+
+/* =============================================
+   LEFT PANEL - DECORATIVE
+   ============================================= */
+
+.w3eden .wpdm-auth-left {
+    flex: 0 0 45%;
+    background: linear-gradient(135deg, var(--color-primary-hover) 0%, var(--color-primary) 50%, var(--color-primary-active) 100%);
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Wave decoration */
+.w3eden .wpdm-auth-left::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 200px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='%23ffffff' fill-opacity='0.1' d='M0,160L48,170.7C96,181,192,203,288,197.3C384,192,480,160,576,165.3C672,171,768,213,864,218.7C960,224,1056,192,1152,165.3C1248,139,1344,117,1392,106.7L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z'%3E%3C/path%3E%3C/svg%3E") no-repeat bottom;
+    background-size: cover;
+}
+
+.w3eden .wpdm-auth-left::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1440 320'%3E%3Cpath fill='%23ffffff' fill-opacity='0.15' d='M0,224L48,213.3C96,203,192,181,288,181.3C384,181,480,203,576,218.7C672,235,768,245,864,234.7C960,224,1056,192,1152,181.3C1248,171,1344,181,1392,186.7L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z'%3E%3C/path%3E%3C/svg%3E") no-repeat bottom;
+    background-size: cover;
+}
+
+/* Grid pattern overlay */
+.w3eden .wpdm-auth-grid {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image:
+        linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
+    background-size: 40px 40px;
+    pointer-events: none;
+}
+
+/* Floating circles */
+.w3eden .wpdm-auth-circles {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    overflow: hidden;
+}
+
+.w3eden .wpdm-auth-circle {
+    position: absolute;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.w3eden .wpdm-auth-circle:nth-child(1) {
+    width: 80px;
+    height: 80px;
+    top: 15%;
+    right: 10%;
+}
+
+.w3eden .wpdm-auth-circle:nth-child(2) {
+    width: 40px;
+    height: 40px;
+    top: 60%;
+    left: 15%;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+.w3eden .wpdm-auth-circle:nth-child(3) {
+    width: 60px;
+    height: 60px;
+    bottom: 25%;
+    right: 25%;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.w3eden .wpdm-auth-circle:nth-child(4) {
+    width: 20px;
+    height: 20px;
+    top: 40%;
+    left: 30%;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* Left panel content */
+.w3eden .wpdm-auth-brand a{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    position: relative;
+    z-index: 1;
+}
+
+.w3eden .wpdm-auth-brand img {
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.w3eden .wpdm-auth-brand-icon {
+    width: 36px;
+    height: 36px;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.w3eden .wpdm-auth-brand-icon svg {
+    width: 20px;
+    height: 20px;
+    color: #fff;
+}
+
+.w3eden .wpdm-auth-welcome {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+.w3eden .wpdm-auth-welcome-sub {
+    font-size: 14px;
+    opacity: 0.9;
+    margin-bottom: 8px;
+    font-weight: 400;
+}
+
+.w3eden .wpdm-auth-welcome-title {
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+
+.w3eden .wpdm-auth-welcome-line {
+    width: 40px;
+    height: 3px;
+    background: #fff;
+    border-radius: 2px;
+    margin-bottom: 20px;
+}
+
+.w3eden .wpdm-auth-welcome-text {
+    font-size: 13px;
+    line-height: 1.7;
+    opacity: 0.85;
+    max-width: 280px;
+}
+
+/* =============================================
+   RIGHT PANEL - FORM
+   ============================================= */
+
+.w3eden .wpdm-auth-right {
+    flex: 1;
+    padding: 48px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: var(--auth-bg);
+}
+
+.w3eden .wpdm-auth-right--scroll {
+    overflow-y: auto;
+}
+
+.w3eden .wpdm-auth-form-header {
+    margin-bottom: 32px;
+}
+
+.w3eden .wpdm-auth-form-header--compact {
+    margin-bottom: 28px;
+}
+
+.w3eden .wpdm-auth-form-title {
+    font-size: 24px;
+    font-weight: 700;
+    color: var(--auth-primary);
+    margin-bottom: 12px;
+}
+
+.w3eden .wpdm-auth-form-title--error {
+    color: #dc2626;
+}
+
+.w3eden .wpdm-auth-form-desc {
+    font-size: 13px;
+    color: var(--auth-text-muted);
+    line-height: 1.6;
+}
+
+/* =============================================
+   FORM FIELDS
+   ============================================= */
+
+.w3eden .wpdm-auth-field {
+    margin-bottom: 20px;
+}
+
+.w3eden .wpdm-auth-field--compact {
+    margin-bottom: 16px;
+}
+
+.w3eden .wpdm-auth-field--large {
+    margin-bottom: 24px;
+}
+
+.w3eden .wpdm-auth-input-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+/* Accent bar input style */
+.w3eden .wpdm-auth-split input[type="text"],
+.w3eden .wpdm-auth-split input[type="email"],
+.w3eden .wpdm-auth-split input[type="password"],
+.w3eden .wpdm-auth-split input[type="tel"],
+.w3eden .wpdm-auth-split textarea,
+.w3eden .wpdm-auth-split select,
+.w3eden .wpdm-auth-split .form-control,
+.w3eden .wpdm-auth-input {
+    width: 100% !important;
+    height: 50px !important;
+    padding: 0 16px 0 20px !important;
+    font-size: 14px !important;
+    font-family: inherit !important;
+    color: var(--auth-text) !important;
+    background: var(--auth-input-bg) !important;
+    border: none !important;
+    border-left: 3px solid var(--color-primary-hover) !important;
+    border-radius: 0 !important;
+    outline: none !important;
+    transition: all 0.2s ease !important;
+}
+
+.w3eden .wpdm-auth-split textarea {
+    height: auto !important;
+    min-height: 80px !important;
+    padding: 12px 16px 12px 20px !important;
+    resize: vertical;
+}
+
+.w3eden .wpdm-auth-input::placeholder,
+.w3eden .wpdm-auth-split .form-control::placeholder,
+.w3eden .wpdm-auth-split input::placeholder {
+    color: #94a3b8 !important;
+    opacity: 1 !important;
+}
+
+.w3eden .wpdm-auth-input:focus,
+.w3eden .wpdm-auth-split .form-control:focus,
+.w3eden .wpdm-auth-split input:focus,
+.w3eden .wpdm-auth-split textarea:focus,
+.w3eden .wpdm-auth-split select:focus {
+    background: var(--auth-input-focus) !important;
+    border-left-color: var(--color-primary-active) !important;
+    box-shadow: none !important;
+}
+
+/* Autofill fix */
+.w3eden .wpdm-auth-input:-webkit-autofill,
+.w3eden .wpdm-auth-input:-webkit-autofill:hover,
+.w3eden .wpdm-auth-input:-webkit-autofill:focus,
+.w3eden .wpdm-auth-split .form-control:-webkit-autofill,
+.w3eden .wpdm-auth-split input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px var(--auth-input-bg) inset !important;
+    -webkit-text-fill-color: var(--auth-text) !important;
+    border-left: 3px solid var(--auth-primary) !important;
+}
+
+/* Password toggle */
+.w3eden .wpdm-auth-input.has-toggle,
+.w3eden .wpdm-auth-split .form-control.has-toggle {
+    padding-right: 48px !important;
+}
+
+.w3eden .wpdm-auth-pwd-toggle {
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 36px;
+    height: 36px;
+    background: transparent;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    color: var(--auth-text-muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.15s;
+}
+
+.w3eden .wpdm-auth-pwd-toggle:hover {
+    color: var(--auth-text);
+}
+
+.w3eden .wpdm-auth-pwd-toggle svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* =============================================
+   META ROW (Remember me, Forgot password)
+   ============================================= */
+
+.w3eden .wpdm-auth-meta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 28px;
+    font-size: 13px;
+}
+
+/* Custom Checkbox */
+.w3eden .wpdm-auth-remember {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    user-select: none;
+    color: var(--auth-text-muted);
+}
+
+.w3eden .wpdm-auth-remember input[type="checkbox"] {
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.w3eden .wpdm-auth-check {
+    width: 18px;
+    height: 18px;
+    border: 2px solid var(--auth-border);
+    border-radius: 4px;
+    background: var(--auth-bg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s ease;
+    flex-shrink: 0;
+}
+
+.w3eden .wpdm-auth-check svg {
+    width: 10px;
+    height: 10px;
+    color: #fff;
+    opacity: 0;
+    transform: scale(0.5);
+    transition: all 0.15s ease;
+}
+
+.w3eden .wpdm-auth-remember input:checked + .wpdm-auth-check {
+    background: var(--auth-primary);
+    border-color: var(--auth-primary);
+}
+
+.w3eden .wpdm-auth-remember input:checked + .wpdm-auth-check svg {
+    opacity: 1;
+    transform: scale(1);
+}
+
+/* Forgot Link */
+.w3eden .wpdm-auth-forgot {
+    color: var(--auth-primary);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.15s;
+}
+
+.w3eden .wpdm-auth-forgot:hover {
+    color: var(--auth-primary-dark);
+}
+
+/* =============================================
+   BUTTONS
+   ============================================= */
+
+/* Submit Button - Pill shape */
+.w3eden .wpdm-auth-btn {
+    width: 100%;
+    height: 50px;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: inherit;
+    color: #fff;
+    background: var(--auth-primary);
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 15px rgba(var(--color-primary-rgb), 0.3);
+    text-decoration: none;
+}
+
+.w3eden .wpdm-auth-btn:hover {
+    background: var(--auth-primary-dark);
+    box-shadow: 0 6px 20px rgba(var(--color-primary-rgb), 0.6);
+    transform: translateY(-1px);
+    color: #fff;
+}
+
+.w3eden .wpdm-auth-btn:active {
+    transform: translateY(0);
+}
+
+.w3eden .wpdm-auth-btn:disabled {
+    opacity: 0.7;
+    cursor: not-allowed;
+    transform: none;
+}
+
+.w3eden .wpdm-auth-btn svg {
+    width: 16px;
+    height: 16px;
+}
+
+.w3eden .wpdm-auth-btn--margin-top {
+    margin-top: 8px;
+}
+
+/* Spinner */
+@keyframes wpdm-auth-spin {
+    to { transform: rotate(360deg); }
+}
+
+.w3eden .wpdm-auth-spinner {
+    width: 18px;
+    height: 18px;
+    border: 2px solid rgba(255,255,255,0.3);
+    border-top-color: #fff;
+    border-radius: 50%;
+    animation: wpdm-auth-spin 0.7s linear infinite;
+}
+
+/* =============================================
+   LINKS & DIVIDERS
+   ============================================= */
+
+/* Secondary Link (Register/Login) */
+.w3eden .wpdm-auth-link {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 13px;
+    color: var(--auth-text-muted);
+}
+
+.w3eden .wpdm-auth-link a {
+    color: var(--auth-primary);
+    font-weight: 600;
+    text-decoration: none;
+    margin-left: 4px;
+}
+
+.w3eden .wpdm-auth-link a:hover {
+    text-decoration: underline;
+}
+
+/* Back Link */
+.w3eden .wpdm-auth-back {
+    text-align: center;
+    margin-top: 24px;
+    font-size: 13px;
+    color: var(--auth-text-muted);
+}
+
+.w3eden .wpdm-auth-back a {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--auth-primary);
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.15s;
+}
+
+.w3eden .wpdm-auth-back a:hover {
+    color: var(--auth-primary-dark);
+}
+
+.w3eden .wpdm-auth-back a svg {
+    width: 16px;
+    height: 16px;
+}
+
+/* Divider */
+.w3eden .wpdm-auth-divider {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin: 24px 0;
+    font-size: 12px;
+    color: var(--auth-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.w3eden .wpdm-auth-divider::before,
+.w3eden .wpdm-auth-divider::after {
+    content: '';
+    flex: 1;
+    height: 1px;
+    background: var(--auth-border);
+}
+
+/* =============================================
+   SOCIAL BUTTONS
+   ============================================= */
+
+.w3eden .wpdm-auth-social {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+}
+
+.w3eden .wpdm-auth-social-btn {
+    width: 44px;
+    height: 44px;
+    border-radius: 10px;
+    border: 1px solid var(--auth-border);
+    background: var(--auth-bg);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s ease;
+    padding: 0;
+}
+
+.w3eden .wpdm-auth-social-btn svg {
+    width: 20px;
+    height: 20px;
+}
+
+.w3eden .wpdm-auth-social-btn.google svg { color: #ea4335; }
+.w3eden .wpdm-auth-social-btn.facebook svg { color: #1877f2; }
+.w3eden .wpdm-auth-social-btn.twitter svg { color: #0f172a; }
+.w3eden .wpdm-auth-social-btn.linkedin svg { color: #0a66c2; }
+
+.w3eden .wpdm-auth-social-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.w3eden .wpdm-auth-social-btn.google:hover { background: #ea4335; border-color: #ea4335; }
+.w3eden .wpdm-auth-social-btn.facebook:hover { background: #1877f2; border-color: #1877f2; }
+.w3eden .wpdm-auth-social-btn.twitter:hover { background: #0f172a; border-color: #0f172a; }
+.w3eden .wpdm-auth-social-btn.linkedin:hover { background: #0a66c2; border-color: #0a66c2; }
+
+.w3eden .wpdm-auth-social-btn:hover svg { color: #fff; }
+
+/* =============================================
+   ALERTS
+   ============================================= */
+
+.w3eden .wpdm-auth-alert {
+    padding: 12px 16px;
+    border-radius: 8px;
+    font-size: 13px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    line-height: 1.5;
+}
+
+.w3eden .wpdm-auth-alert svg {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    margin-top: 2px;
+}
+
+.w3eden .wpdm-auth-alert.success {
+    background: #ecfdf5;
+    color: #065f46;
+    border: 1px solid #a7f3d0;
+}
+
+.w3eden .wpdm-auth-alert.error {
+    background: #fef2f2;
+    color: #991b1b;
+    border: 1px solid #fecaca;
+    cursor: pointer;
+}
+
+.w3eden .wpdm-auth-alert.info {
+    background: #eff6ff;
+    color: #1e40af;
+    border: 1px solid #bfdbfe;
+}
+
+/* =============================================
+   FORM OVERRIDES
+   ============================================= */
+
+.w3eden .wpdm-auth-right .form-group { margin-bottom: 0; }
+.w3eden .wpdm-auth-right .form-group > label:first-child { display: none; }
+.w3eden .wpdm-auth-right .form-group .input-group { display: block; }
+.w3eden .wpdm-auth-right .form-group .input-group-prepend { display: none; }
+
+/* Input wrapper overrides (for registration) */
+.w3eden .wpdm-auth-right .input-wrapper {
+    margin-bottom: 16px;
+}
+
+.w3eden .wpdm-auth-right .input-wrapper label {
+    display: none;
+}
+
+.w3eden .wpdm-auth-right .input-wrapper.heading-input-wrapper {
+    background: var(--auth-input-bg);
+    padding: 10px 16px;
+    border-left: 3px solid var(--auth-primary);
+    font-weight: 600;
+    font-size: 12px;
+    color: var(--auth-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 16px;
+    margin-top: 8px;
+}
+
+/* reCAPTCHA */
+.w3eden .wpdm-auth-right .g-recaptcha,
+.w3eden .wpdm-auth-right #reCaptchaLock {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    transform: scale(0.92);
+    transform-origin: center;
+}
+
+/* =============================================
+   DISABLED STATE
+   ============================================= */
+
+.w3eden .wpdm-auth-disabled {
+    padding: 60px 40px;
+    text-align: center;
+}
+
+.w3eden .wpdm-auth-disabled-icon {
+    width: 64px;
+    height: 64px;
+    margin: 0 auto 20px;
+    background: rgba(239, 68, 68, 0.1);
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #dc2626;
+}
+
+.w3eden .wpdm-auth-disabled-icon svg {
+    width: 32px;
+    height: 32px;
+}
+
+.w3eden .wpdm-auth-disabled p {
+    color: var(--auth-text-muted);
+    font-size: 15px;
+    margin: 0;
+}
+
+/* =============================================
+   RESPONSIVE
+   ============================================= */
+
+@media (max-width: 768px) {
+    .w3eden .wpdm-auth-split {
+        padding: 16px;
+    }
+
+    .w3eden .wpdm-auth-panel {
+        flex-direction: column;
+        max-width: 440px;
+        min-height: auto;
+    }
+
+    .w3eden .wpdm-auth-left {
+        flex: 0 0 auto;
+        padding: 32px 24px;
+        min-height: 200px;
+    }
+
+    .w3eden .wpdm-auth-welcome-title {
+        font-size: 24px;
+    }
+
+    .w3eden .wpdm-auth-welcome-text {
+        display: none;
+    }
+
+    .w3eden .wpdm-auth-right {
+        padding: 32px 24px;
+        max-height: none;
+    }
+
+    .w3eden .wpdm-auth-meta {
+        flex-direction: column;
+        gap: 12px;
+        align-items: flex-start;
+    }
+}
+
+@media (max-width: 480px) {
+    .w3eden .wpdm-auth-left {
+        padding: 24px 20px;
+        min-height: 160px;
+    }
+
+    .w3eden .wpdm-auth-welcome-title {
+        font-size: 20px;
+        letter-spacing: 1px;
+    }
+
+    .w3eden .wpdm-auth-right {
+        padding: 24px 20px;
+    }
+
+    .w3eden .wpdm-auth-input,
+    .w3eden .wpdm-auth-split .form-control,
+    .w3eden .wpdm-auth-split input {
+        font-size: 16px !important; /* Prevent iOS zoom */
+    }
+}
+
+/* =============================================
+   DARK MODE SUPPORT
+   ============================================= */
+
+/* Dark mode variables */
+.w3eden.dark-mode .wpdm-auth-split {
+    --auth-text: #f1f5f9;
+    --auth-text-muted: #94a3b8;
+    --auth-border: #334155;
+    --auth-bg: #1e293b;
+    --auth-input-bg: #0f172a;
+    --auth-input-focus: #1e293b;
+}
+
+/* Manual dark mode */
+.w3eden.dark-mode .wpdm-auth-panel {
+    background: #1e293b;
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
+}
+
+.w3eden.dark-mode .wpdm-auth-right {
+    background: #1e293b;
+}
+
+.w3eden.dark-mode .wpdm-auth-form-title {
+    color: var(--color-primary);
+}
+
+.w3eden.dark-mode .wpdm-auth-form-desc {
+    color: #94a3b8;
+}
+
+.w3eden.dark-mode .wpdm-auth-split input[type="text"],
+.w3eden.dark-mode .wpdm-auth-split input[type="email"],
+.w3eden.dark-mode .wpdm-auth-split input[type="password"],
+.w3eden.dark-mode .wpdm-auth-split input[type="tel"],
+.w3eden.dark-mode .wpdm-auth-split textarea,
+.w3eden.dark-mode .wpdm-auth-split select,
+.w3eden.dark-mode .wpdm-auth-split .form-control,
+.w3eden.dark-mode .wpdm-auth-input {
+    background: #0f172a !important;
+    color: #f1f5f9 !important;
+    border-left-color: var(--color-primary) !important;
+}
+
+.w3eden.dark-mode .wpdm-auth-input::placeholder,
+.w3eden.dark-mode .wpdm-auth-split .form-control::placeholder,
+.w3eden.dark-mode .wpdm-auth-split input::placeholder {
+    color: #64748b !important;
+}
+
+.w3eden.dark-mode .wpdm-auth-input:focus,
+.w3eden.dark-mode .wpdm-auth-split .form-control:focus,
+.w3eden.dark-mode .wpdm-auth-split input:focus,
+.w3eden.dark-mode .wpdm-auth-split textarea:focus,
+.w3eden.dark-mode .wpdm-auth-split select:focus {
+    background: #1e293b !important;
+}
+
+.w3eden.dark-mode .wpdm-auth-input:-webkit-autofill,
+.w3eden.dark-mode .wpdm-auth-split .form-control:-webkit-autofill,
+.w3eden.dark-mode .wpdm-auth-split input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 1000px #0f172a inset !important;
+    -webkit-text-fill-color: #f1f5f9 !important;
+}
+
+.w3eden.dark-mode .wpdm-auth-pwd-toggle {
+    color: #64748b;
+}
+
+.w3eden.dark-mode .wpdm-auth-pwd-toggle:hover {
+    color: #f1f5f9;
+}
+
+.w3eden.dark-mode .wpdm-auth-remember {
+    color: #94a3b8;
+}
+
+.w3eden.dark-mode .wpdm-auth-check {
+    background: #0f172a;
+    border-color: #475569;
+}
+
+.w3eden.dark-mode .wpdm-auth-right .input-wrapper.heading-input-wrapper {
+    background: #0f172a;
+    color: #94a3b8;
+}
+
+.w3eden.dark-mode .wpdm-auth-divider {
+    color: #64748b;
+}
+
+.w3eden.dark-mode .wpdm-auth-divider::before,
+.w3eden.dark-mode .wpdm-auth-divider::after {
+    background: #334155;
+}
+
+.w3eden.dark-mode .wpdm-auth-social-btn {
+    background: #0f172a;
+    border-color: #334155;
+}
+
+.w3eden.dark-mode .wpdm-auth-link,
+.w3eden.dark-mode .wpdm-auth-back {
+    color: #94a3b8;
+}
+
+.w3eden.dark-mode .wpdm-auth-disabled p {
+    color: #94a3b8;
+}
+
+.w3eden.dark-mode .wpdm-auth-disabled-icon {
+    background: rgba(239, 68, 68, 0.15);
+}
+
+.w3eden.dark-mode .wpdm-auth-alert.success {
+    background: rgba(16, 185, 129, 0.15);
+    color: #34d399;
+    border-color: rgba(16, 185, 129, 0.3);
+}
+
+.w3eden.dark-mode .wpdm-auth-alert.error {
+    background: rgba(239, 68, 68, 0.15);
+    color: #f87171;
+    border-color: rgba(239, 68, 68, 0.3);
+}
+
+.w3eden.dark-mode .wpdm-auth-alert.info {
+    background: rgba(59, 130, 246, 0.15);
+    color: #60a5fa;
+    border-color: rgba(59, 130, 246, 0.3);
+}
+
+/* System preference dark mode */
+@media (prefers-color-scheme: dark) {
+    .w3eden:not(.light-mode) .wpdm-auth-split {
+        --auth-text: #f1f5f9;
+        --auth-text-muted: #94a3b8;
+        --auth-border: #334155;
+        --auth-bg: #1e293b;
+        --auth-input-bg: #0f172a;
+        --auth-input-focus: #1e293b;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-panel {
+        background: #1e293b;
+        box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.4);
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-right {
+        background: #1e293b;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-form-title {
+        color: var(--color-primary);
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-form-desc {
+        color: #94a3b8;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-split input[type="text"],
+    .w3eden:not(.light-mode) .wpdm-auth-split input[type="email"],
+    .w3eden:not(.light-mode) .wpdm-auth-split input[type="password"],
+    .w3eden:not(.light-mode) .wpdm-auth-split input[type="tel"],
+    .w3eden:not(.light-mode) .wpdm-auth-split textarea,
+    .w3eden:not(.light-mode) .wpdm-auth-split select,
+    .w3eden:not(.light-mode) .wpdm-auth-split .form-control,
+    .w3eden:not(.light-mode) .wpdm-auth-input {
+        background: #0f172a !important;
+        color: #f1f5f9 !important;
+        border-left-color: var(--color-primary) !important;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-input::placeholder,
+    .w3eden:not(.light-mode) .wpdm-auth-split .form-control::placeholder,
+    .w3eden:not(.light-mode) .wpdm-auth-split input::placeholder {
+        color: #64748b !important;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-input:focus,
+    .w3eden:not(.light-mode) .wpdm-auth-split .form-control:focus,
+    .w3eden:not(.light-mode) .wpdm-auth-split input:focus,
+    .w3eden:not(.light-mode) .wpdm-auth-split textarea:focus,
+    .w3eden:not(.light-mode) .wpdm-auth-split select:focus {
+        background: #1e293b !important;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-input:-webkit-autofill,
+    .w3eden:not(.light-mode) .wpdm-auth-split .form-control:-webkit-autofill,
+    .w3eden:not(.light-mode) .wpdm-auth-split input:-webkit-autofill {
+        -webkit-box-shadow: 0 0 0 1000px #0f172a inset !important;
+        -webkit-text-fill-color: #f1f5f9 !important;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-pwd-toggle {
+        color: #64748b;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-pwd-toggle:hover {
+        color: #f1f5f9;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-remember {
+        color: #94a3b8;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-check {
+        background: #0f172a;
+        border-color: #475569;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-right .input-wrapper.heading-input-wrapper {
+        background: #0f172a;
+        color: #94a3b8;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-divider {
+        color: #64748b;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-divider::before,
+    .w3eden:not(.light-mode) .wpdm-auth-divider::after {
+        background: #334155;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-social-btn {
+        background: #0f172a;
+        border-color: #334155;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-link,
+    .w3eden:not(.light-mode) .wpdm-auth-back {
+        color: #94a3b8;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-disabled p {
+        color: #94a3b8;
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-disabled-icon {
+        background: rgba(239, 68, 68, 0.15);
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-alert.success {
+        background: rgba(16, 185, 129, 0.15);
+        color: #34d399;
+        border-color: rgba(16, 185, 129, 0.3);
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-alert.error {
+        background: rgba(239, 68, 68, 0.15);
+        color: #f87171;
+        border-color: rgba(239, 68, 68, 0.3);
+    }
+
+    .w3eden:not(.light-mode) .wpdm-auth-alert.info {
+        background: rgba(59, 130, 246, 0.15);
+        color: #60a5fa;
+        border-color: rgba(59, 130, 246, 0.3);
+    }
+}

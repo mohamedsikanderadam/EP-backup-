@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0179",
+  "url": "https://emiratespaints.com/download/majestic-gloss/",
+  "captured_at": "2026-09-02T18:12:35Z",
+  "navigation_started_at": "2026-09-02T18:12:25Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:12:27 GMT",
+    "etag": "\"346-1788372747;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11411>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.cc7d9896fbdef54af6559d803f679422,905_Po.11411,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"346-1788372747;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.cc7d9896fbdef54af6559d803f679422,905_Po.11411,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "c77e40d48afe21cee99b90d553599f20c232627e9e913355c2c7f4002a56fb7f",
+  "response_body_bytes": 251284,
+  "response_body_file": "html/response/P0179_download_majestic-gloss.html"
+}

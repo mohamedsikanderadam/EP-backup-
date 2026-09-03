@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0168",
+  "url": "https://emiratespaints.com/download/emacrylic-siloxane-primer-wb/",
+  "captured_at": "2026-09-02T18:03:04Z",
+  "navigation_started_at": "2026-09-02T18:02:53Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:02:55 GMT",
+    "etag": "\"330-1788372175;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9937>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.13d4f13a92b798932eaf49a57581d116,905_Po.9937,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"330-1788372175;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.13d4f13a92b798932eaf49a57581d116,905_Po.9937,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "5791de3541cfac829e8883da81581d71b5878580b48eaf2e1d02a12aa7db51e7",
+  "response_body_bytes": 251836,
+  "response_body_file": "html/response/P0168_download_emacrylic-siloxane-primer-wb.html"
+}

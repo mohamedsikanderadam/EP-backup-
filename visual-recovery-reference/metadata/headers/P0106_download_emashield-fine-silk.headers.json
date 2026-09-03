@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0106",
+  "url": "https://emiratespaints.com/download/emashield-fine-silk/",
+  "captured_at": "2026-09-02T17:07:33Z",
+  "navigation_started_at": "2026-09-02T17:07:23Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:07:25 GMT",
+    "etag": "\"197-1788368845;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9819>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.3088db2219e5474087af2c5ad9618f56,905_Po.9819,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"197-1788368845;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.3088db2219e5474087af2c5ad9618f56,905_Po.9819,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "fd6496804f328d3562f12345a8757ac2a38d300e4ecc1c00ef8780a717023965",
+  "response_body_bytes": 251500,
+  "response_body_file": "html/response/P0106_download_emashield-fine-silk.html"
+}

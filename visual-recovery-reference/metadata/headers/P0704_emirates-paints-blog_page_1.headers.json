@@ -1,0 +1,45 @@
+{
+  "ref_id": "P0704",
+  "url": "https://emiratespaints.com/emirates-paints-blog/",
+  "captured_at": "2026-09-02T22:30:56Z",
+  "navigation_started_at": "2026-09-02T22:30:45Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:30:48 GMT",
+    "etag": "\"822-1788388248;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/pages/20>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=20>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_page,905_URL.70713a3935d7a73c317b514602369c80,905_Po.20,905_PGS,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/emirates-paints-blog/page/1/",
+      "status": 301,
+      "location": "https://emiratespaints.com/emirates-paints-blog/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"822-1788388248;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_page,905_URL.70713a3935d7a73c317b514602369c80,905_Po.20,905_PGS,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "a2f307aae3f893065b893ee0648105e2eaf7c96762de1340504ad015057feb0f",
+  "response_body_bytes": 258547,
+  "response_body_file": "html/response/P0704_emirates-paints-blog_page_1.html"
+}

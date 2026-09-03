@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0560",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/HAMMER-FINISH.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Fri, 07 Feb 2025 10:30:11 GMT",
+    "etag": "\"a2a73-67a5e0b3-9a50ba86fe169ffe;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "666227",
+    "date": "Wed, 02 Sep 2026 21:36:50 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Fri, 07 Feb 2025 10:30:11 GMT",
+    "etag": "\"a2a73-67a5e0b3-9a50ba86fe169ffe;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T21:36:51Z"
+}

@@ -1,0 +1,41 @@
+{
+  "ref_id": "P0248",
+  "url": "https://visualizer.emiratespaints.com/",
+  "captured_at": "2026-09-02T19:14:12Z",
+  "navigation_started_at": "2026-09-02T19:14:03Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "accept-ranges": "bytes",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-length": "545",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html",
+    "date": "Wed, 02 Sep 2026 19:14:05 GMT",
+    "etag": "\"4ba-6a4f9240-ced15ba35ef7242a;br\"",
+    "last-modified": "Thu, 09 Jul 2026 12:21:20 GMT",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/visualizer",
+      "status": 301,
+      "location": "https://visualizer.emiratespaints.com/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"4ba-6a4f9240-ced15ba35ef7242a;br\"",
+    "last-modified": "Thu, 09 Jul 2026 12:21:20 GMT",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding"
+  },
+  "x_litespeed_cache": null,
+  "response_body_sha256": "03577675d4a7479a3dbf598a9468899f8f5215fdb5b2f0774f9c38b6cc0eaaa0",
+  "response_body_bytes": 1210,
+  "response_body_file": "html/response/P0248_visualizer.html"
+}

@@ -1,0 +1,328 @@
+{
+  "title": "Book a Painter - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/book-a-painter/",
+  "meta_description": "Book a PainterFill in the form below and we will get back to you with a free quote +971 50 114 6116 Book A PainterFill in the form below and we will get back",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Book a Painter - Emirates Paints",
+    "og:description": "Book a PainterFill in the form below and we will get back to you with a free quote +971 50 114 6116 Book A PainterFill in the form below and we will get back",
+    "og:url": "https://emiratespaints.com/book-a-painter/",
+    "og:site_name": "Emirates Paints",
+    "og:updated_time": "2024-04-25T13:03:39+00:00",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:width": "250",
+    "og:image:height": "250",
+    "og:image:alt": "Book a Painter",
+    "og:image:type": "image/png"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+          "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+          "width": "250",
+          "height": "250",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/book-a-painter/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/book-a-painter/",
+                "name": "Book a Painter"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://emiratespaints.com/book-a-painter/#webpage",
+          "url": "https://emiratespaints.com/book-a-painter/",
+          "name": "Book a Painter - Emirates Paints",
+          "datePublished": "2023-12-12T07:29:56+00:00",
+          "dateModified": "2024-04-25T13:03:39+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/book-a-painter/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://emiratespaints.com/author/dark/",
+          "name": "Fazla Rabbi",
+          "url": "https://emiratespaints.com/author/dark/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/wp-content/uploads/ultimatemember/18/profile_photo-190x190.png?1788364076",
+            "url": "https://emiratespaints.com/wp-content/uploads/ultimatemember/18/profile_photo-190x190.png?1788364076",
+            "caption": "Fazla Rabbi",
+            "inLanguage": "en-US"
+          },
+          "worksFor": {
+            "@id": "https://emiratespaints.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Book a Painter - Emirates Paints",
+          "keywords": "Book a Painter",
+          "datePublished": "2023-12-12T07:29:56+00:00",
+          "dateModified": "2024-04-25T13:03:39+00:00",
+          "author": {
+            "@id": "https://emiratespaints.com/author/dark/",
+            "name": "Fazla Rabbi"
+          },
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "description": "Book a PainterFill in the form below and we will get back to you with a free quote +971 50 114 6116 Book A PainterFill in the form below and we will get back",
+          "name": "Book a Painter - Emirates Paints",
+          "@id": "https://emiratespaints.com/book-a-painter/#richSnippet",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/book-a-painter/#webpage"
+          },
+          "image": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/book-a-painter/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 16,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-84"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL",
+      "method": "post",
+      "fields": [
+        "post_id",
+        "form_id",
+        "referer_title",
+        "queried_id",
+        "form_fields[name]",
+        "form_fields[field_bcc98c5]",
+        "form_fields[email]",
+        "form_fields[field_dad7d77]",
+        "form_fields[field_f7ea0a0]",
+        "form_fields[message]",
+        "form_fields[field_01cd30c]",
+        "submit"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL",
+      "method": "post",
+      "fields": [
+        "post_id",
+        "form_id",
+        "referer_title",
+        "queried_id",
+        "form_fields[name]",
+        "form_fields[field_bcc98c5]",
+        "form_fields[email]",
+        "form_fields[field_dad7d77]",
+        "form_fields[field_f7ea0a0]",
+        "form_fields[message]",
+        "form_fields[field_01cd30c]",
+        "submit"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 782,
+  "body_text_excerpt": "Search COLORS PRODUCTS INSPIRATION VISUALIZER FIND A STORE BOOK A PAINTER ABOUT BOOK A PAINTER Fill in the form below and we will get back to you with a free quote +971 50 114 6116 Name Phone Email Location Select Service Residential Commercial Industrial Your Message City Send Tiktok Icon-snapchat-1 Icon-pinterest Explore > Home > About > Contact Us > Terms & Conditions > Privacy Policy > Live Chat > Articles Browse > Find a Color > Choose a Product > Brochures > Technical Data Sheets > Book a Painter > Find a Store > Company Profile Contact Call Us +971 4 256 5474 Send E-mail info@emiratespa",
+  "page_height": 1598,
+  "page_width": 1440,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementor-pro",
+    "elementskit",
+    "elementskit-lite",
+    "ultimate-member",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0023",
+  "url": "https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL",
+  "final_url": "https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL",
+  "viewport": "desktop",
+  "viewport_size": {
+    "width": 1440,
+    "height": 900,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T15:48:15Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"3-1788364076;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_page,905_URL.2abc02c6b8b7788fdf599aa8be5e8d06,905_Po.8713,905_PGS,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 198,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

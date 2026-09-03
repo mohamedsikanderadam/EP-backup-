@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0321",
+  "url": "https://emiratespaints.com/product/emacrylic-road-marker/",
+  "captured_at": "2026-09-02T19:34:25Z",
+  "navigation_started_at": "2026-09-02T19:34:14Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:34:17 GMT",
+    "etag": "\"514-1788377657;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10648>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10648>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.592c836feff58f35c095a801bba0e4ca,905_Po.10648,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"514-1788377657;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.592c836feff58f35c095a801bba0e4ca,905_Po.10648,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "83d582b9189559e4468897ed48d376e0dc624d5a94dae5593145c9d89e4251ae",
+  "response_body_bytes": 260217,
+  "response_body_file": "html/response/P0321_product_emacrylic-road-marker.html"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0333",
+  "url": "https://emiratespaints.com/product/rust-remover-2/",
+  "captured_at": "2026-09-02T19:45:05Z",
+  "navigation_started_at": "2026-09-02T19:44:56Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:44:59 GMT",
+    "etag": "\"536-1788378299;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10637>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10637>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.f8cf279e58f829f242801125da42f327,905_Po.10637,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"536-1788378299;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.f8cf279e58f829f242801125da42f327,905_Po.10637,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "5d2df6ea12144d6029674e760ec69992040b936c6b63fa1ab6e8bdcb0c927ac2",
+  "response_body_bytes": 259922,
+  "response_body_file": "html/response/P0333_product_rust-remover-2.html"
+}

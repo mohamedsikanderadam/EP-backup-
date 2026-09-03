@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0365",
+  "url": "https://emiratespaints.com/wp-content/uploads/2024/02/Company-Profile-.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Mon, 11 Mar 2024 09:05:21 GMT",
+    "etag": "\"137b69e-65eec951-d09113aedf1b0733;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "20428446",
+    "date": "Wed, 02 Sep 2026 20:17:03 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Mon, 11 Mar 2024 09:05:21 GMT",
+    "etag": "\"137b69e-65eec951-d09113aedf1b0733;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T20:17:05Z"
+}

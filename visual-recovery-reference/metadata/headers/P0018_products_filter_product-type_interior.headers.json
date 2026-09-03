@@ -1,0 +1,37 @@
+{
+  "ref_id": "P0018",
+  "url": "https://emiratespaints.com/products/?filter_product-type=interior",
+  "captured_at": "2026-09-02T15:43:52Z",
+  "navigation_started_at": "2026-09-02T15:43:40Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-length": "48449",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 15:43:40 GMT",
+    "etag": "\"487-1788348959;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"487-1788348959;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "492e91a2ffedd043f44ca76755ceae31d512287362301c9e1c166617d41d8752",
+  "response_body_bytes": 281347,
+  "response_body_file": "html/response/P0018_products_filter_product-type_interior.html"
+}

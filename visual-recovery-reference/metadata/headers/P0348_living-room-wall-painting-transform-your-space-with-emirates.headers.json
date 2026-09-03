@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0348",
+  "url": "https://emiratespaints.com/living-room-wall-painting-transform-your-space-with-emirates-paints/",
+  "captured_at": "2026-09-02T20:01:02Z",
+  "navigation_started_at": "2026-09-02T20:00:52Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:00:54 GMT",
+    "etag": "\"565-1788379254;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10021>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10021>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.5dd12e5f05c16fc85876ff0c76262a68,905_Po.10021,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"565-1788379254;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.5dd12e5f05c16fc85876ff0c76262a68,905_Po.10021,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "70ba05cb17a412db982e8143a6496012bf9d1454b197f50ddc2b34bff4a8bc8f",
+  "response_body_bytes": 280665,
+  "response_body_file": "html/response/P0348_living-room-wall-painting-transform-your-space-with-emirates.html"
+}

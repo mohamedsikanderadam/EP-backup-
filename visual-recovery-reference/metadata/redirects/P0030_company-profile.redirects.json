@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0030",
+  "url": "https://emiratespaints.com/company-profile",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/company-profile",
+      "status": 301,
+      "location": "https://emiratespaints.com/company-profile/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/company-profile/"
+}

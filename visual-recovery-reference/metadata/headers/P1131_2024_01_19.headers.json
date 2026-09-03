@@ -1,0 +1,40 @@
+{
+  "ref_id": "P1131",
+  "url": "https://emiratespaints.com/2024/01/19/",
+  "captured_at": "2026-09-03T00:03:31Z",
+  "navigation_started_at": "2026-09-03T00:03:20Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Thu, 03 Sep 2026 00:03:22 GMT",
+    "etag": "\"1013-1788393802;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_day,905_URL.6c0a850c27fbaa570b735f8f13f71c5e,905_D.20240119,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"1013-1788393802;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_day,905_URL.6c0a850c27fbaa570b735f8f13f71c5e,905_D.20240119,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "9d9b32f507c72ff779351a6d30088e1a0260ccf7ac59587aa9d87160d7b67252",
+  "response_body_bytes": 241644,
+  "response_body_file": "html/response/P1131_2024_01_19.html"
+}

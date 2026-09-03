@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0193",
+  "url": "https://emiratespaints.com/download/exterior-spray-plaster-coarse/",
+  "captured_at": "2026-09-02T18:24:42Z",
+  "navigation_started_at": "2026-09-02T18:24:33Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:24:35 GMT",
+    "etag": "\"373-1788373475;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11471>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.bbec39505694e5c12a20a3422b1a2313,905_Po.11471,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"373-1788373475;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.bbec39505694e5c12a20a3422b1a2313,905_Po.11471,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "dec44a898c555fbb787233d8a0d9b293bdb2a132f47711f90ba4b3964afa462e",
+  "response_body_bytes": 251708,
+  "response_body_file": "html/response/P0193_download_exterior-spray-plaster-coarse.html"
+}

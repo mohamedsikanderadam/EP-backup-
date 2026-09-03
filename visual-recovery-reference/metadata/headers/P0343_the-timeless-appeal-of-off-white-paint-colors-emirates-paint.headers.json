@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0343",
+  "url": "https://emiratespaints.com/the-timeless-appeal-of-off-white-paint-colors-emirates-paints/",
+  "captured_at": "2026-09-02T19:55:16Z",
+  "navigation_started_at": "2026-09-02T19:55:06Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:55:08 GMT",
+    "etag": "\"553-1788378908;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10099>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10099>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.8d8cabe6ab7b9a2d44f2867454275674,905_Po.10099,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"553-1788378908;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.8d8cabe6ab7b9a2d44f2867454275674,905_Po.10099,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "9af2ffb2ad29eff66bbf7232ec4a6f646b1b9d0af712f19848ebdeb2f60b3854",
+  "response_body_bytes": 280485,
+  "response_body_file": "html/response/P0343_the-timeless-appeal-of-off-white-paint-colors-emirates-paint.html"
+}

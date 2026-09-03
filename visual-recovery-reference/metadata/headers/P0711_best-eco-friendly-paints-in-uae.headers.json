@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0711",
+  "url": "https://emiratespaints.com/best-eco-friendly-paints-in-uae/",
+  "captured_at": "2026-09-02T22:38:24Z",
+  "navigation_started_at": "2026-09-02T22:38:14Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:38:16 GMT",
+    "etag": "\"841-1788388696;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/6875>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=6875>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.e4751a1bc420745e4b9a14f3fa6652fb,905_Po.6875,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"841-1788388696;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.e4751a1bc420745e4b9a14f3fa6652fb,905_Po.6875,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "1ac0f8b574cb9dfabbf82feba2b8f2420a57965935bd4c5ee4b888b4f9bdba7e",
+  "response_body_bytes": 276609,
+  "response_body_file": "html/response/P0711_best-eco-friendly-paints-in-uae.html"
+}

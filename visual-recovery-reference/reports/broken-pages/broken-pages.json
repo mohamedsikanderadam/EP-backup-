@@ -1,1745 +1,1368 @@
 [
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0004",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0004",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0004",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0005",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0005",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0005",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0006",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0006",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0006",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0007",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0007",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0007",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0008",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0008",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0008",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0009",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0009",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0009",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "BLANK_IMAGE",
     "ref_id": "P0010",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
+    "message": "screenshots/desktop/above-fold/P0010_brochures_und_desktop_fold.png: near-uniform image (stddev 0.0)"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "BLANK_IMAGE",
     "ref_id": "P0010",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
+    "message": "screenshots/desktop/full-page/P0010_brochures_und_desktop_full.png: near-uniform image (stddev 0.0)"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "BLANK_IMAGE",
     "ref_id": "P0010",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
+    "message": "screenshots/tablet/above-fold/P0010_brochures_und_tablet_fold.png: near-uniform image (stddev 0.0)"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0011",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/tablet/full-page/P0010_brochures_und_tablet_full.png: near-uniform image (stddev 0.0)"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0011",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/mobile/above-fold/P0010_brochures_und_mobile_fold.png: near-uniform image (stddev 0.0)"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0011",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/mobile/full-page/P0010_brochures_und_mobile_full.png: near-uniform image (stddev 0.0)"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0012",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0012",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0012",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0013",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0013",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0013",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0015",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0015",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0015",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0016",
-    "message": "no successful desktop capture (status=none)",
+    "message": "desktop: HTTP 404",
     "viewport": "desktop"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
     "ref_id": "P0016",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0016",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0017",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0017",
-    "message": "no successful tablet capture (status=none)",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0016",
+    "message": "tablet: 1 broken <img> element(s)",
     "viewport": "tablet"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0017",
-    "message": "no successful mobile capture (status=none)",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0016",
+    "message": "mobile: HTTP 404",
     "viewport": "mobile"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0018",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0018",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0018",
-    "message": "no successful mobile capture (status=none)",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0016",
+    "message": "mobile: 1 broken <img> element(s)",
     "viewport": "mobile"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0019",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0019",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0019",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
     "ref_id": "P0020",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0020",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0020",
-    "message": "no successful mobile capture (status=none)",
+    "message": "mobile: 3 broken <img> element(s)",
     "viewport": "mobile"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0021",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0021",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0021",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0022",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0022",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0022",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0023",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0023",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0023",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0024",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0024",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0024",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0025",
-    "message": "no successful desktop capture (status=none)",
+    "message": "desktop: HTTP 404",
     "viewport": "desktop"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
     "ref_id": "P0025",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0025",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0026",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0026",
-    "message": "no successful tablet capture (status=none)",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0025",
+    "message": "tablet: 1 broken <img> element(s)",
     "viewport": "tablet"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0026",
-    "message": "no successful mobile capture (status=none)",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0025",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0025",
+    "message": "mobile: 1 broken <img> element(s)",
     "viewport": "mobile"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0027",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0027",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0027",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0028",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0028",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0028",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0029",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0029",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0029",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0030",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0030",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0030",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0031",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0031",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0031",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0032",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0032",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0032",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0033",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0033",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0033",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0034",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0034",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0034",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0035",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0035",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0035",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0036",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0036",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0036",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0037",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0037",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0037",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0038",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0038",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0038",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0039",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0039",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0039",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0040",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0040",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0040",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0041",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0041",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0041",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0042",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0042",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0042",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0043",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0043",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0043",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0044",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0044",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0044",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0045",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0045",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0045",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0046",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0046",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0046",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0047",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0047",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0047",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0048",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0048",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0048",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0049",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0049",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0049",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0050",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0050",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0050",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0051",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0051",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0051",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0052",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0052",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0052",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0053",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0053",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0053",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0054",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0054",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0054",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0055",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0055",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0055",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0056",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0056",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0056",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0057",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0057",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0057",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0058",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0058",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0058",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0059",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0059",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0059",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0060",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0060",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0060",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0061",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0061",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0061",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0062",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0062",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0062",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0063",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0063",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0063",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0064",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0064",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0064",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0065",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0065",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0065",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0066",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0066",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0066",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0067",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0067",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0067",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0068",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0068",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0068",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0069",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0069",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0069",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0070",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0070",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0070",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0071",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0071",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0071",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0072",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0072",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0072",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0073",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0073",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0073",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0074",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0074",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0074",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0075",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0075",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0075",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0076",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0076",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0076",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0077",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0077",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0077",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0078",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0078",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0078",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0079",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0079",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0079",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0080",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0080",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0080",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0081",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0081",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0081",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0082",
-    "message": "no successful desktop capture (status=none)",
+    "message": "desktop: HTTP 404",
     "viewport": "desktop"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
     "ref_id": "P0082",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0082",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
   },
   {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0084",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0084",
-    "message": "no successful tablet capture (status=none)",
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0082",
+    "message": "tablet: 1 broken <img> element(s)",
     "viewport": "tablet"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0084",
-    "message": "no successful mobile capture (status=none)",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0082",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0082",
+    "message": "mobile: 1 broken <img> element(s)",
     "viewport": "mobile"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0085",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0085",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0085",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0086",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0086",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0086",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0087",
-    "message": "no successful desktop capture (status=none)",
-    "viewport": "desktop"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0087",
-    "message": "no successful tablet capture (status=none)",
-    "viewport": "tablet"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
-    "ref_id": "P0087",
-    "message": "no successful mobile capture (status=none)",
-    "viewport": "mobile"
-  },
-  {
-    "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0088",
-    "message": "no successful desktop capture (status=none)",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0088",
+    "message": "desktop: 1 broken <img> element(s)",
     "viewport": "desktop"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0088",
-    "message": "no successful tablet capture (status=none)",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0088",
+    "message": "tablet: 1 broken <img> element(s)",
     "viewport": "tablet"
   },
   {
     "severity": "high",
-    "code": "MISSING_VIEWPORT",
+    "code": "HTTP_ERROR",
     "ref_id": "P0088",
-    "message": "no successful mobile capture (status=none)",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0088",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0247",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0247",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0247",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0247",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0247",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0247",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0283",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0283",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0283",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0283",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0283",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0283",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0284",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0284",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0284",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0284",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0284",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0284",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0303",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0303",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0303",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0303",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0303",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0303",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0334",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0334",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0334",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0334",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0334",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0334",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0368",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0368",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0368",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0368",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0368",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0368",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0369",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0369",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0369",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0369",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0369",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0369",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0372",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0372",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0372",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0372",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0372",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0372",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0373",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0373",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0373",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0373",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0373",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0373",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0398",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0398",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0398",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0398",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0398",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0398",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0399",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0399",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0399",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0399",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0399",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0399",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0400",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0400",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0400",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0400",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0400",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0400",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0402",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0402",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0402",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0402",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0402",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0402",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0403",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0403",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0403",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0403",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0403",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0403",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0405",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0405",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0405",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0405",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0405",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0405",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0406",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0406",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0406",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0406",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0406",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0406",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0429",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0429",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0429",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0429",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0429",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0429",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0451",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0451",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0451",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0451",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0451",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0451",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0517",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0517",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0517",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0517",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0517",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0517",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0554",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0554",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0554",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0554",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0554",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0554",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0555",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0555",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0555",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0555",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0555",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0555",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0583",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0583",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0583",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1061",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1061",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1061",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1061",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1061",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1061",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1067",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1067",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1067",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1067",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1067",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1067",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1102",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1102",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1102",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1102",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1102",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1102",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1141",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1141",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1141",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1141",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1141",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1141",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1151",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1151",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1151",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1151",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1151",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1151",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1284",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1284",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1284",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1284",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1284",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1284",
+    "message": "mobile: 1 broken <img> element(s)",
     "viewport": "mobile"
   }
 ]

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0698",
+  "url": "https://emiratespaints.com/anti-corrosion-paint-a-comprehensive-guide-to-emirates-paints-anti-corrosion-solutions/",
+  "captured_at": "2026-09-02T22:25:23Z",
+  "navigation_started_at": "2026-09-02T22:25:13Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:25:15 GMT",
+    "etag": "\"810-1788387915;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9473>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9473>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.689d2c71eba5b3d2fb9f01aac5edd16c,905_Po.9473,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"810-1788387915;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.689d2c71eba5b3d2fb9f01aac5edd16c,905_Po.9473,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "0445acb7f8e2caa455fc7a422044efc9d1f406dc8b9d9e8a6859f8b600428ad4",
+  "response_body_bytes": 281399,
+  "response_body_file": "html/response/P0698_anti-corrosion-paint-a-comprehensive-guide-to-emirates-paint.html"
+}

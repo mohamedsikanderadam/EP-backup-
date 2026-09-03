@@ -1,0 +1,310 @@
+{
+  "title": "Contact - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/contact/",
+  "meta_description": "Feel free to contact us if you have any question regarding our products and services. Thank you!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Contact - Emirates Paints",
+    "og:description": "Feel free to contact us if you have any question regarding our products and services. Thank you!",
+    "og:url": "https://emiratespaints.com/contact/",
+    "og:site_name": "Emirates Paints",
+    "og:updated_time": "2024-02-06T12:28:15+00:00",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:width": "250",
+    "og:image:height": "250",
+    "og:image:alt": "Contact",
+    "og:image:type": "image/png"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+          "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+          "width": "250",
+          "height": "250",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/contact/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/contact/",
+                "name": "Contact"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://emiratespaints.com/contact/#webpage",
+          "url": "https://emiratespaints.com/contact/",
+          "name": "Contact - Emirates Paints",
+          "datePublished": "2021-01-18T14:54:53+00:00",
+          "dateModified": "2024-02-06T12:28:15+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/contact/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://emiratespaints.com/author/mansoor/",
+          "name": "Sakib Ahmed",
+          "url": "https://emiratespaints.com/author/mansoor/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "url": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "caption": "Sakib Ahmed",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://emiratespaints.com"
+          ],
+          "worksFor": {
+            "@id": "https://emiratespaints.com/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Contact - Emirates Paints",
+          "keywords": "Contact",
+          "datePublished": "2021-01-18T14:54:53+00:00",
+          "dateModified": "2024-02-06T12:28:15+00:00",
+          "author": {
+            "@id": "https://emiratespaints.com/author/mansoor/",
+            "name": "Sakib Ahmed"
+          },
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "description": "Feel free to contact us if you have any question regarding our products and services. Thank you!",
+          "name": "Contact - Emirates Paints",
+          "@id": "https://emiratespaints.com/contact/#richSnippet",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/contact/#webpage"
+          },
+          "image": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/contact/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 16,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-850"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/contact/",
+      "method": "post",
+      "fields": [
+        "post_id",
+        "form_id",
+        "referer_title",
+        "queried_id",
+        "form_fields[name]",
+        "form_fields[field_7d8eed8]",
+        "form_fields[email]",
+        "form_fields[field_64e2529]",
+        "form_fields[message]",
+        "submit"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/contact/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emiratespaints.mena",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 785,
+  "body_text_excerpt": "Search COLORS PRODUCTS INSPIRATION VISUALIZER FIND A STORE BOOK A PAINTER ABOUT Contact Us Get in touch 14a St. Umm Ramool Dubai, United Arab Emirates info@emiratespaints.com +971 4 256 5474 Instagram Facebook Linkedin Name Phone Email Subject Message SEND Emirates Paints Tiktok Icon-snapchat-1 Icon-pinterest Explore > Home > About > Contact Us > Terms & Conditions > Privacy Policy > Live Chat > Articles Browse > Find a Color > Choose a Product > Brochures > Technical Data Sheets > Book a Painter > Find a Store > Company Profile Contact Call Us +971 4 256 5474 Send E-mail info@emiratespaints.c",
+  "page_height": 1543,
+  "page_width": 1440,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementor-pro",
+    "elementskit",
+    "elementskit-lite",
+    "ultimate-member",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0011",
+  "url": "https://emiratespaints.com/contact/",
+  "final_url": "https://emiratespaints.com/contact/",
+  "viewport": "desktop",
+  "viewport_size": {
+    "width": 1440,
+    "height": 900,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T15:37:52Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"357-1788342684;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 199,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

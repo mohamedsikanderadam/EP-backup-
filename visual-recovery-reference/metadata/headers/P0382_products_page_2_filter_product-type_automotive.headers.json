@@ -1,0 +1,36 @@
+{
+  "ref_id": "P0382",
+  "url": "https://emiratespaints.com/products/page/2/?filter_product-type=automotive",
+  "captured_at": "2026-09-02T20:25:41Z",
+  "navigation_started_at": "2026-09-02T20:25:34Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:25:35 GMT",
+    "etag": "\"188-1788368660;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"188-1788368660;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "75bbd2ca1564dee9e3dfce57c6858729c43b79c526cefbaf00c298274ccd922c",
+  "response_body_bytes": 253210,
+  "response_body_file": "html/response/P0382_products_page_2_filter_product-type_automotive.html"
+}

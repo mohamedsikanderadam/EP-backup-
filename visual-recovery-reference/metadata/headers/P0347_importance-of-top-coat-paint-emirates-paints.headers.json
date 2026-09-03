@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0347",
+  "url": "https://emiratespaints.com/importance-of-top-coat-paint-emirates-paints/",
+  "captured_at": "2026-09-02T19:59:52Z",
+  "navigation_started_at": "2026-09-02T19:59:43Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:59:45 GMT",
+    "etag": "\"564-1788379185;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10087>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10087>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.7c29f7490be98aab8a7f29ad2bf2081b,905_Po.10087,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"564-1788379185;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.7c29f7490be98aab8a7f29ad2bf2081b,905_Po.10087,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "5b2162b16ae9f21c6218d7c013e1d516ba5af9bb82ff74b060286f9610dbc3bf",
+  "response_body_bytes": 278940,
+  "response_body_file": "html/response/P0347_importance-of-top-coat-paint-emirates-paints.html"
+}

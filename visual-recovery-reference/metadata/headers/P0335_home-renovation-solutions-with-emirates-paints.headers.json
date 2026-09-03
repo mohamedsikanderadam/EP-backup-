@@ -1,0 +1,37 @@
+{
+  "ref_id": "P0335",
+  "url": "https://emiratespaints.com/home-renovation-solutions-with-emirates-paints/",
+  "captured_at": "2026-09-02T19:46:47Z",
+  "navigation_started_at": "2026-09-02T19:46:39Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-length": "51915",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:46:39 GMT",
+    "etag": "\"4-1788364126;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9693>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9693>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"4-1788364126;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "d91950503485b4204baa63d508af4f5ca5fa62c64299ee86a42c54047497ef6d",
+  "response_body_bytes": 275589,
+  "response_body_file": "html/response/P0335_home-renovation-solutions-with-emirates-paints.html"
+}

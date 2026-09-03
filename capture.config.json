@@ -36,6 +36,8 @@
     "/feed/?$", "^/feed", "^/comments/feed", "\\?add-to-cart=", "\\?add_to_wishlist=",
     "^/\\?s=", "^/search"
   ],
+  "max_filter_params": 1,
+  "excluded_filter_reason": "Combinatorial WooCommerce faceted-filter URL (2+ filter_* parameters or 2+ values in one parameter): every combination is an uncached LiteSpeed MISS that regenerates a page; single-facet filter views are captured instead",
   "excluded_reason": "Out of scope per production-safety rules (authenticated, state-changing, non-HTML feed or administrative endpoint)",
   "document_extensions": [".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".zip"],
   "tracking_params": ["utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid", "mc_cid", "mc_eid", "_ga", "ref"],

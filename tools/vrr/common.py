@@ -19,7 +19,7 @@ TOOL_VERSION = "vrr 1.0.0"
 MANIFEST_FIELDS = [
     "ref_id", "discovered_url", "normalized_url", "final_url", "discovery_source",
     "page_title", "language", "content_type", "http_status", "redirect_chain",
-    "capture_status", "screenshots", "notes",
+    "capture_status", "cache_status", "request_count", "screenshots", "notes",
 ]
 
 
@@ -116,7 +116,20 @@ def normalize_url(url: str, cfg: dict, base: str | None = None) -> str:
 def is_excluded(url: str, cfg: dict) -> bool:
     parts = urlsplit(url)
     target = parts.path + ("?" + parts.query if parts.query else "")
-    return any(re.search(pat, target) for pat in cfg["exclude_path_patterns"])
+    if any(re.search(pat, target) for pat in cfg["exclude_path_patterns"]):
+        return True
+    return excluded_reason_for(url, cfg) is not None
+
+
+def excluded_reason_for(url: str, cfg: dict) -> str | None:
+    """Faceted-filter combinations (2+ filter_* params, or 2+ comma-separated values in one) are uncached,
+    combinatorial and would each regenerate a page; only single-facet, single-value filter URLs are captured."""
+    parts = urlsplit(url)
+    max_facets = cfg.get("max_filter_params", 1)
+    facets = [v for k, v in parse_qsl(parts.query, keep_blank_values=True) if k.startswith("filter_")]
+    if len(facets) > max_facets or any("," in v for v in facets):
+        return cfg.get("excluded_filter_reason", "Combinatorial faceted-filter URL not captured")
+    return None
 
 
 def classify(url: str, content_type_header: str | None) -> str:
@@ -188,6 +201,48 @@ def save_manifest(cfg: dict, rows: list[dict]) -> None:
                 if isinstance(v, list):
                     rr[k] = " | ".join(str(x) for x in v)
             w.writerow(rr)
+
+
+class ManifestIndex:
+    """Manifest rows keyed by normalized URL; assigns stable P#### IDs to new URLs."""
+
+    def __init__(self, cfg: dict, rows: list[dict]):
+        self.cfg = cfg
+        self.rows = rows
+        self.by_norm = {r["normalized_url"]: r for r in rows}
+        self.next_id = max([int(r["ref_id"][1:]) for r in rows] + [0]) + 1
+
+    def entry(self, url: str, source: str) -> dict:
+        n = normalize_url(url, self.cfg)
+        row = self.by_norm.get(n)
+        if row:
+            if source not in row["discovery_source"]:
+                row["discovery_source"].append(source)
+            return row
+        row = {
+            "ref_id": f"P{self.next_id:04d}", "discovered_url": url, "normalized_url": n,
+            "final_url": "", "discovery_source": [source], "page_title": "", "language": "",
+            "content_type": classify(n, None), "http_status": None, "redirect_chain": [],
+            "capture_status": "pending", "cache_status": "", "request_count": 0,
+            "screenshots": [], "notes": "", "slug": slugify(n), "discovered_at": utc_now(),
+            "in_sitemap": False, "linked_from": [], "requests": [],
+        }
+        if is_excluded(n, self.cfg):
+            row["capture_status"] = "excluded"
+            row["notes"] = excluded_reason_for(n, self.cfg) or self.cfg["excluded_reason"]
+        self.next_id += 1
+        self.by_norm[n] = row
+        self.rows.append(row)
+        return row
+
+
+def record_request(row: dict, via: str, status, cache: str | None, purpose: str) -> None:
+    """Every production request against a URL is logged on its manifest row (LiteSpeed miss = regeneration)."""
+    row.setdefault("requests", []).append({"at": utc_now(), "via": via, "status": status,
+                                            "x_litespeed_cache": cache, "purpose": purpose})
+    row["request_count"] = len(row["requests"])
+    if cache and not row.get("cache_status"):
+        row["cache_status"] = cache
 
 
 def write_json(path: Path, data) -> None:

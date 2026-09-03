@@ -1,0 +1,43 @@
+{
+  "ref_id": "P1067",
+  "url": "https://emiratespaints.com/product/pva-primer/",
+  "captured_at": "2026-09-02T23:20:37Z",
+  "navigation_started_at": "2026-09-02T23:20:27Z",
+  "status": 404,
+  "status_text": "",
+  "headers": {
+    "cache-control": "no-cache, must-revalidate, max-age=0, no-store, private",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 23:20:29 GMT",
+    "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_location=office&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/pva-primer/"
+    }
+  ],
+  "cache_headers": {
+    "cache-control": "no-cache, must-revalidate, max-age=0, no-store, private",
+    "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "b80e418dce35f94a668ccb1219eff534062675b0c8f9d4d35fba29ed577d8a0d",
+  "response_body_bytes": 253208,
+  "response_body_file": "html/response/P1067_products_filter_location_office_post_type_product_s_primer.html"
+}

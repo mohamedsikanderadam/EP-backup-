@@ -1,0 +1,313 @@
+{
+  "title": "Transform Your Spaces with Texture Paint from Emirates Paints - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/",
+  "meta_description": "Transform Your Spaces with Texture Paint from Emirates Paints. Paint is an essential element in making our homes more attractive and comfortable.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Transform Your Spaces with Texture Paint from Emirates Paints - Emirates Paints",
+    "og:description": "Transform Your Spaces with Texture Paint from Emirates Paints. Paint is an essential element in making our homes more attractive and comfortable.",
+    "og:url": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/",
+    "og:site_name": "Emirates Paints",
+    "og:updated_time": "2024-09-30T05:51:20+00:00",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2023/10/pasted-image-0-8.png",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2023/10/pasted-image-0-8.png",
+    "og:image:width": "626",
+    "og:image:height": "417",
+    "og:image:alt": "Texture Paint",
+    "og:image:type": "image/png"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2023/10/pasted-image-0-8.png",
+          "url": "https://emiratespaints.com/wp-content/uploads/2023/10/pasted-image-0-8.png",
+          "width": "626",
+          "height": "417",
+          "caption": "Texture Paint",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/",
+                "name": "Transform Your Spaces with Texture Paint from Emirates Paints"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#webpage",
+          "url": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/",
+          "name": "Transform Your Spaces with Texture Paint from Emirates Paints - Emirates Paints",
+          "datePublished": "2024-02-23T05:02:49+00:00",
+          "dateModified": "2024-09-30T05:51:20+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2023/10/pasted-image-0-8.png"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://emiratespaints.com/author/mansoor/",
+          "name": "Sakib Ahmed",
+          "url": "https://emiratespaints.com/author/mansoor/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "url": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "caption": "Sakib Ahmed",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://emiratespaints.com"
+          ],
+          "worksFor": {
+            "@id": "https://emiratespaints.com/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Transform Your Spaces with Texture Paint from Emirates Paints - Emirates Paints",
+          "keywords": "Texture Paint",
+          "datePublished": "2024-02-23T05:02:49+00:00",
+          "dateModified": "2024-09-30T05:51:20+00:00",
+          "author": {
+            "@id": "https://emiratespaints.com/author/mansoor/",
+            "name": "Sakib Ahmed"
+          },
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "description": "Transform Your Spaces with Texture Paint from Emirates Paints. Paint is an essential element in making our homes more attractive and comfortable.",
+          "name": "Transform Your Spaces with Texture Paint from Emirates Paints - Emirates Paints",
+          "@id": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#richSnippet",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#webpage"
+          },
+          "image": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2023/10/pasted-image-0-8.png"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 24,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-94"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/2024/02/23/",
+    "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#respond",
+    "https://emiratespaints.com/how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by-step-tutorial/",
+    "https://emiratespaints.com/emirates-paints-quality-industrial-paint-manufacturers/",
+    "https://emiratespaints.com/bedroom-wall-painting-a-guide-for-uae-homeowners/",
+    "https://emiratespaints.com/emirates-paints-top-quality-paint-touch-up-solutions-in-the-uae/",
+    "https://emiratespaints.com/importance-of-top-coat-paint-emirates-paints/",
+    "https://emiratespaints.com/transforming-your-hom%d0%b5-with-int%d0%b5rior-acrylic-paint-a-guid%d0%b5-to-emirat%d0%b5s-paints/",
+    "https://emiratespaints.com/blog",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 5260,
+  "body_text_excerpt": "Search COLORS PRODUCTS INSPIRATION VISUALIZER FIND A STORE BOOK A PAINTER ABOUT TRANSFORM YOUR SPACES WITH TEXTURE PAINT FROM EMIRATES PAINTS February 23, 2024 No Comments Paint is an essential element in making our homes more attractive and comfortable. While regular paint has been used for this purpose for ages, a fascinating new development is texture paint. Thanks to technological progress. The purpose of this article is to introduce you to the fascinating world of texture paint and to explain how Emirates Paints has led the way in this field by providing a wide range of magnificent textur",
+  "page_height": 4686,
+  "page_width": 1440,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementor-pro",
+    "elementskit-lite",
+    "elementskit",
+    "ultimate-member",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0563",
+  "url": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/",
+  "final_url": "https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/",
+  "viewport": "desktop",
+  "viewport_size": {
+    "width": 1440,
+    "height": 900,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T21:38:27Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"730-1788385085;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.392c2e0d44869ed482cdc053c2b15ee0,905_Po.8613,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 218,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "lh4.googleusercontent.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

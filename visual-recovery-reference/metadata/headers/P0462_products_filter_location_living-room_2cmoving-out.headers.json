@@ -1,0 +1,37 @@
+{
+  "ref_id": "P0462",
+  "url": "https://emiratespaints.com/products/?filter_location=living-room%2Cmoving-out",
+  "captured_at": "2026-09-02T21:10:39Z",
+  "navigation_started_at": "2026-09-02T21:10:30Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-length": "47473",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 21:10:30 GMT",
+    "etag": "\"376-1788373569;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"376-1788373569;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "abb0ade81535ca63fbe14fc6e4be9d40f7f793f0d8cd8f1ddbbbb128ce624e05",
+  "response_body_bytes": 283155,
+  "response_body_file": "html/response/P0462_products_filter_location_living-room_2cmoving-out.html"
+}

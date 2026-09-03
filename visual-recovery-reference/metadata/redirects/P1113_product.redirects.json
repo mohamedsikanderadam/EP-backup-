@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1113",
+  "url": "https://emiratespaints.com/product/",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/product/",
+      "status": 301,
+      "location": "https://emiratespaints.com/product-list/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/product-list/"
+}

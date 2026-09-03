@@ -81,3 +81,1494 @@
 2026-09-02T14:26:07Z [WARN] hash changed since last register: screenshots/tablet/full-page/P0001_home_en_tablet_full.png (old kept in capture log)
 2026-09-02T14:26:07Z [INFO] integrity: 348 files hashed, 3 new, 31 changed, 25.5 MB
 2026-09-02T14:26:08Z [INFO] reports generated: gallery, capture-summary.md, cache-observations.md, exceptions.md, README.md, executive-summary.pdf, crawl-coverage.md
+2026-09-02T15:16:10Z [INFO] sitemap https://emiratespaints.com/sitemap.xml -> 200
+2026-09-02T15:16:13Z [INFO] discover P0001 https://emiratespaints.com/ -> 200 html cache=hit
+2026-09-02T15:16:18Z [INFO] discover P0009 https://emiratespaints.com/technical-data-sheets/ -> 200 html cache=hit
+2026-09-02T15:16:23Z [INFO] discover P0089 https://emiratespaints.com/discover-the-leading-epoxy-paint-suppliers-in-uae-emirates-paints/ -> 200 html cache=hit
+2026-09-02T15:16:27Z [INFO] discover P0006 https://emiratespaints.com/find-a-store/ -> 200 html cache=hit
+2026-09-02T15:16:32Z [INFO] discover P0002 https://emiratespaints.com/products/ -> 200 html cache=hit
+2026-09-02T15:16:36Z [INFO] discover P0004 https://emiratespaints.com/product-category/red/ -> 200 html cache=hit
+2026-09-02T15:16:40Z [INFO] discover P0005 https://emiratespaints.com/inspirations/ -> 200 html cache=hit
+2026-09-02T15:16:45Z [INFO] discover P0007 https://emiratespaints.com/book-a-painter/ -> 200 html cache=hit
+2026-09-02T15:16:50Z [INFO] discover P0008 https://emiratespaints.com/about-emirates-paints/ -> 200 html cache=hit
+2026-09-02T15:16:55Z [INFO] discover P0010 https://emiratespaints.com/brochures/ -> 200 html cache=-
+2026-09-02T15:17:00Z [INFO] discover P0011 https://emiratespaints.com/contact/ -> 200 html cache=hit
+2026-09-02T15:17:05Z [INFO] discover P0012 https://emiratespaints.com/privacy-policy-2/ -> 200 html cache=hit
+2026-09-02T15:17:10Z [INFO] discover P0013 https://emiratespaints.com/terms-and-conditions/ -> 200 html cache=hit
+2026-09-02T15:17:18Z [INFO] discover P0015 https://emiratespaints.com/wishlist -> 200 html cache=hit
+2026-09-02T15:17:24Z [INFO] discover P0016 https://emiratespaints.com/visulizer -> 404 html cache=miss
+2026-09-02T15:17:33Z [INFO] discover P0017 https://emiratespaints.com/find-store/ -> 200 html cache=hit
+2026-09-02T15:17:37Z [INFO] discover P0018 https://emiratespaints.com/products/?filter_product-type=interior -> 200 html cache=hit
+2026-09-02T15:17:42Z [INFO] discover P0019 https://emiratespaints.com/products/?filter_product-type=exterior -> 200 html cache=hit
+2026-09-02T15:17:49Z [INFO] discover P0020 https://emiratespaints.com/products/?filter_product-type=industrial -> 200 html cache=miss
+2026-09-02T15:17:54Z [INFO] discover P0021 https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL -> 200 html cache=hit
+2026-09-02T15:17:59Z [INFO] discover P0022 https://emiratespaints.com/book-a-painter/?service=COMMERCIAL -> 200 html cache=hit
+2026-09-02T15:18:03Z [INFO] discover P0023 https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL -> 200 html cache=hit
+2026-09-02T15:18:11Z [INFO] discover P0024 https://emiratespaints.com/home -> 200 html cache=hit
+2026-09-02T15:18:18Z [INFO] discover P0025 https://emiratespaints.com/about-us -> 404 html cache=miss
+2026-09-02T15:18:25Z [INFO] discover P0026 https://emiratespaints.com/contact -> 200 html cache=hit
+2026-09-02T15:18:31Z [INFO] discover P0027 https://emiratespaints.com/privacy-policy/ -> 200 html cache=miss
+2026-09-02T15:18:35Z [INFO] discover P0028 https://emiratespaints.com/emirates-paints-blog/ -> 200 html cache=hit
+2026-09-02T15:18:43Z [INFO] discover P0029 https://emiratespaints.com/book-a-painter -> 200 html cache=hit
+2026-09-02T15:18:53Z [INFO] discover P0030 https://emiratespaints.com/company-profile -> 200 html cache=miss
+2026-09-02T15:18:58Z [INFO] discover P0090 https://emiratespaints.com/download/aqua-emulsion/ -> 200 html cache=miss
+2026-09-02T15:19:04Z [INFO] discover P0091 https://emiratespaints.com/download/excel-emulsion/ -> 200 html cache=miss
+2026-09-02T15:19:11Z [INFO] discover P0092 https://emiratespaints.com/download/durable-emulsion/ -> 200 html cache=miss
+2026-09-02T15:19:17Z [INFO] discover P0093 https://emiratespaints.com/download/premium-emulsion-matt/ -> 200 html cache=miss
+2026-09-02T15:19:23Z [INFO] discover P0094 https://emiratespaints.com/download/premium-emulsion-silk/ -> 200 html cache=miss
+2026-09-02T15:19:29Z [INFO] discover P0095 https://emiratespaints.com/download/majestic-%C2%B7-matt/ -> 200 html cache=miss
+2026-09-02T15:19:35Z [INFO] discover P0096 https://emiratespaints.com/download/majestic-%C2%B7-silk/ -> 200 html cache=miss
+2026-09-02T15:19:40Z [INFO] discover P0097 https://emiratespaints.com/download/gloss-emulsion/ -> 200 html cache=miss
+2026-09-02T15:19:46Z [INFO] discover P0098 https://emiratespaints.com/download/protect-seal-%C2%B7-silk/ -> 200 html cache=miss
+2026-09-02T15:19:52Z [INFO] discover P0099 https://emiratespaints.com/download/protect-seal-%C2%B7-matt/ -> 200 html cache=miss
+2026-09-02T15:19:57Z [INFO] discover P0100 https://emiratespaints.com/download/emashield-long-life-classic-tex/ -> 200 html cache=miss
+2026-09-02T15:20:03Z [INFO] discover P0101 https://emiratespaints.com/download/emashield-long-life-antique-tex/ -> 200 html cache=miss
+2026-09-02T15:20:10Z [INFO] discover P0102 https://emiratespaints.com/download/emashield-long-life-traditional-tex/ -> 200 html cache=miss
+2026-09-02T15:20:17Z [INFO] discover P0103 https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-gloss/ -> 200 html cache=miss
+2026-09-02T15:20:23Z [INFO] discover P0104 https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-semi-gloss/ -> 200 html cache=miss
+2026-09-02T15:20:28Z [INFO] discover P0105 https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-matt/ -> 200 html cache=miss
+2026-09-02T15:20:34Z [INFO] discover P0106 https://emiratespaints.com/download/emashield-fine-silk/ -> 200 html cache=miss
+2026-09-02T15:20:41Z [INFO] discover P0107 https://emiratespaints.com/download/emashield-tex-silk/ -> 200 html cache=miss
+2026-09-02T15:20:47Z [INFO] discover P0108 https://emiratespaints.com/download/ematex/ -> 200 html cache=miss
+2026-09-02T15:20:53Z [INFO] discover P0109 https://emiratespaints.com/download/emasynplast/ -> 200 html cache=miss
+2026-09-02T15:20:59Z [INFO] discover P0110 https://emiratespaints.com/download/emasandtex/ -> 200 html cache=miss
+2026-09-02T15:21:05Z [INFO] discover P0111 https://emiratespaints.com/download/emaminitex/ -> 200 html cache=miss
+2026-09-02T15:21:12Z [INFO] discover P0112 https://emiratespaints.com/download/emasyntex/ -> 200 html cache=miss
+2026-09-02T15:21:16Z [INFO] discover P0113 https://emiratespaints.com/download/emafinetex/ -> 200 html cache=hit
+2026-09-02T15:21:21Z [INFO] discover P0114 https://emiratespaints.com/download/grooved-decor/ -> 200 html cache=miss
+2026-09-02T15:27:50Z [INFO] capture run start: 356 rows queued, viewports=['desktop', 'tablet', 'mobile'], one navigation per URL
+2026-09-02T15:27:51Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T15:29:41Z [INFO] P0004 https://emiratespaints.com/product-category/red/ -> captured http=200 cache=hit h=10373/24542/16893
+2026-09-02T15:30:42Z [INFO] P0005 https://emiratespaints.com/inspirations/ -> captured http=200 cache=hit h=2551/3177/5068
+2026-09-02T15:31:33Z [INFO] P0006 https://emiratespaints.com/find-a-store/ -> captured http=200 cache=hit h=1546/1514/2308
+2026-09-02T15:32:22Z [INFO] P0007 https://emiratespaints.com/book-a-painter/ -> captured http=200 cache=hit h=1598/1654/2074
+2026-09-02T15:33:24Z [INFO] P0008 https://emiratespaints.com/about-emirates-paints/ -> captured http=200 cache=hit h=4278/5061/5680
+2026-09-02T15:37:07Z [INFO] P0009 https://emiratespaints.com/technical-data-sheets/ -> captured http=200 cache=hit h=17477/41561/82730
+2026-09-02T15:37:26Z [INFO] P0010 https://emiratespaints.com/brochures/ -> captured http=200 cache=- h=900/1024/844
+2026-09-02T15:38:17Z [INFO] P0011 https://emiratespaints.com/contact/ -> captured http=200 cache=hit h=1543/1495/2363
+2026-09-02T15:39:10Z [INFO] P0012 https://emiratespaints.com/privacy-policy-2/ -> captured http=200 cache=hit h=2187/2472/3517
+2026-09-02T15:40:10Z [INFO] P0013 https://emiratespaints.com/terms-and-conditions/ -> captured http=200 cache=hit h=3188/4155/6323
+2026-09-02T15:41:10Z [INFO] P0015 https://emiratespaints.com/wishlist -> captured http=200 cache=hit h=1071/1038/1259
+2026-09-02T15:42:40Z [FLAG] P0016 cache=miss https://emiratespaints.com/visulizer
+2026-09-02T15:42:40Z [INFO] P0016 https://emiratespaints.com/visulizer -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T15:43:37Z [INFO] P0017 https://emiratespaints.com/find-store/ -> captured http=200 cache=hit h=1546/1514/2308
+2026-09-02T15:44:29Z [INFO] P0018 https://emiratespaints.com/products/?filter_product-type=interior -> captured http=200 cache=hit h=2493/2822/879
+2026-09-02T15:45:17Z [INFO] P0019 https://emiratespaints.com/products/?filter_product-type=exterior -> captured http=200 cache=hit h=1864/2123/879
+2026-09-02T15:46:07Z [INFO] P0020 https://emiratespaints.com/products/?filter_product-type=industrial -> captured http=200 cache=hit h=2445/2726/861
+2026-09-02T15:47:02Z [FLAG] P0021 cache=miss https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL
+2026-09-02T15:47:02Z [INFO] P0021 https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL -> captured http=200 cache=miss h=1598/1654/2074
+2026-09-02T15:47:51Z [FLAG] P0022 cache=miss https://emiratespaints.com/book-a-painter/?service=COMMERCIAL
+2026-09-02T15:47:51Z [INFO] P0022 https://emiratespaints.com/book-a-painter/?service=COMMERCIAL -> captured http=200 cache=miss h=1598/1654/2074
+2026-09-02T15:48:40Z [FLAG] P0023 cache=miss https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL
+2026-09-02T15:48:40Z [INFO] P0023 https://emiratespaints.com/book-a-painter/?service=INDUSTRIAL -> captured http=200 cache=miss h=1598/1654/2074
+2026-09-02T15:49:44Z [FLAG] P0024 cache=miss https://emiratespaints.com/home
+2026-09-02T15:49:44Z [INFO] P0024 https://emiratespaints.com/home -> captured http=200 cache=miss h=4413/4918/6558
+2026-09-02T15:49:44Z [INFO] P0024: 3 new URL(s) queued; queue=339 manifest=364
+2026-09-02T15:49:50Z [RETRY] P0025 attempt 1 got no response: Page.goto: net::ERR_CONNECTION_REFUSED at https://emiratespaints.com/about-us
+Call log:
+  - navigating to "https://emira; backing off
+2026-09-02T15:50:08Z [RETRY] P0025 attempt 2 got no response: Page.goto: net::ERR_CONNECTION_REFUSED at https://emiratespaints.com/about-us
+Call log:
+  - navigating to "https://emira; backing off
+2026-09-02T15:50:41Z [INFO] P0025 https://emiratespaints.com/about-us -> failed http=0 cache=- h=-/-/-
+2026-09-02T15:50:47Z [RETRY] P0026 attempt 1 got no response: Page.goto: net::ERR_CONNECTION_REFUSED at https://emiratespaints.com/contact
+Call log:
+  - navigating to "https://emirat; backing off
+2026-09-02T15:51:53Z [FLAG] P0026 cache=miss https://emiratespaints.com/contact
+2026-09-02T15:51:53Z [INFO] P0026 https://emiratespaints.com/contact -> captured http=200 cache=miss h=1543/1495/2363
+2026-09-02T15:52:48Z [FLAG] P0027 cache=miss https://emiratespaints.com/privacy-policy/
+2026-09-02T15:52:48Z [INFO] P0027 https://emiratespaints.com/privacy-policy/ -> captured http=200 cache=miss h=2345/3066/4686
+2026-09-02T15:53:47Z [FLAG] P0028 cache=miss https://emiratespaints.com/emirates-paints-blog/
+2026-09-02T15:53:47Z [INFO] P0028 https://emiratespaints.com/emirates-paints-blog/ -> captured http=200 cache=miss h=4111/2963/4646
+2026-09-02T15:54:35Z [FLAG] P0029 cache=miss https://emiratespaints.com/book-a-painter
+2026-09-02T15:54:35Z [INFO] P0029 https://emiratespaints.com/book-a-painter -> captured http=200 cache=miss h=1598/1654/2074
+2026-09-02T15:55:24Z [FLAG] P0030 cache=miss https://emiratespaints.com/company-profile
+2026-09-02T15:55:24Z [INFO] P0030 https://emiratespaints.com/company-profile -> captured http=200 cache=miss h=1153/1024/1219
+2026-09-02T15:55:24Z [INFO] P0030: 1 new URL(s) queued; queue=334 manifest=365
+2026-09-02T15:56:13Z [FLAG] P0031 cache=miss https://emiratespaints.com/products/page/2/
+2026-09-02T15:56:13Z [INFO] P0031 https://emiratespaints.com/products/page/2/ -> captured http=200 cache=miss h=2528/3112/879
+2026-09-02T15:56:13Z [INFO] P0031: 6 new URL(s) queued; queue=339 manifest=371
+2026-09-02T15:57:05Z [FLAG] P0032 cache=miss https://emiratespaints.com/products/?filter_product-type=automotive
+2026-09-02T15:57:05Z [INFO] P0032 https://emiratespaints.com/products/?filter_product-type=automotive -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T15:57:05Z [INFO] P0032: 11 new URL(s) queued; queue=349 manifest=382
+2026-09-02T15:57:54Z [FLAG] P0033 cache=miss https://emiratespaints.com/products/?filter_product-type=decorative
+2026-09-02T15:57:54Z [INFO] P0033 https://emiratespaints.com/products/?filter_product-type=decorative -> captured http=200 cache=miss h=2575/3170/879
+2026-09-02T15:57:54Z [INFO] P0033: 14 new URL(s) queued; queue=362 manifest=396
+2026-09-02T15:58:46Z [FLAG] P0034 cache=miss https://emiratespaints.com/products/?filter_location=bathroom
+2026-09-02T15:58:46Z [INFO] P0034 https://emiratespaints.com/products/?filter_location=bathroom -> captured http=200 cache=miss h=2575/3074/879
+2026-09-02T15:58:46Z [INFO] P0034: 21 new URL(s) queued; queue=382 manifest=417
+2026-09-02T15:59:36Z [FLAG] P0035 cache=miss https://emiratespaints.com/products/?filter_location=bedroom
+2026-09-02T15:59:36Z [INFO] P0035 https://emiratespaints.com/products/?filter_location=bedroom -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T15:59:36Z [INFO] P0035: 11 new URL(s) queued; queue=392 manifest=428
+2026-09-02T16:00:22Z [FLAG] P0036 cache=miss https://emiratespaints.com/products/?filter_location=ceiling
+2026-09-02T16:00:22Z [INFO] P0036 https://emiratespaints.com/products/?filter_location=ceiling -> captured http=200 cache=miss h=1114/1109/879
+2026-09-02T16:00:22Z [INFO] P0036: 7 new URL(s) queued; queue=398 manifest=435
+2026-09-02T16:01:16Z [FLAG] P0037 cache=miss https://emiratespaints.com/products/?filter_location=childrens-room
+2026-09-02T16:01:16Z [INFO] P0037 https://emiratespaints.com/products/?filter_location=childrens-room -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T16:01:16Z [INFO] P0037: 8 new URL(s) queued; queue=405 manifest=443
+2026-09-02T16:02:08Z [FLAG] P0038 cache=miss https://emiratespaints.com/products/?filter_location=dining-room
+2026-09-02T16:02:08Z [INFO] P0038 https://emiratespaints.com/products/?filter_location=dining-room -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T16:02:08Z [INFO] P0038: 7 new URL(s) queued; queue=411 manifest=450
+2026-09-02T16:02:58Z [FLAG] P0039 cache=miss https://emiratespaints.com/products/?filter_location=kitchen
+2026-09-02T16:02:58Z [INFO] P0039 https://emiratespaints.com/products/?filter_location=kitchen -> captured http=200 cache=miss h=2527/3050/879
+2026-09-02T16:02:58Z [INFO] P0039: 7 new URL(s) queued; queue=417 manifest=457
+2026-09-02T16:03:50Z [FLAG] P0040 cache=miss https://emiratespaints.com/products/?filter_location=living-room
+2026-09-02T16:03:50Z [INFO] P0040 https://emiratespaints.com/products/?filter_location=living-room -> captured http=200 cache=miss h=2503/3026/879
+2026-09-02T16:03:50Z [INFO] P0040: 7 new URL(s) queued; queue=423 manifest=464
+2026-09-02T16:04:39Z [FLAG] P0041 cache=miss https://emiratespaints.com/products/?filter_location=moving-out
+2026-09-02T16:04:39Z [INFO] P0041 https://emiratespaints.com/products/?filter_location=moving-out -> captured http=200 cache=miss h=2397/2920/879
+2026-09-02T16:04:39Z [INFO] P0041: 3 new URL(s) queued; queue=425 manifest=467
+2026-09-02T16:05:30Z [FLAG] P0042 cache=miss https://emiratespaints.com/products/?filter_location=office
+2026-09-02T16:05:30Z [INFO] P0042 https://emiratespaints.com/products/?filter_location=office -> captured http=200 cache=miss h=2397/2920/879
+2026-09-02T16:05:30Z [INFO] P0042: 2 new URL(s) queued; queue=426 manifest=469
+2026-09-02T16:06:16Z [FLAG] P0043 cache=miss https://emiratespaints.com/products/?filter_surface=concrete
+2026-09-02T16:06:16Z [INFO] P0043 https://emiratespaints.com/products/?filter_surface=concrete -> captured http=200 cache=miss h=1816/2123/879
+2026-09-02T16:06:16Z [INFO] P0043: 11 new URL(s) queued; queue=436 manifest=480
+2026-09-02T16:07:05Z [FLAG] P0044 cache=miss https://emiratespaints.com/products/?filter_surface=grc-board
+2026-09-02T16:07:05Z [INFO] P0044 https://emiratespaints.com/products/?filter_surface=grc-board -> captured http=200 cache=miss h=1816/2123/879
+2026-09-02T16:07:05Z [INFO] P0044: 8 new URL(s) queued; queue=443 manifest=488
+2026-09-02T16:07:48Z [FLAG] P0045 cache=miss https://emiratespaints.com/products/?filter_surface=gypsum
+2026-09-02T16:07:48Z [INFO] P0045 https://emiratespaints.com/products/?filter_surface=gypsum -> captured http=200 cache=miss h=1115/1133/879
+2026-09-02T16:07:48Z [INFO] P0045: 3 new URL(s) queued; queue=445 manifest=491
+2026-09-02T16:08:36Z [FLAG] P0046 cache=miss https://emiratespaints.com/products/?filter_surface=mansory
+2026-09-02T16:08:36Z [INFO] P0046 https://emiratespaints.com/products/?filter_surface=mansory -> captured http=200 cache=miss h=1816/1857/879
+2026-09-02T16:08:36Z [INFO] P0046: 6 new URL(s) queued; queue=450 manifest=497
+2026-09-02T16:09:25Z [FLAG] P0047 cache=miss https://emiratespaints.com/products/?filter_surface=metal
+2026-09-02T16:09:25Z [INFO] P0047 https://emiratespaints.com/products/?filter_surface=metal -> captured http=200 cache=miss h=2551/3098/879
+2026-09-02T16:09:25Z [INFO] P0047: 10 new URL(s) queued; queue=459 manifest=507
+2026-09-02T16:10:14Z [FLAG] P0048 cache=miss https://emiratespaints.com/products/?filter_surface=plaster
+2026-09-02T16:10:14Z [INFO] P0048 https://emiratespaints.com/products/?filter_surface=plaster -> captured http=200 cache=miss h=1816/2123/879
+2026-09-02T16:10:14Z [INFO] P0048: 6 new URL(s) queued; queue=464 manifest=513
+2026-09-02T16:10:56Z [FLAG] P0049 cache=miss https://emiratespaints.com/products/?filter_surface=wood
+2026-09-02T16:10:56Z [INFO] P0049 https://emiratespaints.com/products/?filter_surface=wood -> captured http=200 cache=miss h=1115/1133/879
+2026-09-02T16:11:43Z [FLAG] P0050 cache=miss https://emiratespaints.com/products/?filter_surface=glass
+2026-09-02T16:11:43Z [INFO] P0050 https://emiratespaints.com/products/?filter_surface=glass -> captured http=200 cache=miss h=1114/1133/879
+2026-09-02T16:12:27Z [FLAG] P0051 cache=miss https://emiratespaints.com/products/?filter_surface=steel
+2026-09-02T16:12:27Z [INFO] P0051 https://emiratespaints.com/products/?filter_surface=steel -> captured http=200 cache=miss h=1114/1133/879
+2026-09-02T16:13:13Z [FLAG] P0052 cache=miss https://emiratespaints.com/products/?filter_finish=clear
+2026-09-02T16:13:13Z [INFO] P0052 https://emiratespaints.com/products/?filter_finish=clear -> captured http=200 cache=miss h=1138/1133/879
+2026-09-02T16:14:02Z [FLAG] P0053 cache=miss https://emiratespaints.com/products/?filter_finish=gloss
+2026-09-02T16:14:02Z [INFO] P0053 https://emiratespaints.com/products/?filter_finish=gloss -> captured http=200 cache=miss h=1816/2171/879
+2026-09-02T16:14:53Z [FLAG] P0054 cache=miss https://emiratespaints.com/products/?filter_finish=matt
+2026-09-02T16:14:53Z [INFO] P0054 https://emiratespaints.com/products/?filter_finish=matt -> captured http=200 cache=miss h=2575/3242/879
+2026-09-02T16:14:53Z [INFO] P0054: 1 new URL(s) queued; queue=459 manifest=514
+2026-09-02T16:15:40Z [FLAG] P0055 cache=miss https://emiratespaints.com/products/?filter_finish=semi-gloss
+2026-09-02T16:15:40Z [INFO] P0055 https://emiratespaints.com/products/?filter_finish=semi-gloss -> captured http=200 cache=miss h=1633/1809/879
+2026-09-02T16:16:26Z [FLAG] P0056 cache=miss https://emiratespaints.com/products/?filter_finish=textured
+2026-09-02T16:16:26Z [INFO] P0056 https://emiratespaints.com/products/?filter_finish=textured -> captured http=200 cache=miss h=1138/1157/879
+2026-09-02T16:17:13Z [FLAG] P0057 cache=miss https://emiratespaints.com/products/?filter_finish=free-flowing-liquid
+2026-09-02T16:17:13Z [INFO] P0057 https://emiratespaints.com/products/?filter_finish=free-flowing-liquid -> captured http=200 cache=miss h=1230/1182/879
+2026-09-02T16:17:55Z [FLAG] P0058 cache=miss https://emiratespaints.com/products/?filter_finish=transparent-clear
+2026-09-02T16:17:55Z [INFO] P0058 https://emiratespaints.com/products/?filter_finish=transparent-clear -> captured http=200 cache=miss h=1138/1133/879
+2026-09-02T16:18:42Z [FLAG] P0059 cache=miss https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise
+2026-09-02T16:18:42Z [INFO] P0059 https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T16:19:37Z [FLAG] P0060 cache=miss https://emiratespaints.com/product/2k-primer/
+2026-09-02T16:19:37Z [INFO] P0060 https://emiratespaints.com/product/2k-primer/ -> captured http=200 cache=miss h=2796/2813/3481
+2026-09-02T16:19:37Z [INFO] P0060: 1 new URL(s) queued; queue=454 manifest=516
+2026-09-02T16:20:33Z [FLAG] P0061 cache=miss https://emiratespaints.com/product/2k-top-coat-gloss/
+2026-09-02T16:20:33Z [INFO] P0061 https://emiratespaints.com/product/2k-top-coat-gloss/ -> captured http=200 cache=miss h=2938/3003/3671
+2026-09-02T16:20:33Z [INFO] P0061: 1 new URL(s) queued; queue=454 manifest=518
+2026-09-02T16:21:28Z [FLAG] P0062 cache=miss https://emiratespaints.com/product/acrylic-primer/
+2026-09-02T16:21:28Z [INFO] P0062 https://emiratespaints.com/product/acrylic-primer/ -> captured http=200 cache=miss h=2578/2732/3688
+2026-09-02T16:22:20Z [FLAG] P0063 cache=miss https://emiratespaints.com/product/alkyd-enamel-eco-master-gloss/
+2026-09-02T16:22:20Z [INFO] P0063 https://emiratespaints.com/product/alkyd-enamel-eco-master-gloss/ -> captured http=200 cache=miss h=2610/2684/3499
+2026-09-02T16:22:20Z [INFO] P0063: 1 new URL(s) queued; queue=453 manifest=521
+2026-09-02T16:23:15Z [FLAG] P0064 cache=miss https://emiratespaints.com/product/alkyd-enamel-qd/
+2026-09-02T16:23:15Z [INFO] P0064 https://emiratespaints.com/product/alkyd-enamel-qd/ -> captured http=200 cache=miss h=2632/2614/3401
+2026-09-02T16:23:15Z [INFO] P0064: 1 new URL(s) queued; queue=453 manifest=523
+2026-09-02T16:24:07Z [FLAG] P0065 cache=miss https://emiratespaints.com/product/chroma-2k-clear-gloss/
+2026-09-02T16:24:07Z [INFO] P0065 https://emiratespaints.com/product/chroma-2k-clear-gloss/ -> captured http=200 cache=miss h=2772/2707/3495
+2026-09-02T16:24:07Z [INFO] P0065: 1 new URL(s) queued; queue=453 manifest=525
+2026-09-02T16:28:16Z [RETRY] P0066 attempt 1 got no response: ; backing off
+2026-09-02T16:29:21Z [INFO] P0066 https://emiratespaints.com/product/chroma-2k-clear-matt/ -> captured http=200 cache=hit h=2772/2707/3495
+2026-09-02T16:29:21Z [INFO] P0066: 2 new URL(s) queued; queue=454 manifest=528
+2026-09-02T16:30:15Z [FLAG] P0067 cache=miss https://emiratespaints.com/product/chroma-2k-hardener/
+2026-09-02T16:30:15Z [INFO] P0067 https://emiratespaints.com/product/chroma-2k-hardener/ -> captured http=200 cache=miss h=2750/2663/3397
+2026-09-02T16:30:15Z [INFO] P0067: 1 new URL(s) queued; queue=454 manifest=530
+2026-09-02T16:31:10Z [FLAG] P0068 cache=miss https://emiratespaints.com/product/chroma-2k-primer/
+2026-09-02T16:31:10Z [INFO] P0068 https://emiratespaints.com/product/chroma-2k-primer/ -> captured http=200 cache=miss h=2748/2707/3445
+2026-09-02T16:31:10Z [INFO] P0068: 2 new URL(s) queued; queue=455 manifest=533
+2026-09-02T16:32:04Z [FLAG] P0069 cache=miss https://emiratespaints.com/product/chroma-2k-thinner/
+2026-09-02T16:32:04Z [INFO] P0069 https://emiratespaints.com/product/chroma-2k-thinner/ -> captured http=200 cache=miss h=2779/2728/3490
+2026-09-02T16:32:04Z [INFO] P0069: 1 new URL(s) queued; queue=455 manifest=535
+2026-09-02T16:33:00Z [FLAG] P0070 cache=miss https://emiratespaints.com/product/chroma-2k-topcoat-gloss/
+2026-09-02T16:33:00Z [INFO] P0070 https://emiratespaints.com/product/chroma-2k-topcoat-gloss/ -> captured http=200 cache=miss h=2798/2797/3561
+2026-09-02T16:33:00Z [INFO] P0070: 1 new URL(s) queued; queue=455 manifest=537
+2026-09-02T16:33:52Z [FLAG] P0071 cache=miss https://emiratespaints.com/product/chroma-2k-topcoat-matt/
+2026-09-02T16:33:52Z [INFO] P0071 https://emiratespaints.com/product/chroma-2k-topcoat-matt/ -> captured http=200 cache=miss h=2774/2749/3539
+2026-09-02T16:33:52Z [INFO] P0071: 1 new URL(s) queued; queue=455 manifest=539
+2026-09-02T16:34:47Z [FLAG] P0072 cache=miss https://emiratespaints.com/product/chroma-emalux-base-coat/
+2026-09-02T16:34:47Z [INFO] P0072 https://emiratespaints.com/product/chroma-emalux-base-coat/ -> captured http=200 cache=miss h=2590/2654/3439
+2026-09-02T16:34:47Z [INFO] P0072: 1 new URL(s) queued; queue=455 manifest=541
+2026-09-02T16:35:39Z [FLAG] P0073 cache=miss https://emiratespaints.com/product/chroma-emalux-primer/
+2026-09-02T16:35:39Z [INFO] P0073 https://emiratespaints.com/product/chroma-emalux-primer/ -> captured http=200 cache=miss h=2584/2588/3351
+2026-09-02T16:35:39Z [INFO] P0073: 1 new URL(s) queued; queue=455 manifest=543
+2026-09-02T16:36:34Z [FLAG] P0074 cache=miss https://emiratespaints.com/product/chroma-nc-clear-matt/
+2026-09-02T16:36:34Z [INFO] P0074 https://emiratespaints.com/product/chroma-nc-clear-matt/ -> captured http=200 cache=miss h=2748/2733/3493
+2026-09-02T16:36:34Z [INFO] P0074: 1 new URL(s) queued; queue=455 manifest=545
+2026-09-02T16:37:26Z [FLAG] P0075 cache=miss https://emiratespaints.com/product/chroma-nc-clear-semi-gloss/
+2026-09-02T16:37:26Z [INFO] P0075 https://emiratespaints.com/product/chroma-nc-clear-semi-gloss/ -> captured http=200 cache=miss h=2748/2733/3519
+2026-09-02T16:37:26Z [INFO] P0075: 1 new URL(s) queued; queue=455 manifest=547
+2026-09-02T16:38:21Z [FLAG] P0076 cache=miss https://emiratespaints.com/product/chroma-nc-primer/
+2026-09-02T16:38:21Z [INFO] P0076 https://emiratespaints.com/product/chroma-nc-primer/ -> captured http=200 cache=miss h=2798/2711/3449
+2026-09-02T16:38:21Z [INFO] P0076: 1 new URL(s) queued; queue=455 manifest=549
+2026-09-02T16:39:13Z [FLAG] P0077 cache=miss https://emiratespaints.com/product/chroma-nc-putty/
+2026-09-02T16:39:13Z [INFO] P0077 https://emiratespaints.com/product/chroma-nc-putty/ -> captured http=200 cache=miss h=2772/2685/3447
+2026-09-02T16:39:13Z [INFO] P0077: 1 new URL(s) queued; queue=455 manifest=551
+2026-09-02T16:40:08Z [FLAG] P0078 cache=miss https://emiratespaints.com/product/chroma-nc-thinner/
+2026-09-02T16:40:08Z [INFO] P0078 https://emiratespaints.com/product/chroma-nc-thinner/ -> captured http=200 cache=miss h=2779/2680/3412
+2026-09-02T16:40:08Z [INFO] P0078: 1 new URL(s) queued; queue=455 manifest=553
+2026-09-02T16:40:57Z [FLAG] P0079 cache=miss https://emiratespaints.com/products/page/3/
+2026-09-02T16:40:57Z [INFO] P0079 https://emiratespaints.com/products/page/3/ -> captured http=200 cache=miss h=2552/3088/879
+2026-09-02T16:40:57Z [INFO] P0079: 1 new URL(s) queued; queue=455 manifest=554
+2026-09-02T16:41:49Z [FLAG] P0080 cache=miss https://emiratespaints.com/products/page/4/
+2026-09-02T16:41:49Z [INFO] P0080 https://emiratespaints.com/products/page/4/ -> captured http=200 cache=miss h=2384/2872/879
+2026-09-02T16:41:49Z [INFO] P0080: 1 new URL(s) queued; queue=455 manifest=555
+2026-09-02T16:42:36Z [FLAG] P0081 cache=miss https://emiratespaints.com/products/page/5/
+2026-09-02T16:42:36Z [INFO] P0081 https://emiratespaints.com/products/page/5/ -> captured http=200 cache=miss h=2049/2001/879
+2026-09-02T16:43:27Z [FLAG] P0082 cache=miss https://emiratespaints.com/product-category/women/
+2026-09-02T16:43:27Z [INFO] P0082 https://emiratespaints.com/product-category/women/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T16:44:21Z [FLAG] P0084 cache=miss https://emiratespaints.com/product/shield-tex-silk/
+2026-09-02T16:44:21Z [INFO] P0084 https://emiratespaints.com/product/shield-tex-silk/ -> captured http=200 cache=miss h=2633/2787/3795
+2026-09-02T16:45:15Z [FLAG] P0085 cache=miss https://emiratespaints.com/product/ema-pu-wood-topcoat-matt-21/
+2026-09-02T16:45:15Z [INFO] P0085 https://emiratespaints.com/product/ema-pu-wood-topcoat-matt-21/ -> captured http=200 cache=miss h=2584/2774/3710
+2026-09-02T16:45:15Z [INFO] P0085: 1 new URL(s) queued; queue=452 manifest=558
+2026-09-02T16:46:09Z [FLAG] P0086 cache=miss https://emiratespaints.com/product/emashield-pu-wood-clear-gloss-41/
+2026-09-02T16:46:09Z [INFO] P0086 https://emiratespaints.com/product/emashield-pu-wood-clear-gloss-41/ -> captured http=200 cache=miss h=2586/2778/3716
+2026-09-02T16:46:09Z [INFO] P0086: 1 new URL(s) queued; queue=452 manifest=559
+2026-09-02T16:47:01Z [FLAG] P0087 cache=miss https://emiratespaints.com/product/hammer-finish/
+2026-09-02T16:47:01Z [INFO] P0087 https://emiratespaints.com/product/hammer-finish/ -> captured http=200 cache=miss h=2632/2662/3471
+2026-09-02T16:47:01Z [INFO] P0087: 1 new URL(s) queued; queue=452 manifest=561
+2026-09-02T16:47:51Z [FLAG] P0088 cache=miss https://emiratespaints.com/product/polydex/
+2026-09-02T16:47:51Z [INFO] P0088 https://emiratespaints.com/product/polydex/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T16:49:00Z [FLAG] P0089 cache=miss https://emiratespaints.com/discover-the-leading-epoxy-paint-suppliers-in-uae-emirates-paints/
+2026-09-02T16:49:00Z [INFO] P0089 https://emiratespaints.com/discover-the-leading-epoxy-paint-suppliers-in-uae-emirates-paints/ -> captured http=200 cache=miss h=5711/6020/8538
+2026-09-02T16:49:00Z [INFO] P0089: 2 new URL(s) queued; queue=452 manifest=563
+2026-09-02T16:49:52Z [FLAG] P0090 cache=miss https://emiratespaints.com/download/aqua-emulsion/
+2026-09-02T16:49:52Z [INFO] P0090 https://emiratespaints.com/download/aqua-emulsion/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T16:50:44Z [FLAG] P0091 cache=miss https://emiratespaints.com/download/excel-emulsion/
+2026-09-02T16:50:44Z [INFO] P0091 https://emiratespaints.com/download/excel-emulsion/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T16:51:36Z [FLAG] P0092 cache=miss https://emiratespaints.com/download/durable-emulsion/
+2026-09-02T16:51:36Z [INFO] P0092 https://emiratespaints.com/download/durable-emulsion/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T16:52:30Z [FLAG] P0093 cache=miss https://emiratespaints.com/download/premium-emulsion-matt/
+2026-09-02T16:52:30Z [INFO] P0093 https://emiratespaints.com/download/premium-emulsion-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T16:53:24Z [FLAG] P0094 cache=miss https://emiratespaints.com/download/premium-emulsion-silk/
+2026-09-02T16:53:24Z [INFO] P0094 https://emiratespaints.com/download/premium-emulsion-silk/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T16:54:17Z [FLAG] P0095 cache=miss https://emiratespaints.com/download/majestic-%C2%B7-matt/
+2026-09-02T16:54:17Z [INFO] P0095 https://emiratespaints.com/download/majestic-%C2%B7-matt/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T16:55:10Z [FLAG] P0096 cache=miss https://emiratespaints.com/download/majestic-%C2%B7-silk/
+2026-09-02T16:55:10Z [INFO] P0096 https://emiratespaints.com/download/majestic-%C2%B7-silk/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T16:56:01Z [FLAG] P0097 cache=miss https://emiratespaints.com/download/gloss-emulsion/
+2026-09-02T16:56:01Z [INFO] P0097 https://emiratespaints.com/download/gloss-emulsion/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:00:10Z [RETRY] P0098 attempt 1 got no response: ; backing off
+2026-09-02T17:01:14Z [INFO] P0098 https://emiratespaints.com/download/protect-seal-%C2%B7-silk/ -> captured http=200 cache=hit h=3185/2303/2163
+2026-09-02T17:02:06Z [FLAG] P0099 cache=miss https://emiratespaints.com/download/protect-seal-%C2%B7-matt/
+2026-09-02T17:02:06Z [INFO] P0099 https://emiratespaints.com/download/protect-seal-%C2%B7-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:02:57Z [FLAG] P0100 cache=miss https://emiratespaints.com/download/emashield-long-life-classic-tex/
+2026-09-02T17:02:57Z [INFO] P0100 https://emiratespaints.com/download/emashield-long-life-classic-tex/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:03:50Z [FLAG] P0101 cache=miss https://emiratespaints.com/download/emashield-long-life-antique-tex/
+2026-09-02T17:03:50Z [INFO] P0101 https://emiratespaints.com/download/emashield-long-life-antique-tex/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:04:42Z [FLAG] P0102 cache=miss https://emiratespaints.com/download/emashield-long-life-traditional-tex/
+2026-09-02T17:04:42Z [INFO] P0102 https://emiratespaints.com/download/emashield-long-life-traditional-tex/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T17:05:34Z [FLAG] P0103 cache=miss https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-gloss/
+2026-09-02T17:05:34Z [INFO] P0103 https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:06:24Z [FLAG] P0104 cache=miss https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-semi-gloss/
+2026-09-02T17:06:24Z [INFO] P0104 https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-semi-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:07:21Z [FLAG] P0105 cache=miss https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-matt/
+2026-09-02T17:07:21Z [INFO] P0105 https://emiratespaints.com/download/emasheild-top-coat-%C2%B7-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:08:12Z [FLAG] P0106 cache=miss https://emiratespaints.com/download/emashield-fine-silk/
+2026-09-02T17:08:12Z [INFO] P0106 https://emiratespaints.com/download/emashield-fine-silk/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:09:05Z [FLAG] P0107 cache=miss https://emiratespaints.com/download/emashield-tex-silk/
+2026-09-02T17:09:05Z [INFO] P0107 https://emiratespaints.com/download/emashield-tex-silk/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:09:57Z [FLAG] P0108 cache=miss https://emiratespaints.com/download/ematex/
+2026-09-02T17:09:57Z [INFO] P0108 https://emiratespaints.com/download/ematex/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:10:49Z [FLAG] P0109 cache=miss https://emiratespaints.com/download/emasynplast/
+2026-09-02T17:10:49Z [INFO] P0109 https://emiratespaints.com/download/emasynplast/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:11:39Z [FLAG] P0110 cache=miss https://emiratespaints.com/download/emasandtex/
+2026-09-02T17:11:39Z [INFO] P0110 https://emiratespaints.com/download/emasandtex/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:12:38Z [FLAG] P0111 cache=miss https://emiratespaints.com/download/emaminitex/
+2026-09-02T17:12:38Z [INFO] P0111 https://emiratespaints.com/download/emaminitex/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:13:34Z [FLAG] P0112 cache=miss https://emiratespaints.com/download/emasyntex/
+2026-09-02T17:13:34Z [INFO] P0112 https://emiratespaints.com/download/emasyntex/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:14:27Z [FLAG] P0113 cache=miss https://emiratespaints.com/download/emafinetex/
+2026-09-02T17:14:27Z [INFO] P0113 https://emiratespaints.com/download/emafinetex/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:15:18Z [FLAG] P0114 cache=miss https://emiratespaints.com/download/grooved-decor/
+2026-09-02T17:15:18Z [INFO] P0114 https://emiratespaints.com/download/grooved-decor/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:16:11Z [FLAG] P0115 cache=miss https://emiratespaints.com/download/pva-primer-%C2%B7-white-colors/
+2026-09-02T17:16:11Z [INFO] P0115 https://emiratespaints.com/download/pva-primer-%C2%B7-white-colors/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:17:02Z [FLAG] P0116 cache=miss https://emiratespaints.com/download/acrylic-primer-%C2%B7-white-colors/
+2026-09-02T17:17:02Z [INFO] P0116 https://emiratespaints.com/download/acrylic-primer-%C2%B7-white-colors/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:17:51Z [FLAG] P0117 cache=miss https://emiratespaints.com/download/emasheild-tex-primer/
+2026-09-02T17:17:51Z [INFO] P0117 https://emiratespaints.com/download/emasheild-tex-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:18:45Z [FLAG] P0118 cache=miss https://emiratespaints.com/download/texo-compound/
+2026-09-02T17:18:45Z [INFO] P0118 https://emiratespaints.com/download/texo-compound/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:19:36Z [FLAG] P0119 cache=miss https://emiratespaints.com/download/tex-primer/
+2026-09-02T17:19:36Z [INFO] P0119 https://emiratespaints.com/download/tex-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:20:28Z [FLAG] P0120 cache=miss https://emiratespaints.com/download/nutex/
+2026-09-02T17:20:28Z [INFO] P0120 https://emiratespaints.com/download/nutex/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:21:19Z [FLAG] P0121 cache=miss https://emiratespaints.com/download/stucco-filler/
+2026-09-02T17:21:19Z [INFO] P0121 https://emiratespaints.com/download/stucco-filler/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:22:13Z [FLAG] P0122 cache=miss https://emiratespaints.com/download/spray-plaster-fine/
+2026-09-02T17:22:13Z [INFO] P0122 https://emiratespaints.com/download/spray-plaster-fine/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:23:04Z [FLAG] P0123 cache=miss https://emiratespaints.com/download/spray-plaster-medium/
+2026-09-02T17:23:04Z [INFO] P0123 https://emiratespaints.com/download/spray-plaster-medium/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:23:57Z [FLAG] P0124 cache=miss https://emiratespaints.com/download/spray-plaster-coarse/
+2026-09-02T17:23:57Z [INFO] P0124 https://emiratespaints.com/download/spray-plaster-coarse/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:24:49Z [FLAG] P0125 cache=miss https://emiratespaints.com/download/alkyd-enamel-%C2%B7-gloss/
+2026-09-02T17:24:49Z [INFO] P0125 https://emiratespaints.com/download/alkyd-enamel-%C2%B7-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:25:41Z [FLAG] P0126 cache=miss https://emiratespaints.com/download/alkyd-enamel-%C2%B7-matt/
+2026-09-02T17:25:41Z [INFO] P0126 https://emiratespaints.com/download/alkyd-enamel-%C2%B7-matt/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:26:32Z [FLAG] P0127 cache=miss https://emiratespaints.com/download/alkyd-enamel-varnish-%C2%B7-gloss/
+2026-09-02T17:26:32Z [INFO] P0127 https://emiratespaints.com/download/alkyd-enamel-varnish-%C2%B7-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:27:24Z [FLAG] P0128 cache=miss https://emiratespaints.com/download/alkyd-enamel-%C2%B7-semi-gloss/
+2026-09-02T17:27:24Z [INFO] P0128 https://emiratespaints.com/download/alkyd-enamel-%C2%B7-semi-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:28:16Z [FLAG] P0129 cache=miss https://emiratespaints.com/download/wood-primer/
+2026-09-02T17:28:16Z [INFO] P0129 https://emiratespaints.com/download/wood-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:29:07Z [FLAG] P0130 cache=miss https://emiratespaints.com/download/alkyd-enamel-under-coat/
+2026-09-02T17:29:07Z [INFO] P0130 https://emiratespaints.com/download/alkyd-enamel-under-coat/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:29:57Z [FLAG] P0131 cache=miss https://emiratespaints.com/download/red-oxide-primer/
+2026-09-02T17:29:57Z [INFO] P0131 https://emiratespaints.com/download/red-oxide-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:30:51Z [FLAG] P0132 cache=miss https://emiratespaints.com/download/nc-putty/
+2026-09-02T17:30:51Z [INFO] P0132 https://emiratespaints.com/download/nc-putty/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:31:44Z [FLAG] P0133 cache=miss https://emiratespaints.com/download/nc-primer/
+2026-09-02T17:31:44Z [INFO] P0133 https://emiratespaints.com/download/nc-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:32:36Z [FLAG] P0134 cache=miss https://emiratespaints.com/download/nc-sanding-sealer/
+2026-09-02T17:32:36Z [INFO] P0134 https://emiratespaints.com/download/nc-sanding-sealer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:33:28Z [FLAG] P0135 cache=miss https://emiratespaints.com/download/nc-top-coat-%C2%B7-gloss/
+2026-09-02T17:33:28Z [INFO] P0135 https://emiratespaints.com/download/nc-top-coat-%C2%B7-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:34:17Z [FLAG] P0136 cache=miss https://emiratespaints.com/download/nc-clear-%C2%B7-gloss/
+2026-09-02T17:34:17Z [INFO] P0136 https://emiratespaints.com/download/nc-clear-%C2%B7-gloss/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:35:10Z [FLAG] P0137 cache=miss https://emiratespaints.com/download/nc-clear-%C2%B7-semi-gloss/
+2026-09-02T17:35:10Z [INFO] P0137 https://emiratespaints.com/download/nc-clear-%C2%B7-semi-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:36:02Z [FLAG] P0138 cache=miss https://emiratespaints.com/download/nc-clear-%C2%B7-matt/
+2026-09-02T17:36:02Z [INFO] P0138 https://emiratespaints.com/download/nc-clear-%C2%B7-matt/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:36:54Z [FLAG] P0139 cache=miss https://emiratespaints.com/download/nc-wood-stain/
+2026-09-02T17:36:54Z [INFO] P0139 https://emiratespaints.com/download/nc-wood-stain/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:37:47Z [FLAG] P0140 cache=miss https://emiratespaints.com/download/rust-remover/
+2026-09-02T17:37:47Z [INFO] P0140 https://emiratespaints.com/download/rust-remover/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:38:38Z [FLAG] P0141 cache=miss https://emiratespaints.com/download/aluminum-paints/
+2026-09-02T17:38:38Z [INFO] P0141 https://emiratespaints.com/download/aluminum-paints/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:39:30Z [FLAG] P0142 cache=miss https://emiratespaints.com/download/emapoxy-interguard-ab/
+2026-09-02T17:39:30Z [INFO] P0142 https://emiratespaints.com/download/emapoxy-interguard-ab/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:40:22Z [FLAG] P0143 cache=miss https://emiratespaints.com/download/emacrylic-road-marker/
+2026-09-02T17:40:22Z [INFO] P0143 https://emiratespaints.com/download/emacrylic-road-marker/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:41:14Z [FLAG] P0144 cache=miss https://emiratespaints.com/download/joint-filler/
+2026-09-02T17:41:14Z [INFO] P0144 https://emiratespaints.com/download/joint-filler/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:42:04Z [FLAG] P0145 cache=miss https://emiratespaints.com/download/block-filler/
+2026-09-02T17:42:04Z [INFO] P0145 https://emiratespaints.com/download/block-filler/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:42:57Z [FLAG] P0146 cache=miss https://emiratespaints.com/download/crack-filler/
+2026-09-02T17:42:57Z [INFO] P0146 https://emiratespaints.com/download/crack-filler/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:43:48Z [FLAG] P0147 cache=miss https://emiratespaints.com/download/crack-filler-2/
+2026-09-02T17:43:48Z [INFO] P0147 https://emiratespaints.com/download/crack-filler-2/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:44:41Z [FLAG] P0148 cache=miss https://emiratespaints.com/download/emacrylic-primer/
+2026-09-02T17:44:41Z [INFO] P0148 https://emiratespaints.com/download/emacrylic-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:45:35Z [INFO] capture run start: 287 rows queued, viewports=['desktop', 'tablet', 'mobile'], one navigation per URL
+2026-09-02T17:45:35Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T17:46:23Z [FLAG] P0025 cache=miss https://emiratespaints.com/about-us
+2026-09-02T17:46:23Z [INFO] P0025 https://emiratespaints.com/about-us -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T17:47:13Z [FLAG] P0149 cache=miss https://emiratespaints.com/download/emacrylic-top-coat-gloss/
+2026-09-02T17:47:13Z [INFO] P0149 https://emiratespaints.com/download/emacrylic-top-coat-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:48:07Z [FLAG] P0150 cache=miss https://emiratespaints.com/download/emapoxy-flooring-top-coat/
+2026-09-02T17:48:07Z [INFO] P0150 https://emiratespaints.com/download/emapoxy-flooring-top-coat/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:48:58Z [FLAG] P0151 cache=miss https://emiratespaints.com/download/ema-pu-flooring-h-b/
+2026-09-02T17:48:58Z [INFO] P0151 https://emiratespaints.com/download/ema-pu-flooring-h-b/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:49:51Z [FLAG] P0152 cache=miss https://emiratespaints.com/download/emapoxy-self-leveling/
+2026-09-02T17:49:51Z [INFO] P0152 https://emiratespaints.com/download/emapoxy-self-leveling/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:50:41Z [FLAG] P0153 cache=miss https://emiratespaints.com/download/emapoxy-primer/
+2026-09-02T17:50:41Z [INFO] P0153 https://emiratespaints.com/download/emapoxy-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:51:35Z [FLAG] P0154 cache=miss https://emiratespaints.com/download/emapoxy-red-oxide-primer/
+2026-09-02T17:51:35Z [INFO] P0154 https://emiratespaints.com/download/emapoxy-red-oxide-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:52:28Z [FLAG] P0155 cache=miss https://emiratespaints.com/download/emapoxy-zinc-phosphate-primer/
+2026-09-02T17:52:28Z [INFO] P0155 https://emiratespaints.com/download/emapoxy-zinc-phosphate-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:53:18Z [FLAG] P0156 cache=miss https://emiratespaints.com/download/emapoxy-undercoat/
+2026-09-02T17:53:18Z [INFO] P0156 https://emiratespaints.com/download/emapoxy-undercoat/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T17:54:11Z [FLAG] P0157 cache=miss https://emiratespaints.com/download/ema-pu-top-coat/
+2026-09-02T17:54:11Z [INFO] P0157 https://emiratespaints.com/download/ema-pu-top-coat/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:55:03Z [FLAG] P0158 cache=miss https://emiratespaints.com/download/ema-aliphatic-pu/
+2026-09-02T17:55:03Z [INFO] P0158 https://emiratespaints.com/download/ema-aliphatic-pu/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:55:55Z [FLAG] P0159 cache=miss https://emiratespaints.com/download/ema-grain/
+2026-09-02T17:55:55Z [INFO] P0159 https://emiratespaints.com/download/ema-grain/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:56:46Z [FLAG] P0160 cache=miss https://emiratespaints.com/download/emacrylic-penetrating-sealer/
+2026-09-02T17:56:46Z [INFO] P0160 https://emiratespaints.com/download/emacrylic-penetrating-sealer/ -> captured http=200 cache=miss h=3185/2303/2251
+2026-09-02T17:57:39Z [FLAG] P0161 cache=miss https://emiratespaints.com/download/emapoxy-filler-sf/
+2026-09-02T17:57:39Z [INFO] P0161 https://emiratespaints.com/download/emapoxy-filler-sf/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T17:58:31Z [FLAG] P0162 cache=miss https://emiratespaints.com/download/emapoxy-floring-flexible-top-coat/
+2026-09-02T17:58:31Z [INFO] P0162 https://emiratespaints.com/download/emapoxy-floring-flexible-top-coat/ -> captured http=200 cache=miss h=3185/2353/2207
+2026-09-02T17:59:21Z [FLAG] P0163 cache=miss https://emiratespaints.com/download/emapoxy-flooring-primer-sf/
+2026-09-02T17:59:21Z [INFO] P0163 https://emiratespaints.com/download/emapoxy-flooring-primer-sf/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:00:14Z [FLAG] P0164 cache=miss https://emiratespaints.com/download/emapoxy-flooring-top-coat-sf/
+2026-09-02T18:00:14Z [INFO] P0164 https://emiratespaints.com/download/emapoxy-flooring-top-coat-sf/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:01:07Z [FLAG] P0165 cache=miss https://emiratespaints.com/download/emapoxy-heavy-duty-floor-screed-sf/
+2026-09-02T18:01:07Z [INFO] P0165 https://emiratespaints.com/download/emapoxy-heavy-duty-floor-screed-sf/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:01:59Z [FLAG] P0166 cache=miss https://emiratespaints.com/download/emapoxy-primer-for-cement-clear/
+2026-09-02T18:01:59Z [INFO] P0166 https://emiratespaints.com/download/emapoxy-primer-for-cement-clear/ -> captured http=200 cache=miss h=3185/2353/2207
+2026-09-02T18:02:50Z [FLAG] P0167 cache=miss https://emiratespaints.com/download/emapoxy-clear-sf/
+2026-09-02T18:02:50Z [INFO] P0167 https://emiratespaints.com/download/emapoxy-clear-sf/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:03:43Z [FLAG] P0168 cache=miss https://emiratespaints.com/download/emacrylic-siloxane-primer-wb/
+2026-09-02T18:03:43Z [INFO] P0168 https://emiratespaints.com/download/emacrylic-siloxane-primer-wb/ -> captured http=200 cache=miss h=3185/2303/2251
+2026-09-02T18:04:35Z [FLAG] P0169 cache=miss https://emiratespaints.com/download/acrylic-glaze-coat-clear/
+2026-09-02T18:04:35Z [INFO] P0169 https://emiratespaints.com/download/acrylic-glaze-coat-clear/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:05:25Z [FLAG] P0170 cache=miss https://emiratespaints.com/download/emashield-tex-fine/
+2026-09-02T18:05:25Z [INFO] P0170 https://emiratespaints.com/download/emashield-tex-fine/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:06:19Z [FLAG] P0171 cache=miss https://emiratespaints.com/download/emashield-tex-medium/
+2026-09-02T18:06:19Z [INFO] P0171 https://emiratespaints.com/download/emashield-tex-medium/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:07:10Z [FLAG] P0172 cache=miss https://emiratespaints.com/download/mini-deco/
+2026-09-02T18:07:10Z [INFO] P0172 https://emiratespaints.com/download/mini-deco/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:08:02Z [FLAG] P0173 cache=miss https://emiratespaints.com/download/qd-zinc-phosphate-primer/
+2026-09-02T18:08:02Z [INFO] P0173 https://emiratespaints.com/download/qd-zinc-phosphate-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:08:54Z [FLAG] P0174 cache=miss https://emiratespaints.com/download/emashield-antique-tex-hb/
+2026-09-02T18:08:54Z [INFO] P0174 https://emiratespaints.com/download/emashield-antique-tex-hb/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:09:47Z [FLAG] P0175 cache=miss https://emiratespaints.com/download/emashield-top-coat-silk/
+2026-09-02T18:09:47Z [INFO] P0175 https://emiratespaints.com/download/emashield-top-coat-silk/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:10:38Z [FLAG] P0176 cache=miss https://emiratespaints.com/download/emashield-exterior-putty/
+2026-09-02T18:10:38Z [INFO] P0176 https://emiratespaints.com/download/emashield-exterior-putty/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:11:30Z [FLAG] P0177 cache=miss https://emiratespaints.com/download/emashield-ultra-silk-2/
+2026-09-02T18:11:30Z [INFO] P0177 https://emiratespaints.com/download/emashield-ultra-silk-2/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:12:23Z [FLAG] P0178 cache=miss https://emiratespaints.com/download/pva-primer-sealer/
+2026-09-02T18:12:23Z [INFO] P0178 https://emiratespaints.com/download/pva-primer-sealer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:13:14Z [FLAG] P0179 cache=miss https://emiratespaints.com/download/majestic-gloss/
+2026-09-02T18:13:14Z [INFO] P0179 https://emiratespaints.com/download/majestic-gloss/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:14:07Z [FLAG] P0180 cache=miss https://emiratespaints.com/download/majestic-antifungal-silk/
+2026-09-02T18:14:07Z [INFO] P0180 https://emiratespaints.com/download/majestic-antifungal-silk/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:14:59Z [FLAG] P0181 cache=miss https://emiratespaints.com/download/majestic-antifungal-matt/
+2026-09-02T18:14:59Z [INFO] P0181 https://emiratespaints.com/download/majestic-antifungal-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:15:51Z [FLAG] P0182 cache=miss https://emiratespaints.com/download/anticarbonation-silk/
+2026-09-02T18:15:51Z [INFO] P0182 https://emiratespaints.com/download/anticarbonation-silk/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:16:42Z [FLAG] P0183 cache=miss https://emiratespaints.com/download/anticarbonation-matt/
+2026-09-02T18:16:42Z [INFO] P0183 https://emiratespaints.com/download/anticarbonation-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:17:34Z [FLAG] P0184 cache=miss https://emiratespaints.com/download/emashield-topcoat-gloss/
+2026-09-02T18:17:34Z [INFO] P0184 https://emiratespaints.com/download/emashield-topcoat-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:18:26Z [FLAG] P0185 cache=miss https://emiratespaints.com/download/emashield-topcoat-semi-gloss/
+2026-09-02T18:18:26Z [INFO] P0185 https://emiratespaints.com/download/emashield-topcoat-semi-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:19:18Z [FLAG] P0186 cache=miss https://emiratespaints.com/download/emashield-topcoat-matt/
+2026-09-02T18:19:18Z [INFO] P0186 https://emiratespaints.com/download/emashield-topcoat-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:20:09Z [FLAG] P0187 cache=miss https://emiratespaints.com/download/noble-matt/
+2026-09-02T18:20:09Z [INFO] P0187 https://emiratespaints.com/download/noble-matt/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:21:01Z [FLAG] P0188 cache=miss https://emiratespaints.com/download/mini-deco-fine/
+2026-09-02T18:21:01Z [INFO] P0188 https://emiratespaints.com/download/mini-deco-fine/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:21:54Z [FLAG] P0189 cache=miss https://emiratespaints.com/download/mini-deco-medium/
+2026-09-02T18:21:54Z [INFO] P0189 https://emiratespaints.com/download/mini-deco-medium/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:22:46Z [FLAG] P0190 cache=miss https://emiratespaints.com/download/acrylic-glaze-coat-clear-silk/
+2026-09-02T18:22:46Z [INFO] P0190 https://emiratespaints.com/download/acrylic-glaze-coat-clear-silk/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:23:38Z [FLAG] P0191 cache=miss https://emiratespaints.com/download/acrylic-glaze-coat-clear-matt/
+2026-09-02T18:23:38Z [INFO] P0191 https://emiratespaints.com/download/acrylic-glaze-coat-clear-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:24:30Z [FLAG] P0192 cache=miss https://emiratespaints.com/download/bitumen/
+2026-09-02T18:24:30Z [INFO] P0192 https://emiratespaints.com/download/bitumen/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:25:22Z [FLAG] P0193 cache=miss https://emiratespaints.com/download/exterior-spray-plaster-coarse/
+2026-09-02T18:25:22Z [INFO] P0193 https://emiratespaints.com/download/exterior-spray-plaster-coarse/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:26:15Z [FLAG] P0194 cache=miss https://emiratespaints.com/download/grey-oxide-primer/
+2026-09-02T18:26:15Z [INFO] P0194 https://emiratespaints.com/download/grey-oxide-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:27:07Z [FLAG] P0195 cache=miss https://emiratespaints.com/download/qd-red-oxide-primer/
+2026-09-02T18:27:07Z [INFO] P0195 https://emiratespaints.com/download/qd-red-oxide-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:27:57Z [FLAG] P0196 cache=miss https://emiratespaints.com/download/alkyd-enamel-eco-master-gloss/
+2026-09-02T18:27:57Z [INFO] P0196 https://emiratespaints.com/download/alkyd-enamel-eco-master-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:28:53Z [FLAG] P0197 cache=miss https://emiratespaints.com/download/alkyd-enamel-eco-master-semi-gloss/
+2026-09-02T18:28:53Z [INFO] P0197 https://emiratespaints.com/download/alkyd-enamel-eco-master-semi-gloss/ -> captured http=200 cache=miss h=3185/2353/2207
+2026-09-02T18:29:47Z [FLAG] P0198 cache=miss https://emiratespaints.com/download/alkyd-enamel-eco-master-matt/
+2026-09-02T18:29:47Z [INFO] P0198 https://emiratespaints.com/download/alkyd-enamel-eco-master-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:30:40Z [FLAG] P0199 cache=miss https://emiratespaints.com/download/emacrylic-topcoat-gloss/
+2026-09-02T18:30:40Z [INFO] P0199 https://emiratespaints.com/download/emacrylic-topcoat-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:31:33Z [FLAG] P0200 cache=miss https://emiratespaints.com/download/emacrylic-topcoat-semi-gloss/
+2026-09-02T18:31:33Z [INFO] P0200 https://emiratespaints.com/download/emacrylic-topcoat-semi-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:32:26Z [FLAG] P0201 cache=miss https://emiratespaints.com/download/emacrylic-topcoat-matt/
+2026-09-02T18:32:26Z [INFO] P0201 https://emiratespaints.com/download/emacrylic-topcoat-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:33:18Z [FLAG] P0202 cache=miss https://emiratespaints.com/download/ema-pu-topcoat-gloss/
+2026-09-02T18:33:18Z [INFO] P0202 https://emiratespaints.com/download/ema-pu-topcoat-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:34:09Z [FLAG] P0203 cache=miss https://emiratespaints.com/download/ema-pu-topcoat-semi-gloss/
+2026-09-02T18:34:09Z [INFO] P0203 https://emiratespaints.com/download/ema-pu-topcoat-semi-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:35:02Z [FLAG] P0204 cache=miss https://emiratespaints.com/download/ema-pu-topcoat-matt/
+2026-09-02T18:35:02Z [INFO] P0204 https://emiratespaints.com/download/ema-pu-topcoat-matt/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:35:53Z [FLAG] P0205 cache=miss https://emiratespaints.com/download/emapoxy-sb-primer-for-cement-clear/
+2026-09-02T18:35:53Z [INFO] P0205 https://emiratespaints.com/download/emapoxy-sb-primer-for-cement-clear/ -> captured http=200 cache=miss h=3185/2353/2207
+2026-09-02T18:36:46Z [FLAG] P0206 cache=miss https://emiratespaints.com/download/emapoxy-sb-flooring-topcoat/
+2026-09-02T18:36:46Z [INFO] P0206 https://emiratespaints.com/download/emapoxy-sb-flooring-topcoat/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:37:39Z [FLAG] P0207 cache=miss https://emiratespaints.com/download/emapoxy-sf-flooring-topcoat/
+2026-09-02T18:37:39Z [INFO] P0207 https://emiratespaints.com/download/emapoxy-sf-flooring-topcoat/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:38:32Z [FLAG] P0208 cache=miss https://emiratespaints.com/download/emapoxy-sb-self-leveling/
+2026-09-02T18:38:32Z [INFO] P0208 https://emiratespaints.com/download/emapoxy-sb-self-leveling/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:39:24Z [FLAG] P0209 cache=miss https://emiratespaints.com/download/ema-pu-flooring-hb/
+2026-09-02T18:39:24Z [INFO] P0209 https://emiratespaints.com/download/ema-pu-flooring-hb/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:40:17Z [FLAG] P0210 cache=miss https://emiratespaints.com/download/emapoxy-sf-flooring-flexible-topcoat/
+2026-09-02T18:40:17Z [INFO] P0210 https://emiratespaints.com/download/emapoxy-sf-flooring-flexible-topcoat/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:41:09Z [FLAG] P0211 cache=miss https://emiratespaints.com/download/nc-topcoat-gloss/
+2026-09-02T18:41:09Z [INFO] P0211 https://emiratespaints.com/download/nc-topcoat-gloss/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:42:02Z [FLAG] P0212 cache=miss https://emiratespaints.com/download/nc-topcoat-semi-gloss/
+2026-09-02T18:42:02Z [INFO] P0212 https://emiratespaints.com/download/nc-topcoat-semi-gloss/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:42:54Z [FLAG] P0213 cache=miss https://emiratespaints.com/download/nc-topcoat-matt/
+2026-09-02T18:42:54Z [INFO] P0213 https://emiratespaints.com/download/nc-topcoat-matt/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:43:47Z [FLAG] P0214 cache=miss https://emiratespaints.com/download/nc-wood-filler/
+2026-09-02T18:43:47Z [INFO] P0214 https://emiratespaints.com/download/nc-wood-filler/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:44:39Z [FLAG] P0215 cache=miss https://emiratespaints.com/download/crackle-lacquer/
+2026-09-02T18:44:39Z [INFO] P0215 https://emiratespaints.com/download/crackle-lacquer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:45:30Z [FLAG] P0216 cache=miss https://emiratespaints.com/download/emashield-pu-wood-primer-41/
+2026-09-02T18:45:30Z [INFO] P0216 https://emiratespaints.com/download/emashield-pu-wood-primer-41/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:46:23Z [FLAG] P0217 cache=miss https://emiratespaints.com/download/ema-pu-wood-primer-21/
+2026-09-02T18:46:23Z [INFO] P0217 https://emiratespaints.com/download/ema-pu-wood-primer-21/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:47:16Z [FLAG] P0218 cache=miss https://emiratespaints.com/download/emashield-pu-wood-sanding-sealer-41/
+2026-09-02T18:47:16Z [INFO] P0218 https://emiratespaints.com/download/emashield-pu-wood-sanding-sealer-41/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:48:08Z [FLAG] P0219 cache=miss https://emiratespaints.com/download/ema-pu-wood-sanding-sealer-21/
+2026-09-02T18:48:08Z [INFO] P0219 https://emiratespaints.com/download/ema-pu-wood-sanding-sealer-21/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:49:01Z [FLAG] P0220 cache=miss https://emiratespaints.com/download/emasheld-pu-wood-topcoat-gloss-41/
+2026-09-02T18:49:01Z [INFO] P0220 https://emiratespaints.com/download/emasheld-pu-wood-topcoat-gloss-41/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:49:53Z [FLAG] P0221 cache=miss https://emiratespaints.com/download/ema-pu-wood-topcoat-matt-21/
+2026-09-02T18:49:53Z [INFO] P0221 https://emiratespaints.com/download/ema-pu-wood-topcoat-matt-21/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:50:45Z [FLAG] P0222 cache=miss https://emiratespaints.com/download/emashield-pu-wood-clear-gloss-41/
+2026-09-02T18:50:45Z [INFO] P0222 https://emiratespaints.com/download/emashield-pu-wood-clear-gloss-41/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:51:38Z [FLAG] P0223 cache=miss https://emiratespaints.com/download/emashield-pu-wood-clear-semi-gloss-41/
+2026-09-02T18:51:38Z [INFO] P0223 https://emiratespaints.com/download/emashield-pu-wood-clear-semi-gloss-41/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:52:30Z [FLAG] P0224 cache=miss https://emiratespaints.com/download/emashield-pu-wood-clear-matt-41/
+2026-09-02T18:52:30Z [INFO] P0224 https://emiratespaints.com/download/emashield-pu-wood-clear-matt-41/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:53:19Z [FLAG] P0225 cache=miss https://emiratespaints.com/download/ema-pu-wood-clear-gloss-21/
+2026-09-02T18:53:19Z [INFO] P0225 https://emiratespaints.com/download/ema-pu-wood-clear-gloss-21/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:54:13Z [FLAG] P0226 cache=miss https://emiratespaints.com/download/ema-pu-wood-clear-semi-gloss-21/
+2026-09-02T18:54:13Z [INFO] P0226 https://emiratespaints.com/download/ema-pu-wood-clear-semi-gloss-21/ -> captured http=200 cache=miss h=3185/2353/2251
+2026-09-02T18:55:05Z [FLAG] P0227 cache=miss https://emiratespaints.com/download/ema-pu-wood-clear-matt-21/
+2026-09-02T18:55:05Z [INFO] P0227 https://emiratespaints.com/download/ema-pu-wood-clear-matt-21/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:55:57Z [FLAG] P0228 cache=miss https://emiratespaints.com/download/wood-glue/
+2026-09-02T18:55:57Z [INFO] P0228 https://emiratespaints.com/download/wood-glue/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T18:56:50Z [FLAG] P0229 cache=miss https://emiratespaints.com/download/emapoxy-universal-primer/
+2026-09-02T18:56:50Z [INFO] P0229 https://emiratespaints.com/download/emapoxy-universal-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:57:42Z [FLAG] P0230 cache=miss https://emiratespaints.com/download/emapoxy-zinc-rich-primer/
+2026-09-02T18:57:42Z [INFO] P0230 https://emiratespaints.com/download/emapoxy-zinc-rich-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:58:34Z [FLAG] P0231 cache=miss https://emiratespaints.com/download/emapoxy-zinc-chromate-primer/
+2026-09-02T18:58:34Z [INFO] P0231 https://emiratespaints.com/download/emapoxy-zinc-chromate-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T18:59:27Z [FLAG] P0232 cache=miss https://emiratespaints.com/download/emapoxy-m-i-o-primer/
+2026-09-02T18:59:27Z [INFO] P0232 https://emiratespaints.com/download/emapoxy-m-i-o-primer/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T19:00:20Z [FLAG] P0233 cache=miss https://emiratespaints.com/download/emapoxy-topcoat/
+2026-09-02T19:00:20Z [INFO] P0233 https://emiratespaints.com/download/emapoxy-topcoat/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T19:01:10Z [FLAG] P0234 cache=miss https://emiratespaints.com/download/emapoxy-sf-topcoat-pigmented/
+2026-09-02T19:01:10Z [INFO] P0234 https://emiratespaints.com/download/emapoxy-sf-topcoat-pigmented/ -> captured http=200 cache=miss h=3185/2303/2251
+2026-09-02T19:02:03Z [FLAG] P0235 cache=miss https://emiratespaints.com/download/ema-pu-primer/
+2026-09-02T19:02:03Z [INFO] P0235 https://emiratespaints.com/download/ema-pu-primer/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T19:02:54Z [FLAG] P0236 cache=miss https://emiratespaints.com/download/alkyd-enamel-qd/
+2026-09-02T19:02:54Z [INFO] P0236 https://emiratespaints.com/download/alkyd-enamel-qd/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T19:03:48Z [FLAG] P0237 cache=miss https://emiratespaints.com/download/chroma-nc-primer/
+2026-09-02T19:03:48Z [INFO] P0237 https://emiratespaints.com/download/chroma-nc-primer/ -> captured http=200 cache=miss h=3519/2498/2261
+2026-09-02T19:04:41Z [FLAG] P0238 cache=miss https://emiratespaints.com/download/chroma-nc-putty/
+2026-09-02T19:04:41Z [INFO] P0238 https://emiratespaints.com/download/chroma-nc-putty/ -> captured http=200 cache=miss h=3519/2498/2261
+2026-09-02T19:05:36Z [FLAG] P0239 cache=miss https://emiratespaints.com/download/chroma-nc-topcoat-gloss/
+2026-09-02T19:05:36Z [INFO] P0239 https://emiratespaints.com/download/chroma-nc-topcoat-gloss/ -> captured http=200 cache=miss h=3519/2498/2305
+2026-09-02T19:06:22Z [FLAG] P0240 cache=miss https://emiratespaints.com/2024/08/16/
+2026-09-02T19:06:22Z [INFO] P0240 https://emiratespaints.com/2024/08/16/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T19:06:22Z [INFO] P0240: 2 new URL(s) queued; queue=196 manifest=565
+2026-09-02T19:07:35Z [FLAG] P0241 cache=miss https://emiratespaints.com/how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by-step-tutorial/
+2026-09-02T19:07:35Z [INFO] P0241 https://emiratespaints.com/how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by-step-tutorial/ -> captured http=200 cache=miss h=7154/7585/8076
+2026-09-02T19:07:35Z [INFO] P0241: 6 new URL(s) queued; queue=201 manifest=571
+2026-09-02T19:08:41Z [INFO] P0242 https://emiratespaints.com/emirates-paints-quality-industrial-paint-manufacturers/ -> captured http=200 cache=hit h=5609/6106/7276
+2026-09-02T19:08:41Z [INFO] P0242: 2 new URL(s) queued; queue=202 manifest=573
+2026-09-02T19:09:50Z [FLAG] P0243 cache=miss https://emiratespaints.com/bedroom-wall-painting-a-guide-for-uae-homeowners/
+2026-09-02T19:09:50Z [INFO] P0243 https://emiratespaints.com/bedroom-wall-painting-a-guide-for-uae-homeowners/ -> captured http=200 cache=miss h=5675/5942/8376
+2026-09-02T19:09:50Z [INFO] P0243: 3 new URL(s) queued; queue=204 manifest=576
+2026-09-02T19:11:03Z [FLAG] P0244 cache=miss https://emiratespaints.com/top-notch-residential-house-painting-services-by-way-of-emirates-paints/
+2026-09-02T19:11:03Z [INFO] P0244 https://emiratespaints.com/top-notch-residential-house-painting-services-by-way-of-emirates-paints/ -> captured http=200 cache=miss h=6575/6872/9208
+2026-09-02T19:11:03Z [INFO] P0244: 4 new URL(s) queued; queue=207 manifest=580
+2026-09-02T19:12:07Z [FLAG] P0245 cache=miss https://emiratespaints.com/elevate-your-residential-home-painting-experience-with-emirates-paints/
+2026-09-02T19:12:07Z [INFO] P0245 https://emiratespaints.com/elevate-your-residential-home-painting-experience-with-emirates-paints/ -> captured http=200 cache=miss h=4661/4994/6826
+2026-09-02T19:12:07Z [INFO] P0245: 3 new URL(s) queued; queue=209 manifest=583
+2026-09-02T19:13:11Z [FLAG] P0246 cache=miss https://emiratespaints.com/unlocking-the-power-of-lacquer-thinner/
+2026-09-02T19:13:11Z [INFO] P0246 https://emiratespaints.com/unlocking-the-power-of-lacquer-thinner/ -> captured http=200 cache=miss h=4559/5148/6746
+2026-09-02T19:13:11Z [INFO] P0246: 1 new URL(s) queued; queue=209 manifest=584
+2026-09-02T19:14:00Z [FLAG] P0247 cache=miss https://emiratespaints.com/blog
+2026-09-02T19:14:00Z [INFO] P0247 https://emiratespaints.com/blog -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T19:14:27Z [INFO] P0248 https://emiratespaints.com/visualizer -> captured http=200 cache=- h=1432/1525/1972
+2026-09-02T19:15:10Z [FLAG] P0249 cache=miss https://emiratespaints.com/wishlist/
+2026-09-02T19:15:10Z [INFO] P0249 https://emiratespaints.com/wishlist/ -> captured http=200 cache=miss h=1071/1038/1259
+2026-09-02T19:16:06Z [FLAG] P0250 cache=miss https://emiratespaints.com/product/wood-glue/
+2026-09-02T19:16:06Z [INFO] P0250 https://emiratespaints.com/product/wood-glue/ -> captured http=200 cache=miss h=2610/2684/3471
+2026-09-02T19:16:06Z [INFO] P0250: 1 new URL(s) queued; queue=206 manifest=586
+2026-09-02T19:16:58Z [FLAG] P0251 cache=miss https://emiratespaints.com/product/emashield-pu-wood-clear-matt-41/
+2026-09-02T19:16:58Z [INFO] P0251 https://emiratespaints.com/product/emashield-pu-wood-clear-matt-41/ -> captured http=200 cache=miss h=2610/2614/3429
+2026-09-02T19:16:58Z [INFO] P0251: 1 new URL(s) queued; queue=206 manifest=588
+2026-09-02T19:17:53Z [FLAG] P0252 cache=miss https://emiratespaints.com/product/emashield-pu-wood-clear-semi-gloss-41/
+2026-09-02T19:17:53Z [INFO] P0252 https://emiratespaints.com/product/emashield-pu-wood-clear-semi-gloss-41/ -> captured http=200 cache=miss h=2610/2614/3455
+2026-09-02T19:17:53Z [INFO] P0252: 1 new URL(s) queued; queue=206 manifest=590
+2026-09-02T19:18:45Z [FLAG] P0253 cache=miss https://emiratespaints.com/product/spray-plaster-medium/
+2026-09-02T19:18:45Z [INFO] P0253 https://emiratespaints.com/product/spray-plaster-medium/ -> captured http=200 cache=miss h=2636/2698/3485
+2026-09-02T19:18:45Z [INFO] P0253: 1 new URL(s) queued; queue=206 manifest=592
+2026-09-02T19:19:40Z [FLAG] P0254 cache=miss https://emiratespaints.com/product/emapoxy-primer/
+2026-09-02T19:19:40Z [INFO] P0254 https://emiratespaints.com/product/emapoxy-primer/ -> captured http=200 cache=miss h=2610/2592/3353
+2026-09-02T19:19:40Z [INFO] P0254: 1 new URL(s) queued; queue=206 manifest=594
+2026-09-02T19:20:31Z [FLAG] P0255 cache=miss https://emiratespaints.com/product/emapoxy-red-oxide-primer/
+2026-09-02T19:20:31Z [INFO] P0255 https://emiratespaints.com/product/emapoxy-red-oxide-primer/ -> captured http=200 cache=miss h=2560/2566/3277
+2026-09-02T19:20:31Z [INFO] P0255: 1 new URL(s) queued; queue=206 manifest=596
+2026-09-02T19:21:26Z [FLAG] P0256 cache=miss https://emiratespaints.com/product/emapoxy-zinc-chromate-primer/
+2026-09-02T19:21:26Z [INFO] P0256 https://emiratespaints.com/product/emapoxy-zinc-chromate-primer/ -> captured http=200 cache=miss h=2610/2592/3381
+2026-09-02T19:21:26Z [INFO] P0256: 1 new URL(s) queued; queue=206 manifest=598
+2026-09-02T19:22:11Z [FLAG] P0257 cache=miss https://emiratespaints.com/products/?filter_product-type=exterior%2Cinterior
+2026-09-02T19:22:11Z [INFO] P0257 https://emiratespaints.com/products/?filter_product-type=exterior%2Cinterior -> captured http=200 cache=miss h=1839/1833/879
+2026-09-02T19:22:11Z [INFO] P0257: 1 new URL(s) queued; queue=206 manifest=613
+2026-09-02T19:23:01Z [FLAG] P0258 cache=miss https://emiratespaints.com/products/?filter_product-type=decorative%2Cinterior
+2026-09-02T19:23:01Z [INFO] P0258 https://emiratespaints.com/products/?filter_product-type=decorative%2Cinterior -> captured http=200 cache=miss h=1863/2171/879
+2026-09-02T19:23:51Z [INFO] P0276 https://emiratespaints.com/product/ema-aliphatic-pu/ -> captured http=200 cache=hit h=2632/2658/3471
+2026-09-02T19:23:51Z [INFO] P0276: 1 new URL(s) queued; queue=205 manifest=625
+2026-09-02T19:24:43Z [FLAG] P0277 cache=miss https://emiratespaints.com/product/ema-pu-wood-clear-gloss-21/
+2026-09-02T19:24:43Z [INFO] P0277 https://emiratespaints.com/product/ema-pu-wood-clear-gloss-21/ -> captured http=200 cache=miss h=2033/2092/2942
+2026-09-02T19:24:43Z [INFO] P0277: 1 new URL(s) queued; queue=205 manifest=627
+2026-09-02T19:25:35Z [FLAG] P0278 cache=miss https://emiratespaints.com/product/ema-pu-wood-clear-matt-21/
+2026-09-02T19:25:35Z [INFO] P0278 https://emiratespaints.com/product/ema-pu-wood-clear-matt-21/ -> captured http=200 cache=miss h=2610/2592/3379
+2026-09-02T19:25:35Z [INFO] P0278: 1 new URL(s) queued; queue=205 manifest=629
+2026-09-02T19:26:30Z [FLAG] P0279 cache=miss https://emiratespaints.com/product/ema-pu-wood-clear-semi-gloss-21/
+2026-09-02T19:26:30Z [INFO] P0279 https://emiratespaints.com/product/ema-pu-wood-clear-semi-gloss-21/ -> captured http=200 cache=miss h=2610/2592/3407
+2026-09-02T19:26:30Z [INFO] P0279: 1 new URL(s) queued; queue=205 manifest=631
+2026-09-02T19:27:24Z [FLAG] P0280 cache=miss https://emiratespaints.com/product/emashield-top-coat-gloss/
+2026-09-02T19:27:24Z [INFO] P0280 https://emiratespaints.com/product/emashield-top-coat-gloss/ -> captured http=200 cache=miss h=2723/2909/3811
+2026-09-02T19:28:21Z [FLAG] P0281 cache=miss https://emiratespaints.com/product/emashield-top-coat-matt/
+2026-09-02T19:28:21Z [INFO] P0281 https://emiratespaints.com/product/emashield-top-coat-matt/ -> captured http=200 cache=miss h=2723/2877/3811
+2026-09-02T19:29:16Z [FLAG] P0282 cache=miss https://emiratespaints.com/product/emashield-top-coat-semi-gloss/
+2026-09-02T19:29:16Z [INFO] P0282 https://emiratespaints.com/product/emashield-top-coat-semi-gloss/ -> captured http=200 cache=miss h=2723/2909/3863
+2026-09-02T19:30:07Z [FLAG] P0283 cache=miss https://emiratespaints.com/product/majestic-silk/
+2026-09-02T19:30:07Z [INFO] P0283 https://emiratespaints.com/product/majestic-silk/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T19:30:57Z [FLAG] P0284 cache=miss https://emiratespaints.com/product/stucco-filler/
+2026-09-02T19:30:57Z [INFO] P0284 https://emiratespaints.com/product/stucco-filler/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T19:31:43Z [FLAG] P0285 cache=miss https://emiratespaints.com/products/?filter_product-type=decorative%2Cexterior
+2026-09-02T19:31:43Z [INFO] P0285 https://emiratespaints.com/products/?filter_product-type=decorative%2Cexterior -> captured http=200 cache=miss h=1488/1519/879
+2026-09-02T19:32:31Z [INFO] P0303 https://emiratespaints.com/product/emashield-long-life-classic-tex/ -> captured-with-http-error http=404 cache=hit h=1879/1668/2027
+2026-09-02T19:33:23Z [INFO] P0304 https://emiratespaints.com/product/emashield-tex-primer/ -> captured http=200 cache=hit h=2612/2790/3674
+2026-09-02T19:34:12Z [FLAG] P0305 cache=miss https://emiratespaints.com/products/?filter_product-type=decorative%2Cindustrial
+2026-09-02T19:34:12Z [INFO] P0305 https://emiratespaints.com/products/?filter_product-type=decorative%2Cindustrial -> captured http=200 cache=miss h=1839/2147/879
+2026-09-02T19:35:06Z [FLAG] P0321 cache=miss https://emiratespaints.com/product/emacrylic-road-marker/
+2026-09-02T19:35:06Z [INFO] P0321 https://emiratespaints.com/product/emacrylic-road-marker/ -> captured http=200 cache=miss h=2606/2654/3415
+2026-09-02T19:35:06Z [INFO] P0321: 1 new URL(s) queued; queue=196 manifest=650
+2026-09-02T19:35:59Z [FLAG] P0322 cache=miss https://emiratespaints.com/product/emapoxy-m-i-o-primer/
+2026-09-02T19:35:59Z [INFO] P0322 https://emiratespaints.com/product/emapoxy-m-i-o-primer/ -> captured http=200 cache=miss h=2610/2614/3401
+2026-09-02T19:35:59Z [INFO] P0322: 1 new URL(s) queued; queue=196 manifest=652
+2026-09-02T19:36:50Z [FLAG] P0323 cache=miss https://emiratespaints.com/product/emapoxy-sf-clear/
+2026-09-02T19:36:50Z [INFO] P0323 https://emiratespaints.com/product/emapoxy-sf-clear/ -> captured http=200 cache=miss h=2582/2654/3391
+2026-09-02T19:36:50Z [INFO] P0323: 1 new URL(s) queued; queue=196 manifest=654
+2026-09-02T19:37:46Z [FLAG] P0324 cache=miss https://emiratespaints.com/product/emapoxy-sf-topcoat-pigmented/
+2026-09-02T19:37:46Z [INFO] P0324 https://emiratespaints.com/product/emapoxy-sf-topcoat-pigmented/ -> captured http=200 cache=miss h=2658/2688/3479
+2026-09-02T19:37:46Z [INFO] P0324: 1 new URL(s) queued; queue=196 manifest=656
+2026-09-02T19:38:37Z [FLAG] P0325 cache=miss https://emiratespaints.com/product/emapoxy-topcoat/
+2026-09-02T19:38:37Z [INFO] P0325 https://emiratespaints.com/product/emapoxy-topcoat/ -> captured http=200 cache=miss h=2586/2566/3379
+2026-09-02T19:38:37Z [INFO] P0325: 1 new URL(s) queued; queue=196 manifest=658
+2026-09-02T19:39:32Z [FLAG] P0326 cache=miss https://emiratespaints.com/product/emapoxy-undercoat/
+2026-09-02T19:39:32Z [INFO] P0326 https://emiratespaints.com/product/emapoxy-undercoat/ -> captured http=200 cache=miss h=2584/2588/3323
+2026-09-02T19:39:32Z [INFO] P0326: 1 new URL(s) queued; queue=196 manifest=660
+2026-09-02T19:40:24Z [FLAG] P0327 cache=miss https://emiratespaints.com/product/emapoxy-universal-primer/
+2026-09-02T19:40:24Z [INFO] P0327 https://emiratespaints.com/product/emapoxy-universal-primer/ -> captured http=200 cache=miss h=2586/2614/3373
+2026-09-02T19:40:24Z [INFO] P0327: 1 new URL(s) queued; queue=196 manifest=662
+2026-09-02T19:41:19Z [FLAG] P0328 cache=miss https://emiratespaints.com/product/emapoxy-zinc-phosphate-primer/
+2026-09-02T19:41:19Z [INFO] P0328 https://emiratespaints.com/product/emapoxy-zinc-phosphate-primer/ -> captured http=200 cache=miss h=2584/2566/3355
+2026-09-02T19:41:19Z [INFO] P0328: 1 new URL(s) queued; queue=196 manifest=664
+2026-09-02T19:42:10Z [FLAG] P0329 cache=miss https://emiratespaints.com/product/emapoxy-zinc-rich-primer/
+2026-09-02T19:42:10Z [INFO] P0329 https://emiratespaints.com/product/emapoxy-zinc-rich-primer/ -> captured http=200 cache=miss h=2610/2662/3475
+2026-09-02T19:42:10Z [INFO] P0329: 1 new URL(s) queued; queue=196 manifest=666
+2026-09-02T19:43:05Z [FLAG] P0330 cache=miss https://emiratespaints.com/product/paint-remover/
+2026-09-02T19:43:05Z [INFO] P0330 https://emiratespaints.com/product/paint-remover/ -> captured http=200 cache=miss h=2584/2544/3305
+2026-09-02T19:43:05Z [INFO] P0330: 1 new URL(s) queued; queue=196 manifest=668
+2026-09-02T19:43:57Z [FLAG] P0331 cache=miss https://emiratespaints.com/product/qd-zinc-phosphate-primer/
+2026-09-02T19:43:57Z [INFO] P0331 https://emiratespaints.com/product/qd-zinc-phosphate-primer/ -> captured http=200 cache=miss h=2608/2614/3425
+2026-09-02T19:43:57Z [INFO] P0331: 1 new URL(s) queued; queue=196 manifest=670
+2026-09-02T19:44:54Z [FLAG] P0332 cache=miss https://emiratespaints.com/product/rust-remover/
+2026-09-02T19:44:54Z [INFO] P0332 https://emiratespaints.com/product/rust-remover/ -> captured http=200 cache=miss h=2628/2877/3793
+2026-09-02T19:45:46Z [FLAG] P0333 cache=miss https://emiratespaints.com/product/rust-remover-2/
+2026-09-02T19:45:46Z [INFO] P0333 https://emiratespaints.com/product/rust-remover-2/ -> captured http=200 cache=miss h=2632/2588/3423
+2026-09-02T19:45:46Z [INFO] P0333: 1 new URL(s) queued; queue=195 manifest=673
+2026-09-02T19:46:36Z [FLAG] P0334 cache=miss https://emiratespaints.com/product/wood-primer/
+2026-09-02T19:46:36Z [INFO] P0334 https://emiratespaints.com/product/wood-primer/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T19:47:37Z [INFO] P0335 https://emiratespaints.com/home-renovation-solutions-with-emirates-paints/ -> captured http=200 cache=hit h=4413/4918/6558
+2026-09-02T19:48:23Z [FLAG] P0336 cache=miss https://emiratespaints.com/2024/05/17/
+2026-09-02T19:48:23Z [INFO] P0336 https://emiratespaints.com/2024/05/17/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T19:48:23Z [INFO] P0336: 1 new URL(s) queued; queue=193 manifest=674
+2026-09-02T19:49:28Z [FLAG] P0337 cache=miss https://emiratespaints.com/elevate-your-homes-aesthetic-with-luxurious-velvet-paint-for-walls/
+2026-09-02T19:49:28Z [INFO] P0337 https://emiratespaints.com/elevate-your-homes-aesthetic-with-luxurious-velvet-paint-for-walls/ -> captured http=200 cache=miss h=5064/5661/7010
+2026-09-02T19:49:28Z [INFO] P0337: 3 new URL(s) queued; queue=195 manifest=677
+2026-09-02T19:50:36Z [FLAG] P0338 cache=miss https://emiratespaints.com/the-advantages-of-using-fire-resistant-paint-for-safety-and-protection-a-guide-by-emirates-paints/
+2026-09-02T19:50:36Z [INFO] P0338 https://emiratespaints.com/the-advantages-of-using-fire-resistant-paint-for-safety-and-protection-a-guide-by-emirates-paints/ -> captured http=200 cache=miss h=5627/5709/8190
+2026-09-02T19:50:36Z [INFO] P0338: 2 new URL(s) queued; queue=196 manifest=679
+2026-09-02T19:51:39Z [FLAG] P0339 cache=miss https://emiratespaints.com/shield-top-coat-paint-from-emirates-paints/
+2026-09-02T19:51:39Z [INFO] P0339 https://emiratespaints.com/shield-top-coat-paint-from-emirates-paints/ -> captured http=200 cache=miss h=4090/4758/6145
+2026-09-02T19:51:39Z [INFO] P0339: 4 new URL(s) queued; queue=199 manifest=683
+2026-09-02T19:52:45Z [FLAG] P0340 cache=miss https://emiratespaints.com/understanding-water-based-paint-a-smarter-choice-for-your-home/
+2026-09-02T19:52:45Z [INFO] P0340 https://emiratespaints.com/understanding-water-based-paint-a-smarter-choice-for-your-home/ -> captured http=200 cache=miss h=5044/5841/7649
+2026-09-02T19:52:45Z [INFO] P0340: 4 new URL(s) queued; queue=202 manifest=687
+2026-09-02T19:53:54Z [FLAG] P0341 cache=miss https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/
+2026-09-02T19:53:54Z [INFO] P0341 https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/ -> captured http=200 cache=miss h=5744/6355/8402
+2026-09-02T19:53:54Z [INFO] P0341: 3 new URL(s) queued; queue=204 manifest=690
+2026-09-02T19:55:03Z [FLAG] P0342 cache=miss https://emiratespaints.com/the-ultimate-guide-to-spray-paint-transform-your-space-with-emirates-paints/
+2026-09-02T19:55:03Z [INFO] P0342 https://emiratespaints.com/the-ultimate-guide-to-spray-paint-transform-your-space-with-emirates-paints/ -> captured http=200 cache=miss h=5591/6189/8497
+2026-09-02T19:55:03Z [INFO] P0342: 3 new URL(s) queued; queue=206 manifest=693
+2026-09-02T19:56:13Z [FLAG] P0343 cache=miss https://emiratespaints.com/the-timeless-appeal-of-off-white-paint-colors-emirates-paints/
+2026-09-02T19:56:13Z [INFO] P0343 https://emiratespaints.com/the-timeless-appeal-of-off-white-paint-colors-emirates-paints/ -> captured http=200 cache=miss h=5607/6206/9148
+2026-09-02T19:56:13Z [INFO] P0343: 1 new URL(s) queued; queue=206 manifest=694
+2026-09-02T19:57:23Z [FLAG] P0344 cache=miss https://emiratespaints.com/exterior-wall-paint-from-emirates-paints/
+2026-09-02T19:57:23Z [INFO] P0344 https://emiratespaints.com/exterior-wall-paint-from-emirates-paints/ -> captured http=200 cache=miss h=6201/6346/9124
+2026-09-02T19:57:23Z [INFO] P0344: 2 new URL(s) queued; queue=207 manifest=696
+2026-09-02T19:58:32Z [FLAG] P0345 cache=miss https://emiratespaints.com/waterproof-paints-for-exterior-walls-protect-your-property-in-the-uae/
+2026-09-02T19:58:32Z [INFO] P0345 https://emiratespaints.com/waterproof-paints-for-exterior-walls-protect-your-property-in-the-uae/ -> captured http=200 cache=miss h=5275/5916/8396
+2026-09-02T19:58:32Z [INFO] P0345: 2 new URL(s) queued; queue=208 manifest=698
+2026-09-02T19:59:40Z [FLAG] P0346 cache=miss https://emiratespaints.com/the-importance-of-undercoat-paint-for-a-perfect-finish-emirates-paints/
+2026-09-02T19:59:40Z [INFO] P0346 https://emiratespaints.com/the-importance-of-undercoat-paint-for-a-perfect-finish-emirates-paints/ -> captured http=200 cache=miss h=5291/5845/8615
+2026-09-02T19:59:40Z [INFO] P0346: 2 new URL(s) queued; queue=209 manifest=700
+2026-09-02T20:00:49Z [FLAG] P0347 cache=miss https://emiratespaints.com/importance-of-top-coat-paint-emirates-paints/
+2026-09-02T20:00:49Z [INFO] P0347 https://emiratespaints.com/importance-of-top-coat-paint-emirates-paints/ -> captured http=200 cache=miss h=5916/6184/8760
+2026-09-02T20:00:49Z [INFO] P0347: 1 new URL(s) queued; queue=209 manifest=701
+2026-09-02T20:02:01Z [FLAG] P0348 cache=miss https://emiratespaints.com/living-room-wall-painting-transform-your-space-with-emirates-paints/
+2026-09-02T20:02:01Z [INFO] P0348 https://emiratespaints.com/living-room-wall-painting-transform-your-space-with-emirates-paints/ -> captured http=200 cache=miss h=5860/6814/9528
+2026-09-02T20:02:01Z [INFO] P0348: 1 new URL(s) queued; queue=209 manifest=702
+2026-09-02T20:02:59Z [FLAG] P0349 cache=miss https://emiratespaints.com/emirates-paints-blog/page/2/
+2026-09-02T20:02:59Z [INFO] P0349 https://emiratespaints.com/emirates-paints-blog/page/2/ -> captured http=200 cache=miss h=4243/2920/4780
+2026-09-02T20:02:59Z [INFO] P0349: 5 new URL(s) queued; queue=213 manifest=707
+2026-09-02T20:03:55Z [FLAG] P0350 cache=miss https://emiratespaints.com/emirates-paints-blog/page/3/
+2026-09-02T20:03:55Z [INFO] P0350 https://emiratespaints.com/emirates-paints-blog/page/3/ -> captured http=200 cache=miss h=4155/2910/4746
+2026-09-02T20:03:55Z [INFO] P0350: 3 new URL(s) queued; queue=215 manifest=710
+2026-09-02T20:04:53Z [FLAG] P0351 cache=miss https://emiratespaints.com/emirates-paints-blog/page/4/
+2026-09-02T20:04:53Z [INFO] P0351 https://emiratespaints.com/emirates-paints-blog/page/4/ -> captured http=200 cache=miss h=3979/2824/4500
+2026-09-02T20:04:53Z [INFO] P0351: 3 new URL(s) queued; queue=217 manifest=713
+2026-09-02T20:05:48Z [FLAG] P0352 cache=miss https://emiratespaints.com/emirates-paints-blog/page/6/
+2026-09-02T20:05:48Z [INFO] P0352 https://emiratespaints.com/emirates-paints-blog/page/6/ -> captured http=200 cache=miss h=4111/2959/4736
+2026-09-02T20:05:48Z [INFO] P0352: 4 new URL(s) queued; queue=220 manifest=717
+2026-09-02T20:06:47Z [FLAG] P0353 cache=miss https://emiratespaints.com/emirates-paints-blog/page/7/
+2026-09-02T20:06:47Z [INFO] P0353 https://emiratespaints.com/emirates-paints-blog/page/7/ -> captured http=200 cache=miss h=4199/2920/4696
+2026-09-02T20:06:47Z [INFO] P0353: 1 new URL(s) queued; queue=220 manifest=718
+2026-09-02T20:07:31Z [FLAG] P0354 cache=miss https://emiratespaints.com/emirates-paints-blog/page/8/
+2026-09-02T20:07:31Z [INFO] P0354 https://emiratespaints.com/emirates-paints-blog/page/8/ -> captured http=200 cache=miss h=1337/1090/1407
+2026-09-02T20:07:31Z [INFO] P0354: 1 new URL(s) queued; queue=220 manifest=719
+2026-09-02T20:08:18Z [INFO] P0355 https://emiratespaints.com/company-profile/ -> captured http=200 cache=hit h=1153/1024/1219
+2026-09-02T20:09:18Z [INFO] P0356 https://emiratespaints.com/download/ -> captured http=200 cache=hit h=4494/4828/5111
+2026-09-02T20:10:12Z [FLAG] P0357 cache=miss https://emiratespaints.com/download/road-marker/
+2026-09-02T20:10:12Z [INFO] P0357 https://emiratespaints.com/download/road-marker/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T20:10:12Z [INFO] P0357: 1 new URL(s) queued; queue=218 manifest=720
+2026-09-02T20:11:03Z [FLAG] P0358 cache=miss https://emiratespaints.com/download/paint-remover/
+2026-09-02T20:11:03Z [INFO] P0358 https://emiratespaints.com/download/paint-remover/ -> captured http=200 cache=miss h=3185/2303/2163
+2026-09-02T20:11:56Z [FLAG] P0359 cache=miss https://emiratespaints.com/download/chroma-emalux-base-coat/
+2026-09-02T20:11:56Z [INFO] P0359 https://emiratespaints.com/download/chroma-emalux-base-coat/ -> captured http=200 cache=miss h=3185/2303/2207
+2026-09-02T20:12:49Z [FLAG] P0360 cache=miss https://emiratespaints.com/download/chroma-emalux-primer/
+2026-09-02T20:12:49Z [INFO] P0360 https://emiratespaints.com/download/chroma-emalux-primer/ -> captured http=200 cache=miss h=3519/2498/2305
+2026-09-02T20:13:43Z [FLAG] P0361 cache=miss https://emiratespaints.com/download/chroma-2k-thinner/
+2026-09-02T20:13:43Z [INFO] P0361 https://emiratespaints.com/download/chroma-2k-thinner/ -> captured http=200 cache=miss h=3575/2531/2322
+2026-09-02T20:14:49Z [FLAG] P0362 cache=miss https://emiratespaints.com/elevate-your-space-with-professional-painters-in-dubai-a-comprehensive-guide/
+2026-09-02T20:14:49Z [INFO] P0362 https://emiratespaints.com/elevate-your-space-with-professional-painters-in-dubai-a-comprehensive-guide/ -> captured http=200 cache=miss h=5227/5864/7344
+2026-09-02T20:14:49Z [INFO] P0362: 1 new URL(s) queued; queue=214 manifest=721
+2026-09-02T20:15:56Z [FLAG] P0363 cache=miss https://emiratespaints.com/emulsion-paint/
+2026-09-02T20:15:56Z [INFO] P0363 https://emiratespaints.com/emulsion-paint/ -> captured http=200 cache=miss h=5471/6027/7450
+2026-09-02T20:15:56Z [INFO] P0363: 2 new URL(s) queued; queue=215 manifest=723
+2026-09-02T20:16:59Z [FLAG] P0364 cache=miss https://emiratespaints.com/types-of-paints-for-interior-walls/
+2026-09-02T20:16:59Z [INFO] P0364 https://emiratespaints.com/types-of-paints-for-interior-walls/ -> captured http=200 cache=miss h=4332/4908/6346
+2026-09-02T20:16:59Z [INFO] P0364: 1 new URL(s) queued; queue=215 manifest=724
+2026-09-02T20:17:05Z [INFO] document P0365 https://emiratespaints.com/wp-content/uploads/2024/02/Company-Profile-.pdf -> captured cache=-
+2026-09-02T20:17:58Z [INFO] P0366 https://emiratespaints.com/product/chroma-nc-topcoat-gloss/ -> captured http=200 cache=hit h=2748/2755/3467
+2026-09-02T20:17:58Z [INFO] P0366: 1 new URL(s) queued; queue=214 manifest=726
+2026-09-02T20:18:52Z [FLAG] P0367 cache=miss https://emiratespaints.com/product/ema-pu-primer/
+2026-09-02T20:18:52Z [INFO] P0367 https://emiratespaints.com/product/ema-pu-primer/ -> captured http=200 cache=miss h=2606/2610/3397
+2026-09-02T20:18:52Z [INFO] P0367: 1 new URL(s) queued; queue=214 manifest=728
+2026-09-02T20:19:39Z [FLAG] P0368 cache=miss https://emiratespaints.com/product/emafinetex/
+2026-09-02T20:19:39Z [INFO] P0368 https://emiratespaints.com/product/emafinetex/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:20:29Z [FLAG] P0369 cache=miss https://emiratespaints.com/product/emaminitex/
+2026-09-02T20:20:29Z [INFO] P0369 https://emiratespaints.com/product/emaminitex/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:21:21Z [FLAG] P0370 cache=miss https://emiratespaints.com/product/emanutex/
+2026-09-02T20:21:21Z [INFO] P0370 https://emiratespaints.com/product/emanutex/ -> captured http=200 cache=miss h=2638/2792/3826
+2026-09-02T20:22:12Z [INFO] P0371 https://emiratespaints.com/products/page/1/ -> captured http=200 cache=hit h=2480/3016/879
+2026-09-02T20:22:59Z [FLAG] P0372 cache=miss https://emiratespaints.com/product/nc-clear-semi-gloss/
+2026-09-02T20:22:59Z [INFO] P0372 https://emiratespaints.com/product/nc-clear-semi-gloss/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:23:49Z [FLAG] P0373 cache=miss https://emiratespaints.com/product/nc-putty/
+2026-09-02T20:23:49Z [INFO] P0373 https://emiratespaints.com/product/nc-putty/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:24:42Z [FLAG] P0374 cache=miss https://emiratespaints.com/product/test/
+2026-09-02T20:24:42Z [INFO] P0374 https://emiratespaints.com/product/test/ -> captured http=200 cache=miss h=2774/2771/3391
+2026-09-02T20:25:32Z [FLAG] P0381 cache=miss https://emiratespaints.com/products/?filter_product-type=automotive%2Cdecorative
+2026-09-02T20:25:32Z [INFO] P0381 https://emiratespaints.com/products/?filter_product-type=automotive%2Cdecorative -> captured http=200 cache=miss h=2141/2412/879
+2026-09-02T20:26:14Z [INFO] P0382 https://emiratespaints.com/products/page/2/?filter_product-type=automotive -> captured http=200 cache=hit h=1230/1239/879
+2026-09-02T20:26:14Z [INFO] P0382: 1 new URL(s) queued; queue=206 manifest=737
+2026-09-02T20:27:06Z [FLAG] P0396 cache=miss https://emiratespaints.com/products/page/2/?filter_product-type=decorative
+2026-09-02T20:27:06Z [INFO] P0396 https://emiratespaints.com/products/page/2/?filter_product-type=decorative -> captured http=200 cache=miss h=2599/3170/879
+2026-09-02T20:27:06Z [INFO] P0396: 1 new URL(s) queued; queue=206 manifest=738
+2026-09-02T20:27:59Z [FLAG] P0397 cache=miss https://emiratespaints.com/product/ema-tex/
+2026-09-02T20:27:59Z [INFO] P0397 https://emiratespaints.com/product/ema-tex/ -> captured http=200 cache=miss h=2641/2819/3753
+2026-09-02T20:28:49Z [FLAG] P0398 cache=miss https://emiratespaints.com/product/emasandtex/
+2026-09-02T20:28:49Z [INFO] P0398 https://emiratespaints.com/product/emasandtex/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:29:36Z [FLAG] P0399 cache=miss https://emiratespaints.com/product/emashield-fine-silk/
+2026-09-02T20:29:36Z [INFO] P0399 https://emiratespaints.com/product/emashield-fine-silk/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:30:26Z [FLAG] P0400 cache=miss https://emiratespaints.com/product/emashield-long-life-antique-tex/
+2026-09-02T20:30:26Z [INFO] P0400 https://emiratespaints.com/product/emashield-long-life-antique-tex/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:31:21Z [FLAG] P0401 cache=miss https://emiratespaints.com/product/emashield-long-life-traditional-tex/
+2026-09-02T20:31:21Z [INFO] P0401 https://emiratespaints.com/product/emashield-long-life-traditional-tex/ -> captured http=200 cache=miss h=2723/2909/3889
+2026-09-02T20:32:11Z [FLAG] P0402 cache=miss https://emiratespaints.com/product/emasynplast/
+2026-09-02T20:32:11Z [INFO] P0402 https://emiratespaints.com/product/emasynplast/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:32:58Z [FLAG] P0403 cache=miss https://emiratespaints.com/product/emasyntex/
+2026-09-02T20:32:58Z [INFO] P0403 https://emiratespaints.com/product/emasyntex/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:33:54Z [FLAG] P0404 cache=miss https://emiratespaints.com/product/ematexo-compound/
+2026-09-02T20:33:54Z [INFO] P0404 https://emiratespaints.com/product/ematexo-compound/ -> captured http=200 cache=miss h=2604/2758/3792
+2026-09-02T20:34:41Z [FLAG] P0405 cache=miss https://emiratespaints.com/product/gloss-emulsion/
+2026-09-02T20:34:41Z [INFO] P0405 https://emiratespaints.com/product/gloss-emulsion/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:35:31Z [FLAG] P0406 cache=miss https://emiratespaints.com/product/grooved-decor/
+2026-09-02T20:35:31Z [INFO] P0406 https://emiratespaints.com/product/grooved-decor/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T20:36:20Z [FLAG] P0409 cache=miss https://emiratespaints.com/products/?filter_location=bathroom%2Cbedroom
+2026-09-02T20:36:20Z [INFO] P0409 https://emiratespaints.com/products/?filter_location=bathroom%2Cbedroom -> captured http=200 cache=miss h=2574/3074/879
+2026-09-02T20:36:20Z [INFO] P0409: 8 new URL(s) queued; queue=203 manifest=754
+2026-09-02T20:37:06Z [FLAG] P0410 cache=miss https://emiratespaints.com/products/?filter_location=bathroom%2Cceiling
+2026-09-02T20:37:06Z [INFO] P0410 https://emiratespaints.com/products/?filter_location=bathroom%2Cceiling -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:37:06Z [INFO] P0410: 6 new URL(s) queued; queue=208 manifest=760
+2026-09-02T20:37:55Z [FLAG] P0411 cache=miss https://emiratespaints.com/products/?filter_location=bathroom%2Cchildrens-room
+2026-09-02T20:37:55Z [INFO] P0411 https://emiratespaints.com/products/?filter_location=bathroom%2Cchildrens-room -> captured http=200 cache=miss h=2574/3074/879
+2026-09-02T20:37:55Z [INFO] P0411: 6 new URL(s) queued; queue=213 manifest=771
+2026-09-02T20:38:47Z [FLAG] P0412 cache=miss https://emiratespaints.com/products/?filter_location=bathroom%2Cdining-room
+2026-09-02T20:38:47Z [INFO] P0412 https://emiratespaints.com/products/?filter_location=bathroom%2Cdining-room -> captured http=200 cache=miss h=2574/3074/879
+2026-09-02T20:38:47Z [INFO] P0412: 5 new URL(s) queued; queue=217 manifest=781
+2026-09-02T20:39:38Z [FLAG] P0413 cache=miss https://emiratespaints.com/products/?filter_location=bathroom%2Ckitchen
+2026-09-02T20:39:38Z [INFO] P0413 https://emiratespaints.com/products/?filter_location=bathroom%2Ckitchen -> captured http=200 cache=miss h=2550/3050/879
+2026-09-02T20:39:38Z [INFO] P0413: 4 new URL(s) queued; queue=220 manifest=790
+2026-09-02T20:40:28Z [FLAG] P0414 cache=miss https://emiratespaints.com/products/?filter_location=bathroom%2Cliving-room
+2026-09-02T20:40:28Z [INFO] P0414 https://emiratespaints.com/products/?filter_location=bathroom%2Cliving-room -> captured http=200 cache=miss h=2526/3026/879
+2026-09-02T20:40:28Z [INFO] P0414: 3 new URL(s) queued; queue=222 manifest=797
+2026-09-02T20:41:17Z [INFO] P0415 https://emiratespaints.com/products/?filter_location=bathroom%2Cmoving-out -> captured http=200 cache=hit h=2420/2920/879
+2026-09-02T20:41:17Z [INFO] P0415: 1 new URL(s) queued; queue=222 manifest=801
+2026-09-02T20:42:06Z [FLAG] P0416 cache=miss https://emiratespaints.com/products/?filter_location=bathroom%2Coffice
+2026-09-02T20:42:06Z [INFO] P0416 https://emiratespaints.com/products/?filter_location=bathroom%2Coffice -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T20:42:54Z [FLAG] P0417 cache=miss https://emiratespaints.com/products/page/2/?filter_location=bathroom
+2026-09-02T20:42:54Z [INFO] P0417 https://emiratespaints.com/products/page/2/?filter_location=bathroom -> captured http=200 cache=miss h=1547/1819/879
+2026-09-02T20:42:54Z [INFO] P0417: 1 new URL(s) queued; queue=221 manifest=805
+2026-09-02T20:43:48Z [FLAG] P0418 cache=miss https://emiratespaints.com/product/protect-seal-matt/
+2026-09-02T20:43:48Z [INFO] P0418 https://emiratespaints.com/product/protect-seal-matt/ -> captured http=200 cache=miss h=2641/2795/3777
+2026-09-02T20:44:33Z [FLAG] P0421 cache=miss https://emiratespaints.com/products/?filter_location=bedroom%2Cceiling
+2026-09-02T20:44:33Z [INFO] P0421 https://emiratespaints.com/products/?filter_location=bedroom%2Cceiling -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:44:33Z [INFO] P0421: 6 new URL(s) queued; queue=225 manifest=812
+2026-09-02T20:45:20Z [INFO] P0422 https://emiratespaints.com/products/?filter_location=bedroom%2Cchildrens-room -> captured http=200 cache=hit h=2574/3074/879
+2026-09-02T20:45:20Z [INFO] P0422: 6 new URL(s) queued; queue=230 manifest=823
+2026-09-02T20:46:12Z [FLAG] P0423 cache=miss https://emiratespaints.com/products/?filter_location=bedroom%2Cdining-room
+2026-09-02T20:46:12Z [INFO] P0423 https://emiratespaints.com/products/?filter_location=bedroom%2Cdining-room -> captured http=200 cache=miss h=2574/3074/879
+2026-09-02T20:46:12Z [INFO] P0423: 5 new URL(s) queued; queue=234 manifest=833
+2026-09-02T20:47:02Z [FLAG] P0424 cache=miss https://emiratespaints.com/products/?filter_location=bedroom%2Ckitchen
+2026-09-02T20:47:02Z [INFO] P0424 https://emiratespaints.com/products/?filter_location=bedroom%2Ckitchen -> captured http=200 cache=miss h=2550/3050/879
+2026-09-02T20:47:02Z [INFO] P0424: 4 new URL(s) queued; queue=237 manifest=842
+2026-09-02T20:47:53Z [FLAG] P0425 cache=miss https://emiratespaints.com/products/?filter_location=bedroom%2Cliving-room
+2026-09-02T20:47:53Z [INFO] P0425 https://emiratespaints.com/products/?filter_location=bedroom%2Cliving-room -> captured http=200 cache=miss h=2526/3026/879
+2026-09-02T20:47:53Z [INFO] P0425: 3 new URL(s) queued; queue=239 manifest=849
+2026-09-02T20:48:42Z [FLAG] P0426 cache=miss https://emiratespaints.com/products/?filter_location=bedroom%2Cmoving-out
+2026-09-02T20:48:42Z [INFO] P0426 https://emiratespaints.com/products/?filter_location=bedroom%2Cmoving-out -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T20:48:42Z [INFO] P0426: 1 new URL(s) queued; queue=239 manifest=853
+2026-09-02T20:49:34Z [FLAG] P0427 cache=miss https://emiratespaints.com/products/?filter_location=bedroom%2Coffice
+2026-09-02T20:49:34Z [INFO] P0427 https://emiratespaints.com/products/?filter_location=bedroom%2Coffice -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T20:50:19Z [FLAG] P0428 cache=miss https://emiratespaints.com/products/page/2/?filter_location=bedroom
+2026-09-02T20:50:19Z [INFO] P0428 https://emiratespaints.com/products/page/2/?filter_location=bedroom -> captured http=200 cache=miss h=1547/1529/879
+2026-09-02T20:50:19Z [INFO] P0428: 1 new URL(s) queued; queue=238 manifest=857
+2026-09-02T20:51:07Z [INFO] P0429 https://emiratespaints.com/product/pva-primer/ -> captured-with-http-error http=404 cache=hit h=1879/1668/2027
+2026-09-02T20:51:50Z [FLAG] P0430 cache=miss https://emiratespaints.com/products/?filter_location=ceiling%2Cchildrens-room
+2026-09-02T20:51:50Z [INFO] P0430 https://emiratespaints.com/products/?filter_location=ceiling%2Cchildrens-room -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:51:50Z [INFO] P0430: 5 new URL(s) queued; queue=241 manifest=862
+2026-09-02T20:52:35Z [FLAG] P0431 cache=miss https://emiratespaints.com/products/?filter_location=ceiling%2Cdining-room
+2026-09-02T20:52:35Z [INFO] P0431 https://emiratespaints.com/products/?filter_location=ceiling%2Cdining-room -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:52:35Z [INFO] P0431: 4 new URL(s) queued; queue=244 manifest=866
+2026-09-02T20:53:18Z [FLAG] P0432 cache=miss https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen
+2026-09-02T20:53:18Z [INFO] P0432 https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:53:18Z [INFO] P0432: 3 new URL(s) queued; queue=246 manifest=869
+2026-09-02T20:54:03Z [FLAG] P0433 cache=miss https://emiratespaints.com/products/?filter_location=ceiling%2Cliving-room
+2026-09-02T20:54:03Z [INFO] P0433 https://emiratespaints.com/products/?filter_location=ceiling%2Cliving-room -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:54:03Z [INFO] P0433: 2 new URL(s) queued; queue=247 manifest=871
+2026-09-02T20:54:48Z [FLAG] P0434 cache=miss https://emiratespaints.com/products/?filter_location=ceiling%2Cmoving-out
+2026-09-02T20:54:48Z [INFO] P0434 https://emiratespaints.com/products/?filter_location=ceiling%2Cmoving-out -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:54:48Z [INFO] P0434: 1 new URL(s) queued; queue=247 manifest=872
+2026-09-02T20:55:31Z [FLAG] P0435 cache=miss https://emiratespaints.com/products/?filter_location=ceiling%2Coffice
+2026-09-02T20:55:31Z [INFO] P0435 https://emiratespaints.com/products/?filter_location=ceiling%2Coffice -> captured http=200 cache=miss h=1137/1109/879
+2026-09-02T20:56:23Z [FLAG] P0438 cache=miss https://emiratespaints.com/products/?filter_location=childrens-room%2Cdining-room
+2026-09-02T20:56:23Z [INFO] P0438 https://emiratespaints.com/products/?filter_location=childrens-room%2Cdining-room -> captured http=200 cache=miss h=2574/3074/879
+2026-09-02T20:56:23Z [INFO] P0438: 5 new URL(s) queued; queue=250 manifest=882
+2026-09-02T20:57:13Z [FLAG] P0439 cache=miss https://emiratespaints.com/products/?filter_location=childrens-room%2Ckitchen
+2026-09-02T20:57:13Z [INFO] P0439 https://emiratespaints.com/products/?filter_location=childrens-room%2Ckitchen -> captured http=200 cache=miss h=2550/3050/879
+2026-09-02T20:57:13Z [INFO] P0439: 4 new URL(s) queued; queue=253 manifest=891
+2026-09-02T20:58:05Z [FLAG] P0440 cache=miss https://emiratespaints.com/products/?filter_location=childrens-room%2Cliving-room
+2026-09-02T20:58:05Z [INFO] P0440 https://emiratespaints.com/products/?filter_location=childrens-room%2Cliving-room -> captured http=200 cache=miss h=2526/3026/879
+2026-09-02T20:58:05Z [INFO] P0440: 3 new URL(s) queued; queue=255 manifest=898
+2026-09-02T20:58:52Z [INFO] P0441 https://emiratespaints.com/products/?filter_location=childrens-room%2Cmoving-out -> captured http=200 cache=hit h=2420/2920/879
+2026-09-02T20:58:52Z [INFO] P0441: 1 new URL(s) queued; queue=255 manifest=902
+2026-09-02T20:59:44Z [FLAG] P0442 cache=miss https://emiratespaints.com/products/?filter_location=childrens-room%2Coffice
+2026-09-02T20:59:44Z [INFO] P0442 https://emiratespaints.com/products/?filter_location=childrens-room%2Coffice -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T21:00:28Z [FLAG] P0443 cache=miss https://emiratespaints.com/products/page/2/?filter_location=childrens-room
+2026-09-02T21:00:28Z [INFO] P0443 https://emiratespaints.com/products/page/2/?filter_location=childrens-room -> captured http=200 cache=miss h=1547/1529/879
+2026-09-02T21:00:28Z [INFO] P0443: 1 new URL(s) queued; queue=254 manifest=906
+2026-09-02T21:01:20Z [FLAG] P0446 cache=miss https://emiratespaints.com/products/?filter_location=dining-room%2Ckitchen
+2026-09-02T21:01:20Z [INFO] P0446 https://emiratespaints.com/products/?filter_location=dining-room%2Ckitchen -> captured http=200 cache=miss h=2550/3050/879
+2026-09-02T21:01:20Z [INFO] P0446: 4 new URL(s) queued; queue=257 manifest=915
+2026-09-02T21:02:09Z [FLAG] P0447 cache=miss https://emiratespaints.com/products/?filter_location=dining-room%2Cliving-room
+2026-09-02T21:02:09Z [INFO] P0447 https://emiratespaints.com/products/?filter_location=dining-room%2Cliving-room -> captured http=200 cache=miss h=2526/3026/879
+2026-09-02T21:02:09Z [INFO] P0447: 3 new URL(s) queued; queue=259 manifest=922
+2026-09-02T21:03:01Z [FLAG] P0448 cache=miss https://emiratespaints.com/products/?filter_location=dining-room%2Cmoving-out
+2026-09-02T21:03:01Z [INFO] P0448 https://emiratespaints.com/products/?filter_location=dining-room%2Cmoving-out -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T21:03:01Z [INFO] P0448: 1 new URL(s) queued; queue=259 manifest=926
+2026-09-02T21:03:51Z [FLAG] P0449 cache=miss https://emiratespaints.com/products/?filter_location=dining-room%2Coffice
+2026-09-02T21:03:51Z [INFO] P0449 https://emiratespaints.com/products/?filter_location=dining-room%2Coffice -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T21:04:38Z [FLAG] P0450 cache=miss https://emiratespaints.com/products/page/2/?filter_location=dining-room
+2026-09-02T21:04:38Z [INFO] P0450 https://emiratespaints.com/products/page/2/?filter_location=dining-room -> captured http=200 cache=miss h=1547/1529/879
+2026-09-02T21:04:38Z [INFO] P0450: 1 new URL(s) queued; queue=258 manifest=930
+2026-09-02T21:05:25Z [FLAG] P0451 cache=miss https://emiratespaints.com/product/protect-seal-silk/
+2026-09-02T21:05:25Z [INFO] P0451 https://emiratespaints.com/product/protect-seal-silk/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T21:06:17Z [FLAG] P0454 cache=miss https://emiratespaints.com/products/?filter_location=kitchen%2Cliving-room
+2026-09-02T21:06:17Z [INFO] P0454 https://emiratespaints.com/products/?filter_location=kitchen%2Cliving-room -> captured http=200 cache=miss h=2526/3026/879
+2026-09-02T21:06:17Z [INFO] P0454: 3 new URL(s) queued; queue=259 manifest=937
+2026-09-02T21:07:06Z [FLAG] P0455 cache=miss https://emiratespaints.com/products/?filter_location=kitchen%2Cmoving-out
+2026-09-02T21:07:06Z [INFO] P0455 https://emiratespaints.com/products/?filter_location=kitchen%2Cmoving-out -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T21:07:06Z [INFO] P0455: 1 new URL(s) queued; queue=259 manifest=941
+2026-09-02T21:07:56Z [INFO] P0456 https://emiratespaints.com/products/?filter_location=kitchen%2Coffice -> captured http=200 cache=hit h=2420/2920/879
+2026-09-02T21:08:40Z [FLAG] P0457 cache=miss https://emiratespaints.com/products/page/2/?filter_location=kitchen
+2026-09-02T21:08:40Z [INFO] P0457 https://emiratespaints.com/products/page/2/?filter_location=kitchen -> captured http=200 cache=miss h=1547/1529/879
+2026-09-02T21:08:40Z [INFO] P0457: 1 new URL(s) queued; queue=258 manifest=945
+2026-09-02T21:09:36Z [FLAG] P0458 cache=miss https://emiratespaints.com/product/shield-ultra-silk/
+2026-09-02T21:09:36Z [INFO] P0458 https://emiratespaints.com/product/shield-ultra-silk/ -> captured http=200 cache=miss h=2662/2816/3826
+2026-09-02T21:10:27Z [FLAG] P0459 cache=miss https://emiratespaints.com/product/synthetic-under-coat/
+2026-09-02T21:10:27Z [INFO] P0459 https://emiratespaints.com/product/synthetic-under-coat/ -> captured http=200 cache=miss h=2515/2541/3343
+2026-09-02T21:11:17Z [INFO] P0462 https://emiratespaints.com/products/?filter_location=living-room%2Cmoving-out -> captured http=200 cache=hit h=2420/2920/879
+2026-09-02T21:11:17Z [INFO] P0462: 1 new URL(s) queued; queue=256 manifest=951
+2026-09-02T21:12:06Z [FLAG] P0463 cache=miss https://emiratespaints.com/products/?filter_location=living-room%2Coffice
+2026-09-02T21:12:06Z [INFO] P0463 https://emiratespaints.com/products/?filter_location=living-room%2Coffice -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T21:12:53Z [FLAG] P0464 cache=miss https://emiratespaints.com/products/page/2/?filter_location=living-room
+2026-09-02T21:12:53Z [INFO] P0464 https://emiratespaints.com/products/page/2/?filter_location=living-room -> captured http=200 cache=miss h=1390/1342/879
+2026-09-02T21:12:53Z [INFO] P0464: 1 new URL(s) queued; queue=255 manifest=955
+2026-09-02T21:13:42Z [FLAG] P0467 cache=miss https://emiratespaints.com/products/?filter_location=moving-out%2Coffice
+2026-09-02T21:13:42Z [INFO] P0467 https://emiratespaints.com/products/?filter_location=moving-out%2Coffice -> captured http=200 cache=miss h=2420/2920/879
+2026-09-02T21:14:28Z [FLAG] P0474 cache=miss https://emiratespaints.com/products/?filter_surface=concrete%2Cglass
+2026-09-02T21:14:28Z [INFO] P0474 https://emiratespaints.com/products/?filter_surface=concrete%2Cglass -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:14:28Z [INFO] P0474: 2 new URL(s) queued; queue=255 manifest=961
+2026-09-02T21:15:15Z [FLAG] P0475 cache=miss https://emiratespaints.com/products/?filter_surface=concrete%2Cgrc-board
+2026-09-02T21:15:15Z [INFO] P0475 https://emiratespaints.com/products/?filter_surface=concrete%2Cgrc-board -> captured http=200 cache=miss h=1839/1857/879
+2026-09-02T21:15:15Z [INFO] P0475: 4 new URL(s) queued; queue=258 manifest=972
+2026-09-02T21:15:58Z [INFO] P0476 https://emiratespaints.com/products/?filter_surface=concrete%2Cgypsum -> captured http=200 cache=hit h=1137/1133/879
+2026-09-02T21:15:58Z [INFO] P0476: 3 new URL(s) queued; queue=260 manifest=976
+2026-09-02T21:16:46Z [FLAG] P0477 cache=miss https://emiratespaints.com/products/?filter_surface=concrete%2Cmansory
+2026-09-02T21:16:46Z [INFO] P0477 https://emiratespaints.com/products/?filter_surface=concrete%2Cmansory -> captured http=200 cache=miss h=1839/1857/879
+2026-09-02T21:16:46Z [INFO] P0477: 2 new URL(s) queued; queue=261 manifest=985
+2026-09-02T21:17:30Z [FLAG] P0478 cache=miss https://emiratespaints.com/products/?filter_surface=concrete%2Cmetal
+2026-09-02T21:17:30Z [INFO] P0478 https://emiratespaints.com/products/?filter_surface=concrete%2Cmetal -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:17:30Z [INFO] P0478: 1 new URL(s) queued; queue=261 manifest=987
+2026-09-02T21:18:17Z [FLAG] P0479 cache=miss https://emiratespaints.com/products/?filter_surface=concrete%2Cplaster
+2026-09-02T21:18:17Z [INFO] P0479 https://emiratespaints.com/products/?filter_surface=concrete%2Cplaster -> captured http=200 cache=miss h=1839/2123/879
+2026-09-02T21:18:17Z [INFO] P0479: 1 new URL(s) queued; queue=261 manifest=996
+2026-09-02T21:19:00Z [FLAG] P0480 cache=miss https://emiratespaints.com/products/?filter_surface=concrete%2Cwood
+2026-09-02T21:19:00Z [INFO] P0480 https://emiratespaints.com/products/?filter_surface=concrete%2Cwood -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:19:46Z [FLAG] P0485 cache=miss https://emiratespaints.com/products/?filter_surface=grc-board%2Cgypsum
+2026-09-02T21:19:46Z [INFO] P0485 https://emiratespaints.com/products/?filter_surface=grc-board%2Cgypsum -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:19:46Z [INFO] P0485: 3 new URL(s) queued; queue=262 manifest=1001
+2026-09-02T21:20:35Z [FLAG] P0486 cache=miss https://emiratespaints.com/products/?filter_surface=grc-board%2Cmansory
+2026-09-02T21:20:35Z [INFO] P0486 https://emiratespaints.com/products/?filter_surface=grc-board%2Cmansory -> captured http=200 cache=miss h=1839/1857/879
+2026-09-02T21:20:35Z [INFO] P0486: 2 new URL(s) queued; queue=263 manifest=1010
+2026-09-02T21:21:20Z [FLAG] P0487 cache=miss https://emiratespaints.com/products/?filter_surface=grc-board%2Cplaster
+2026-09-02T21:21:20Z [INFO] P0487 https://emiratespaints.com/products/?filter_surface=grc-board%2Cplaster -> captured http=200 cache=miss h=1839/1857/879
+2026-09-02T21:21:20Z [INFO] P0487: 1 new URL(s) queued; queue=263 manifest=1018
+2026-09-02T21:22:06Z [FLAG] P0488 cache=miss https://emiratespaints.com/products/?filter_surface=grc-board%2Cwood
+2026-09-02T21:22:06Z [INFO] P0488 https://emiratespaints.com/products/?filter_surface=grc-board%2Cwood -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:22:50Z [FLAG] P0489 cache=miss https://emiratespaints.com/products/?filter_surface=gypsum%2Cmansory
+2026-09-02T21:22:50Z [INFO] P0489 https://emiratespaints.com/products/?filter_surface=gypsum%2Cmansory -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:22:50Z [INFO] P0489: 2 new URL(s) queued; queue=263 manifest=1022
+2026-09-02T21:23:35Z [FLAG] P0490 cache=miss https://emiratespaints.com/products/?filter_surface=gypsum%2Cplaster
+2026-09-02T21:23:35Z [INFO] P0490 https://emiratespaints.com/products/?filter_surface=gypsum%2Cplaster -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:23:35Z [INFO] P0490: 1 new URL(s) queued; queue=263 manifest=1024
+2026-09-02T21:24:20Z [FLAG] P0491 cache=miss https://emiratespaints.com/products/?filter_surface=gypsum%2Cwood
+2026-09-02T21:24:20Z [INFO] P0491 https://emiratespaints.com/products/?filter_surface=gypsum%2Cwood -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:25:06Z [FLAG] P0496 cache=miss https://emiratespaints.com/products/?filter_surface=mansory%2Cplaster
+2026-09-02T21:25:06Z [INFO] P0496 https://emiratespaints.com/products/?filter_surface=mansory%2Cplaster -> captured http=200 cache=miss h=1839/1857/879
+2026-09-02T21:25:06Z [INFO] P0496: 1 new URL(s) queued; queue=262 manifest=1033
+2026-09-02T21:25:52Z [FLAG] P0497 cache=miss https://emiratespaints.com/products/?filter_surface=mansory%2Cwood
+2026-09-02T21:25:52Z [INFO] P0497 https://emiratespaints.com/products/?filter_surface=mansory%2Cwood -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:26:35Z [FLAG] P0498 cache=miss https://emiratespaints.com/products/?filter_surface=glass%2Cmetal
+2026-09-02T21:26:35Z [INFO] P0498 https://emiratespaints.com/products/?filter_surface=glass%2Cmetal -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:26:35Z [INFO] P0498: 1 new URL(s) queued; queue=261 manifest=1036
+2026-09-02T21:27:21Z [FLAG] P0506 cache=miss https://emiratespaints.com/products/?filter_surface=metal%2Cplaster
+2026-09-02T21:27:21Z [INFO] P0506 https://emiratespaints.com/products/?filter_surface=metal%2Cplaster -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:28:07Z [FLAG] P0507 cache=miss https://emiratespaints.com/products/page/2/?filter_surface=metal
+2026-09-02T21:28:07Z [INFO] P0507 https://emiratespaints.com/products/page/2/?filter_surface=metal -> captured http=200 cache=miss h=1922/2253/879
+2026-09-02T21:28:07Z [INFO] P0507: 1 new URL(s) queued; queue=260 manifest=1038
+2026-09-02T21:28:53Z [FLAG] P0508 cache=miss https://emiratespaints.com/products/?filter_surface=glass%2Cplaster
+2026-09-02T21:28:53Z [INFO] P0508 https://emiratespaints.com/products/?filter_surface=glass%2Cplaster -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:29:38Z [FLAG] P0513 cache=miss https://emiratespaints.com/products/?filter_surface=plaster%2Cwood
+2026-09-02T21:29:38Z [INFO] P0513 https://emiratespaints.com/products/?filter_surface=plaster%2Cwood -> captured http=200 cache=miss h=1137/1133/879
+2026-09-02T21:30:24Z [FLAG] P0514 cache=miss https://emiratespaints.com/products/page/2/?filter_finish=matt
+2026-09-02T21:30:24Z [INFO] P0514 https://emiratespaints.com/products/page/2/?filter_finish=matt -> captured http=200 cache=miss h=1665/1617/879
+2026-09-02T21:30:24Z [INFO] P0514: 1 new URL(s) queued; queue=258 manifest=1041
+2026-09-02T21:31:19Z [FLAG] P0515 cache=miss https://emiratespaints.com/product/nc-top-coat-gloss/
+2026-09-02T21:31:19Z [INFO] P0515 https://emiratespaints.com/product/nc-top-coat-gloss/ -> captured http=200 cache=miss h=2812/2855/3501
+2026-09-02T21:32:07Z [FLAG] P0517 cache=miss https://emiratespaints.com/product/nc-clear-gloss/
+2026-09-02T21:32:07Z [INFO] P0517 https://emiratespaints.com/product/nc-clear-gloss/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T21:32:11Z [INFO] document P0520 https://emiratespaints.com/wp-content/uploads/2025/02/ALKYD-ENAMEL-ECO-MASTER-GLOSS.pdf -> captured cache=-
+2026-09-02T21:32:16Z [INFO] document P0522 https://emiratespaints.com/wp-content/uploads/2025/02/ALKYD-ENAMEL-QD.pdf -> captured cache=-
+2026-09-02T21:32:20Z [INFO] document P0525 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-CLEAR-GLOSS.pdf -> captured cache=-
+2026-09-02T21:33:13Z [FLAG] P0526 cache=miss https://emiratespaints.com/product/nc-thinner/
+2026-09-02T21:33:13Z [INFO] P0526 https://emiratespaints.com/product/nc-thinner/ -> captured http=200 cache=miss h=2773/2690/3210
+2026-09-02T21:33:18Z [INFO] document P0528 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-CLEAR-MATT.pdf -> captured cache=-
+2026-09-02T21:33:22Z [INFO] document P0530 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-HARDENER.pdf -> captured cache=-
+2026-09-02T21:34:16Z [FLAG] P0531 cache=miss https://emiratespaints.com/product/nc-top-coat-matt/
+2026-09-02T21:34:16Z [INFO] P0531 https://emiratespaints.com/product/nc-top-coat-matt/ -> captured http=200 cache=miss h=2854/2897/3543
+2026-09-02T21:34:20Z [INFO] document P0533 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-PRIMER.pdf -> captured cache=-
+2026-09-02T21:34:25Z [INFO] document P0535 https://emiratespaints.com/wp-content/uploads/2025/02/2K-THINNER.pdf -> captured cache=-
+2026-09-02T21:34:29Z [INFO] document P0536 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-TOPCOAT-GLOSS.pdf -> captured cache=-
+2026-09-02T21:34:34Z [INFO] document P0538 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-TOPCOAT-MATT.pdf -> captured cache=-
+2026-09-02T21:34:38Z [INFO] document P0540 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-EMALUX-BASE-COAT.pdf -> captured cache=-
+2026-09-02T21:34:42Z [INFO] document P0542 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-EMALUX-PRIMER.pdf -> captured cache=-
+2026-09-02T21:34:47Z [INFO] document P0544 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-NC-CLEAR-MATT.pdf -> captured cache=-
+2026-09-02T21:34:51Z [INFO] document P0546 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-NC-CLEAR-SEMI-GLOSS.pdf -> captured cache=-
+2026-09-02T21:34:56Z [INFO] document P0548 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-NC-PRIMER.pdf -> captured cache=-
+2026-09-02T21:35:00Z [INFO] document P0550 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-NC-PUTTY.pdf -> captured cache=-
+2026-09-02T21:35:04Z [INFO] document P0552 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-NC-THINNER.pdf -> captured cache=-
+2026-09-02T21:35:52Z [FLAG] P0554 cache=miss https://emiratespaints.com/product/excel-emulsion/
+2026-09-02T21:35:52Z [INFO] P0554 https://emiratespaints.com/product/excel-emulsion/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T21:36:38Z [FLAG] P0555 cache=miss https://emiratespaints.com/product/majestic-matt/
+2026-09-02T21:36:38Z [INFO] P0555 https://emiratespaints.com/product/majestic-matt/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T21:36:43Z [INFO] document P0558 https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-WOOD-TOPCOAT-MATT.pdf -> captured cache=-
+2026-09-02T21:36:47Z [INFO] document P0559 https://emiratespaints.com/wp-content/uploads/2025/02/EMASHIELD-PU-WOOD-CLEAR-GLOSS-4_1.pdf -> captured cache=-
+2026-09-02T21:36:51Z [INFO] document P0560 https://emiratespaints.com/wp-content/uploads/2025/02/HAMMER-FINISH.pdf -> captured cache=-
+2026-09-02T21:38:00Z [FLAG] P0562 cache=miss https://emiratespaints.com/enhance-your-space-with-emirates-paints-premier-painting-services-in-dubai/
+2026-09-02T21:38:00Z [INFO] P0562 https://emiratespaints.com/enhance-your-space-with-emirates-paints-premier-painting-services-in-dubai/ -> captured http=200 cache=miss h=5549/5750/8062
+2026-09-02T21:38:00Z [INFO] P0562: 2 new URL(s) queued; queue=234 manifest=1046
+2026-09-02T21:39:04Z [FLAG] P0563 cache=miss https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/
+2026-09-02T21:39:04Z [INFO] P0563 https://emiratespaints.com/transform-your-spaces-with-texture-paint-from-emirates-paints/ -> captured http=200 cache=miss h=4686/5338/6891
+2026-09-02T21:39:04Z [INFO] P0563: 1 new URL(s) queued; queue=234 manifest=1047
+2026-09-02T21:40:01Z [FLAG] P0564 cache=miss https://emiratespaints.com/2024/
+2026-09-02T21:40:01Z [INFO] P0564 https://emiratespaints.com/2024/ -> captured http=200 cache=miss h=4003/2845/4528
+2026-09-02T21:40:01Z [INFO] P0564: 5 new URL(s) queued; queue=238 manifest=1052
+2026-09-02T21:40:54Z [FLAG] P0565 cache=miss https://emiratespaints.com/2024/08/
+2026-09-02T21:40:54Z [INFO] P0565 https://emiratespaints.com/2024/08/ -> captured http=200 cache=miss h=2827/2030/3072
+2026-09-02T21:41:38Z [FLAG] P0566 cache=miss https://emiratespaints.com/2023/08/11/
+2026-09-02T21:41:38Z [INFO] P0566 https://emiratespaints.com/2023/08/11/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T21:41:38Z [INFO] P0566: 2 new URL(s) queued; queue=238 manifest=1054
+2026-09-02T21:42:27Z [INFO] P0567 https://emiratespaints.com/?post_type=product&s=primer -> captured http=200 cache=- h=2429/2910/879
+2026-09-02T21:42:27Z [INFO] P0567: 18 new URL(s) queued; queue=255 manifest=1072
+2026-09-02T21:43:30Z [FLAG] P0568 cache=miss https://emiratespaints.com/exterior-paint-from-emirates-paints-will-completely-change-the-look-of-your-home/
+2026-09-02T21:43:30Z [INFO] P0568 https://emiratespaints.com/exterior-paint-from-emirates-paints-will-completely-change-the-look-of-your-home/ -> captured http=200 cache=miss h=4326/4886/6544
+2026-09-02T21:43:30Z [INFO] P0568: 1 new URL(s) queued; queue=255 manifest=1073
+2026-09-02T21:44:38Z [FLAG] P0569 cache=miss https://emiratespaints.com/the-importance-of-undercoat-paint-for-a-perfect-finish-a-guide-by-emirates-paints/
+2026-09-02T21:44:38Z [INFO] P0569 https://emiratespaints.com/the-importance-of-undercoat-paint-for-a-perfect-finish-a-guide-by-emirates-paints/ -> captured http=200 cache=miss h=5291/5845/8609
+2026-09-02T21:44:38Z [INFO] P0569: 1 new URL(s) queued; queue=255 manifest=1074
+2026-09-02T21:45:44Z [FLAG] P0570 cache=miss https://emiratespaints.com/the-ultimate-guide-to-weather-resistant-paint-protecting-your-home-with-emirates-paints/
+2026-09-02T21:45:44Z [INFO] P0570 https://emiratespaints.com/the-ultimate-guide-to-weather-resistant-paint-protecting-your-home-with-emirates-paints/ -> captured http=200 cache=miss h=5096/5769/7045
+2026-09-02T21:45:44Z [INFO] P0570: 1 new URL(s) queued; queue=255 manifest=1075
+2026-09-02T21:46:53Z [FLAG] P0571 cache=miss https://emiratespaints.com/understanding-the-importance-of-top-coat-paint-a-comprehensive-guide-by-emirates-paints/
+2026-09-02T21:46:53Z [INFO] P0571 https://emiratespaints.com/understanding-the-importance-of-top-coat-paint-a-comprehensive-guide-by-emirates-paints/ -> captured http=200 cache=miss h=5946/6136/8696
+2026-09-02T21:46:53Z [INFO] P0571: 2 new URL(s) queued; queue=256 manifest=1077
+2026-09-02T21:47:37Z [FLAG] P0572 cache=miss https://emiratespaints.com/2023/09/15/
+2026-09-02T21:47:37Z [INFO] P0572 https://emiratespaints.com/2023/09/15/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T21:47:37Z [INFO] P0572: 1 new URL(s) queued; queue=256 manifest=1078
+2026-09-02T21:48:50Z [FLAG] P0573 cache=miss https://emiratespaints.com/the-power-of-anti-fungal-paint/
+2026-09-02T21:48:50Z [INFO] P0573 https://emiratespaints.com/the-power-of-anti-fungal-paint/ -> captured http=200 cache=miss h=6661/7242/8171
+2026-09-02T21:48:50Z [INFO] P0573: 1 new URL(s) queued; queue=256 manifest=1079
+2026-09-02T21:49:34Z [FLAG] P0574 cache=miss https://emiratespaints.com/2024/09/30/
+2026-09-02T21:49:34Z [INFO] P0574 https://emiratespaints.com/2024/09/30/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T21:49:34Z [INFO] P0574: 1 new URL(s) queued; queue=256 manifest=1080
+2026-09-02T21:50:48Z [FLAG] P0575 cache=miss https://emiratespaints.com/interior-painting-checklist/
+2026-09-02T21:50:48Z [INFO] P0575 https://emiratespaints.com/interior-painting-checklist/ -> captured http=200 cache=miss h=7246/7958/9203
+2026-09-02T21:50:48Z [INFO] P0575: 2 new URL(s) queued; queue=257 manifest=1082
+2026-09-02T21:51:53Z [FLAG] P0576 cache=miss https://emiratespaints.com/non-toxic-paint-for-babies-emirates-paints/
+2026-09-02T21:51:53Z [INFO] P0576 https://emiratespaints.com/non-toxic-paint-for-babies-emirates-paints/ -> captured http=200 cache=miss h=5062/5525/7406
+2026-09-02T21:51:53Z [INFO] P0576: 1 new URL(s) queued; queue=257 manifest=1083
+2026-09-02T21:52:39Z [FLAG] P0577 cache=miss https://emiratespaints.com/2024/03/08/
+2026-09-02T21:52:39Z [INFO] P0577 https://emiratespaints.com/2024/03/08/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T21:52:39Z [INFO] P0577: 1 new URL(s) queued; queue=257 manifest=1084
+2026-09-02T21:53:43Z [FLAG] P0578 cache=miss https://emiratespaints.com/emirates-paints-specialist-paint-finishes-for-every-project/
+2026-09-02T21:53:43Z [INFO] P0578 https://emiratespaints.com/emirates-paints-specialist-paint-finishes-for-every-project/ -> captured http=200 cache=miss h=4712/5184/7274
+2026-09-02T21:53:43Z [INFO] P0578: 1 new URL(s) queued; queue=257 manifest=1085
+2026-09-02T21:54:47Z [FLAG] P0579 cache=miss https://emiratespaints.com/roller-application-a-seamless-finish-with-emirates-paints/
+2026-09-02T21:54:47Z [INFO] P0579 https://emiratespaints.com/roller-application-a-seamless-finish-with-emirates-paints/ -> captured http=200 cache=miss h=4509/5119/6612
+2026-09-02T21:54:47Z [INFO] P0579: 1 new URL(s) queued; queue=257 manifest=1086
+2026-09-02T21:55:54Z [FLAG] P0580 cache=miss https://emiratespaints.com/the-ultimate-guide-to-industrial-maintenance-paint-and-emirates-paints/
+2026-09-02T21:55:54Z [INFO] P0580 https://emiratespaints.com/the-ultimate-guide-to-industrial-maintenance-paint-and-emirates-paints/ -> captured http=200 cache=miss h=5376/5914/8060
+2026-09-02T21:55:54Z [INFO] P0580: 1 new URL(s) queued; queue=257 manifest=1087
+2026-09-02T21:56:40Z [FLAG] P0581 cache=miss https://emiratespaints.com/2024/05/31/
+2026-09-02T21:56:40Z [INFO] P0581 https://emiratespaints.com/2024/05/31/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T21:57:43Z [FLAG] P0582 cache=miss https://emiratespaints.com/emirates-paints-top-quality-paint-touch-up-solutions-in-the-uae/
+2026-09-02T21:57:43Z [INFO] P0582 https://emiratespaints.com/emirates-paints-top-quality-paint-touch-up-solutions-in-the-uae/ -> captured http=200 cache=miss h=4352/4942/6676
+2026-09-02T21:57:43Z [INFO] P0582: 1 new URL(s) queued; queue=256 manifest=1088
+2026-09-02T21:58:46Z [FLAG] P0583 cache=miss https://emiratespaints.com/painting-services-in-dubai/
+2026-09-02T21:58:46Z [INFO] P0583 https://emiratespaints.com/painting-services-in-dubai/ -> captured http=200 cache=miss h=4391/4931/6231
+2026-09-02T21:58:46Z [INFO] P0583: 1 new URL(s) queued; queue=256 manifest=1089
+2026-09-02T21:59:31Z [FLAG] P0584 cache=miss https://emiratespaints.com/2024/06/21/
+2026-09-02T21:59:31Z [INFO] P0584 https://emiratespaints.com/2024/06/21/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T21:59:31Z [INFO] P0584: 1 new URL(s) queued; queue=256 manifest=1090
+2026-09-02T21:59:35Z [INFO] document P0585 https://emiratespaints.com/wp-content/uploads/2025/02/WOOD-GLUE.pdf -> captured cache=-
+2026-09-02T21:59:40Z [INFO] document P0587 https://emiratespaints.com/wp-content/uploads/2025/02/EMASHIELD-PU-WOOD-CLEAR-MATT-4_1.pdf -> captured cache=-
+2026-09-02T21:59:44Z [INFO] document P0589 https://emiratespaints.com/wp-content/uploads/2025/02/EMASHIELD-PU-WOOD-CLEAR-SEMI-GLOSS-4_1.pdf -> captured cache=-
+2026-09-02T21:59:48Z [INFO] document P0591 https://emiratespaints.com/wp-content/uploads/2025/02/39.-Spray-Plaster-Medium.pdf -> captured cache=-
+2026-09-02T21:59:53Z [INFO] document P0593 https://emiratespaints.com/wp-content/uploads/2025/02/87.V3EMAPOXY-PRIMER.pdf -> captured cache=-
+2026-09-02T21:59:57Z [INFO] document P0595 https://emiratespaints.com/wp-content/uploads/2025/02/88.V2EMAPOXY-RED-OXIDE-PRIMER.pdf -> captured cache=-
+2026-09-02T22:00:02Z [INFO] document P0597 https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-ZINC-CHROMATE-PRIMER.pdf -> captured cache=-
+2026-09-02T22:00:49Z [FLAG] P0599 cache=miss https://emiratespaints.com/products/?filter_product-type=decorative%2Cexterior%2Cinterior
+2026-09-02T22:00:49Z [INFO] P0599 https://emiratespaints.com/products/?filter_product-type=decorative%2Cexterior%2Cinterior -> captured http=200 cache=miss h=1488/1519/879
+2026-09-02T22:00:53Z [INFO] document P0624 https://emiratespaints.com/wp-content/uploads/2025/02/1.-V2EMA-ALIPHATIC-PU.pdf -> captured cache=-
+2026-09-02T22:00:58Z [INFO] document P0626 https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-WOOD-CLEAR-GLOSS-2_1.pdf -> captured cache=-
+2026-09-02T22:01:02Z [INFO] document P0628 https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-WOOD-CLEAR-MATT-2_1.pdf -> captured cache=-
+2026-09-02T22:01:06Z [INFO] document P0630 https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-WOOD-CLEAR-SEMI-GLOSS-2_1.pdf -> captured cache=-
+2026-09-02T22:01:11Z [INFO] document P0649 https://emiratespaints.com/wp-content/uploads/2025/02/74.V.2-EMACRYLIC-ROAD-MARKER.pdf -> captured cache=-
+2026-09-02T22:01:15Z [INFO] document P0651 https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-M.I.O-PRIMER.pdf -> captured cache=-
+2026-09-02T22:01:19Z [INFO] document P0653 https://emiratespaints.com/wp-content/uploads/2025/02/10.-V3EMAPOXY-CLEAR-SF.pdf -> captured cache=-
+2026-09-02T22:01:24Z [INFO] document P0655 https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-SF-TOPCOAT-PIGMENTED.pdf -> captured cache=-
+2026-09-02T22:01:29Z [INFO] document P0657 https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-TOPCOAT.pdf -> captured cache=-
+2026-09-02T22:01:33Z [INFO] document P0659 https://emiratespaints.com/wp-content/uploads/2025/02/87.V3EMAPOXY-PRIMER-1.pdf -> captured cache=-
+2026-09-02T22:01:38Z [INFO] document P0661 https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER.pdf -> captured cache=-
+2026-09-02T22:01:42Z [INFO] document P0663 https://emiratespaints.com/wp-content/uploads/2025/02/89.-V3EMAPOXY-ZINC-PHOSPHATE-PRIMER.pdf -> captured cache=-
+2026-09-02T22:01:46Z [INFO] document P0665 https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-ZINC-RICH-PRIMER.pdf -> captured cache=-
+2026-09-02T22:01:51Z [INFO] document P0667 https://emiratespaints.com/wp-content/uploads/2025/02/PAINT-REMOVER.pdf -> captured cache=-
+2026-09-02T22:01:55Z [INFO] document P0669 https://emiratespaints.com/wp-content/uploads/2025/02/QD-ZINC-PHOSPHATE-PRIMER.pdf -> captured cache=-
+2026-09-02T22:02:00Z [INFO] document P0672 https://emiratespaints.com/wp-content/uploads/2025/02/70.-RUST-REMOVER.pdf -> captured cache=-
+2026-09-02T22:02:53Z [FLAG] P0674 cache=miss https://emiratespaints.com/2024/05/
+2026-09-02T22:02:53Z [INFO] P0674 https://emiratespaints.com/2024/05/ -> captured http=200 cache=miss h=2783/1977/3021
+2026-09-02T22:03:36Z [FLAG] P0675 cache=miss https://emiratespaints.com/2023/10/27/
+2026-09-02T22:03:36Z [INFO] P0675 https://emiratespaints.com/2023/10/27/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:03:36Z [INFO] P0675: 1 new URL(s) queued; queue=231 manifest=1100
+2026-09-02T22:04:46Z [FLAG] P0676 cache=miss https://emiratespaints.com/emirates-paints-commercial-painting-services/
+2026-09-02T22:04:46Z [INFO] P0676 https://emiratespaints.com/emirates-paints-commercial-painting-services/ -> captured http=200 cache=miss h=6048/6516/8782
+2026-09-02T22:04:46Z [INFO] P0676: 2 new URL(s) queued; queue=232 manifest=1102
+2026-09-02T22:05:50Z [FLAG] P0677 cache=miss https://emiratespaints.com/water-based-exterior-paint/
+2026-09-02T22:05:50Z [INFO] P0677 https://emiratespaints.com/water-based-exterior-paint/ -> captured http=200 cache=miss h=4766/5130/6328
+2026-09-02T22:05:50Z [INFO] P0677: 1 new URL(s) queued; queue=232 manifest=1103
+2026-09-02T22:06:35Z [FLAG] P0678 cache=miss https://emiratespaints.com/2024/06/24/
+2026-09-02T22:06:35Z [INFO] P0678 https://emiratespaints.com/2024/06/24/ -> captured http=200 cache=miss h=1179/1024/1295
+2026-09-02T22:07:46Z [FLAG] P0679 cache=miss https://emiratespaints.com/unveiling-the-charm-of-odorless-paint-a-comprehensive-guide/
+2026-09-02T22:07:46Z [INFO] P0679 https://emiratespaints.com/unveiling-the-charm-of-odorless-paint-a-comprehensive-guide/ -> captured http=200 cache=miss h=5083/5692/7594
+2026-09-02T22:07:46Z [INFO] P0679: 1 new URL(s) queued; queue=231 manifest=1104
+2026-09-02T22:08:32Z [FLAG] P0680 cache=miss https://emiratespaints.com/2023/11/10/
+2026-09-02T22:08:32Z [INFO] P0680 https://emiratespaints.com/2023/11/10/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:08:32Z [INFO] P0680: 1 new URL(s) queued; queue=231 manifest=1105
+2026-09-02T22:09:41Z [FLAG] P0681 cache=miss https://emiratespaints.com/discover-the-elegance-of-eggshell-matt-paint-introducing-emirates-paints-majestic-matt/
+2026-09-02T22:09:41Z [INFO] P0681 https://emiratespaints.com/discover-the-elegance-of-eggshell-matt-paint-introducing-emirates-paints-majestic-matt/ -> captured http=200 cache=miss h=4445/5076/6956
+2026-09-02T22:09:41Z [INFO] P0681: 1 new URL(s) queued; queue=231 manifest=1106
+2026-09-02T22:10:44Z [FLAG] P0682 cache=miss https://emiratespaints.com/matt-or-silk-paint-a-comprehensive-guide/
+2026-09-02T22:10:44Z [INFO] P0682 https://emiratespaints.com/matt-or-silk-paint-a-comprehensive-guide/ -> captured http=200 cache=miss h=4433/4922/6672
+2026-09-02T22:10:44Z [INFO] P0682: 1 new URL(s) queued; queue=231 manifest=1107
+2026-09-02T22:11:58Z [FLAG] P0683 cache=miss https://emiratespaints.com/transforming-your-hom%D0%B5-with-int%D0%B5rior-acrylic-paint-a-guid%D0%B5-to-emirat%D0%B5s-paints/
+2026-09-02T22:11:58Z [INFO] P0683 https://emiratespaints.com/transforming-your-hom%D0%B5-with-int%D0%B5rior-acrylic-paint-a-guid%D0%B5-to-emirat%D0%B5s-paints/ -> captured http=200 cache=miss h=7354/7680/8926
+2026-09-02T22:11:58Z [INFO] P0683: 2 new URL(s) queued; queue=232 manifest=1109
+2026-09-02T22:12:43Z [FLAG] P0684 cache=miss https://emiratespaints.com/2024/09/27/
+2026-09-02T22:12:43Z [INFO] P0684 https://emiratespaints.com/2024/09/27/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:13:47Z [FLAG] P0685 cache=miss https://emiratespaints.com/emirates-paints-semi-gloss-paint-elevate-your-space-with-stunning-shine/
+2026-09-02T22:13:47Z [INFO] P0685 https://emiratespaints.com/emirates-paints-semi-gloss-paint-elevate-your-space-with-stunning-shine/ -> captured http=200 cache=miss h=4580/5205/6964
+2026-09-02T22:13:47Z [INFO] P0685: 1 new URL(s) queued; queue=231 manifest=1110
+2026-09-02T22:14:50Z [FLAG] P0686 cache=miss https://emiratespaints.com/exploring-advanced-paint-technology-with-emirates-paints/
+2026-09-02T22:14:50Z [INFO] P0686 https://emiratespaints.com/exploring-advanced-paint-technology-with-emirates-paints/ -> captured http=200 cache=miss h=4487/5041/6798
+2026-09-02T22:14:50Z [INFO] P0686: 1 new URL(s) queued; queue=231 manifest=1111
+2026-09-02T22:15:54Z [FLAG] P0687 cache=miss https://emiratespaints.com/mastering-the-art-how-to-measure-the-thickness-of-paint-coating/
+2026-09-02T22:15:54Z [INFO] P0687 https://emiratespaints.com/mastering-the-art-how-to-measure-the-thickness-of-paint-coating/ -> captured http=200 cache=miss h=4270/4834/6608
+2026-09-02T22:15:54Z [INFO] P0687: 2 new URL(s) queued; queue=232 manifest=1113
+2026-09-02T22:16:40Z [FLAG] P0688 cache=miss https://emiratespaints.com/2024/09/25/
+2026-09-02T22:16:40Z [INFO] P0688 https://emiratespaints.com/2024/09/25/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:17:48Z [FLAG] P0689 cache=miss https://emiratespaints.com/green-paint-sustainable-living-with-emirates-paints/
+2026-09-02T22:17:48Z [INFO] P0689 https://emiratespaints.com/green-paint-sustainable-living-with-emirates-paints/ -> captured http=200 cache=miss h=5794/6271/7816
+2026-09-02T22:17:48Z [INFO] P0689: 1 new URL(s) queued; queue=231 manifest=1114
+2026-09-02T22:18:54Z [FLAG] P0690 cache=miss https://emiratespaints.com/guide-to-painting-holidays-with-emirates-paints/
+2026-09-02T22:18:54Z [INFO] P0690 https://emiratespaints.com/guide-to-painting-holidays-with-emirates-paints/ -> captured http=200 cache=miss h=5000/5469/6956
+2026-09-02T22:18:54Z [INFO] P0690: 1 new URL(s) queued; queue=231 manifest=1115
+2026-09-02T22:19:40Z [FLAG] P0691 cache=miss https://emiratespaints.com/2024/09/20/
+2026-09-02T22:19:40Z [INFO] P0691 https://emiratespaints.com/2024/09/20/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T22:20:44Z [FLAG] P0692 cache=miss https://emiratespaints.com/enhance-your-metal-surfaces-with-emirates-paints-gloss-paint-for-metal/
+2026-09-02T22:20:44Z [INFO] P0692 https://emiratespaints.com/enhance-your-metal-surfaces-with-emirates-paints-gloss-paint-for-metal/ -> captured http=200 cache=miss h=4884/5354/7352
+2026-09-02T22:20:44Z [INFO] P0692: 1 new URL(s) queued; queue=230 manifest=1116
+2026-09-02T22:21:51Z [FLAG] P0693 cache=miss https://emiratespaints.com/premium-heat-resistant-paints-emirates-paints/
+2026-09-02T22:21:51Z [INFO] P0693 https://emiratespaints.com/premium-heat-resistant-paints-emirates-paints/ -> captured http=200 cache=miss h=5243/5740/7794
+2026-09-02T22:21:51Z [INFO] P0693: 1 new URL(s) queued; queue=230 manifest=1117
+2026-09-02T22:22:36Z [FLAG] P0694 cache=miss https://emiratespaints.com/2024/09/13/
+2026-09-02T22:22:36Z [INFO] P0694 https://emiratespaints.com/2024/09/13/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:23:19Z [FLAG] P0695 cache=miss https://emiratespaints.com/2024/09/06/
+2026-09-02T22:23:19Z [INFO] P0695 https://emiratespaints.com/2024/09/06/ -> captured http=200 cache=miss h=1179/1024/1262
+2026-09-02T22:24:26Z [FLAG] P0696 cache=miss https://emiratespaints.com/unlock-the-power-of-wood-primer-paint-a-guide-to-perfection-with-emirates-paints/
+2026-09-02T22:24:26Z [INFO] P0696 https://emiratespaints.com/unlock-the-power-of-wood-primer-paint-a-guide-to-perfection-with-emirates-paints/ -> captured http=200 cache=miss h=5146/5699/7310
+2026-09-02T22:24:26Z [INFO] P0696: 1 new URL(s) queued; queue=228 manifest=1118
+2026-09-02T22:25:11Z [FLAG] P0697 cache=miss https://emiratespaints.com/2024/08/30/
+2026-09-02T22:25:11Z [INFO] P0697 https://emiratespaints.com/2024/08/30/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:26:20Z [FLAG] P0698 cache=miss https://emiratespaints.com/anti-corrosion-paint-a-comprehensive-guide-to-emirates-paints-anti-corrosion-solutions/
+2026-09-02T22:26:20Z [INFO] P0698 https://emiratespaints.com/anti-corrosion-paint-a-comprehensive-guide-to-emirates-paints-anti-corrosion-solutions/ -> captured http=200 cache=miss h=6156/6348/8888
+2026-09-02T22:26:20Z [INFO] P0698: 1 new URL(s) queued; queue=227 manifest=1119
+2026-09-02T22:27:06Z [FLAG] P0699 cache=miss https://emiratespaints.com/2024/08/28/
+2026-09-02T22:27:06Z [INFO] P0699 https://emiratespaints.com/2024/08/28/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:28:11Z [FLAG] P0700 cache=miss https://emiratespaints.com/enhance-your-space-with-the-perfect-top-coat-paint-by-emirates-paints/
+2026-09-02T22:28:11Z [INFO] P0700 https://emiratespaints.com/enhance-your-space-with-the-perfect-top-coat-paint-by-emirates-paints/ -> captured http=200 cache=miss h=5176/5730/6906
+2026-09-02T22:28:11Z [INFO] P0700: 1 new URL(s) queued; queue=226 manifest=1120
+2026-09-02T22:28:56Z [FLAG] P0701 cache=miss https://emiratespaints.com/2024/08/27/
+2026-09-02T22:28:56Z [INFO] P0701 https://emiratespaints.com/2024/08/27/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:29:38Z [FLAG] P0702 cache=miss https://emiratespaints.com/2024/08/23/
+2026-09-02T22:29:38Z [INFO] P0702 https://emiratespaints.com/2024/08/23/ -> captured http=200 cache=miss h=1179/1024/1290
+2026-09-02T22:30:42Z [FLAG] P0703 cache=miss https://emiratespaints.com/discover-the-brilliance-of-acrylic-copolymer-based-paint/
+2026-09-02T22:30:42Z [INFO] P0703 https://emiratespaints.com/discover-the-brilliance-of-acrylic-copolymer-based-paint/ -> captured http=200 cache=miss h=4492/5025/6394
+2026-09-02T22:30:42Z [INFO] P0703: 1 new URL(s) queued; queue=224 manifest=1121
+2026-09-02T22:31:41Z [FLAG] P0704 cache=miss https://emiratespaints.com/emirates-paints-blog/page/1/
+2026-09-02T22:31:41Z [INFO] P0704 https://emiratespaints.com/emirates-paints-blog/page/1/ -> captured http=200 cache=miss h=4111/2963/4646
+2026-09-02T22:32:39Z [FLAG] P0705 cache=miss https://emiratespaints.com/emirates-paints-blog/page/5/
+2026-09-02T22:32:39Z [INFO] P0705 https://emiratespaints.com/emirates-paints-blog/page/5/ -> captured http=200 cache=miss h=4155/2940/4661
+2026-09-02T22:33:46Z [FLAG] P0706 cache=miss https://emiratespaints.com/transform-your-home-with-exterior-texture-paint-the-emirates-paints-advantage/
+2026-09-02T22:33:46Z [INFO] P0706 https://emiratespaints.com/transform-your-home-with-exterior-texture-paint-the-emirates-paints-advantage/ -> captured http=200 cache=miss h=5545/5783/8398
+2026-09-02T22:33:46Z [INFO] P0706: 1 new URL(s) queued; queue=222 manifest=1122
+2026-09-02T22:34:54Z [FLAG] P0707 cache=miss https://emiratespaints.com/why-anti-microbial-paint-is-essential-for-healthier-spaces-a-guide-by-emirates-paints/
+2026-09-02T22:34:54Z [INFO] P0707 https://emiratespaints.com/why-anti-microbial-paint-is-essential-for-healthier-spaces-a-guide-by-emirates-paints/ -> captured http=200 cache=miss h=5589/5729/8378
+2026-09-02T22:34:54Z [INFO] P0707: 1 new URL(s) queued; queue=222 manifest=1123
+2026-09-02T22:35:59Z [FLAG] P0708 cache=miss https://emiratespaints.com/durable-and-stylish-floor-paint-from-emirates-paints/
+2026-09-02T22:35:59Z [INFO] P0708 https://emiratespaints.com/durable-and-stylish-floor-paint-from-emirates-paints/ -> captured http=200 cache=miss h=4872/5500/7110
+2026-09-02T22:35:59Z [INFO] P0708: 1 new URL(s) queued; queue=222 manifest=1124
+2026-09-02T22:37:06Z [FLAG] P0709 cache=miss https://emiratespaints.com/elevate-your-projects-with-high-performance-coatings-by-emirates-paints/
+2026-09-02T22:37:06Z [INFO] P0709 https://emiratespaints.com/elevate-your-projects-with-high-performance-coatings-by-emirates-paints/ -> captured http=200 cache=miss h=4984/5466/7606
+2026-09-02T22:37:06Z [INFO] P0709: 1 new URL(s) queued; queue=222 manifest=1125
+2026-09-02T22:38:11Z [FLAG] P0710 cache=miss https://emiratespaints.com/epoxy-paint-formulation-by-emirates-paints/
+2026-09-02T22:38:11Z [INFO] P0710 https://emiratespaints.com/epoxy-paint-formulation-by-emirates-paints/ -> captured http=200 cache=miss h=5008/5457/7396
+2026-09-02T22:38:11Z [INFO] P0710: 1 new URL(s) queued; queue=222 manifest=1126
+2026-09-02T22:39:19Z [FLAG] P0711 cache=miss https://emiratespaints.com/best-eco-friendly-paints-in-uae/
+2026-09-02T22:39:19Z [INFO] P0711 https://emiratespaints.com/best-eco-friendly-paints-in-uae/ -> captured http=200 cache=miss h=5732/5976/8044
+2026-09-02T22:39:19Z [INFO] P0711: 1 new URL(s) queued; queue=222 manifest=1127
+2026-09-02T22:40:25Z [FLAG] P0712 cache=miss https://emiratespaints.com/emirates-paints-a-leading-supplier-of-decorative-paints-in-the-mena-region/
+2026-09-02T22:40:25Z [INFO] P0712 https://emiratespaints.com/emirates-paints-a-leading-supplier-of-decorative-paints-in-the-mena-region/ -> captured http=200 cache=miss h=5015/5478/7162
+2026-09-02T22:40:25Z [INFO] P0712: 1 new URL(s) queued; queue=222 manifest=1128
+2026-09-02T22:41:31Z [FLAG] P0713 cache=miss https://emiratespaints.com/low-voc-exterior-paint/
+2026-09-02T22:41:31Z [INFO] P0713 https://emiratespaints.com/low-voc-exterior-paint/ -> captured http=200 cache=miss h=5596/5740/7436
+2026-09-02T22:41:31Z [INFO] P0713: 1 new URL(s) queued; queue=222 manifest=1129
+2026-09-02T22:42:35Z [FLAG] P0714 cache=miss https://emiratespaints.com/the-art-of-beautifying-your-space-with-premium-paints-in-the-uae/
+2026-09-02T22:42:35Z [INFO] P0714 https://emiratespaints.com/the-art-of-beautifying-your-space-with-premium-paints-in-the-uae/ -> captured http=200 cache=miss h=4596/5108/7296
+2026-09-02T22:42:35Z [INFO] P0714: 1 new URL(s) queued; queue=222 manifest=1130
+2026-09-02T22:43:36Z [INFO] capture run start: 99 rows queued, viewports=['desktop', 'tablet', 'mobile'], one navigation per URL
+2026-09-02T22:43:36Z [INFO] browser chromium 151.0.7922.34 playwright 1.62.0
+2026-09-02T22:44:40Z [INFO] P0715 https://emiratespaints.com/unveiling-a-palette-of-brilliance-top-paint-suppliers-in-uae-featuring-emirates-paints/ -> captured http=200 cache=hit h=5428/5923/7924
+2026-09-02T22:45:45Z [FLAG] P0716 cache=miss https://emiratespaints.com/unveiling-the-canvas-finding-the-best-painting-services-in-dubai/
+2026-09-02T22:45:45Z [INFO] P0716 https://emiratespaints.com/unveiling-the-canvas-finding-the-best-painting-services-in-dubai/ -> captured http=200 cache=miss h=4762/5522/7192
+2026-09-02T22:45:45Z [INFO] P0716: 1 new URL(s) queued; queue=98 manifest=1131
+2026-09-02T22:46:50Z [FLAG] P0717 cache=miss https://emiratespaints.com/what-is-quick-dry-enamel-paint-emirates-paints/
+2026-09-02T22:46:50Z [INFO] P0717 https://emiratespaints.com/what-is-quick-dry-enamel-paint-emirates-paints/ -> captured http=200 cache=miss h=5045/5498/7238
+2026-09-02T22:46:50Z [INFO] P0717: 1 new URL(s) queued; queue=98 manifest=1132
+2026-09-02T22:47:56Z [FLAG] P0718 cache=miss https://emiratespaints.com/emirates-paints-finding-the-best-paint-for-salt-air/
+2026-09-02T22:47:56Z [INFO] P0718 https://emiratespaints.com/emirates-paints-finding-the-best-paint-for-salt-air/ -> captured http=200 cache=miss h=5251/5755/7458
+2026-09-02T22:47:56Z [INFO] P0718: 1 new URL(s) queued; queue=98 manifest=1133
+2026-09-02T22:49:06Z [FLAG] P0719 cache=miss https://emiratespaints.com/https-emiratespaints-com-emirates-paints-professional-painting-services-in-dubai/
+2026-09-02T22:49:06Z [INFO] P0719 https://emiratespaints.com/https-emiratespaints-com-emirates-paints-professional-painting-services-in-dubai/ -> captured http=200 cache=miss h=6398/6783/7680
+2026-09-02T22:49:06Z [INFO] P0719: 2 new URL(s) queued; queue=99 manifest=1135
+2026-09-02T22:49:58Z [FLAG] P0720 cache=miss https://emiratespaints.com/download/chroma-2k-hardener/
+2026-09-02T22:49:58Z [INFO] P0720 https://emiratespaints.com/download/chroma-2k-hardener/ -> captured http=200 cache=miss h=3519/2498/2305
+2026-09-02T22:50:44Z [FLAG] P0721 cache=miss https://emiratespaints.com/2023/12/15/
+2026-09-02T22:50:44Z [INFO] P0721 https://emiratespaints.com/2023/12/15/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T22:50:44Z [INFO] P0721: 1 new URL(s) queued; queue=98 manifest=1136
+2026-09-02T22:51:30Z [FLAG] P0722 cache=miss https://emiratespaints.com/2024/07/19/
+2026-09-02T22:51:30Z [INFO] P0722 https://emiratespaints.com/2024/07/19/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T22:51:30Z [INFO] P0722: 1 new URL(s) queued; queue=98 manifest=1137
+2026-09-02T22:52:16Z [INFO] P0723 https://emiratespaints.com/?post_type=product&s=emulsion+ -> captured http=200 cache=- h=1800/1993/879
+2026-09-02T22:52:16Z [INFO] P0723: 12 new URL(s) queued; queue=109 manifest=1149
+2026-09-02T22:53:04Z [FLAG] P0724 cache=miss https://emiratespaints.com/2024/03/15/
+2026-09-02T22:53:04Z [INFO] P0724 https://emiratespaints.com/2024/03/15/ -> captured http=200 cache=miss h=1777/1261/1557
+2026-09-02T22:53:09Z [INFO] document P0725 https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-NC-TOPCOAT-GLOSS.pdf -> captured cache=-
+2026-09-02T22:53:13Z [INFO] document P0727 https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-PRIMER.pdf -> captured cache=-
+2026-09-02T22:54:04Z [FLAG] P0737 cache=miss https://emiratespaints.com/products/page/1/?filter_product-type=automotive
+2026-09-02T22:54:04Z [INFO] P0737 https://emiratespaints.com/products/page/1/?filter_product-type=automotive -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T22:54:53Z [FLAG] P0738 cache=miss https://emiratespaints.com/products/page/1/?filter_product-type=decorative
+2026-09-02T22:54:53Z [INFO] P0738 https://emiratespaints.com/products/page/1/?filter_product-type=decorative -> captured http=200 cache=miss h=2575/3170/879
+2026-09-02T22:55:46Z [FLAG] P0805 cache=miss https://emiratespaints.com/products/page/1/?filter_location=bathroom
+2026-09-02T22:55:46Z [INFO] P0805 https://emiratespaints.com/products/page/1/?filter_location=bathroom -> captured http=200 cache=miss h=2575/3074/879
+2026-09-02T22:56:36Z [FLAG] P0857 cache=miss https://emiratespaints.com/products/page/1/?filter_location=bedroom
+2026-09-02T22:56:36Z [INFO] P0857 https://emiratespaints.com/products/page/1/?filter_location=bedroom -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T22:57:29Z [FLAG] P0906 cache=miss https://emiratespaints.com/products/page/1/?filter_location=childrens-room
+2026-09-02T22:57:29Z [INFO] P0906 https://emiratespaints.com/products/page/1/?filter_location=childrens-room -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T22:58:19Z [FLAG] P0930 cache=miss https://emiratespaints.com/products/page/1/?filter_location=dining-room
+2026-09-02T22:58:19Z [INFO] P0930 https://emiratespaints.com/products/page/1/?filter_location=dining-room -> captured http=200 cache=miss h=2551/3074/879
+2026-09-02T22:59:12Z [FLAG] P0945 cache=miss https://emiratespaints.com/products/page/1/?filter_location=kitchen
+2026-09-02T22:59:12Z [INFO] P0945 https://emiratespaints.com/products/page/1/?filter_location=kitchen -> captured http=200 cache=miss h=2527/3050/879
+2026-09-02T23:00:01Z [FLAG] P0955 cache=miss https://emiratespaints.com/products/page/1/?filter_location=living-room
+2026-09-02T23:00:01Z [INFO] P0955 https://emiratespaints.com/products/page/1/?filter_location=living-room -> captured http=200 cache=miss h=2503/3026/879
+2026-09-02T23:00:55Z [FLAG] P1038 cache=miss https://emiratespaints.com/products/page/1/?filter_surface=metal
+2026-09-02T23:00:55Z [INFO] P1038 https://emiratespaints.com/products/page/1/?filter_surface=metal -> captured http=200 cache=miss h=2551/3098/879
+2026-09-02T23:01:47Z [FLAG] P1041 cache=miss https://emiratespaints.com/products/page/1/?filter_finish=matt
+2026-09-02T23:01:47Z [INFO] P1041 https://emiratespaints.com/products/page/1/?filter_finish=matt -> captured http=200 cache=miss h=2575/3242/879
+2026-09-02T23:02:30Z [FLAG] P1045 cache=miss https://emiratespaints.com/2024/07/05/
+2026-09-02T23:02:30Z [INFO] P1045 https://emiratespaints.com/2024/07/05/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:03:42Z [FLAG] P1046 cache=miss https://emiratespaints.com/emirates-paints-durable-paint-solutions/
+2026-09-02T23:03:42Z [INFO] P1046 https://emiratespaints.com/emirates-paints-durable-paint-solutions/ -> captured http=200 cache=miss h=6567/6952/9053
+2026-09-02T23:03:42Z [INFO] P1046: 2 new URL(s) queued; queue=96 manifest=1151
+2026-09-02T23:04:27Z [FLAG] P1047 cache=miss https://emiratespaints.com/2024/02/23/
+2026-09-02T23:04:27Z [INFO] P1047 https://emiratespaints.com/2024/02/23/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:04:27Z [INFO] P1047: 1 new URL(s) queued; queue=96 manifest=1152
+2026-09-02T23:05:25Z [FLAG] P1048 cache=miss https://emiratespaints.com/2024/page/2/
+2026-09-02T23:05:25Z [INFO] P1048 https://emiratespaints.com/2024/page/2/ -> captured http=200 cache=miss h=4135/2802/4623
+2026-09-02T23:05:25Z [INFO] P1048: 1 new URL(s) queued; queue=96 manifest=1153
+2026-09-02T23:06:22Z [FLAG] P1049 cache=miss https://emiratespaints.com/2024/page/3/
+2026-09-02T23:06:22Z [INFO] P1049 https://emiratespaints.com/2024/page/3/ -> captured http=200 cache=miss h=4047/2792/4589
+2026-09-02T23:07:17Z [FLAG] P1050 cache=miss https://emiratespaints.com/2024/page/4/
+2026-09-02T23:07:17Z [INFO] P1050 https://emiratespaints.com/2024/page/4/ -> captured http=200 cache=miss h=3871/2706/4343
+2026-09-02T23:08:15Z [FLAG] P1051 cache=miss https://emiratespaints.com/2024/page/5/
+2026-09-02T23:08:15Z [INFO] P1051 https://emiratespaints.com/2024/page/5/ -> captured http=200 cache=miss h=4047/2822/4504
+2026-09-02T23:09:05Z [FLAG] P1052 cache=miss https://emiratespaints.com/2024/page/6/
+2026-09-02T23:09:05Z [INFO] P1052 https://emiratespaints.com/2024/page/6/ -> captured http=200 cache=miss h=2355/1715/2383
+2026-09-02T23:10:03Z [FLAG] P1053 cache=miss https://emiratespaints.com/2023/
+2026-09-02T23:10:03Z [INFO] P1053 https://emiratespaints.com/2023/ -> captured http=200 cache=miss h=4135/2841/4579
+2026-09-02T23:10:03Z [INFO] P1053: 1 new URL(s) queued; queue=92 manifest=1154
+2026-09-02T23:10:50Z [FLAG] P1054 cache=miss https://emiratespaints.com/2023/08/
+2026-09-02T23:10:50Z [INFO] P1054 https://emiratespaints.com/2023/08/ -> captured http=200 cache=miss h=1777/1261/1613
+2026-09-02T23:11:45Z [FLAG] P1055 cache=miss https://emiratespaints.com/products/?filter_finish=gloss&post_type=product&s=primer
+2026-09-02T23:11:45Z [INFO] P1055 https://emiratespaints.com/products/?filter_finish=gloss&post_type=product&s=primer -> captured http=200 cache=miss h=2606/2654/3415
+2026-09-02T23:12:31Z [INFO] P1056 https://emiratespaints.com/products/?filter_finish=matt&post_type=product&s=primer -> captured http=200 cache=- h=1882/2147/879
+2026-09-02T23:12:31Z [INFO] P1056: 1 new URL(s) queued; queue=90 manifest=1159
+2026-09-02T23:13:26Z [FLAG] P1057 cache=miss https://emiratespaints.com/products/?filter_finish=transparent-clear&post_type=product&s=primer
+2026-09-02T23:13:26Z [INFO] P1057 https://emiratespaints.com/products/?filter_finish=transparent-clear&post_type=product&s=primer -> captured http=200 cache=miss h=2779/2728/3490
+2026-09-02T23:14:18Z [FLAG] P1058 cache=miss https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise&post_type=product&s=primer
+2026-09-02T23:14:18Z [INFO] P1058 https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise&post_type=product&s=primer -> captured http=200 cache=miss h=2610/2592/3353
+2026-09-02T23:15:05Z [INFO] P1059 https://emiratespaints.com/products/?filter_location=bathroom&post_type=product&s=primer -> captured http=200 cache=- h=1243/1399/879
+2026-09-02T23:15:50Z [INFO] P1060 https://emiratespaints.com/products/?filter_location=bedroom&post_type=product&s=primer -> captured http=200 cache=- h=1243/1195/879
+2026-09-02T23:16:39Z [INFO] P1061 https://emiratespaints.com/products/?filter_location=ceiling&post_type=product&s=primer -> captured-with-http-error http=404 cache=hit h=1879/1668/2027
+2026-09-02T23:17:23Z [INFO] P1062 https://emiratespaints.com/products/?filter_location=childrens-room&post_type=product&s=primer -> captured http=200 cache=- h=1243/1195/879
+2026-09-02T23:18:09Z [INFO] P1063 https://emiratespaints.com/products/?filter_location=dining-room&post_type=product&s=primer -> captured http=200 cache=- h=1243/1195/879
+2026-09-02T23:18:53Z [INFO] P1064 https://emiratespaints.com/products/?filter_location=kitchen&post_type=product&s=primer -> captured http=200 cache=- h=1243/1195/879
+2026-09-02T23:19:40Z [INFO] P1065 https://emiratespaints.com/products/?filter_location=living-room&post_type=product&s=primer -> captured http=200 cache=- h=1243/1195/879
+2026-09-02T23:20:24Z [INFO] P1066 https://emiratespaints.com/products/?filter_location=moving-out&post_type=product&s=primer -> captured http=200 cache=- h=1228/1163/879
+2026-09-02T23:21:13Z [INFO] P1067 https://emiratespaints.com/products/?filter_location=office&post_type=product&s=primer -> captured-with-http-error http=404 cache=hit h=1879/1668/2027
+2026-09-02T23:21:58Z [INFO] P1068 https://emiratespaints.com/products/?filter_product-type=automotive&post_type=product&s=primer -> captured http=200 cache=- h=1555/1447/879
+2026-09-02T23:22:48Z [INFO] P1069 https://emiratespaints.com/products/?filter_product-type=decorative&post_type=product&s=primer -> captured http=200 cache=- h=2208/2436/879
+2026-09-02T23:23:41Z [FLAG] P1070 cache=miss https://emiratespaints.com/products/?filter_product-type=exterior&post_type=product&s=primer
+2026-09-02T23:23:41Z [INFO] P1070 https://emiratespaints.com/products/?filter_product-type=exterior&post_type=product&s=primer -> captured http=200 cache=miss h=2636/2790/3698
+2026-09-02T23:24:29Z [INFO] P1071 https://emiratespaints.com/products/?filter_product-type=industrial&post_type=product&s=primer -> captured http=200 cache=- h=1858/2123/879
+2026-09-02T23:25:17Z [INFO] P1072 https://emiratespaints.com/products/?filter_surface=metal&post_type=product&s=primer -> captured http=200 cache=- h=2208/2436/879
+2026-09-02T23:26:02Z [FLAG] P1073 cache=miss https://emiratespaints.com/2024/06/07/
+2026-09-02T23:26:02Z [INFO] P1073 https://emiratespaints.com/2024/06/07/ -> captured http=200 cache=miss h=1179/1024/1290
+2026-09-02T23:26:46Z [FLAG] P1074 cache=miss https://emiratespaints.com/2024/07/26/
+2026-09-02T23:26:46Z [INFO] P1074 https://emiratespaints.com/2024/07/26/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:27:32Z [FLAG] P1075 cache=miss https://emiratespaints.com/2023/09/08/
+2026-09-02T23:27:32Z [INFO] P1075 https://emiratespaints.com/2023/09/08/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:28:16Z [FLAG] P1076 cache=miss https://emiratespaints.com/2024/07/22/
+2026-09-02T23:28:16Z [INFO] P1076 https://emiratespaints.com/2024/07/22/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:29:21Z [FLAG] P1077 cache=miss https://emiratespaints.com/ultimate-guide-to-washable-paint-emirates-paints/
+2026-09-02T23:29:21Z [INFO] P1077 https://emiratespaints.com/ultimate-guide-to-washable-paint-emirates-paints/ -> captured http=200 cache=miss h=4941/5411/7168
+2026-09-02T23:30:09Z [FLAG] P1078 cache=miss https://emiratespaints.com/2023/09/
+2026-09-02T23:30:09Z [INFO] P1078 https://emiratespaints.com/2023/09/ -> captured http=200 cache=miss h=1821/1293/1959
+2026-09-02T23:30:55Z [FLAG] P1079 cache=miss https://emiratespaints.com/2024/06/28/
+2026-09-02T23:30:55Z [INFO] P1079 https://emiratespaints.com/2024/06/28/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:31:48Z [FLAG] P1080 cache=miss https://emiratespaints.com/2024/09/
+2026-09-02T23:31:48Z [INFO] P1080 https://emiratespaints.com/2024/09/ -> captured http=200 cache=miss h=2827/2030/3044
+2026-09-02T23:32:33Z [FLAG] P1081 cache=miss https://emiratespaints.com/2024/07/12/
+2026-09-02T23:32:33Z [INFO] P1081 https://emiratespaints.com/2024/07/12/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:33:39Z [FLAG] P1082 cache=miss https://emiratespaints.com/painting-contractors-in-dubai-emirates-paints/
+2026-09-02T23:33:39Z [INFO] P1082 https://emiratespaints.com/painting-contractors-in-dubai-emirates-paints/ -> captured http=200 cache=miss h=5076/5460/7368
+2026-09-02T23:33:39Z [INFO] P1082: 1 new URL(s) queued; queue=65 manifest=1222
+2026-09-02T23:34:25Z [FLAG] P1083 cache=miss https://emiratespaints.com/2024/01/26/
+2026-09-02T23:34:25Z [INFO] P1083 https://emiratespaints.com/2024/01/26/ -> captured http=200 cache=miss h=1777/1261/1613
+2026-09-02T23:34:25Z [INFO] P1083: 1 new URL(s) queued; queue=65 manifest=1223
+2026-09-02T23:35:17Z [FLAG] P1084 cache=miss https://emiratespaints.com/2024/03/
+2026-09-02T23:35:17Z [INFO] P1084 https://emiratespaints.com/2024/03/ -> captured http=200 cache=miss h=2739/1913/2909
+2026-09-02T23:36:00Z [FLAG] P1085 cache=miss https://emiratespaints.com/2024/05/27/
+2026-09-02T23:36:00Z [INFO] P1085 https://emiratespaints.com/2024/05/27/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:36:46Z [FLAG] P1086 cache=miss https://emiratespaints.com/2024/04/30/
+2026-09-02T23:36:46Z [INFO] P1086 https://emiratespaints.com/2024/04/30/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:36:46Z [INFO] P1086: 1 new URL(s) queued; queue=63 manifest=1224
+2026-09-02T23:37:31Z [FLAG] P1087 cache=miss https://emiratespaints.com/2023/12/08/
+2026-09-02T23:37:31Z [INFO] P1087 https://emiratespaints.com/2023/12/08/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:38:14Z [FLAG] P1088 cache=miss https://emiratespaints.com/2024/05/24/
+2026-09-02T23:38:14Z [INFO] P1088 https://emiratespaints.com/2024/05/24/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:39:00Z [FLAG] P1089 cache=miss https://emiratespaints.com/2024/03/31/
+2026-09-02T23:39:00Z [INFO] P1089 https://emiratespaints.com/2024/03/31/ -> captured http=200 cache=miss h=1179/1024/1211
+2026-09-02T23:39:52Z [FLAG] P1090 cache=miss https://emiratespaints.com/2024/06/
+2026-09-02T23:39:52Z [INFO] P1090 https://emiratespaints.com/2024/06/ -> captured http=200 cache=miss h=2871/2062/3156
+2026-09-02T23:40:39Z [FLAG] P1100 cache=miss https://emiratespaints.com/2023/10/
+2026-09-02T23:40:39Z [INFO] P1100 https://emiratespaints.com/2023/10/ -> captured http=200 cache=miss h=2349/1633/2305
+2026-09-02T23:41:25Z [FLAG] P1101 cache=miss https://emiratespaints.com/2024/04/28/
+2026-09-02T23:41:25Z [INFO] P1101 https://emiratespaints.com/2024/04/28/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:42:13Z [FLAG] P1102 cache=miss https://emiratespaints.com/about-us/
+2026-09-02T23:42:13Z [INFO] P1102 https://emiratespaints.com/about-us/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-02T23:42:59Z [FLAG] P1103 cache=miss https://emiratespaints.com/2024/02/28/
+2026-09-02T23:42:59Z [INFO] P1103 https://emiratespaints.com/2024/02/28/ -> captured http=200 cache=miss h=1179/1024/1211
+2026-09-02T23:43:42Z [FLAG] P1104 cache=miss https://emiratespaints.com/2023/12/25/
+2026-09-02T23:43:42Z [INFO] P1104 https://emiratespaints.com/2023/12/25/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:44:33Z [FLAG] P1105 cache=miss https://emiratespaints.com/2023/11/
+2026-09-02T23:44:33Z [INFO] P1105 https://emiratespaints.com/2023/11/ -> captured http=200 cache=miss h=2349/1704/2345
+2026-09-02T23:45:17Z [FLAG] P1106 cache=miss https://emiratespaints.com/2024/01/29/
+2026-09-02T23:45:17Z [INFO] P1106 https://emiratespaints.com/2024/01/29/ -> captured http=200 cache=miss h=1179/1024/1288
+2026-09-02T23:45:59Z [FLAG] P1107 cache=miss https://emiratespaints.com/2023/10/13/
+2026-09-02T23:45:59Z [INFO] P1107 https://emiratespaints.com/2023/10/13/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:46:46Z [FLAG] P1108 cache=miss https://emiratespaints.com/2023/11/03/
+2026-09-02T23:46:46Z [INFO] P1108 https://emiratespaints.com/2023/11/03/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:47:36Z [FLAG] P1109 cache=miss https://emiratespaints.com/products/?Filter_product-kind=indoors
+2026-09-02T23:47:36Z [INFO] P1109 https://emiratespaints.com/products/?Filter_product-kind=indoors -> captured http=200 cache=miss h=2480/3016/879
+2026-09-02T23:47:36Z [INFO] P1109: 4 new URL(s) queued; queue=53 manifest=1228
+2026-09-02T23:48:21Z [FLAG] P1110 cache=miss https://emiratespaints.com/2024/01/12/
+2026-09-02T23:48:21Z [INFO] P1110 https://emiratespaints.com/2024/01/12/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:49:05Z [FLAG] P1111 cache=miss https://emiratespaints.com/2024/04/12/
+2026-09-02T23:49:05Z [INFO] P1111 https://emiratespaints.com/2024/04/12/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:49:50Z [FLAG] P1112 cache=miss https://emiratespaints.com/2024/01/31/
+2026-09-02T23:49:50Z [INFO] P1112 https://emiratespaints.com/2024/01/31/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:50:37Z [FLAG] P1113 cache=miss https://emiratespaints.com/product/
+2026-09-02T23:50:37Z [INFO] P1113 https://emiratespaints.com/product/ -> captured http=200 cache=miss h=1459/1257/1219
+2026-09-02T23:50:37Z [INFO] P1113: 2 new URL(s) queued; queue=51 manifest=1230
+2026-09-02T23:51:22Z [FLAG] P1114 cache=miss https://emiratespaints.com/2024/02/09/
+2026-09-02T23:51:22Z [INFO] P1114 https://emiratespaints.com/2024/02/09/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:52:08Z [FLAG] P1115 cache=miss https://emiratespaints.com/2024/04/26/
+2026-09-02T23:52:08Z [INFO] P1115 https://emiratespaints.com/2024/04/26/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:52:53Z [FLAG] P1116 cache=miss https://emiratespaints.com/2023/11/17/
+2026-09-02T23:52:53Z [INFO] P1116 https://emiratespaints.com/2023/11/17/ -> captured http=200 cache=miss h=1179/1024/1280
+2026-09-02T23:53:39Z [FLAG] P1117 cache=miss https://emiratespaints.com/2024/04/05/
+2026-09-02T23:53:39Z [INFO] P1117 https://emiratespaints.com/2024/04/05/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:54:24Z [FLAG] P1118 cache=miss https://emiratespaints.com/2023/10/20/
+2026-09-02T23:54:24Z [INFO] P1118 https://emiratespaints.com/2023/10/20/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:55:09Z [FLAG] P1119 cache=miss https://emiratespaints.com/2024/02/22/
+2026-09-02T23:55:09Z [INFO] P1119 https://emiratespaints.com/2024/02/22/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:55:55Z [FLAG] P1120 cache=miss https://emiratespaints.com/2023/09/22/
+2026-09-02T23:55:55Z [INFO] P1120 https://emiratespaints.com/2023/09/22/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:56:39Z [FLAG] P1121 cache=miss https://emiratespaints.com/2024/07/28/
+2026-09-02T23:56:39Z [INFO] P1121 https://emiratespaints.com/2024/07/28/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:57:24Z [FLAG] P1122 cache=miss https://emiratespaints.com/2024/08/19/
+2026-09-02T23:57:24Z [INFO] P1122 https://emiratespaints.com/2024/08/19/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:58:07Z [FLAG] P1123 cache=miss https://emiratespaints.com/2024/06/26/
+2026-09-02T23:58:07Z [INFO] P1123 https://emiratespaints.com/2024/06/26/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-02T23:58:53Z [FLAG] P1124 cache=miss https://emiratespaints.com/2024/05/10/
+2026-09-02T23:58:53Z [INFO] P1124 https://emiratespaints.com/2024/05/10/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-02T23:59:36Z [FLAG] P1125 cache=miss https://emiratespaints.com/2024/06/14/
+2026-09-02T23:59:36Z [INFO] P1125 https://emiratespaints.com/2024/06/14/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-03T00:00:21Z [FLAG] P1126 cache=miss https://emiratespaints.com/2024/05/03/
+2026-09-03T00:00:21Z [INFO] P1126 https://emiratespaints.com/2024/05/03/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:01:06Z [FLAG] P1127 cache=miss https://emiratespaints.com/2024/03/22/
+2026-09-03T00:01:06Z [INFO] P1127 https://emiratespaints.com/2024/03/22/ -> captured http=200 cache=miss h=1179/1024/1211
+2026-09-03T00:01:51Z [FLAG] P1128 cache=miss https://emiratespaints.com/2024/04/19/
+2026-09-03T00:01:51Z [INFO] P1128 https://emiratespaints.com/2024/04/19/ -> captured http=200 cache=miss h=1179/1024/1267
+2026-09-03T00:02:35Z [FLAG] P1129 cache=miss https://emiratespaints.com/2024/03/29/
+2026-09-03T00:02:35Z [INFO] P1129 https://emiratespaints.com/2024/03/29/ -> captured http=200 cache=miss h=1179/1024/1211
+2026-09-03T00:03:18Z [FLAG] P1130 cache=miss https://emiratespaints.com/2023/11/24/
+2026-09-03T00:03:18Z [INFO] P1130 https://emiratespaints.com/2023/11/24/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:04:04Z [FLAG] P1131 cache=miss https://emiratespaints.com/2024/01/19/
+2026-09-03T00:04:04Z [INFO] P1131 https://emiratespaints.com/2024/01/19/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:04:48Z [FLAG] P1132 cache=miss https://emiratespaints.com/2023/12/22/
+2026-09-03T00:04:48Z [INFO] P1132 https://emiratespaints.com/2023/12/22/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:05:34Z [FLAG] P1133 cache=miss https://emiratespaints.com/2023/10/06/
+2026-09-03T00:05:34Z [INFO] P1133 https://emiratespaints.com/2023/10/06/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:06:19Z [FLAG] P1134 cache=miss https://emiratespaints.com/2023/08/04/
+2026-09-03T00:06:19Z [INFO] P1134 https://emiratespaints.com/2023/08/04/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:06:45Z [INFO] P1135 https://emiratespaints.com/visualizer/ -> captured http=200 cache=- h=1432/1525/1972
+2026-09-03T00:07:35Z [FLAG] P1136 cache=miss https://emiratespaints.com/2023/12/
+2026-09-03T00:07:35Z [INFO] P1136 https://emiratespaints.com/2023/12/ -> captured http=200 cache=miss h=2393/1665/2333
+2026-09-03T00:08:26Z [FLAG] P1137 cache=miss https://emiratespaints.com/2024/07/
+2026-09-03T00:08:26Z [INFO] P1137 https://emiratespaints.com/2024/07/ -> captured http=200 cache=miss h=2827/2009/3133
+2026-09-03T00:09:12Z [INFO] P1138 https://emiratespaints.com/products/?filter_finish=matt&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1228/1181/879
+2026-09-03T00:09:12Z [INFO] P1138: 1 new URL(s) queued; queue=27 manifest=1239
+2026-09-03T00:09:59Z [INFO] P1139 https://emiratespaints.com/products/?filter_location=bathroom&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1882/1809/879
+2026-09-03T00:10:47Z [INFO] P1140 https://emiratespaints.com/products/?filter_location=bedroom&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1579/1809/879
+2026-09-03T00:11:33Z [INFO] P1141 https://emiratespaints.com/products/?filter_location=ceiling&post_type=product&s=emulsion+ -> captured-with-http-error http=404 cache=hit h=1879/1668/2027
+2026-09-03T00:12:21Z [INFO] P1142 https://emiratespaints.com/products/?filter_location=childrens-room&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1579/1809/879
+2026-09-03T00:13:09Z [INFO] P1143 https://emiratespaints.com/products/?filter_location=dining-room&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1579/1809/879
+2026-09-03T00:13:56Z [INFO] P1144 https://emiratespaints.com/products/?filter_location=kitchen&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1555/1471/879
+2026-09-03T00:14:42Z [INFO] P1145 https://emiratespaints.com/products/?filter_location=living-room&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1555/1471/879
+2026-09-03T00:15:29Z [INFO] P1146 https://emiratespaints.com/products/?filter_location=moving-out&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1555/1471/879
+2026-09-03T00:16:14Z [INFO] P1147 https://emiratespaints.com/products/?filter_location=office&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1531/1471/879
+2026-09-03T00:17:00Z [INFO] P1148 https://emiratespaints.com/products/?filter_product-type=exterior&post_type=product&s=emulsion+ -> captured http=200 cache=- h=1228/1157/879
+2026-09-03T00:17:53Z [INFO] P1149 https://emiratespaints.com/products/?filter_product-type=interior&post_type=product&s=emulsion+ -> captured http=200 cache=hit h=2665/2819/3775
+2026-09-03T00:18:36Z [FLAG] P1150 cache=miss https://emiratespaints.com/2024/02/02/
+2026-09-03T00:18:36Z [INFO] P1150 https://emiratespaints.com/2024/02/02/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:19:27Z [FLAG] P1151 cache=miss https://emiratespaints.com/product/durable-emulsion/
+2026-09-03T00:19:27Z [INFO] P1151 https://emiratespaints.com/product/durable-emulsion/ -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-03T00:19:27Z [INFO] P1151: 1 new URL(s) queued; queue=15 manifest=1284
+2026-09-03T00:20:17Z [FLAG] P1152 cache=miss https://emiratespaints.com/2024/02/
+2026-09-03T00:20:17Z [INFO] P1152 https://emiratespaints.com/2024/02/ -> captured http=200 cache=miss h=2827/2009/2993
+2026-09-03T00:21:16Z [FLAG] P1153 cache=miss https://emiratespaints.com/2024/page/1/
+2026-09-03T00:21:16Z [INFO] P1153 https://emiratespaints.com/2024/page/1/ -> captured http=200 cache=miss h=4003/2845/4528
+2026-09-03T00:22:08Z [FLAG] P1154 cache=miss https://emiratespaints.com/2023/page/2/
+2026-09-03T00:22:08Z [INFO] P1154 https://emiratespaints.com/2023/page/2/ -> captured http=200 cache=miss h=3475/2399/3445
+2026-09-03T00:22:08Z [INFO] P1154: 1 new URL(s) queued; queue=13 manifest=1285
+2026-09-03T00:23:00Z [INFO] P1155 https://emiratespaints.com/products/?post_type=product&s=primer -> captured http=200 cache=- h=2429/2910/879
+2026-09-03T00:23:43Z [FLAG] P1222 cache=miss https://emiratespaints.com/2024/02/16/
+2026-09-03T00:23:43Z [INFO] P1222 https://emiratespaints.com/2024/02/16/ -> captured http=200 cache=miss h=1179/1024/1239
+2026-09-03T00:24:36Z [FLAG] P1223 cache=miss https://emiratespaints.com/2024/01/
+2026-09-03T00:24:36Z [INFO] P1223 https://emiratespaints.com/2024/01/ -> captured http=200 cache=miss h=2827/2029/3098
+2026-09-03T00:25:28Z [FLAG] P1224 cache=miss https://emiratespaints.com/2024/04/
+2026-09-03T00:25:28Z [INFO] P1224 https://emiratespaints.com/2024/04/ -> captured http=200 cache=miss h=2783/2009/3021
+2026-09-03T00:26:15Z [INFO] P1225 https://emiratespaints.com/products/page/2/?Filter_product-kind=indoors -> captured http=200 cache=hit h=2528/3112/879
+2026-09-03T00:26:15Z [INFO] P1225: 1 new URL(s) queued; queue=9 manifest=1286
+2026-09-03T00:27:07Z [FLAG] P1226 cache=miss https://emiratespaints.com/products/page/3/?Filter_product-kind=indoors
+2026-09-03T00:27:07Z [INFO] P1226 https://emiratespaints.com/products/page/3/?Filter_product-kind=indoors -> captured http=200 cache=miss h=2552/3088/879
+2026-09-03T00:27:56Z [FLAG] P1227 cache=miss https://emiratespaints.com/products/page/4/?Filter_product-kind=indoors
+2026-09-03T00:27:56Z [INFO] P1227 https://emiratespaints.com/products/page/4/?Filter_product-kind=indoors -> captured http=200 cache=miss h=2384/2872/879
+2026-09-03T00:28:45Z [FLAG] P1228 cache=miss https://emiratespaints.com/products/page/5/?Filter_product-kind=indoors
+2026-09-03T00:28:45Z [INFO] P1228 https://emiratespaints.com/products/page/5/?Filter_product-kind=indoors -> captured http=200 cache=miss h=2049/2001/879
+2026-09-03T00:29:29Z [INFO] P1229 https://emiratespaints.com/product-list/ -> captured http=200 cache=hit h=1459/1257/1219
+2026-09-03T00:29:33Z [INFO] document P1230 https://emiratespaints.com/wp-content/uploads/2024/02/Notebook-Product-List-V4.-web-1_compressed-1.pdf -> captured cache=-
+2026-09-03T00:30:21Z [INFO] P1231 https://emiratespaints.com/products/?post_type=product&s=emulsion+ -> captured http=200 cache=- h=1800/1993/879
+2026-09-03T00:31:08Z [FLAG] P1284 cache=miss https://emiratespaints.com/?p=10202&post_type=product
+2026-09-03T00:31:08Z [INFO] P1284 https://emiratespaints.com/?p=10202&post_type=product -> captured-with-http-error http=404 cache=miss h=1879/1668/2027
+2026-09-03T00:32:06Z [INFO] P1285 https://emiratespaints.com/2023/page/1/ -> captured http=200 cache=hit h=4135/2841/4579
+2026-09-03T00:32:54Z [INFO] P1286 https://emiratespaints.com/products/page/1/?Filter_product-kind=indoors -> captured http=200 cache=hit h=2480/3016/879
+2026-09-03T00:32:57Z [INFO] capture run end: pages=137 requests=137 halted=False queued=0
+2026-09-03T01:50:11Z [INFO] QA complete: 2585 findings ({'high': 99, 'medium': 388, 'low': 2064, 'info': 34})
+2026-09-03T01:50:12Z [WARN] hash changed since last register: assets/asset-index.json (old kept in capture log)
+2026-09-03T01:50:13Z [WARN] hash changed since last register: metadata/links/P0001_home.links.json (old kept in capture log)
+2026-09-03T01:50:13Z [WARN] hash changed since last register: metadata/links/P0002_products.links.json (old kept in capture log)
+2026-09-03T01:50:14Z [INFO] integrity: 10983 files hashed, 10635 new, 3 changed, 2101.1 MB
+2026-09-03T01:51:30Z [INFO] reports generated: gallery, capture-summary.md, cache-observations.md, exceptions.md, README.md, executive-summary.pdf, crawl-coverage.md
+2026-09-03T01:52:50Z [INFO] reports generated: gallery, capture-summary.md, cache-observations.md, exceptions.md, README.md, executive-summary.pdf, crawl-coverage.md
+2026-09-03T01:53:03Z [INFO] integrity: 10983 files hashed, 0 new, 0 changed, 2101.1 MB

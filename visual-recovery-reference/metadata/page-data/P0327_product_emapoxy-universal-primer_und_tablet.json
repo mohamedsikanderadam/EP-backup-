@@ -1,0 +1,302 @@
+{
+  "title": "EMAPOXY UNIVERSAL PRIMER - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/product/emapoxy-universal-primer/",
+  "meta_description": "Emirates Emapox Universal Primer is a two-component, polyamide-cured epoxy primer formulated with anticorrosive pigments, designed to have",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "product",
+    "og:title": "EMAPOXY UNIVERSAL PRIMER - Emirates Paints",
+    "og:description": "Emirates Emapox Universal Primer is a two-component, polyamide-cured epoxy primer formulated with anticorrosive pigments, designed to have",
+    "og:url": "https://emiratespaints.com/product/emapoxy-universal-primer/",
+    "og:site_name": "Emirates Paints",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER-1024x1024.webp",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER-1024x1024.webp",
+    "og:image:width": "1024",
+    "og:image:height": "1024",
+    "og:image:alt": "EMAPOXY UNIVERSAL PRIMER",
+    "og:image:type": "image/webp"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER.webp",
+          "url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER.webp",
+          "width": "2276",
+          "height": "2276",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/product/emapoxy-universal-primer/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/product/emapoxy-universal-primer/",
+                "name": "EMAPOXY UNIVERSAL PRIMER"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ItemPage",
+          "@id": "https://emiratespaints.com/product/emapoxy-universal-primer/#webpage",
+          "url": "https://emiratespaints.com/product/emapoxy-universal-primer/",
+          "name": "EMAPOXY UNIVERSAL PRIMER - Emirates Paints",
+          "datePublished": "2025-08-07T09:37:33+00:00",
+          "dateModified": "2025-08-07T09:37:33+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/product/emapoxy-universal-primer/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "EMAPOXY UNIVERSAL PRIMER - Emirates Paints",
+          "description": "Emirates Emapox Universal Primer is a two-component, polyamide-cured epoxy primer formulated with anticorrosive pigments, designed to have",
+          "category": "Decorative",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/product/emapoxy-universal-primer/#webpage"
+          },
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER.webp",
+              "height": "2276",
+              "width": "2276"
+            }
+          ],
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "pa_base",
+              "value": "Thinner"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_finish",
+              "value": "Matt"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_surface",
+              "value": "Metal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_size",
+              "value": "0.9L, 3.6L, 18L"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_product-type",
+              "value": "Industrial, Decorative"
+            }
+          ],
+          "@id": "https://emiratespaints.com/product/emapoxy-universal-primer/#richSnippet"
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 34,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-357"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER.webp",
+    "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-UNIVERSAL-PRIMER.pdf",
+    "https://emiratespaints.com/product/emapoxy-zinc-rich-primer/",
+    "https://emiratespaints.com/product/emapoxy-universal-primer/#",
+    "https://emiratespaints.com/product/emapoxy-topcoat/",
+    "https://emiratespaints.com/product/rust-remover/",
+    "https://emiratespaints.com/product/chroma-2k-thinner/",
+    "https://emiratespaints.com/product/emapoxy-primer/",
+    "https://emiratespaints.com/product/chroma-emalux-base-coat/",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/product/emapoxy-universal-primer/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 1340,
+  "body_text_excerpt": "Search COLORS PRODUCTS INSPIRATION VISUALIZER FIND A STORE BOOK A PAINTER ABOUT EMAPOXY UNIVERSAL PRIMER Solvent Based Ask about product PRODUCT DESCRIPTION Emirates Emapox Universal Primer is a two-component, polyamide-cured epoxy primer formulated with anticorrosive pigments, designed to have excellent adhesion on ferrous and nonferrous substrates. RECOMMENDED USE This product is recommended for ferrous and non-ferrous substrates such as aluminum and galvanized iron (GI). Used for industrial applications. Key Information Finish Matt Spreading Rate 6.5 - 10.4 m² / litre Dry Time Full dry: 7 d",
+  "page_height": 2614,
+  "page_width": 768,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementskit",
+    "elementskit-lite",
+    "ultimate-member",
+    "elementor-pro",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0327",
+  "url": "https://emiratespaints.com/product/emapoxy-universal-primer/",
+  "final_url": "https://emiratespaints.com/product/emapoxy-universal-primer/",
+  "viewport": "tablet",
+  "viewport_size": {
+    "width": 768,
+    "height": 1024,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T19:40:08Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"526-1788377977;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.40c850a3b98806fe2573278e1dbf6d80,905_Po.10525,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 212,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

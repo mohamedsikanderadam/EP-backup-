@@ -1,0 +1,45 @@
+{
+  "ref_id": "P0737",
+  "url": "https://emiratespaints.com/products/?filter_product-type=automotive",
+  "captured_at": "2026-09-02T22:53:26Z",
+  "navigation_started_at": "2026-09-02T22:53:16Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:53:19 GMT",
+    "etag": "\"868-1788389599;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_product-type=automotive",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_product-type=automotive"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"868-1788389599;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "9b28f270cba273ff18727d63dfee6b3e4a733e77478a197a9d4c99959b8a6c32",
+  "response_body_bytes": 279165,
+  "response_body_file": "html/response/P0737_products_page_1_filter_product-type_automotive.html"
+}

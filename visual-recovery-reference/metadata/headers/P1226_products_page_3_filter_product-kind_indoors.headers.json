@@ -1,0 +1,40 @@
+{
+  "ref_id": "P1226",
+  "url": "https://emiratespaints.com/products/page/3/?Filter_product-kind=indoors",
+  "captured_at": "2026-09-03T00:26:29Z",
+  "navigation_started_at": "2026-09-03T00:26:18Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Thu, 03 Sep 2026 00:26:20 GMT",
+    "etag": "\"1040-1788395180;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.d2f75c33ace75e0567f42bc6c95dcf72,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"1040-1788395180;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.d2f75c33ace75e0567f42bc6c95dcf72,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "50023808efcb6fa05c93452fed1a88cd25b2fdafa746bce3a642c947af9aebee",
+  "response_body_bytes": 288731,
+  "response_body_file": "html/response/P1226_products_page_3_filter_product-kind_indoors.html"
+}

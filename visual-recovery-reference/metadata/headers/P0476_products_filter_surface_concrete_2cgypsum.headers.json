@@ -1,0 +1,36 @@
+{
+  "ref_id": "P0476",
+  "url": "https://emiratespaints.com/products/?filter_surface=concrete%2Cgypsum",
+  "captured_at": "2026-09-02T21:15:26Z",
+  "navigation_started_at": "2026-09-02T21:15:18Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 21:15:18 GMT",
+    "etag": "\"595-1788380552;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"595-1788380552;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "80e24192ad1da93f8f6c5014ebc1982082c029b2ac86f0d9012be56f767193ed",
+  "response_body_bytes": 249022,
+  "response_body_file": "html/response/P0476_products_filter_surface_concrete_2cgypsum.html"
+}

@@ -14,8 +14,8 @@ from urllib.parse import urlsplit
 
 from bs4 import BeautifulSoup
 
-from .common import (Log, classify, ensure_dirs, is_allowed, is_excluded, load_manifest,
-                     normalize_url, polite_sleep, save_manifest, slugify, utc_now, write_json)
+from .common import (Log, ManifestIndex, classify, ensure_dirs, is_allowed, load_manifest,
+                     normalize_url, polite_sleep, record_request, save_manifest, slugify, utc_now, write_json)
 
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):
@@ -131,37 +131,18 @@ def extract_links(html: bytes, base: str, cfg: dict) -> dict:
             "documents": dedupe(docs), "anchors": dedupe(anchors)}
 
 
-def run_discovery(cfg: dict, limit: int | None = None, only: list[str] | None = None) -> list[dict]:
+def run_discovery(cfg: dict, limit: int | None = None, only: list[str] | None = None,
+                  fetch_pages: bool = False) -> list[dict]:
+    """Passive discovery. By default only robots.txt and XML sitemaps are requested; HTML pages are
+    NOT fetched here because on a LiteSpeed site every miss regenerates the page - the capture step
+    issues the single controlled browser request per URL and expands links from the rendered DOM."""
     d = ensure_dirs(cfg)
     log = Log(cfg)
     delay = cfg["crawl"]["delay_seconds"]
     existing = load_manifest(cfg)
-    by_norm = {r["normalized_url"]: r for r in existing}
-    next_id = max([int(r["ref_id"][1:]) for r in existing] + [0]) + 1
-
-    def entry(url: str, source: str) -> dict:
-        nonlocal next_id
-        n = normalize_url(url, cfg)
-        if n in by_norm:
-            row = by_norm[n]
-            if source not in row["discovery_source"]:
-                row["discovery_source"].append(source)
-            return row
-        row = {
-            "ref_id": f"P{next_id:04d}", "discovered_url": url, "normalized_url": n,
-            "final_url": "", "discovery_source": [source], "page_title": "", "language": "",
-            "content_type": classify(n, None), "http_status": None, "redirect_chain": [],
-            "capture_status": "pending", "screenshots": [], "notes": "",
-            "slug": slugify(n), "discovered_at": utc_now(), "in_sitemap": False,
-            "linked_from": [],
-        }
-        if is_excluded(n, cfg):
-            row["capture_status"] = "excluded"
-            row["notes"] = cfg["excluded_reason"]
-        next_id += 1
-        by_norm[n] = row
-        existing.append(row)
-        return row
+    idx = ManifestIndex(cfg, existing)
+    by_norm = idx.by_norm
+    entry = idx.entry
 
     queue: deque[str] = deque()
     seen_fetch: set[str] = set()
@@ -211,6 +192,10 @@ def run_discovery(cfg: dict, limit: int | None = None, only: list[str] | None = 
                 row["in_sitemap"] = True
                 queue.append(n)
 
+    if not fetch_pages:
+        log("INFO", f"page fetching disabled: {len(queue)} seed/sitemap URLs queued for single-request capture")
+        queue.clear()
+
     # BFS over internal links (HTML pages only; documents are recorded, not parsed)
     while queue:
         if limit and len(seen_fetch) >= limit:
@@ -226,6 +211,7 @@ def run_discovery(cfg: dict, limit: int | None = None, only: list[str] | None = 
         if row["capture_status"] == "excluded" or row["content_type"] in ("document", "image"):
             continue
         r = fetch(n, cfg); requests_made += 1
+        record_request(row, "discovery-urllib", r["status"], r["headers"].get("x-litespeed-cache"), "discovery")
         row["http_status"] = r["status"]
         row["final_url"] = r["final_url"]
         row["redirect_chain"] = [f"{c['url']} -> {c['status']} -> {c['location']}" for c in r["chain"]]

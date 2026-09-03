@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0570",
+  "url": "https://emiratespaints.com/the-ultimate-guide-to-weather-resistant-paint-protecting-your-home-with-emirates-paints/",
+  "captured_at": "2026-09-02T21:44:51Z",
+  "navigation_started_at": "2026-09-02T21:44:41Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 21:44:43 GMT",
+    "etag": "\"739-1788385483;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/8607>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=8607>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.30fc941da00bf18379ea1e3dbbc5e30e,905_Po.8607,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"739-1788385483;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.30fc941da00bf18379ea1e3dbbc5e30e,905_Po.8607,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "3221a76e04deb1e6e45ab7a17db9c2bbadeb984173edd30aab79e5dc5823c2a0",
+  "response_body_bytes": 277397,
+  "response_body_file": "html/response/P0570_the-ultimate-guide-to-weather-resistant-paint-protecting-you.html"
+}

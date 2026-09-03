@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0716",
+  "url": "https://emiratespaints.com/unveiling-the-canvas-finding-the-best-painting-services-in-dubai/",
+  "captured_at": "2026-09-02T22:44:52Z",
+  "navigation_started_at": "2026-09-02T22:44:43Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:44:45 GMT",
+    "etag": "\"851-1788389085;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9024>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9024>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.ce334677d48d4f2c88e7c843dd3a0e40,905_Po.9024,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"851-1788389085;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.ce334677d48d4f2c88e7c843dd3a0e40,905_Po.9024,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "d6da9464df8d358d5b8a320799e3ccbc81e739f00297bed1654a1a2db6264177",
+  "response_body_bytes": 275282,
+  "response_body_file": "html/response/P0716_unveiling-the-canvas-finding-the-best-painting-services-in-d.html"
+}
