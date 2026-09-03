@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-03T05:36:00Z",
+  "html_rows": 609,
+  "parts": [
+    {
+      "file": "full-report-with-screenshots-part1of3.pdf",
+      "pages": 463,
+      "bytes": 49109459,
+      "first_ref": "P0001",
+      "last_ref": "P0212"
+    },
+    {
+      "file": "full-report-with-screenshots-part2of3.pdf",
+      "pages": 496,
+      "bytes": 60808518,
+      "first_ref": "P0213",
+      "last_ref": "P0571"
+    },
+    {
+      "file": "full-report-with-screenshots-part3of3.pdf",
+      "pages": 464,
+      "bytes": 63705279,
+      "first_ref": "P0572",
+      "last_ref": "P1286"
+    }
+  ]
+}
