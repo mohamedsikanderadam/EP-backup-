@@ -27,6 +27,7 @@ def main() -> None:
     sub.add_parser("qa", help="automated quality assurance checks")
     sub.add_parser("integrity", help="SHA-256 hashing and evidence register")
     sub.add_parser("report", help="gallery, summaries, executive PDF")
+    sub.add_parser("pdfbook", help="single PDF: current-state report + every screenshot embedded")
     sub.add_parser("all", help="discover -> capture -> qa -> integrity -> report")
 
     a = ap.parse_args()
@@ -48,6 +49,9 @@ def main() -> None:
     elif a.cmd == "report":
         from .report import run_report
         run_report(cfg)
+    elif a.cmd == "pdfbook":
+        from .pdfbook import run_pdfbook
+        run_pdfbook(cfg)
     elif a.cmd == "all":
         from .discover import run_discovery
         from .capture import run_capture
