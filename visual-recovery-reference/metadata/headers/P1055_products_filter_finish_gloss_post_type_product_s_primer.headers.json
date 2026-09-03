@@ -1,0 +1,45 @@
+{
+  "ref_id": "P1055",
+  "url": "https://emiratespaints.com/product/emapoxy-sf-clear/",
+  "captured_at": "2026-09-02T23:11:04Z",
+  "navigation_started_at": "2026-09-02T23:10:53Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 23:10:56 GMT",
+    "etag": "\"906-1788390656;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10557>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10557>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.060056d7e0a2c50f5f8a9cd1252377d6,905_Po.10557,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_finish=gloss&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/emapoxy-sf-clear/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"906-1788390656;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.060056d7e0a2c50f5f8a9cd1252377d6,905_Po.10557,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "03478b5a22efd86eb34ae36a3f9cde062f263d50d6199b4172fd746c2c7fb511",
+  "response_body_bytes": 260284,
+  "response_body_file": "html/response/P1055_products_filter_finish_gloss_post_type_product_s_primer.html"
+}

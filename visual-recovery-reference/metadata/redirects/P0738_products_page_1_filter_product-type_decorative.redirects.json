@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0738",
+  "url": "https://emiratespaints.com/products/page/1/?filter_product-type=decorative",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_product-type=decorative",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_product-type=decorative"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?filter_product-type=decorative"
+}

@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1058",
+  "url": "https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise&post_type=product&s=primer",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/emapoxy-primer/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/product/emapoxy-primer/"
+}

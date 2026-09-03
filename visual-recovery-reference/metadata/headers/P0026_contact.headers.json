@@ -1,0 +1,45 @@
+{
+  "ref_id": "P0026",
+  "url": "https://emiratespaints.com/contact/",
+  "captured_at": "2026-09-02T15:51:17Z",
+  "navigation_started_at": "2026-09-02T15:51:02Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 15:51:07 GMT",
+    "etag": "\"6-1788364267;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/pages/21>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=21>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_page,905_URL.26a93b8987e1c3f1a204adfaf8eb1675,905_Po.21,905_PGS,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/contact",
+      "status": 301,
+      "location": "https://emiratespaints.com/contact/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"6-1788364267;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_page,905_URL.26a93b8987e1c3f1a204adfaf8eb1675,905_Po.21,905_PGS,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "ae140745e82265856bb0fa2a900e2962e369cd86dfd5b2527e811d231f2a09fe",
+  "response_body_bytes": 266675,
+  "response_body_file": "html/response/P0026_contact.html"
+}

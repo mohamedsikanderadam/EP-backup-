@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0021",
+  "url": "https://emiratespaints.com/book-a-painter/?service=RESIDENTIAL",
+  "captured_at": "2026-09-02T15:46:26Z",
+  "navigation_started_at": "2026-09-02T15:46:10Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 15:46:18 GMT",
+    "etag": "\"1-1788363978;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/pages/8713>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=8713>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_page,905_URL.2abc02c6b8b7788fdf599aa8be5e8d06,905_Po.8713,905_PGS,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"1-1788363978;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_page,905_URL.2abc02c6b8b7788fdf599aa8be5e8d06,905_Po.8713,905_PGS,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "f6d1889d8dda8e4eaecb43beb30ad9a2fd93e0d0c43ac769b05bac3ff810e31b",
+  "response_body_bytes": 260242,
+  "response_body_file": "html/response/P0021_book-a-painter_service_residential.html"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0241",
+  "url": "https://emiratespaints.com/how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by-step-tutorial/",
+  "captured_at": "2026-09-02T19:06:35Z",
+  "navigation_started_at": "2026-09-02T19:06:25Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:06:27 GMT",
+    "etag": "\"463-1788375987;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/7472>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=7472>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.dbdf0961233780ffcb8af41c2905bf6c,905_Po.7472,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"463-1788375987;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.dbdf0961233780ffcb8af41c2905bf6c,905_Po.7472,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "0539515af77b671033a2a95c198df7e4eba8d6e56c693299e8a9b36825c04014",
+  "response_body_bytes": 278704,
+  "response_body_file": "html/response/P0241_how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by.html"
+}

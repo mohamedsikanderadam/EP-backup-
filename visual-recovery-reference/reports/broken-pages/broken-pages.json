@@ -1,0 +1,1368 @@
+[
+  {
+    "severity": "high",
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/desktop/above-fold/P0010_brochures_und_desktop_fold.png: near-uniform image (stddev 0.0)"
+  },
+  {
+    "severity": "high",
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/desktop/full-page/P0010_brochures_und_desktop_full.png: near-uniform image (stddev 0.0)"
+  },
+  {
+    "severity": "high",
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/tablet/above-fold/P0010_brochures_und_tablet_fold.png: near-uniform image (stddev 0.0)"
+  },
+  {
+    "severity": "high",
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/tablet/full-page/P0010_brochures_und_tablet_full.png: near-uniform image (stddev 0.0)"
+  },
+  {
+    "severity": "high",
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/mobile/above-fold/P0010_brochures_und_mobile_fold.png: near-uniform image (stddev 0.0)"
+  },
+  {
+    "severity": "high",
+    "code": "BLANK_IMAGE",
+    "ref_id": "P0010",
+    "message": "screenshots/mobile/full-page/P0010_brochures_und_mobile_full.png: near-uniform image (stddev 0.0)"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0016",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0016",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0016",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0016",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0016",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0016",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0020",
+    "message": "mobile: 3 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0025",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0025",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0025",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0025",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0025",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0025",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0082",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0082",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0082",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0082",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0082",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0082",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0088",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0088",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0088",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0088",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0088",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0088",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0247",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0247",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0247",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0247",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0247",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0247",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0283",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0283",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0283",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0283",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0283",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0283",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0284",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0284",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0284",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0284",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0284",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0284",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0303",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0303",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0303",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0303",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0303",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0303",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0334",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0334",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0334",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0334",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0334",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0334",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0368",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0368",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0368",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0368",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0368",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0368",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0369",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0369",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0369",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0369",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0369",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0369",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0372",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0372",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0372",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0372",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0372",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0372",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0373",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0373",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0373",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0373",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0373",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0373",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0398",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0398",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0398",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0398",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0398",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0398",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0399",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0399",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0399",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0399",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0399",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0399",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0400",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0400",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0400",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0400",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0400",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0400",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0402",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0402",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0402",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0402",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0402",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0402",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0403",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0403",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0403",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0403",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0403",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0403",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0405",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0405",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0405",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0405",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0405",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0405",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0406",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0406",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0406",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0406",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0406",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0406",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0429",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0429",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0429",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0429",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0429",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0429",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0451",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0451",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0451",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0451",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0451",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0451",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0517",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0517",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0517",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0517",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0517",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0517",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0554",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0554",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0554",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0554",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0554",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0554",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0555",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0555",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0555",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0555",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P0555",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0555",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0583",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0583",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P0583",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1061",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1061",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1061",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1061",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1061",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1061",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1067",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1067",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1067",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1067",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1067",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1067",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1102",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1102",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1102",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1102",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1102",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1102",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1141",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1141",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1141",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1141",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1141",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1141",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1151",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1151",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1151",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1151",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1151",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1151",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1284",
+    "message": "desktop: HTTP 404",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1284",
+    "message": "desktop: 1 broken <img> element(s)",
+    "viewport": "desktop"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1284",
+    "message": "tablet: HTTP 404",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1284",
+    "message": "tablet: 1 broken <img> element(s)",
+    "viewport": "tablet"
+  },
+  {
+    "severity": "high",
+    "code": "HTTP_ERROR",
+    "ref_id": "P1284",
+    "message": "mobile: HTTP 404",
+    "viewport": "mobile"
+  },
+  {
+    "severity": "medium",
+    "code": "BROKEN_IMAGES",
+    "ref_id": "P1284",
+    "message": "mobile: 1 broken <img> element(s)",
+    "viewport": "mobile"
+  }
+]

@@ -1,0 +1,305 @@
+{
+  "title": "EMATEX - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/product/ema-tex/",
+  "meta_description": "Emirates EmaTex is an acrylic copolymer, heavy textured paint, designed to protect and hide minor substrate imperfections providing a decorative",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "product",
+    "og:title": "EMATEX - Emirates Paints",
+    "og:description": "Emirates EmaTex is an acrylic copolymer, heavy textured paint, designed to protect and hide minor substrate imperfections providing a decorative",
+    "og:url": "https://emiratespaints.com/product/ema-tex/",
+    "og:site_name": "Emirates Paints",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2022/08/EMATEX-1-1024x1024.webp",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2022/08/EMATEX-1-1024x1024.webp",
+    "og:image:width": "1024",
+    "og:image:height": "1024",
+    "og:image:alt": "EMATEX",
+    "og:image:type": "image/webp"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2022/08/EMATEX-1.webp",
+          "url": "https://emiratespaints.com/wp-content/uploads/2022/08/EMATEX-1.webp",
+          "width": "2276",
+          "height": "2276",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/product/ema-tex/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/product/ema-tex/",
+                "name": "EMATEX"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ItemPage",
+          "@id": "https://emiratespaints.com/product/ema-tex/#webpage",
+          "url": "https://emiratespaints.com/product/ema-tex/",
+          "name": "EMATEX - Emirates Paints",
+          "datePublished": "2025-02-04T07:36:21+00:00",
+          "dateModified": "2025-02-04T07:36:21+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2022/08/EMATEX-1.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/product/ema-tex/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "EMATEX - Emirates Paints",
+          "description": "Emirates EmaTex is an acrylic copolymer, heavy textured paint, designed to protect and hide minor substrate imperfections providing a decorative",
+          "category": "Exterior Paints",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/product/ema-tex/#webpage"
+          },
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://emiratespaints.com/wp-content/uploads/2022/08/EMATEX-1.webp",
+              "height": "2276",
+              "width": "2276"
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "url": "https://emiratespaints.com/product/ema-tex/",
+            "price": "0.00",
+            "priceCurrency": "USD",
+            "priceValidUntil": "2027-12-31",
+            "seller": {
+              "@type": "Organization",
+              "@id": "https://emiratespaints.com/",
+              "name": "Emirates Paints",
+              "url": "https://emiratespaints.com",
+              "logo": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png"
+            },
+            "availability": "http://schema.org/InStock"
+          },
+          "color": "EP 1000, EP 1001, EP 1002, EP 1003, EP 1004, EP 1005, EP 1006, EP 1007, EP 1011, EP 1012, EP 1013, EP 1014, EP 1015, EP 1016, EP 1017, EP 1018, EP 1019, EP 1020, EP 1021, EP 1023, EP 1024, EP 1026, EP 1027, EP 1028, EP 1032, EP 1033, EP 1034, EP 1035, EP 1036, EP 1037, EP 2000, EP 2001, EP 2002, EP 2003, EP 2004, EP 2005, EP 2007, EP 2008, EP 2009, EP 2010, EP 2011, EP 2012, EP 2013, EP 3000, EP 3001, EP 3002, EP 3003, EP 3004, EP 3005, EP 3007, EP 3009, EP 3011, EP 3012, EP 3013, EP 3014, EP 3015, EP 3016, EP 3017, EP 3018, EP 3020, EP 3022, EP 3024, EP 3026, EP 3027, EP 3028, EP 3031, EP 3032, EP 3033, EP 4001, EP 4002, EP 4003, EP 4004, EP 4005, EP 4006, EP 4007, EP 4008, EP 4009, EP 4010, EP 4011, EP 4012, EP 5000, EP 5001, EP 5002, EP 5003, EP 5004, EP 5005, EP 5007, EP 5008, EP 5009, EP 5010, EP 5011, EP 5012, EP 5013, EP 5014, EP 5015, EP 5017, EP 5018, EP 5019, EP 5020, EP 5021, EP 5022, EP 5023, EP 5024, EP 5025, EP 5026, EP 6000, EP 6001, EP 6002, EP 6003, EP 6004, EP 6005, EP 6006, EP 6007, EP 6008, EP 6009, EP 6010, EP 6011, EP 6012, EP 6013, EP 6014, EP 6015, EP 6016, EP 6017, EP 6018, EP 6019, EP 6020, EP 6021, EP 6022, EP 6024, EP 6025, EP 6026, EP 6027, EP 6028, EP 6029, EP 6032, EP 6033, EP 6034, EP 6035, EP 6036, EP 6037, EP 6038, EP 7000, EP 7001, EP 7002, EP 7003, EP 7004, EP 7005, EP 7006, EP 7008, EP 7009, EP 7010, EP 7011, EP 7012, EP 7013, EP 7015, EP 7016, EP 7021, EP 7022, EP 7023, EP 7024, EP 7026, EP 7030, EP 7031, EP 7032, EP 7033, EP 7034, EP 7035, EP 7036, EP 7037, EP 7038, EP 7039, EP 7040, EP 7042, EP 7043, EP 7044, EP 7045, EP 7046, EP 7047, EP 7048, EP 8000, EP 8001, EP 8002, EP 8003, EP 8004, EP 8007, EP 8008, EP 8011, EP 8012, EP 8014, EP 8015, EP 8016, EP 8017, EP 8019, EP 8022, EP 8023, EP 8024, EP 8025, EP 8028, EP 8029, EP 9001, EP 9002, EP 9003, EP 9004, EP 9005, EP 9006, EP 9007, EP 9010, EP 9011, EP 9016, EP 9017, EP 9018, EP 9022, EP 9023, S 0500 N, S 0502-B, S 0502-B50G, S 0502-G, S 0502-G 1, S 0502-R, S 0502-R50B, S 0502-Y, S 0502-Y50R, S 0505-B, S 0505-B20G, S 0505-B50G, S 0505-B80G, S 0505-B80G 1, S 0505-G, S 0505-G10Y, S 0505-G20Y, S 0505-G20Y 1, S 0505-G30Y, S 0505-G90Y, S 0505-R, S 0505-R10B, S 0505-R20B, S 0505-R20B 1, S 0505-R30B, S 0505-R40B, S 0505-R50B, S 0505-R50B 1, S 0505-R60B, S 0505-R70B, S 0505-R80B, S 0505-R90B, S 0505-Y, S 0505-Y10R, S 0505-Y20R, S 0505-Y30R, S 0505-Y40R, S 0505-Y50R, S 0505-Y60R, S 0505-Y70R, S 0505-Y80R, S 0505-Y90R, S 0510-B, S 0510-B10G, S 0510-B30G, S 0510-B50G, S 0510-B70G, S 0510-G20Y, S 0510-G30Y, S 0510-G30Y 1, S 0510-G40Y, S 0510-G50Y, S 0510-G90Y, S 0510-R, S 0510-R10B, S 0510-R20B, S 0510-R30B, S 0510-R40B, S 0510-R50B, S 0510-R60B, S 0510-R70B, S 0510-R80B, S 0510-R90B, S 0510-Y, S 0510-Y10R, S 0510-Y20R, S 0510-Y30R, S 0510-Y40R, S 0510-Y50R, S 0510-Y60R, S 0510-Y70R, S 0510-Y80R, S 0510-Y90R, S 0520-B, S 0520-B10G, S 0520-B30G, S 0520-B50G, S 0520-B70G, S 0520-G80Y, S 0520-G90Y, S 0520-R, S 0520-R10B, S 0520-R20B, S 0520-R30B, S 0520-R40B, S 0520-R50B, S 0520-R60B, S 0520-R70B, S 0520-R80B, S 0520-R90B, S 0520-Y, S 0520-Y10R, S 0520-Y20R, S 0520-Y30R, S 0520-Y40R, S 0520-Y50R, S 0520-Y60R, S 0520-Y70R, S 0520-Y90R, S 0525-R60B, S 0530-B, S 0530-B10G, S 0530-B30G, S 0530-B50G, S 0530-B90G, S 0530-G80Y, S 0530-G90Y, S 0530-R, S 0530-R10B, S 0530-R20B, S 0530-R30B, S 0530-R40B, S 0530-R50B, S 0530-R70B, S 0530-R80B, S 0530-R90B, S 0530-Y, S 0530-Y10R, S 0530-Y20R, S 0530-Y30R, S 0530-Y40R, S 0530-Y50R, S 0530-Y60R, S 0530-Y70R, S 0530-Y80R, S 0530-Y90R, S 0540-B, S 0540-B10G, S 0540-B30G, S 0540-G80Y, S 0540-G90Y, S 0540-R, S 0540-R10B, S 0540-R20B, S 0540-R30B, S 0540-R90B, S 0540-Y, S 0540-Y10R, S 0540-Y20R, S 0540-Y30R, S 0540-Y40R, S 0540-Y50R, S 0540-Y60R, S 0540-Y70R, S 0540-Y80R, S 0540-Y90R, S 0550-G80Y, S 0550-G90Y, S 0550-R, S 0550-R10B, S 0550-Y, S 0550-Y10R, S 0550-Y20R, S 0550-Y30R, S 0550-Y40R, S 0550-Y50R, S 0550-Y60R, S 0550-Y70R, S 0550-Y80R, S 0550-Y90R, S 0560-G80Y, S 0560-G90Y, S 0560-R, S 0560-Y, S 0560-Y10R, S 0560-Y20R, S 0560-Y30R, S 0560-Y40R, S 0560-Y50R, S 0560-Y60R, S 0560-Y70R, S 0560-Y80R, S 0560-Y90R, S 0565-R, S 0570-G80Y, S 0570-G90Y, S 0570-Y, S 0570-Y10R, S 0570-Y20R, S 0570-Y30R, S 0570-Y40R, S 0570-Y50R, S 0570-Y60R, S 0570-Y70R, S 0570-Y80R, S 0570-Y90R, S 0575-G90Y, S 0580-Y, S 0580-Y10R, S 0580-Y20R, S 0580-Y30R, S 0580-Y40R, S 0580-Y50R, S 0580-Y60R, S 0580-Y70R, S 0580-Y80R, S 0580-Y90R, S 0585-Y30R, S 0585-Y40R, S 0585-Y50R, S 0585-Y60R, S 0585-Y70R, S 0585-Y80R, S 1000 N, S 1002-B, S 1002-R, S 1002-R50B, S 1005-B, S 1005-B20G, S 1005-B20G 1, S 1005-G90Y, S 1005-R, S 1005-R10B, S 1005-R20B, S 1005-R20B 1, S 1005-R30B, S 1005-R40B, S 1005-R50B, S 1005-R50B 1, S 1005-R60B, S 1005-R70B, S 1005-R80B, S 1005-R80B 1, S 1005-R90B, S 1005-Y20R, S 1005-Y20R 1, S 1005-Y30R, S 1005-Y40R, S 1005-Y50R, S 1005-Y50R 1, S 1005-Y60R, S 1005-Y70R, S 1005-Y80R, S 1005-Y80R 1, S 1005-Y90R, S 1010-B, S 1010-B10G, S 1010-B30G, S 1010-G90Y, S 1010-R, S 1010-R10B, S 1010-R20B, S 1010-R30B, S 1010-R40B, S 1010-R50B, S 1010-R60B, S 1010-R70B, S 1010-R80B, S 1010-R90B, S 1010-Y, S 1010-Y10R, S 1010-Y20R, S 1010-Y30R, S 1010-Y40R, S 1010-Y50R, S 1010-Y60R, S 1010-Y70R, S 1010-Y80R, S 1010-Y90R, S 1020-B, S 1020-B10G, S 1020-B30G, S 1020-B50G, S 1020-B70G, S 1020-B90G, S 1020-G, S 1020-G10Y, S 1020-G20Y, S 1020-R, S 1020-R10B, S 1020-R20B, S 1020-R30B, S 1020-R40B, S 1020-R50B, S 1020-R60B, S 1020-R70B, S 1020-R80B, S 1020-R90B, S 1020-Y, S 1020-Y10R, S 1020-Y20R, S 1020-Y30R, S 1020-Y40R, S 1020-Y50R, S 1020-Y60R, S 1020-Y70R, S 1020-Y80R, S 1020-Y90R, S 1030-B, S 1030-B10G, S 1030-B30G, S 1030-B50G, S 1030-B70G, S 1030-B90G, S 1030-R, S 1030-R10B, S 1030-R20B, S 1030-R30B, S 1030-R40B, S 1030-R50B, S 1030-R60B, S 1030-R70B, S 1030-R80B, S 1030-R90B, S 1030-Y, S 1030-Y10R, S 1030-Y20R, S 1030-Y30R, S 1030-Y40R, S 1030-Y50R, S 1030-Y60R, S 1030-Y70R, S 1030-Y80R, S 1030-Y90R, S 1040-B, S 1040-B10G, S 1040-B20G, S 1040-B30G, S 1040-B40G, S 1040-B50G, S 1040-B60G, S 1040-B70G, S 1040-B80G, S 1040-B90G, S 1040-R, S 1040-R10B, S 1040-R20B, S 1040-R30B, S 1040-R40B, S 1040-R50B, S 1040-R60B, S 1040-R70B, S 1040-R80B, S 1040-R90B, S 1040-Y, S 1040-Y10R, S 1040-Y20R, S 1040-Y30R, S 1040-Y40R, S 1040-Y50R, S 1040-Y60R, S 1040-Y70R, S 1040-Y80R, S 1040-Y90R, S 1050-B, S 1050-B10G, S 1050-B20G, S 1050-B30G, S 1050-B40G, S 1050-B50G, S 1050-B60G, S 1050-B70G, S 1050-B80G, S 1050-B90G, S 1050-G80Y, S 1050-G90Y, S 1050-R, S 1050-R10B, S 1050-R20B, S 1050-R30B, S 1050-R40B, S 1050-R90B, S 1050-Y, S 1050-Y10R, S 1050-Y20R, S 1050-Y30R, S 1050-Y40R, S 1050-Y50R, S 1050-Y60R, S 1050-Y70R, S 1050-Y80R, S 1050-Y90R, S 1055-B90G, S 1060-B, S 1060-B10G, S 1060-G80Y, S 1060-G90Y, S 1060-R, S 1060-R10B, S 1060-R20B, S 1060-R30B, S 1060-Y, S 1060-Y10R, S 1060-Y20R, S 1060-Y20R 1, S 1060-Y30R, S 1060-Y40R, S 1060-Y50R, S 1060-Y60R, S 1060-Y70R, S 1060-Y80R, S 1060-Y90R, S 1070-G80Y, S 1070-G90Y, S 1070-R, S 1070-R10B, S 1070-R20B, S 1070-Y, S 1070-Y10R, S 1070-Y20R, S 1070-Y30R, S 1070-Y40R, S 1070-Y50R, S 1070-Y60R, S 1070-Y70R, S 1070-Y80R, S 1070-Y90R, S 1075-G80Y, S 1075-G90Y, S 1080-R, S 1080-Y, S 1080-Y10R, S 1080-Y20R, S 1080-Y30R, S 1080-Y40R, S 1080-Y50R, S 1080-Y60R, S 1080-Y70R, S 1080-Y80R, S 1080-Y90R, S 1085-Y80R, S 1085-Y90R, S 1500 N, S 1502-B, S 1550-R70B, S 1550-R80B, S 1555-B10G, S 1555-R70B, S 1555-R80B, S 1560-R90B, S 1565-B, S 1575-R10B, S 1580-R, S 1580-Y80R, S 1580-Y90R, S 2000 N, S 2005-B, S 2005-B20G, S 2005-B50G, S 2005-B80G, S 2005-G, S 2005-G10Y, S 2005-G20Y, S 2005-G30Y, S 2005-G40Y, S 2005-G50Y, S 2005-G90Y, S 2005-R, S 2005-R10B, S 2005-R20B, S 2005-R20B 1, S 2005-R30B, S 2005-R40B, S 2005-R50B, S 2005-R50B 1, S 2005-R60B, S 2005-R70B, S 2005-R80B, S 2005-R80B 1, S 2005-R90B, S 2005-Y10R, S 2005-Y20R, S 2005-Y30R, S 2005-Y40R, S 2005-Y50R, S 2005-Y60R, S 2005-Y70R, S 2005-Y80R, S 2005-Y90R, S 2010-B, S 2010-B10G, S 2010-B30G, S 2010-B50G, S 2010-G30Y, S 2010-G40Y, S 2010-G50Y, S 2010-G90Y, S 2010-R, S 2010-R10B, S 2010-R20B, S 2010-R30B, S 2010-R40B, S 2010-R50B, S 2010-R60B, S 2010-R70B, S 2010-R80B, S 2010-R90B, S 2010-Y10R, S 2010-Y20R, S 2010-Y30R, S 2010-Y40R, S 2010-Y50R, S 2010-Y60R, S 2010-Y70R, S 2010-Y80R, S 2010-Y90R, S 2020-B, S 2020-B10G, S 2020-B30G, S 2020-B50G, S 2020-B70G, S 2020-B90G, S 2020-G50Y, S 2020-G90Y, S 2020-R, S 2020-R10B, S 2020-R20B, S 2020-R30B, S 2020-R40B, S 2020-R50B, S 2020-R60B, S 2020-R70B, S 2020-R80B, S 2020-R90B, S 2020-Y, S 2020-Y10R, S 2020-Y20R, S 2020-Y30R, S 2020-Y40R, S 2020-Y50R, S 2020-Y60R, S 2020-Y70R, S 2020-Y80R, S 2020-Y90R, S 2030-B, S 2030-B10G, S 2030-B30G, S 2030-B50G, S 2030-B70G, S 2030-B90G, S 2030-G, S 2030-G10Y, S 2030-G20Y, S 2030-G30Y, S 2030-G40Y, S 2030-G50Y, S 2030-G60Y, S 2030-G90Y, S 2030-R, S 2030-R10B, S 2030-R20B, S 2030-R30B, S 2030-R40B, S 2030-R50B, S 2030-R60B, S 2030-R70B, S 2030-R80B, S 2030-R90B, S 2030-Y, S 2030-Y10R, S 2030-Y20R, S 2030-Y30R, S 2030-Y40R, S 2030-Y50R, S 2030-Y60R, S 2030-Y70R, S 2030-Y80R, S 2030-Y90R, S 2040-B, S 2040-B10G, S 2040-B20G, S 2040-B30G, S 2040-B40G, S 2040-B50G, S 2040-B60G, S 2040-B70G, S 2040-B80G, S 2040-B90G, S 2040-G, S 2040-G10Y, S 2040-G20Y, S 2040-G30Y, S 2040-G40Y, S 2040-G50Y, S 2040-G60Y, S 2040-G70Y, S 2040-G80Y, S 2040-G90Y, S 2040-R, S 2040-R10B, S 2040-R20B, S 2040-R30B, S 2040-R40B, S 2040-R50B, S 2040-R60B, S 2040-R70B, S 2040-R80B, S 2040-R90B, S 2040-Y, S 2040-Y10R, S 2040-Y20R, S 2040-Y30R, S 2040-Y40R, S 2040-Y50R, S 2040-Y60R, S 2040-Y70R, S 2040-Y80R, S 2040-Y90R, S 2050-B, S 2050-B10G, S 2050-B20G, S 2050-B30G, S 2050-B40G, S 2050-B50G, S 2050-B60G, S 2050-B70G, S 2050-B80G, S 2050-B90G, S 2050-G, S 2050-G10Y, S 2050-G20Y, S 2050-G30Y, S 2050-G40Y, S 2050-G50Y, S 2050-G60Y, S 2050-G70Y, S 2050-G90Y, S 2050-R, S 2050-R10B, S 2050-R20B",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "pa_base",
+              "value": "Water Based (Emulsion)"
+            }
+          ],
+          "@id": "https://emiratespaints.com/product/ema-tex/#richSnippet"
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 32,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-813"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/product/ema-tex/",
+      "method": "post",
+      "fields": [
+        "attribute_pa_color",
+        "attribute_pa_size"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wp-content/uploads/2022/08/EMATEX-1.webp",
+    "https://emiratespaints.com/product/ema-tex/#",
+    "https://emiratespaints.com/product/emashield-top-coat-matt/",
+    "https://emiratespaints.com/product/gloss-emulsion/",
+    "https://emiratespaints.com/product/emaminitex/",
+    "https://emiratespaints.com/product/shield-ultra-silk/",
+    "https://emiratespaints.com/product/emashield-fine-silk/",
+    "https://emiratespaints.com/product/emasandtex/",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/product/ema-tex/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 1398,
+  "body_text_excerpt": "Search EMATEX WATER BASED Color Select a Color Size 3.6L 18L Add To Wishlist Ask about product PRODUCT DESCRIPTION Emirates EmaTex is an acrylic copolymer, heavy textured paint, designed to protect and hide minor substrate imperfections providing a decorative matt finish. RECOMMENDED USE This product is recommended for application on fibre cement boards, gypsum, concrete, masonry, plaster, and wooden surfaces. Used for interior and exterior applications. Key Information Finish Matt Spreading Rate 1.0 m2/ litre Dry Time Full Dry: 48 hours Application Roller Product Features Enhanced with advanc",
+  "page_height": 3753,
+  "page_width": 390,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementskit",
+    "elementskit-lite",
+    "ultimate-member",
+    "elementor-pro",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0397",
+  "url": "https://emiratespaints.com/product/ema-tex/",
+  "final_url": "https://emiratespaints.com/product/ema-tex/",
+  "viewport": "mobile",
+  "viewport_size": {
+    "width": 390,
+    "height": 844,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T20:27:58Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"600-1788380832;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.94cb741fc54748cde9c2cc104d7fb8fc,905_Po.4620,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 216,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

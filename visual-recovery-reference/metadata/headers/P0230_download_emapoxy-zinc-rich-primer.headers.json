@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0230",
+  "url": "https://emiratespaints.com/download/emapoxy-zinc-rich-primer/",
+  "captured_at": "2026-09-02T18:57:03Z",
+  "navigation_started_at": "2026-09-02T18:56:52Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:56:54 GMT",
+    "etag": "\"445-1788375414;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11581>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.c569afcbdb8e04879b26ab995cdae336,905_Po.11581,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"445-1788375414;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.c569afcbdb8e04879b26ab995cdae336,905_Po.11581,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "c74054b033a1c0c164ee5e3438fa78b5876fbbd0f3f0705a0ac34ef9f8addc05",
+  "response_body_bytes": 251656,
+  "response_body_file": "html/response/P0230_download_emapoxy-zinc-rich-primer.html"
+}

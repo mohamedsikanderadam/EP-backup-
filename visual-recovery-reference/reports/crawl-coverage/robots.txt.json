@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "text/plain",
+    "last-modified": "Wed, 06 May 2026 23:06:14 GMT",
+    "etag": "\"4a-69fbc966-52fa4ffa5ac881ca;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "74",
+    "date": "Wed, 02 Sep 2026 15:16:03 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "body": "User-agent: *\r\nAllow: /\r\n\r\nSitemap: https://emiratespaints.com/sitemap.xml"
+}

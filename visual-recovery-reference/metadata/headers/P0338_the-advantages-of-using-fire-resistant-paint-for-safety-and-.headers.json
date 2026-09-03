@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0338",
+  "url": "https://emiratespaints.com/the-advantages-of-using-fire-resistant-paint-for-safety-and-protection-a-guide-by-emirates-paints/",
+  "captured_at": "2026-09-02T19:49:41Z",
+  "navigation_started_at": "2026-09-02T19:49:31Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:49:33 GMT",
+    "etag": "\"543-1788378573;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10034>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10034>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.6f9d6ec969bac8f1baa1900c8cfcc00a,905_Po.10034,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"543-1788378573;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.6f9d6ec969bac8f1baa1900c8cfcc00a,905_Po.10034,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "144ed7b2e1999cee4b88e62981d59c0aa0ed9f944ed6f572a454f2390ba7dbf5",
+  "response_body_bytes": 279512,
+  "response_body_file": "html/response/P0338_the-advantages-of-using-fire-resistant-paint-for-safety-and-.html"
+}

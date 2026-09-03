@@ -1,0 +1,42 @@
+{
+  "ref_id": "P0334",
+  "url": "https://emiratespaints.com/product/wood-primer/",
+  "captured_at": "2026-09-02T19:46:00Z",
+  "navigation_started_at": "2026-09-02T19:45:49Z",
+  "status": 404,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "cache-control": "no-cache, must-revalidate, max-age=0, no-store, private",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:45:51 GMT",
+    "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=3600",
+    "x-litespeed-tag": "905_HTTP.404,905_404,905_URL.524fe56c1d49349cc2ffcc418b690fc1,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "cache-control": "no-cache, must-revalidate, max-age=0, no-store, private",
+    "expires": "Wed, 11 Jan 1984 05:00:00 GMT",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=3600",
+    "x-litespeed-tag": "905_HTTP.404,905_404,905_URL.524fe56c1d49349cc2ffcc418b690fc1,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "cb03587be3045ceec07289f7de97d25e7f49edffb62041c1a2190ac7b8423829",
+  "response_body_bytes": 253206,
+  "response_body_file": "html/response/P0334_product_wood-primer.html"
+}

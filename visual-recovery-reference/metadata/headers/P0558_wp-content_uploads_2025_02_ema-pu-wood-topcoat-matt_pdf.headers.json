@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0558",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-WOOD-TOPCOAT-MATT.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Thu, 06 Feb 2025 07:08:18 GMT",
+    "etag": "\"a26f3-67a45fe2-ccbe4d3ff49fb4d6;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "665331",
+    "date": "Wed, 02 Sep 2026 21:36:41 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Thu, 06 Feb 2025 07:08:18 GMT",
+    "etag": "\"a26f3-67a45fe2-ccbe4d3ff49fb4d6;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T21:36:43Z"
+}

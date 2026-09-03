@@ -1,0 +1,48 @@
+{
+  "recorded_at": "2026-09-02T22:43:36Z",
+  "tool": "vrr 1.0.0",
+  "browser_name": "chromium",
+  "browser_version": "151.0.7922.34",
+  "playwright_version": "1.62.0",
+  "python_version": "3.12.8",
+  "operating_environment": "Linux 5.15.200 (x86_64)",
+  "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "height": 900,
+      "device_scale_factor": 1
+    },
+    "tablet": {
+      "width": 768,
+      "height": 1024,
+      "device_scale_factor": 1
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "device_scale_factor": 1
+    }
+  },
+  "crawl_settings": {
+    "concurrency": 1,
+    "delay_seconds": 2.5,
+    "max_requests": 2500,
+    "max_retries": 2,
+    "retry_backoff_seconds": 15,
+    "stop_on_429": true,
+    "stop_after_consecutive_5xx": 3,
+    "page_timeout_ms": 60000,
+    "settle_wait_ms": 2500,
+    "scroll_step_px": 600,
+    "scroll_pause_ms": 250,
+    "max_pages_per_run": null
+  },
+  "headless": true,
+  "cache_bypass_headers_sent": false,
+  "cache_busting_query_params": false,
+  "authenticated": false,
+  "one_navigation_per_url": true,
+  "viewport_method": "single page load; tablet/mobile captured by in-page viewport resize (no reload)",
+  "config_file": "/home/ubuntu/repos/EP-backup-/capture.config.json"
+}

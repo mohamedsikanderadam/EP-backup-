@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0708",
+  "url": "https://emiratespaints.com/durable-and-stylish-floor-paint-from-emirates-paints/",
+  "captured_at": "2026-09-02T22:35:06Z",
+  "navigation_started_at": "2026-09-02T22:34:56Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:34:59 GMT",
+    "etag": "\"832-1788388499;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9681>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9681>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.9eab5a1780b255270550db2c9e776f0f,905_Po.9681,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"832-1788388499;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.9eab5a1780b255270550db2c9e776f0f,905_Po.9681,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "8a99f9ab8c275320cdd51bf3aead4be7e90072790d20afcf64b6830b57695022",
+  "response_body_bytes": 275577,
+  "response_body_file": "html/response/P0708_durable-and-stylish-floor-paint-from-emirates-paints.html"
+}

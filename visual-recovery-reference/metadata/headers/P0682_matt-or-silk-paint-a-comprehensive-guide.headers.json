@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0682",
+  "url": "https://emiratespaints.com/matt-or-silk-paint-a-comprehensive-guide/",
+  "captured_at": "2026-09-02T22:09:53Z",
+  "navigation_started_at": "2026-09-02T22:09:44Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:09:46 GMT",
+    "etag": "\"788-1788386986;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/8620>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=8620>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.514aac1df352afd55e186829fa8ce716,905_Po.8620,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"788-1788386986;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.514aac1df352afd55e186829fa8ce716,905_Po.8620,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "3af8222ee5ee5f41ad1a3392a09a7646f2aeabbc5e6cb9fd43c200c3bb2e4c23",
+  "response_body_bytes": 275519,
+  "response_body_file": "html/response/P0682_matt-or-silk-paint-a-comprehensive-guide.html"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0063",
+  "url": "https://emiratespaints.com/product/alkyd-enamel-eco-master-gloss/",
+  "captured_at": "2026-09-02T16:21:39Z",
+  "navigation_started_at": "2026-09-02T16:21:31Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 16:21:33 GMT",
+    "etag": "\"75-1788366093;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10363>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10363>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.5e0e263b2ca24ffdbd225e4c7d34252e,905_Po.10363,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"75-1788366093;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.5e0e263b2ca24ffdbd225e4c7d34252e,905_Po.10363,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "88484846f547ca46e6ca868d2f97076f80901898c476bb3abb3bcd26bfb8bd09",
+  "response_body_bytes": 260936,
+  "response_body_file": "html/response/P0063_product_alkyd-enamel-eco-master-gloss.html"
+}

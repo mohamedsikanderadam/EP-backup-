@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0542",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-EMALUX-PRIMER.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Fri, 07 Feb 2025 06:38:49 GMT",
+    "etag": "\"b67da-67a5aa79-e3f6f6bb4dfb9be;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "747482",
+    "date": "Wed, 02 Sep 2026 21:34:41 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Fri, 07 Feb 2025 06:38:49 GMT",
+    "etag": "\"b67da-67a5aa79-e3f6f6bb4dfb9be;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T21:34:42Z"
+}

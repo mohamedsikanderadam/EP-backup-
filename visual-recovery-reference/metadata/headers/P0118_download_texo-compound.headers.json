@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0118",
+  "url": "https://emiratespaints.com/download/texo-compound/",
+  "captured_at": "2026-09-02T17:18:06Z",
+  "navigation_started_at": "2026-09-02T17:17:54Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:17:56 GMT",
+    "etag": "\"223-1788369476;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9833>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.fec71bf04478e1cda645a9d93110c907,905_Po.9833,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"223-1788369476;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.fec71bf04478e1cda645a9d93110c907,905_Po.9833,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "342a22febd252949431d52ed58d64b5f79eff74bec930b1f65131af5bc1eca96",
+  "response_body_bytes": 251237,
+  "response_body_file": "html/response/P0118_download_texo-compound.html"
+}

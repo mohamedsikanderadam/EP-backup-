@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1070",
+  "url": "https://emiratespaints.com/products/?filter_product-type=exterior&post_type=product&s=primer",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_product-type=exterior&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/emashield-tex-primer/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/product/emashield-tex-primer/"
+}

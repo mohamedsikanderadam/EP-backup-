@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0217",
+  "url": "https://emiratespaints.com/download/ema-pu-wood-primer-21/",
+  "captured_at": "2026-09-02T18:45:44Z",
+  "navigation_started_at": "2026-09-02T18:45:33Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:45:35 GMT",
+    "etag": "\"422-1788374735;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11551>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.9a025dcc4f92f617814163d294048e23,905_Po.11551,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"422-1788374735;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.9a025dcc4f92f617814163d294048e23,905_Po.11551,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "3ed799999fbef9e7933a0b555b84985c8c6663d90932418321f2da6697253d4e",
+  "response_body_bytes": 251493,
+  "response_body_file": "html/response/P0217_download_ema-pu-wood-primer-21.html"
+}

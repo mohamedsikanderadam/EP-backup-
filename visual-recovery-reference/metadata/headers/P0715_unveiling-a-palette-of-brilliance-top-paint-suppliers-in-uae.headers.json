@@ -1,0 +1,37 @@
+{
+  "ref_id": "P0715",
+  "url": "https://emiratespaints.com/unveiling-a-palette-of-brilliance-top-paint-suppliers-in-uae-featuring-emirates-paints/",
+  "captured_at": "2026-09-02T22:43:45Z",
+  "navigation_started_at": "2026-09-02T22:43:36Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-length": "51375",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:43:37 GMT",
+    "etag": "\"848-1788388959;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9081>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9081>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"848-1788388959;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "1bd3d5de4385ac025357abae82be697fb9da41b06f2d70d8c712fb345f63fc8a",
+  "response_body_bytes": 277866,
+  "response_body_file": "html/response/P0715_unveiling-a-palette-of-brilliance-top-paint-suppliers-in-uae.html"
+}

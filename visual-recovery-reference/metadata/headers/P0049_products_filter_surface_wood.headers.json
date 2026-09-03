@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0049",
+  "url": "https://emiratespaints.com/products/?filter_surface=wood",
+  "captured_at": "2026-09-02T16:10:24Z",
+  "navigation_started_at": "2026-09-02T16:10:16Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 16:10:19 GMT",
+    "etag": "\"56-1788365419;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"56-1788365419;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "36581d3fdb66847548a38dd80aad96d9401d7637c5b45f56abc9888019d43f28",
+  "response_body_bytes": 248658,
+  "response_body_file": "html/response/P0049_products_filter_surface_wood.html"
+}

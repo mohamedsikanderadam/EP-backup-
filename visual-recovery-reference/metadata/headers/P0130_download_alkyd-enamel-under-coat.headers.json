@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0130",
+  "url": "https://emiratespaints.com/download/alkyd-enamel-under-coat/",
+  "captured_at": "2026-09-02T17:28:28Z",
+  "navigation_started_at": "2026-09-02T17:28:18Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:28:20 GMT",
+    "etag": "\"241-1788370100;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9856>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.523660fad8e24603c23d4f0b890a8326,905_Po.9856,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"241-1788370100;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.523660fad8e24603c23d4f0b890a8326,905_Po.9856,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "10ec1946d63e50e038d7c43e60914152b8ff24148f35e6a642a130c2e38803ed",
+  "response_body_bytes": 251681,
+  "response_body_file": "html/response/P0130_download_alkyd-enamel-under-coat.html"
+}

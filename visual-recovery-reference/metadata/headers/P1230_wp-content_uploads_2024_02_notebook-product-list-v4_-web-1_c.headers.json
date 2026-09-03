@@ -1,0 +1,26 @@
+{
+  "ref_id": "P1230",
+  "url": "https://emiratespaints.com/wp-content/uploads/2024/02/Notebook-Product-List-V4.-web-1_compressed-1.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Tue, 20 Feb 2024 07:51:28 GMT",
+    "etag": "\"61502-65d45a00-cd1d93d8e1ddd4fd;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "398594",
+    "date": "Thu, 03 Sep 2026 00:29:32 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Tue, 20 Feb 2024 07:51:28 GMT",
+    "etag": "\"61502-65d45a00-cd1d93d8e1ddd4fd;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-03T00:29:33Z"
+}

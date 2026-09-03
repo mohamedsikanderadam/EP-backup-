@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0139",
+  "url": "https://emiratespaints.com/download/nc-wood-stain/",
+  "captured_at": "2026-09-02T17:36:15Z",
+  "navigation_started_at": "2026-09-02T17:36:04Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:36:07 GMT",
+    "etag": "\"260-1788370567;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9879>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.477ec8139d24674c86159a2f66aedbc2,905_Po.9879,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"260-1788370567;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.477ec8139d24674c86159a2f66aedbc2,905_Po.9879,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "406579f94c6e62da1a7df49a1aa571a8d8ac12b703822ccc17f5941f767eccaa",
+  "response_body_bytes": 251239,
+  "response_body_file": "html/response/P0139_download_nc-wood-stain.html"
+}

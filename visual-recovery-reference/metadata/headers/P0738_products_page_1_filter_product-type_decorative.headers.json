@@ -1,0 +1,45 @@
+{
+  "ref_id": "P0738",
+  "url": "https://emiratespaints.com/products/?filter_product-type=decorative",
+  "captured_at": "2026-09-02T22:54:15Z",
+  "navigation_started_at": "2026-09-02T22:54:06Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:54:09 GMT",
+    "etag": "\"869-1788389649;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_product-type=decorative",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_product-type=decorative"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"869-1788389649;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "ace47b7f239009e94bbc84d86dd2303beec468eb0f709d74a3209a49a4610e83",
+  "response_body_bytes": 282098,
+  "response_body_file": "html/response/P0738_products_page_1_filter_product-type_decorative.html"
+}

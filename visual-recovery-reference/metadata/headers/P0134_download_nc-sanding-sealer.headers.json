@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0134",
+  "url": "https://emiratespaints.com/download/nc-sanding-sealer/",
+  "captured_at": "2026-09-02T17:31:57Z",
+  "navigation_started_at": "2026-09-02T17:31:46Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:31:48 GMT",
+    "etag": "\"251-1788370308;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9864>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.fe5cec190d45a31cbbe3a3ea3ba9fa74,905_Po.9864,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"251-1788370308;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.fe5cec190d45a31cbbe3a3ea3ba9fa74,905_Po.9864,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "fc342980f30c6e102738197b5e25d5de2e4df3564c985c7288ff5c9de733daac",
+  "response_body_bytes": 251415,
+  "response_body_file": "html/response/P0134_download_nc-sanding-sealer.html"
+}

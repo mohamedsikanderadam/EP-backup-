@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0655",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-SF-TOPCOAT-PIGMENTED.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Thu, 06 Feb 2025 10:41:38 GMT",
+    "etag": "\"b256e-67a491e2-1ac41d76efe969d;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "730478",
+    "date": "Wed, 02 Sep 2026 22:01:23 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Thu, 06 Feb 2025 10:41:38 GMT",
+    "etag": "\"b256e-67a491e2-1ac41d76efe969d;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T22:01:24Z"
+}

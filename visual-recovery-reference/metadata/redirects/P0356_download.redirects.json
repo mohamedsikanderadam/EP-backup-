@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0356",
+  "url": "https://emiratespaints.com/download/",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/download/",
+      "status": 301,
+      "location": "https://emiratespaints.com"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/"
+}

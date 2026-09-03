@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0328",
+  "url": "https://emiratespaints.com/product/emapoxy-zinc-phosphate-primer/",
+  "captured_at": "2026-09-02T19:40:38Z",
+  "navigation_started_at": "2026-09-02T19:40:26Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:40:29 GMT",
+    "etag": "\"527-1788378029;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10531>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10531>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.a824a5817013b68a25f80be609effc8a,905_Po.10531,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"527-1788378029;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.a824a5817013b68a25f80be609effc8a,905_Po.10531,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "5f53abc064200bbfba649c6a150679cff4e36c52a8794992ce73ba62dfc033c4",
+  "response_body_bytes": 260933,
+  "response_body_file": "html/response/P0328_product_emapoxy-zinc-phosphate-primer.html"
+}

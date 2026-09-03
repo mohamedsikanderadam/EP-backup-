@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0340",
+  "url": "https://emiratespaints.com/understanding-water-based-paint-a-smarter-choice-for-your-home/",
+  "captured_at": "2026-09-02T19:51:51Z",
+  "navigation_started_at": "2026-09-02T19:51:41Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:51:44 GMT",
+    "etag": "\"547-1788378704;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10109>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10109>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.0fd0c27007e94160dcbf156f368b7c28,905_Po.10109,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"547-1788378704;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.0fd0c27007e94160dcbf156f368b7c28,905_Po.10109,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "4320b3ec9e21378730b8b81f875d6b880c37a859ca07a8f31388adaa096309a5",
+  "response_body_bytes": 277138,
+  "response_body_file": "html/response/P0340_understanding-water-based-paint-a-smarter-choice-for-your-ho.html"
+}

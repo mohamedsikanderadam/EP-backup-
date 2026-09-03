@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0345",
+  "url": "https://emiratespaints.com/waterproof-paints-for-exterior-walls-protect-your-property-in-the-uae/",
+  "captured_at": "2026-09-02T19:57:37Z",
+  "navigation_started_at": "2026-09-02T19:57:26Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:57:28 GMT",
+    "etag": "\"558-1788379048;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10103>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10103>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.d92cf5b5858a203803d2e3cf9ecb71b5,905_Po.10103,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"558-1788379048;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.d92cf5b5858a203803d2e3cf9ecb71b5,905_Po.10103,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "24ebbadf08e9f94e08ca25826771823e25870d4b70d5acca6c47dbda8055557c",
+  "response_body_bytes": 279013,
+  "response_body_file": "html/response/P0345_waterproof-paints-for-exterior-walls-protect-your-property-i.html"
+}

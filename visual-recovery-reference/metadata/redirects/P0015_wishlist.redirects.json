@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0015",
+  "url": "https://emiratespaints.com/wishlist",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/wishlist",
+      "status": 301,
+      "location": "https://emiratespaints.com/wishlist/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/wishlist/"
+}

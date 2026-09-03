@@ -1,0 +1,12 @@
+{
+  "ref_id": "P1041",
+  "url": "https://emiratespaints.com/products/page/1/?filter_finish=matt",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_finish=matt",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_finish=matt"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?filter_finish=matt"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0432",
+  "url": "https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen",
+  "captured_at": "2026-09-02T20:52:46Z",
+  "navigation_started_at": "2026-09-02T20:52:38Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:52:40 GMT",
+    "etag": "\"643-1788382360;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"643-1788382360;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "5c1ce0ac42a7e7704a3e0dc0980dca50f250f9e9e68aca640e30d21ecc7c0aff",
+  "response_body_bytes": 250843,
+  "response_body_file": "html/response/P0432_products_filter_location_ceiling_2ckitchen.html"
+}

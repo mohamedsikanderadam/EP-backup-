@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0569",
+  "url": "https://emiratespaints.com/the-importance-of-undercoat-paint-for-a-perfect-finish-a-guide-by-emirates-paints/",
+  "captured_at": "2026-09-02T21:43:43Z",
+  "navigation_started_at": "2026-09-02T21:43:33Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 21:43:35 GMT",
+    "etag": "\"737-1788385415;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/10031>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10031>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.83da0ca4ff97d1224c0a57807fca61d5,905_Po.10031,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"737-1788385415;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.83da0ca4ff97d1224c0a57807fca61d5,905_Po.10031,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "090009b635eebbc7fb962033c609116c77be872d8fed0b2234d332e886151479",
+  "response_body_bytes": 278647,
+  "response_body_file": "html/response/P0569_the-importance-of-undercoat-paint-for-a-perfect-finish-a-gui.html"
+}

@@ -1,0 +1,45 @@
+{
+  "ref_id": "P1058",
+  "url": "https://emiratespaints.com/product/emapoxy-primer/",
+  "captured_at": "2026-09-02T23:13:37Z",
+  "navigation_started_at": "2026-09-02T23:13:28Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 23:13:31 GMT",
+    "etag": "\"909-1788390811;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10545>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10545>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.a684156eb533880b97f103df67c3f237,905_Po.10545,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_finish=viscous-10-12-poise&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/emapoxy-primer/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"909-1788390811;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.a684156eb533880b97f103df67c3f237,905_Po.10545,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "71f850d20cc2aafaf681b32bd9bec1e4b30a8a727ce10bffd40b9e40997b9663",
+  "response_body_bytes": 260049,
+  "response_body_file": "html/response/P1058_products_filter_finish_viscous-10-12-poise_post_type_product.html"
+}

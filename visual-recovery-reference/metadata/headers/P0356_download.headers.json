@@ -1,0 +1,42 @@
+{
+  "ref_id": "P0356",
+  "url": "https://emiratespaints.com/",
+  "captured_at": "2026-09-02T20:08:29Z",
+  "navigation_started_at": "2026-09-02T20:08:20Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-length": "59462",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:08:23 GMT",
+    "etag": "\"54-1788365387;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/pages/7478>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/download/",
+      "status": 301,
+      "location": "https://emiratespaints.com"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"54-1788365387;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "ae2ddbb9d12469b6908a9bea8b2e339ade08f9032f52159b6a3d01d96d1ea4eb",
+  "response_body_bytes": 329620,
+  "response_body_file": "html/response/P0356_download.html"
+}

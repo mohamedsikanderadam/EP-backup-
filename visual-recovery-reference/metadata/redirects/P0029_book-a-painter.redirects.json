@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0029",
+  "url": "https://emiratespaints.com/book-a-painter",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/book-a-painter",
+      "status": 301,
+      "location": "https://emiratespaints.com/book-a-painter/"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/book-a-painter/"
+}

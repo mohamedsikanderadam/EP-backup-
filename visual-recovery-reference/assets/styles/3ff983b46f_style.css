@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'Dubai';
+    src: url('../fonts/Dubai-Bold.eot');
+    src: url('../fonts/Dubai-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Dubai-Bold.woff2') format('woff2'),
+        url('../fonts/Dubai-Bold.woff') format('woff'),
+        url('../fonts/Dubai-Bold.svg#Dubai-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dubai';
+    src: url('../fonts/Dubai-Light.eot');
+    src: url('../fonts/Dubai-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Dubai-Light.woff2') format('woff2'),
+        url('../fonts/Dubai-Light.woff') format('woff'),
+        url('../fonts/Dubai-Light.svg#Dubai-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dubai';
+    src: url('../fonts/Dubai-Medium.eot');
+    src: url('../fonts/Dubai-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Dubai-Medium.woff2') format('woff2'),
+        url('../fonts/Dubai-Medium.woff') format('woff'),
+        url('../fonts/Dubai-Medium.svg#Dubai-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dubai';
+    src: url('../fonts/Dubai-Regular.eot');
+    src: url('../fonts/Dubai-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Dubai-Regular.woff2') format('woff2'),
+        url('../fonts/Dubai-Regular.woff') format('woff'),
+        url('../fonts/Dubai-Regular.svg#Dubai-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('../fonts/Cairo-Regular.eot');
+    src: url('../fonts/Cairo-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cairo-Regular.woff2') format('woff2'),
+        url('../fonts/Cairo-Regular.woff') format('woff'),
+        url('../fonts/Cairo-Regular.svg#Cairo-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('../fonts/Cairo-Black.eot');
+    src: url('../fonts/Cairo-Black.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cairo-Black.woff2') format('woff2'),
+        url('../fonts/Cairo-Black.woff') format('woff'),
+        url('../fonts/Cairo-Black.svg#Cairo-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('../fonts/Cairo-ExtraLight.eot');
+    src: url('../fonts/Cairo-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cairo-ExtraLight.woff2') format('woff2'),
+        url('../fonts/Cairo-ExtraLight.woff') format('woff'),
+        url('../fonts/Cairo-ExtraLight.svg#Cairo-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('../fonts/Cairo-Bold.eot');
+    src: url('../fonts/Cairo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cairo-Bold.woff2') format('woff2'),
+        url('../fonts/Cairo-Bold.woff') format('woff'),
+        url('../fonts/Cairo-Bold.svg#Cairo-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('../fonts/Cairo-SemiBold.eot');
+    src: url('../fonts/Cairo-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cairo-SemiBold.woff2') format('woff2'),
+        url('../fonts/Cairo-SemiBold.woff') format('woff'),
+        url('../fonts/Cairo-SemiBold.svg#Cairo-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cairo';
+    src: url('../fonts/Cairo-Light.eot');
+    src: url('../fonts/Cairo-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cairo-Light.woff2') format('woff2'),
+        url('../fonts/Cairo-Light.woff') format('woff'),
+        url('../fonts/Cairo-Light.svg#Cairo-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+[data-eng-ff="Raleway"]:lang(ar){
+    font-family: 'Cairo' !important;
+    letter-spacing: 0 !important;
+}
+[data-eng-ff="Jost"]:lang(ar),
+[data-eng-ff="Metropolis"]:lang(ar),
+[data-eng-ff="arial"]:lang(ar),
+[data-eng-ff="Metrophobic, sans-serif"]:lang(ar),
+[data-eng-ff="Raleway, sans-serif"]:lang(ar){
+    font-family: 'Dubai' !important;
+    letter-spacing: 0 !important;
+}

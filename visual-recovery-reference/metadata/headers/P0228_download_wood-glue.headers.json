@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0228",
+  "url": "https://emiratespaints.com/download/wood-glue/",
+  "captured_at": "2026-09-02T18:55:18Z",
+  "navigation_started_at": "2026-09-02T18:55:07Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:55:09 GMT",
+    "etag": "\"443-1788375309;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11577>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.22a0101408b0327a7c58ef325bf0180b,905_Po.11577,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"443-1788375309;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.22a0101408b0327a7c58ef325bf0180b,905_Po.11577,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "0a6b2cc4b1afbc9dc7c6d9097d8dcc8b600cfde6419869fb1606820af5a26611",
+  "response_body_bytes": 250992,
+  "response_body_file": "html/response/P0228_download_wood-glue.html"
+}

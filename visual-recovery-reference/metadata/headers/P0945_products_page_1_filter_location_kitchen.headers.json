@@ -1,0 +1,45 @@
+{
+  "ref_id": "P0945",
+  "url": "https://emiratespaints.com/products/?filter_location=kitchen",
+  "captured_at": "2026-09-02T22:58:34Z",
+  "navigation_started_at": "2026-09-02T22:58:22Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:58:26 GMT",
+    "etag": "\"885-1788389906;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_location=kitchen",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_location=kitchen"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"885-1788389906;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "39cdfb84bced39ca6147ebdd4be250c972b91e839001b1b3d5bcba043b4f6957",
+  "response_body_bytes": 283842,
+  "response_body_file": "html/response/P0945_products_page_1_filter_location_kitchen.html"
+}

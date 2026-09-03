@@ -1,0 +1,37 @@
+{
+  "ref_id": "P0366",
+  "url": "https://emiratespaints.com/product/chroma-nc-topcoat-gloss/",
+  "captured_at": "2026-09-02T20:17:17Z",
+  "navigation_started_at": "2026-09-02T20:17:08Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-length": "47349",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:17:09 GMT",
+    "etag": "\"429-1788374919;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10579>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10579>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"429-1788374919;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "3e1d0dd1c66006fb7298f4ac2850e96c931751479d091a932d783b485a46339b",
+  "response_body_bytes": 260219,
+  "response_body_file": "html/response/P0366_product_chroma-nc-topcoat-gloss.html"
+}

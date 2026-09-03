@@ -1,0 +1,45 @@
+{
+  "ref_id": "P1057",
+  "url": "https://emiratespaints.com/product/chroma-2k-thinner/",
+  "captured_at": "2026-09-02T23:12:45Z",
+  "navigation_started_at": "2026-09-02T23:12:33Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 23:12:36 GMT",
+    "etag": "\"908-1788390756;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10613>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10613>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.1c3eb4071ab7788befb12d16a23e21a1,905_Po.10613,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/products/?filter_finish=transparent-clear&post_type=product&s=primer",
+      "status": 302,
+      "location": "https://emiratespaints.com/product/chroma-2k-thinner/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"908-1788390756;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.1c3eb4071ab7788befb12d16a23e21a1,905_Po.10613,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "6f4a48ccf593a8978b79ee5595ca1e4815f9aea0abd6b58d2db90df4d73fac3b",
+  "response_body_bytes": 260532,
+  "response_body_file": "html/response/P1057_products_filter_finish_transparent-clear_post_type_product_s.html"
+}

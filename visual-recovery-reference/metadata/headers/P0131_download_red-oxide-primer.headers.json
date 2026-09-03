@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0131",
+  "url": "https://emiratespaints.com/download/red-oxide-primer/",
+  "captured_at": "2026-09-02T17:29:18Z",
+  "navigation_started_at": "2026-09-02T17:29:10Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:29:12 GMT",
+    "etag": "\"243-1788370152;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9858>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.c1c7f7c2771358bd1a854f51ada4a405,905_Po.9858,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"243-1788370152;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.c1c7f7c2771358bd1a854f51ada4a405,905_Po.9858,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "227eb5280785115ce0980896082264009c0a210f61bb9f58f8c0399bca555337",
+  "response_body_bytes": 251371,
+  "response_body_file": "html/response/P0131_download_red-oxide-primer.html"
+}

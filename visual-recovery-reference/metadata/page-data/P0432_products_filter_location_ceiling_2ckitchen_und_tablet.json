@@ -1,0 +1,275 @@
+{
+  "title": "Products - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/products/",
+  "meta_description": "Welcome to Emirates Paints. \"Premium Paint Products in UAE\". Emirates Paints is a paint manufacturer and supplier in MENA region.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Products - Emirates Paints",
+    "og:description": "Welcome to Emirates Paints. \"Premium Paint Products in UAE\". Emirates Paints is a paint manufacturer and supplier in MENA region.",
+    "og:url": "https://emiratespaints.com/products/",
+    "og:site_name": "Emirates Paints",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:width": "250",
+    "og:image:height": "250",
+    "og:image:type": "image/png"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "LocalBusiness",
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/products/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/products/",
+                "name": "Products"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://emiratespaints.com/products/#webpage",
+          "url": "https://emiratespaints.com/products/",
+          "name": "Products - Emirates Paints",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/products/#breadcrumb"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "name": "Home",
+            "@id": "https://emiratespaints.com"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "name": "Products",
+            "@id": "https://emiratespaints.com/products/"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 20,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-651"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen",
+      "method": "get",
+      "fields": [
+        "orderby",
+        "paged",
+        "filter_location"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/products/?filter_location=kitchen",
+    "https://emiratespaints.com/products/?filter_location=ceiling",
+    "https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen#",
+    "https://emiratespaints.com/products/?filter_location=bathroom,ceiling,kitchen",
+    "https://emiratespaints.com/products/?filter_location=bedroom,ceiling,kitchen",
+    "https://emiratespaints.com/products/?filter_location=ceiling,childrens-room,kitchen",
+    "https://emiratespaints.com/products/?filter_location=ceiling,dining-room,kitchen",
+    "https://emiratespaints.com/products/?filter_location=ceiling,kitchen,living-room",
+    "https://emiratespaints.com/products/?filter_location=ceiling,kitchen,moving-out",
+    "https://emiratespaints.com/products/?filter_location=ceiling,kitchen,office",
+    "https://emiratespaints.com/product/polydex/",
+    "https://emiratespaints.com/product/pva-primer/",
+    "https://emiratespaints.com/product-category/women/",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 363,
+  "body_text_excerpt": "Search COLORS PRODUCTS INSPIRATION VISUALIZER FIND A STORE BOOK A PAINTER ABOUT Active filters: Ceiling Kitchen Location Bathroom Bedroom Ceiling Children's room Dining room Kitchen Living room Moving out Office POLYDEX View Product PVA PRIMER View Product Tiktok Icon-snapchat-1 Icon-pinterest © 2024 Emirates Paints. All Rights Reserved. BACK TO TOP",
+  "page_height": 1109,
+  "page_width": 768,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementskit",
+    "elementskit-lite",
+    "ultimate-member",
+    "elementor-pro",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0432",
+  "url": "https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen",
+  "final_url": "https://emiratespaints.com/products/?filter_location=ceiling%2Ckitchen",
+  "viewport": "tablet",
+  "viewport_size": {
+    "width": 768,
+    "height": 1024,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T20:53:06Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"643-1788382360;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_WC_S,905_archive,905_URL.6ef8b21dd3631eb105992a2608751d92,905_PT.product,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 194,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

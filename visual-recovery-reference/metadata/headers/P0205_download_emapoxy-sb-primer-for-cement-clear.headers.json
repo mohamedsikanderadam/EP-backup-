@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0205",
+  "url": "https://emiratespaints.com/download/emapoxy-sb-primer-for-cement-clear/",
+  "captured_at": "2026-09-02T18:35:14Z",
+  "navigation_started_at": "2026-09-02T18:35:04Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:35:07 GMT",
+    "etag": "\"398-1788374107;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11507>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.fe5e9fd70d3cb313702cb281fac4a9a2,905_Po.11507,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"398-1788374107;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.fe5e9fd70d3cb313702cb281fac4a9a2,905_Po.11507,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "f5d09aa49d3cec5d97d975d38ca7f77bfc059c6d93217a54703b0265af401d56",
+  "response_body_bytes": 252100,
+  "response_body_file": "html/response/P0205_download_emapoxy-sb-primer-for-cement-clear.html"
+}

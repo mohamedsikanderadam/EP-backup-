@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0324",
+  "url": "https://emiratespaints.com/product/emapoxy-sf-topcoat-pigmented/",
+  "captured_at": "2026-09-02T19:37:05Z",
+  "navigation_started_at": "2026-09-02T19:36:53Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:36:55 GMT",
+    "etag": "\"519-1788377815;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10554>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10554>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.e7489ec06c427f6c80546dfc6c80ff98,905_Po.10554,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"519-1788377815;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.e7489ec06c427f6c80546dfc6c80ff98,905_Po.10554,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "dd9a0d3289b9e0e3f4654a679f465193e334d7a6b2e127aadaa901c891bf55cd",
+  "response_body_bytes": 260660,
+  "response_body_file": "html/response/P0324_product_emapoxy-sf-topcoat-pigmented.html"
+}

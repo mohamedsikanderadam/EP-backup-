@@ -1,0 +1,302 @@
+{
+  "title": "EMAPOXY RED OXIDE PRIMER - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/",
+  "meta_description": "Emirates Emapoxy Red Oxide Primer is a two-component polyamide-cured epoxy resin-based primer.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "product",
+    "og:title": "EMAPOXY RED OXIDE PRIMER - Emirates Paints",
+    "og:description": "Emirates Emapoxy Red Oxide Primer is a two-component polyamide-cured epoxy resin-based primer.",
+    "og:url": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/",
+    "og:site_name": "Emirates Paints",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-RED-OXIDE-PRIMER-1024x1024.webp",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-RED-OXIDE-PRIMER-1024x1024.webp",
+    "og:image:width": "1024",
+    "og:image:height": "1024",
+    "og:image:alt": "EMAPOXY RED OXIDE PRIMER",
+    "og:image:type": "image/webp"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-RED-OXIDE-PRIMER.webp",
+          "url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-RED-OXIDE-PRIMER.webp",
+          "width": "2276",
+          "height": "2276",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/",
+                "name": "EMAPOXY RED OXIDE PRIMER"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ItemPage",
+          "@id": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/#webpage",
+          "url": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/",
+          "name": "EMAPOXY RED OXIDE PRIMER - Emirates Paints",
+          "datePublished": "2025-08-07T09:37:33+00:00",
+          "dateModified": "2025-08-07T09:37:33+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-RED-OXIDE-PRIMER.webp"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "EMAPOXY RED OXIDE PRIMER - Emirates Paints",
+          "description": "Emirates Emapoxy Red Oxide Primer is a two-component polyamide-cured epoxy resin-based primer.",
+          "category": "Decorative",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/#webpage"
+          },
+          "image": [
+            {
+              "@type": "ImageObject",
+              "url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-RED-OXIDE-PRIMER.webp",
+              "height": "2276",
+              "width": "2276"
+            }
+          ],
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "pa_base",
+              "value": "Solvent Base-Enamel"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_finish",
+              "value": "Matt"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_surface",
+              "value": "Metal"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_size",
+              "value": "0.9L, 3.6L, 18L"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "pa_product-type",
+              "value": "Industrial, Decorative"
+            }
+          ],
+          "@id": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/#richSnippet"
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 34,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-722"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wp-content/uploads/2025/02/EMAPOXY-RED-OXIDE-PRIMER.webp",
+    "https://emiratespaints.com/wp-content/uploads/2025/02/88.V2EMAPOXY-RED-OXIDE-PRIMER.pdf",
+    "https://emiratespaints.com/product/paint-remover/",
+    "https://emiratespaints.com/product/emapoxy-red-oxide-primer/#",
+    "https://emiratespaints.com/product/ema-pu-primer/",
+    "https://emiratespaints.com/product/emapoxy-sf-clear/",
+    "https://emiratespaints.com/product/emapoxy-universal-primer/",
+    "https://emiratespaints.com/product/rust-remover-2/",
+    "https://emiratespaints.com/product/emapoxy-topcoat/",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/product/emapoxy-red-oxide-primer/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 1131,
+  "body_text_excerpt": "Search COLORS PRODUCTS INSPIRATION VISUALIZER FIND A STORE BOOK A PAINTER ABOUT EMAPOXY RED OXIDE PRIMER Solvent Based Ask about product PRODUCT DESCRIPTION Emirates Emapoxy Red Oxide Primer is a two-component polyamide-cured epoxy resin-based primer. RECOMMENDED USE This industrial product is recommended for application as a primer for moderate corrosive environments, steel structures and equipment. Key Information Finish Matt Spreading Rate 8.6 - 13 m² / litre Dry Time Full dry: 24 hours Application Brush, Spray Download TDS Product Features Enhanced with anti-corrosive properties Excellent ",
+  "page_height": 2566,
+  "page_width": 768,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementskit",
+    "elementskit-lite",
+    "ultimate-member",
+    "elementor-pro",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0255",
+  "url": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/",
+  "final_url": "https://emiratespaints.com/product/emapoxy-red-oxide-primer/",
+  "viewport": "tablet",
+  "viewport_size": {
+    "width": 768,
+    "height": 1024,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T19:20:16Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"483-1788376784;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.23868d7f47ffe17004a13781ec6321ed,905_Po.10542,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 212,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

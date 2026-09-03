@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0667",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/PAINT-REMOVER.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Fri, 07 Feb 2025 08:53:45 GMT",
+    "etag": "\"9fc62-67a5ca19-ee69b948a51ae0d9;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "654434",
+    "date": "Wed, 02 Sep 2026 22:01:50 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Fri, 07 Feb 2025 08:53:45 GMT",
+    "etag": "\"9fc62-67a5ca19-ee69b948a51ae0d9;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T22:01:51Z"
+}

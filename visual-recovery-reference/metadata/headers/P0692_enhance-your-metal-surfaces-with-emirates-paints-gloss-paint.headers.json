@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0692",
+  "url": "https://emiratespaints.com/enhance-your-metal-surfaces-with-emirates-paints-gloss-paint-for-metal/",
+  "captured_at": "2026-09-02T22:19:51Z",
+  "navigation_started_at": "2026-09-02T22:19:42Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 22:19:44 GMT",
+    "etag": "\"802-1788387584;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/8649>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=8649>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.09d6167211c1f0f2f4a90be93df09990,905_Po.8649,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"802-1788387584;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.09d6167211c1f0f2f4a90be93df09990,905_Po.8649,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "b53ef89f6156f6bd9b3fa9866d171f0d7cccb7f48f5d91a74be130c9f85b102d",
+  "response_body_bytes": 277077,
+  "response_body_file": "html/response/P0692_enhance-your-metal-surfaces-with-emirates-paints-gloss-paint.html"
+}

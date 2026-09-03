@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0528",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-CLEAR-MATT.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Fri, 07 Feb 2025 06:27:08 GMT",
+    "etag": "\"b4ac8-67a5a7bc-16e01ef0442ec8c6;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "740040",
+    "date": "Wed, 02 Sep 2026 21:33:16 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Fri, 07 Feb 2025 06:27:08 GMT",
+    "etag": "\"b4ac8-67a5a7bc-16e01ef0442ec8c6;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T21:33:18Z"
+}

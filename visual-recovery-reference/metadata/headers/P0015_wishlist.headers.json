@@ -1,0 +1,42 @@
+{
+  "ref_id": "P0015",
+  "url": "https://emiratespaints.com/wishlist/",
+  "captured_at": "2026-09-02T15:40:37Z",
+  "navigation_started_at": "2026-09-02T15:40:13Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "content-encoding": "br",
+    "content-length": "42759",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 15:40:14 GMT",
+    "etag": "\"486-1788348952;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/pages/2741>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=2741>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [
+    {
+      "url": "https://emiratespaints.com/wishlist",
+      "status": 301,
+      "location": "https://emiratespaints.com/wishlist/"
+    }
+  ],
+  "cache_headers": {
+    "etag": "\"486-1788348952;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "hit",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "hit",
+  "response_body_sha256": "58a911bfcb9668983274625ff66c2c51c0a02380a58a2917e9d0282948a65a77",
+  "response_body_bytes": 244437,
+  "response_body_file": "html/response/P0015_wishlist.html"
+}

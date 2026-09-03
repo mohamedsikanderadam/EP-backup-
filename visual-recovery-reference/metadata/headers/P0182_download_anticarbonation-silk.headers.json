@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0182",
+  "url": "https://emiratespaints.com/download/anticarbonation-silk/",
+  "captured_at": "2026-09-02T18:15:12Z",
+  "navigation_started_at": "2026-09-02T18:15:02Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:15:04 GMT",
+    "etag": "\"352-1788372904;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11421>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.4d303db3bc40a5882857d2eec66c049a,905_Po.11421,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"352-1788372904;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.4d303db3bc40a5882857d2eec66c049a,905_Po.11421,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "9711177eeb2cda892f01de43c50cd73572f8c0c399b08c59a0ce43e5047ea7b3",
+  "response_body_bytes": 251476,
+  "response_body_file": "html/response/P0182_download_anticarbonation-silk.html"
+}

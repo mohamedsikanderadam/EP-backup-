@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0805",
+  "url": "https://emiratespaints.com/products/page/1/?filter_location=bathroom",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_location=bathroom",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_location=bathroom"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?filter_location=bathroom"
+}

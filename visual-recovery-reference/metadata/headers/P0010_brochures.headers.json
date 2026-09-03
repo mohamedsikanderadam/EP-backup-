@@ -1,0 +1,29 @@
+{
+  "ref_id": "P0010",
+  "url": "https://emiratespaints.com/brochures/",
+  "captured_at": "2026-09-02T15:37:15Z",
+  "navigation_started_at": "2026-09-02T15:37:10Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-length": "0",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 15:37:11 GMT",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": null,
+  "response_body_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "response_body_bytes": 0,
+  "response_body_file": "html/response/P0010_brochures.html"
+}

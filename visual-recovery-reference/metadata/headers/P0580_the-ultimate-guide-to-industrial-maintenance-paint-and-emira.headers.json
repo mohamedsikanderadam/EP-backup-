@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0580",
+  "url": "https://emiratespaints.com/the-ultimate-guide-to-industrial-maintenance-paint-and-emirates-paints/",
+  "captured_at": "2026-09-02T21:55:00Z",
+  "navigation_started_at": "2026-09-02T21:54:50Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 21:54:52 GMT",
+    "etag": "\"759-1788386092;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/8796>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=8796>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.d0979dc42826850e5e22fbc26afa34ea,905_Po.8796,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"759-1788386092;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.d0979dc42826850e5e22fbc26afa34ea,905_Po.8796,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "2e0cf14fc93cf6dfcb3ffc201292afeecfeb31902fa70dd3620fde9b3b8ad348",
+  "response_body_bytes": 278804,
+  "response_body_file": "html/response/P0580_the-ultimate-guide-to-industrial-maintenance-paint-and-emira.html"
+}

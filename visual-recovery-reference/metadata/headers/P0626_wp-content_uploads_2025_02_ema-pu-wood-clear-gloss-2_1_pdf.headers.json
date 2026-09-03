@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0626",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/EMA-PU-WOOD-CLEAR-GLOSS-2_1.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Thu, 06 Feb 2025 07:32:06 GMT",
+    "etag": "\"b69ec-67a46576-de61588178c6fe80;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "748012",
+    "date": "Wed, 02 Sep 2026 22:00:56 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Thu, 06 Feb 2025 07:32:06 GMT",
+    "etag": "\"b69ec-67a46576-de61588178c6fe80;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T22:00:58Z"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0154",
+  "url": "https://emiratespaints.com/download/emapoxy-red-oxide-primer/",
+  "captured_at": "2026-09-02T17:50:56Z",
+  "navigation_started_at": "2026-09-02T17:50:44Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 17:50:46 GMT",
+    "etag": "\"295-1788371446;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=9913>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.1fab04961a31cfd7aa62510881cae545,905_Po.9913,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"295-1788371446;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.1fab04961a31cfd7aa62510881cae545,905_Po.9913,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "b616d021a6c20df6bf8d0f771beb8030fb55967334cf3192e6abbe13c734353c",
+  "response_body_bytes": 251725,
+  "response_body_file": "html/response/P0154_download_emapoxy-red-oxide-primer.html"
+}

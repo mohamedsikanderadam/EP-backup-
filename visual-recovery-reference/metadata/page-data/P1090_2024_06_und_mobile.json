@@ -1,0 +1,245 @@
+{
+  "title": "June 2024 - Emirates Paints",
+  "lang": "en-US",
+  "canonical": null,
+  "meta_description": null,
+  "robots": "follow, noindex",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "June 2024 - Emirates Paints",
+    "og:url": "https://emiratespaints.com/2024/06/",
+    "og:site_name": "Emirates Paints",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+    "og:image:width": "250",
+    "og:image:height": "250",
+    "og:image:type": "image/png"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "LocalBusiness",
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/2024/06/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/2024/",
+                "name": "Archives for"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://emiratespaints.com/2024/06/",
+                "name": "Archives for"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "CollectionPage",
+          "@id": "https://emiratespaints.com/2024/06/#webpage",
+          "url": "https://emiratespaints.com/2024/06/",
+          "name": "June 2024 - Emirates Paints",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/2024/06/#breadcrumb"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 22,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-482"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/2024/",
+    "https://emiratespaints.com/the-power-of-anti-fungal-paint/",
+    "https://emiratespaints.com/why-anti-microbial-paint-is-essential-for-healthier-spaces-a-guide-by-emirates-paints/",
+    "https://emiratespaints.com/the-advantages-of-using-fire-resistant-paint-for-safety-and-protection-a-guide-by-emirates-paints/",
+    "https://emiratespaints.com/unlocking-the-power-of-lacquer-thinner/",
+    "https://emiratespaints.com/elevate-your-projects-with-high-performance-coatings-by-emirates-paints/",
+    "https://emiratespaints.com/exterior-paint-from-emirates-paints-will-completely-change-the-look-of-your-home/",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/2024/06/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 774,
+  "body_text_excerpt": "Search The Power of Anti-Fungal Paint: Enhancing Protection and Aesthetics June 28, 2024 Why Anti-Microbial Paint is Essential for Healthier Spaces: A Guide by Emirates Paints June 26, 2024 The Advantages of Using Fire-Resistant Paint for Safety and Protection: A Guide by Emirates Paints June 24, 2024 Unlocking the Power of Lacquer Thinner June 21, 2024 Elevate Your Projects with High Performance Coatings by Emirates Paints June 14, 2024 Exterior paint from Emirates Paints will completely change the look of your home. June 7, 2024 Tiktok Icon-snapchat-1 Icon-pinterest Contact Call Us +971 4 25",
+  "page_height": 3156,
+  "page_width": 390,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementskit",
+    "elementskit-lite",
+    "ultimate-member",
+    "elementor-pro",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P1090",
+  "url": "https://emiratespaints.com/2024/06/",
+  "final_url": "https://emiratespaints.com/2024/06/",
+  "viewport": "mobile",
+  "viewport_size": {
+    "width": 390,
+    "height": 844,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T23:39:50Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"949-1788392345;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_month,905_URL.b7306637d4bb541ab931ffe182134998,905_D.202406,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 196,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}

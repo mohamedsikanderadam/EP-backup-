@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0277",
+  "url": "https://emiratespaints.com/product/ema-pu-wood-clear-gloss-21/",
+  "captured_at": "2026-09-02T19:24:05Z",
+  "navigation_started_at": "2026-09-02T19:23:53Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:23:56 GMT",
+    "etag": "\"490-1788377036;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/product/10512>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=10512>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.e9d90fdbf4397f24ffc57f0e6c49697c,905_Po.10512,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"490-1788377036;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_product,905_URL.e9d90fdbf4397f24ffc57f0e6c49697c,905_Po.10512,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "f41d4d048c1a4c1aa105361b1badc535c81cf5c72dd692e15f8a8ec3f1c1ed45",
+  "response_body_bytes": 250913,
+  "response_body_file": "html/response/P0277_product_ema-pu-wood-clear-gloss-21.html"
+}

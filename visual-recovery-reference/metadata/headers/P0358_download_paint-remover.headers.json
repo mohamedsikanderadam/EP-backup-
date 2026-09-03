@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0358",
+  "url": "https://emiratespaints.com/download/paint-remover/",
+  "captured_at": "2026-09-02T20:10:24Z",
+  "navigation_started_at": "2026-09-02T20:10:14Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 20:10:17 GMT",
+    "etag": "\"577-1788379817;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11641>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.53560a58815b0e2f956ecc93f6090928,905_Po.11641,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"577-1788379817;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.53560a58815b0e2f956ecc93f6090928,905_Po.11641,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "bbc41b140e4a6120c6e01f0f298128f304d28a0eee7c39b419cf9d5f41a76897",
+  "response_body_bytes": 251181,
+  "response_body_file": "html/response/P0358_download_paint-remover.html"
+}

@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0181",
+  "url": "https://emiratespaints.com/download/majestic-antifungal-matt/",
+  "captured_at": "2026-09-02T18:14:20Z",
+  "navigation_started_at": "2026-09-02T18:14:10Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 18:14:12 GMT",
+    "etag": "\"350-1788372852;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11415>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.7f7c934ae1811908b6f03eaf90142174,905_Po.11415,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"350-1788372852;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.7f7c934ae1811908b6f03eaf90142174,905_Po.11415,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "5356e9cbf271e3f1f64a4c0a9d27bc1b3af0a1971282ee89531149208384032b",
+  "response_body_bytes": 251654,
+  "response_body_file": "html/response/P0181_download_majestic-antifungal-matt.html"
+}

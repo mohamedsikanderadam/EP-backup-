@@ -1,0 +1,40 @@
+{
+  "ref_id": "P1077",
+  "url": "https://emiratespaints.com/ultimate-guide-to-washable-paint-emirates-paints/",
+  "captured_at": "2026-09-02T23:28:28Z",
+  "navigation_started_at": "2026-09-02T23:28:19Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 23:28:21 GMT",
+    "etag": "\"926-1788391701;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/wp-json/wp/v2/posts/9479>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"\n<https://emiratespaints.com/?p=9479>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.7fcff49967cd702c5c830d25120feb16,905_Po.9479,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"926-1788391701;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.7fcff49967cd702c5c830d25120feb16,905_Po.9479,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "778e4d9e070472350ac55b556475af2e7366d34b83b5909f5644704b845acb2c",
+  "response_body_bytes": 275696,
+  "response_body_file": "html/response/P1077_ultimate-guide-to-washable-paint-emirates-paints.html"
+}

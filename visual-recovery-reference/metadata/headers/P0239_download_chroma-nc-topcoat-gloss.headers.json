@@ -1,0 +1,40 @@
+{
+  "ref_id": "P0239",
+  "url": "https://emiratespaints.com/download/chroma-nc-topcoat-gloss/",
+  "captured_at": "2026-09-02T19:04:55Z",
+  "navigation_started_at": "2026-09-02T19:04:44Z",
+  "status": 200,
+  "status_text": "",
+  "headers": {
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000",
+    "content-encoding": "br",
+    "content-security-policy": "upgrade-insecure-requests",
+    "content-type": "text/html; charset=UTF-8",
+    "date": "Wed, 02 Sep 2026 19:04:46 GMT",
+    "etag": "\"461-1788375886;br\"",
+    "link": "<https://emiratespaints.com/wp-json/>; rel=\"https://api.w.org/\"\n<https://emiratespaints.com/?p=11609>; rel=shortlink",
+    "panel": "hpanel",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.01cef528444207db41883c0d8434bb98,905_Po.11609,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "redirect_chain": [],
+  "cache_headers": {
+    "etag": "\"461-1788375886;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_wpdmpro,905_URL.01cef528444207db41883c0d8434bb98,905_Po.11609,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "x_litespeed_cache": "miss",
+  "response_body_sha256": "b734d3c848a632a0599cba904be101450e197a1f404ea2340c735bbaf807c27f",
+  "response_body_bytes": 250594,
+  "response_body_file": "html/response/P0239_download_chroma-nc-topcoat-gloss.html"
+}

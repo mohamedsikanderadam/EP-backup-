@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0906",
+  "url": "https://emiratespaints.com/products/page/1/?filter_location=childrens-room",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_location=childrens-room",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_location=childrens-room"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?filter_location=childrens-room"
+}

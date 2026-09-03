@@ -1,0 +1,12 @@
+{
+  "ref_id": "P0737",
+  "url": "https://emiratespaints.com/products/page/1/?filter_product-type=automotive",
+  "chain": [
+    {
+      "url": "https://emiratespaints.com/products/page/1/?filter_product-type=automotive",
+      "status": 301,
+      "location": "https://emiratespaints.com/products/?filter_product-type=automotive"
+    }
+  ],
+  "final_url": "https://emiratespaints.com/products/?filter_product-type=automotive"
+}

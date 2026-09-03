@@ -1,0 +1,26 @@
+{
+  "ref_id": "P0530",
+  "url": "https://emiratespaints.com/wp-content/uploads/2025/02/CHROMA-2K-HARDENER.pdf",
+  "status": 200,
+  "headers": {
+    "connection": "close",
+    "content-type": "application/pdf",
+    "last-modified": "Fri, 07 Feb 2025 06:30:37 GMT",
+    "etag": "\"97aa5-67a5a88d-d959caf7881e7879;;;\"",
+    "accept-ranges": "bytes",
+    "content-length": "621221",
+    "date": "Wed, 02 Sep 2026 21:33:21 GMT",
+    "server": "LiteSpeed",
+    "platform": "hostinger",
+    "panel": "hpanel",
+    "content-security-policy": "upgrade-insecure-requests",
+    "alt-svc": "h3=\":443\"; ma=2592000, h3-29=\":443\"; ma=2592000"
+  },
+  "cache_headers": {
+    "last-modified": "Fri, 07 Feb 2025 06:30:37 GMT",
+    "etag": "\"97aa5-67a5a88d-d959caf7881e7879;;;\"",
+    "server": "LiteSpeed",
+    "platform": "hostinger"
+  },
+  "captured_at": "2026-09-02T21:33:22Z"
+}

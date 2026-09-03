@@ -1,0 +1,312 @@
+{
+  "title": "Paint Removers: A Guide for UAE Homeowners - Emirates Paints",
+  "lang": "en-US",
+  "canonical": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/",
+  "meta_description": "What Is Paint Remover? Paint remover is a paint intended to remove coatings, paints, and other finishes. It is also used to clean primary surfaces.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "generator": "WordPress 7.0.4",
+  "open_graph": {
+    "og:locale": "en_US",
+    "og:type": "article",
+    "og:title": "Paint Removers: A Guide for UAE Homeowners - Emirates Paints",
+    "og:description": "What Is Paint Remover? Paint remover is a paint intended to remove coatings, paints, and other finishes. It is also used to clean primary surfaces.",
+    "og:url": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/",
+    "og:site_name": "Emirates Paints",
+    "og:updated_time": "2024-09-30T06:11:57+00:00",
+    "og:image": "https://emiratespaints.com/wp-content/uploads/2024/09/istockphoto-1303034969-612x612-1.jpg",
+    "og:image:secure_url": "https://emiratespaints.com/wp-content/uploads/2024/09/istockphoto-1303034969-612x612-1.jpg",
+    "og:image:width": "612",
+    "og:image:height": "433",
+    "og:image:alt": "paint Removers",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter_card": "summary_large_image",
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": [
+            "LocalBusiness",
+            "Organization"
+          ],
+          "@id": "https://emiratespaints.com/#organization",
+          "name": "Emirates Paints",
+          "url": "https://emiratespaints.com",
+          "sameAs": [
+            "https://www.facebook.com/emiratespaints.mena",
+            "https://www.instagram.com/emiratespaints.mena/"
+          ],
+          "logo": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/#logo",
+            "url": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "contentUrl": "https://emiratespaints.com/wp-content/uploads/2022/04/eagle-logo.png",
+            "caption": "Emirates Paints",
+            "inLanguage": "en-US",
+            "width": "250",
+            "height": "250"
+          },
+          "openingHours": [
+            "Mo,Tu,We,Th,Fr,Sa,Su 09:00-17:00"
+          ],
+          "image": {
+            "@id": "https://emiratespaints.com/#logo"
+          }
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://emiratespaints.com/#website",
+          "url": "https://emiratespaints.com",
+          "name": "Emirates Paints",
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://emiratespaints.com/wp-content/uploads/2024/09/istockphoto-1303034969-612x612-1.jpg",
+          "url": "https://emiratespaints.com/wp-content/uploads/2024/09/istockphoto-1303034969-612x612-1.jpg",
+          "width": "612",
+          "height": "433",
+          "caption": "paint Removers",
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://emiratespaints.com",
+                "name": "Home"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/",
+                "name": "Paint Removers: A Guide for UAE Homeowners"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#webpage",
+          "url": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/",
+          "name": "Paint Removers: A Guide for UAE Homeowners - Emirates Paints",
+          "datePublished": "2024-09-25T06:07:58+00:00",
+          "dateModified": "2024-09-30T06:11:57+00:00",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2024/09/istockphoto-1303034969-612x612-1.jpg"
+          },
+          "inLanguage": "en-US",
+          "breadcrumb": {
+            "@id": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://emiratespaints.com/author/mansoor/",
+          "name": "Sakib Ahmed",
+          "url": "https://emiratespaints.com/author/mansoor/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "url": "https://emiratespaints.com/wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg",
+            "caption": "Sakib Ahmed",
+            "inLanguage": "en-US"
+          },
+          "sameAs": [
+            "https://emiratespaints.com"
+          ],
+          "worksFor": {
+            "@id": "https://emiratespaints.com/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Paint Removers: A Guide for UAE Homeowners - Emirates Paints",
+          "keywords": "Paint Removers",
+          "datePublished": "2024-09-25T06:07:58+00:00",
+          "dateModified": "2024-09-30T06:11:57+00:00",
+          "author": {
+            "@id": "https://emiratespaints.com/author/mansoor/",
+            "name": "Sakib Ahmed"
+          },
+          "publisher": {
+            "@id": "https://emiratespaints.com/#organization"
+          },
+          "description": "What Is Paint Remover? Paint remover is a paint intended to remove coatings, paints, and other finishes. It is also used to clean primary surfaces.",
+          "name": "Paint Removers: A Guide for UAE Homeowners - Emirates Paints",
+          "@id": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#richSnippet",
+          "isPartOf": {
+            "@id": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#webpage"
+          },
+          "image": {
+            "@id": "https://emiratespaints.com/wp-content/uploads/2024/09/istockphoto-1303034969-612x612-1.jpg"
+          },
+          "inLanguage": "en-US",
+          "mainEntityOfPage": {
+            "@id": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "hreflang": [],
+  "image_count": 23,
+  "broken_images": [],
+  "iframes": [],
+  "videos": [],
+  "forms": [
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s",
+        "post_type",
+        "searchsubmit-427"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/wp-login.php",
+      "method": "post",
+      "fields": [
+        "log",
+        "pwd",
+        "rememberme",
+        "wp-submit",
+        "redirect_to"
+      ]
+    },
+    {
+      "action": "https://emiratespaints.com/",
+      "method": "get",
+      "fields": [
+        "s"
+      ]
+    }
+  ],
+  "internal_links": [
+    "https://emiratespaints.com/",
+    "https://emiratespaints.com/product-category/red/",
+    "https://emiratespaints.com/products/",
+    "https://emiratespaints.com/inspirations/",
+    "https://emiratespaints.com/find-a-store/",
+    "https://emiratespaints.com/book-a-painter/",
+    "https://emiratespaints.com/about-emirates-paints/",
+    "https://emiratespaints.com/technical-data-sheets/",
+    "https://emiratespaints.com/brochures/",
+    "https://emiratespaints.com/contact/",
+    "https://emiratespaints.com/privacy-policy-2/",
+    "https://emiratespaints.com/terms-and-conditions/",
+    "https://emiratespaints.com/my-account/",
+    "https://emiratespaints.com/wishlist",
+    "https://www.emiratespaints.com/my-account/",
+    "https://emiratespaints.com/2024/09/25/",
+    "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#respond",
+    "https://emiratespaints.com/how-to-apply-primer-to-a-wall-with-emirates-paints-a-step-by-step-tutorial/",
+    "https://emiratespaints.com/emirates-paints-quality-industrial-paint-manufacturers/",
+    "https://emiratespaints.com/bedroom-wall-painting-a-guide-for-uae-homeowners/",
+    "https://emiratespaints.com/green-paint-sustainable-living-with-emirates-paints/",
+    "https://emiratespaints.com/the-advantages-of-using-fire-resistant-paint-for-safety-and-protection-a-guide-by-emirates-paints/",
+    "https://emiratespaints.com/guide-to-painting-holidays-with-emirates-paints/",
+    "https://emiratespaints.com/blog",
+    "https://emiratespaints.com/home",
+    "https://emiratespaints.com/about-us",
+    "https://emiratespaints.com/contact",
+    "https://emiratespaints.com/privacy-policy/",
+    "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/#livechat",
+    "https://emiratespaints.com/emirates-paints-blog/",
+    "https://emiratespaints.com/book-a-painter",
+    "https://emiratespaints.com/company-profile"
+  ],
+  "external_links": [
+    "https://visualizer.emiratespaints.com/",
+    "https://www.instagram.com/emirates.paints/",
+    "https://www.facebook.com/emiratespaints.mena",
+    "https://www.linkedin.com/company/emirates-paints/",
+    "https://www.tiktok.com/@emiratespaints",
+    "https://www.snapchat.com/add/emiratespaints?",
+    "https://www.pinterest.com/emiratespaints",
+    "https://www.google.com/maps/dir/?api=1&destination=EMIRATES%20PAINTS%2C%209th%20S%20Umm%20Ramool%2C%20Dubai",
+    "https://api.whatsapp.com/send?phone=971501146116"
+  ],
+  "body_text_length": 6137,
+  "body_text_excerpt": "Search PAINT REMOVERS: A GUIDE FOR UAE HOMEOWNERS September 25, 2024 No Comments What Is Paint Remover? Paint remover is a paint intended to remove coatings, paints, and other finishes. It is also used to clean primary surfaces. It works by breaking down the bond between the paint and the material it’s applied to, allowing the old paint to be easily scraped or wiped off. Paint removers are commonly used on a variety of surfaces, including: Wood Metal Concrete Plaster Depending on the type of paint remover, the product may be formulated for water-based paints, oil-based paints, or both. Types o",
+  "page_height": 8402,
+  "page_width": 390,
+  "has_horizontal_overflow": false,
+  "visible_error_text": false,
+  "wp_theme": [
+    "yobazar",
+    "yobazar",
+    "yobazar",
+    "yobazar-child",
+    "yobazar-child",
+    "yobazar",
+    "yobazar"
+  ],
+  "wp_plugins": [
+    "agile-store-locator",
+    "contact-form-7",
+    "download-manager",
+    "essential-grid",
+    "themesky",
+    "woocommerce",
+    "unlimited-elementor-inner-sections-by-boomdevs",
+    "woo-variation-swatches",
+    "3d-flipbook-dflip-lite",
+    "elementor",
+    "elementor-pro",
+    "elementskit-lite",
+    "elementskit",
+    "ultimate-member",
+    "revslider",
+    "elfsight-whatsapp-chat-cc"
+  ],
+  "ref_id": "P0341",
+  "url": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/",
+  "final_url": "https://emiratespaints.com/paint-removers-a-guide-for-uae-homeowners/",
+  "viewport": "mobile",
+  "viewport_size": {
+    "width": 390,
+    "height": 844,
+    "device_scale_factor": 1
+  },
+  "captured_at": "2026-09-02T19:53:52Z",
+  "http_status": 200,
+  "cache_headers": {
+    "etag": "\"548-1788378770;br\"",
+    "platform": "hostinger",
+    "server": "LiteSpeed",
+    "vary": "Accept-Encoding",
+    "x-litespeed-cache": "miss",
+    "x-litespeed-cache-control": "public,max-age=604800",
+    "x-litespeed-tag": "905_post,905_URL.4c847293f1e686c77842f77656061f81,905_Po.10106,905_",
+    "x-powered-by": "PHP/7.4.33"
+  },
+  "single_navigation": true,
+  "first_party_responses": 220,
+  "third_party_hosts": [
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "elfsight.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "pbs.twimg.com",
+    "s.w.org",
+    "www.google-analytics.com",
+    "www.googletagmanager.com"
+  ],
+  "failed_subresources": []
+}
